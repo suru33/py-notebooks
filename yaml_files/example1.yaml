@@ -1,0 +1,12 @@
+env:
+  - name: INCLUDE_TEST_PIPELINES
+    value: FALSE
+  - name: AIRFLOW_KUBE_NAMESPACE
+    valueFrom:
+      fieldRef:
+        fieldPath: metadata.namespace
+  - name: SQL_ALCHEMY_CONN
+    valueFrom:
+      secretKeyRef:
+        name: airflow-secrets
+        key: sql_alchemy_conn

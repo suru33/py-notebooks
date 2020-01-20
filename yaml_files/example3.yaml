@@ -1,0 +1,10 @@
+env:
+    - DIR: /hello/txt
+    - USER: surendra
+    - PASSWORD: JKjsd90@lskjnf
+credentials: >
+    {
+        "key1": "value1"
+        "key2": "value2"
+    }
+temp_key: standard_key
