@@ -1,0 +1,6 @@
+{
+  "user": "surendra",
+  "pwd": "surendra",
+  "host": "localhost:5432",
+  "db": "club_data"
+}
