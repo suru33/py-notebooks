@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dehong Mangshi, China (LUM)",
+        "2": "airport",
+        "3": "LUM",
+        "4": "LUM",
+        "5": "Luxi",
+        "6": 98.5322222,
+        "7": 24.4013889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Cagayan de Oro Laguindingan International, Philippines (CGY)",
+        "2": "airport",
+        "3": "CGY",
+        "4": "CGY",
+        "5": "Cagayan de Oro",
+        "6": 124.456944,
+        "7": 8.6125,
+        "10": "Asia/Manila"
+      }
+    ]
+  }
+}

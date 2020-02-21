@@ -1,0 +1,146 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Cordoba A.L.V. Taravella, Argentina (COR)",
+        "2": "airport",
+        "3": "COR",
+        "4": "COR",
+        "5": "Cordoba",
+        "6": -64.208333,
+        "7": -31.31,
+        "10": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "1": "Corpus Christi International, TX (CRP)",
+        "2": "airport",
+        "3": "CRP",
+        "4": "CRP",
+        "5": "Corpus Christi",
+        "6": -97.501111,
+        "7": 27.7702778,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Cork International, Ireland (ORK)",
+        "2": "airport",
+        "3": "ORK",
+        "4": "ORK",
+        "5": "Cork",
+        "6": -8.4911111,
+        "7": 51.8413889,
+        "10": "Europe/Dublin"
+      },
+      {
+        "1": "Corvera International, Spain (RMU)",
+        "2": "airport",
+        "3": "RMU",
+        "4": "RMU",
+        "5": "Corvera",
+        "6": -1.1272222,
+        "7": 37.8038889,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Cordova Merle K (Mudhole)Smith, AK (CDV)",
+        "2": "airport",
+        "3": "CDV",
+        "4": "CDV",
+        "5": "Cordova",
+        "6": -145.4775,
+        "7": 60.4916667,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Corrientes, Argentina (CNQ)",
+        "2": "airport",
+        "3": "CNQ",
+        "4": "CNQ",
+        "5": "Corrientes",
+        "6": -58.761944,
+        "7": -27.445556,
+        "10": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "1": "Corumba International, Brazil (CMG)",
+        "2": "airport",
+        "3": "CMG",
+        "4": "CMG",
+        "5": "Corumba",
+        "6": -57.673056,
+        "7": -19.011944,
+        "10": "America/Cuiaba"
+      },
+      {
+        "1": "Corvo Island, Portugal (CVU)",
+        "2": "airport",
+        "3": "CVU",
+        "4": "CVU",
+        "5": "Corvo Island",
+        "6": -31.113611,
+        "7": 39.6713889,
+        "10": "Atlantic/Azores"
+      },
+      {
+        "1": "Cortez Municipal, CO (CEZ)",
+        "2": "airport",
+        "3": "CEZ",
+        "4": "CEZ",
+        "5": "Cortez",
+        "6": -108.62861,
+        "7": 37.3030556,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Coral Harbour, NU, Canada (YZS)",
+        "2": "airport",
+        "3": "YZS",
+        "4": "YZS",
+        "5": "Coral Harbour",
+        "6": -83.359444,
+        "7": 64.1933333,
+        "10": "America/Rankin_Inlet"
+      },
+      {
+        "1": "Corozal, Belize (CZH)",
+        "2": "airport",
+        "3": "CZH",
+        "4": "CZH",
+        "5": "Corozal",
+        "6": -88.410833,
+        "7": 18.3825,
+        "10": "America/Belize"
+      },
+      {
+        "1": "Corozal Las Brujas, Colombia (CZU)",
+        "2": "airport",
+        "3": "CZU",
+        "4": "CZU",
+        "5": "Corozal",
+        "6": -75.285556,
+        "7": 9.33277778,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Cordoba Central Railway Station, Spain (XOJ)",
+        "2": "rail",
+        "3": "XOJ",
+        "4": "ODB",
+        "5": "Cordoba",
+        "6": -4.7894444,
+        "7": 37.8883333,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Barranquilla Ernesto Cortissoz International, Colombia (BAQ)",
+        "2": "airport",
+        "3": "BAQ",
+        "4": "BAQ",
+        "5": "Barranquilla",
+        "6": -74.780833,
+        "7": 10.8897222,
+        "10": "America/Bogota"
+      }
+    ]
+  }
+}

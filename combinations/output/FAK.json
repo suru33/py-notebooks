@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Fakarava, French Polynesia (FAV)",
+        "2": "airport",
+        "3": "FAV",
+        "4": "FAV",
+        "5": "Fakarava",
+        "6": -145.65694,
+        "7": -16.054167,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Fak Fak Torea, Indonesia (FKQ)",
+        "2": "airport",
+        "3": "FKQ",
+        "4": "FKQ",
+        "5": "Fak Fak",
+        "6": 132.266944,
+        "7": -2.9202778,
+        "10": "Asia/Jayapura"
+      },
+      {
+        "1": "Fakahina, French Polynesia (FHZ)",
+        "2": "airport",
+        "3": "FHZ",
+        "4": "FHZ",
+        "5": "Fakahina",
+        "6": -140.16472,
+        "7": -15.992222,
+        "10": "Pacific/Tahiti"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Pittsburgh International, PA (PIT)",
+        "2": "airport",
+        "3": "PIT",
+        "4": "PIT",
+        "5": "Pittsburgh",
+        "6": -80.232778,
+        "7": 40.4913889,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Pituffik Thule Air Base, Greenland (THU)",
+        "2": "airport",
+        "3": "THU",
+        "4": "THU",
+        "5": "Pituffik",
+        "6": -68.75,
+        "7": 76.5333333,
+        "10": "America/Thule"
+      },
+      {
+        "1": "Pitt-Greenville, NC (PGV)",
+        "2": "airport",
+        "3": "PGV",
+        "4": "PGV",
+        "5": "Greenville",
+        "6": -77.384167,
+        "7": 35.6358333,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Pitalito, Colombia (PTX)",
+        "2": "airport",
+        "3": "PTX",
+        "4": "PTX",
+        "5": "Pitalito",
+        "6": -76.086944,
+        "7": 1.85694444,
+        "10": "America/Bogota"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Saarbruecken Airport, Germany (SCN)",
+        "2": "airport",
+        "3": "SCN",
+        "4": "SCN",
+        "5": "Saarbrucken",
+        "6": 7.11055556,
+        "7": 49.2147222,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Saattut Heliport, Greenland (SAE)",
+        "2": "helipad",
+        "3": "SAE",
+        "4": "SAE",
+        "5": "Saattut",
+        "6": -51.626667,
+        "7": 70.8086111,
+        "10": "America/Godthab"
+      },
+      {
+        "1": "Linkoping City Airport, Sweden (LPI)",
+        "2": "airport",
+        "3": "LPI",
+        "4": "LPI",
+        "5": "Linkoping",
+        "6": 15.5255556,
+        "7": 58.4022222,
+        "10": "Europe/Stockholm"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "McGrath, AK (MCG)",
+        "2": "airport",
+        "3": "MCG",
+        "4": "MCG",
+        "5": "McGrath",
+        "6": -155.60556,
+        "7": 62.9536111,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "San Jose, Philippines (SJI)",
+        "2": "airport",
+        "3": "SJI",
+        "4": "SJI",
+        "5": "San Jose",
+        "6": 121.046667,
+        "7": 12.3613889,
+        "10": "Asia/Manila"
+      }
+    ]
+  }
+}

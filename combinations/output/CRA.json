@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Craiova, Romania (CRA)",
+        "2": "airport",
+        "3": "CRA",
+        "4": "CRA",
+        "5": "Craiova",
+        "6": 23.8886111,
+        "7": 44.3180556,
+        "10": "Europe/Bucharest"
+      },
+      {
+        "1": "Craig Cove, Vanuatu (CCV)",
+        "2": "airport",
+        "3": "CCV",
+        "4": "CCV",
+        "5": "Craig Cove",
+        "6": 167.924167,
+        "7": -16.264444,
+        "10": "Pacific/Efate"
+      },
+      {
+        "1": "Cranbrook Canadian Rockies International, BC, Canada (YXC)",
+        "2": "airport",
+        "3": "YXC",
+        "4": "YXC",
+        "5": "Cranbrook",
+        "6": -115.78222,
+        "7": 49.6108333,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "Craig Sea Plane Base, AK (CGA)",
+        "2": "airport",
+        "3": "CGA",
+        "4": "CGA",
+        "5": "Craig",
+        "6": -133.15,
+        "7": 55.4833333,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "New Bern Coastal Carolina Regional, NC (EWN)",
+        "2": "airport",
+        "3": "EWN",
+        "4": "EWN",
+        "5": "New Bern",
+        "6": -77.043056,
+        "7": 35.0730556,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Skagway, AK (SGY)",
+        "2": "airport",
+        "3": "SGY",
+        "4": "SGY",
+        "5": "Skagway",
+        "6": -135.31639,
+        "7": 59.4605556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Skardu, Pakistan (KDU)",
+        "2": "airport",
+        "3": "KDU",
+        "4": "KDU",
+        "5": "Skardu",
+        "6": 75.5463889,
+        "7": 35.3330556,
+        "10": "Asia/Karachi"
+      },
+      {
+        "1": "Stockholm Skavsta, Sweden (NYO)",
+        "2": "airport",
+        "3": "NYO",
+        "4": "STO",
+        "5": "Stockholm",
+        "6": 16.9122222,
+        "7": 58.7886111,
+        "10": "Europe/Stockholm"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "State College University Park, PA (SCE)",
+        "2": "airport",
+        "3": "SCE",
+        "4": "SCE",
+        "5": "State College",
+        "6": -77.847222,
+        "7": 40.8505556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Stavanger Sola, Norway (SVG)",
+        "2": "airport",
+        "3": "SVG",
+        "4": "SVG",
+        "5": "Stavanger",
+        "6": 5.63777778,
+        "7": 58.8766667,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "St Anthony, NL, Canada (YAY)",
+        "2": "airport",
+        "3": "YAY",
+        "4": "YAY",
+        "5": "St Anthony",
+        "6": -56.083056,
+        "7": 51.3919444,
+        "10": "America/St_Johns"
+      },
+      {
+        "1": "Stavropol Shpakovskoye, Russia (STW)",
+        "2": "airport",
+        "3": "STW",
+        "4": "STW",
+        "5": "Stavropol",
+        "6": 42.1127778,
+        "7": 45.1091667,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Staunton/Waynesboro Shenandoah Valley Regional, VA (SHD)",
+        "2": "airport",
+        "3": "SHD",
+        "4": "SHD",
+        "5": "Staunton",
+        "6": -78.898611,
+        "7": 38.2619444,
+        "10": "America/New_York"
+      },
+      {
+        "1": "London Stansted, United Kingdom (STN)",
+        "2": "airport",
+        "3": "STN",
+        "4": "LON",
+        "5": "London",
+        "6": 0.235,
+        "7": 51.885,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Stamford Railway Station, CT (ZTF)",
+        "2": "rail",
+        "3": "ZTF",
+        "4": "ZTF",
+        "5": "Stamford Rail",
+        "6": -73.541944,
+        "7": 41.0469444,
+        "10": "America/New_York"
+      },
+      {
+        "1": "St Austell Railway Station, United Kingdom (USX)",
+        "2": "rail",
+        "3": "USX",
+        "4": "USX",
+        "5": "St Austell",
+        "6": -4.7894,
+        "7": 50.3395,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Halifax Stanfield International, NS, Canada (YHZ)",
+        "2": "airport",
+        "3": "YHZ",
+        "4": "YHZ",
+        "5": "Halifax",
+        "6": -63.512778,
+        "7": 44.8869444,
+        "10": "America/Halifax"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "San Pedro Sula Ramon V. Morales International, Honduras (SAP)",
+        "2": "airport",
+        "3": "SAP",
+        "4": "SAP",
+        "5": "San Pedro Sula",
+        "6": -87.923611,
+        "7": 15.4527778,
+        "10": "America/Tegucigalpa"
+      },
+      {
+        "1": "Sapporo, Japan - All airports",
+        "2": "city",
+        "3": "SPK",
+        "4": "SPK",
+        "5": "Sapporo",
+        "6": 141.5996446152475,
+        "7": 42.87642882566666,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Sapporo New Chitose, Japan (CTS)",
+        "2": "airport",
+        "3": "CTS",
+        "4": "SPK",
+        "5": "Sapporo",
+        "6": 141.692222,
+        "7": 42.7752778,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Sapporo Okadama, Japan (OKD)",
+        "2": "airport",
+        "3": "OKD",
+        "4": "SPK",
+        "5": "Sapporo",
+        "6": 141.380278,
+        "7": 43.1161111,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Ashgabat International, Turkmenistan (ASB)",
+        "2": "airport",
+        "3": "ASB",
+        "4": "ASB",
+        "5": "Ashgabat",
+        "6": 58.3608333,
+        "7": 37.9869444,
+        "10": "Asia/Ashgabat"
+      }
+    ]
+  }
+}

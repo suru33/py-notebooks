@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Nagpur Dr.Ambedkar International, India (NAG)",
+        "2": "airport",
+        "3": "NAG",
+        "4": "NAG",
+        "5": "Nagpur",
+        "6": 79.0472222,
+        "7": 21.0922222,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Nagoya, Japan - All airports",
+        "2": "city",
+        "3": "NGO",
+        "4": "NGO",
+        "5": "Nagoya",
+        "6": 136.85125824967423,
+        "7": 35.01598905574243,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Nagoya Chubu Centrair International, Japan (NGO)",
+        "2": "airport",
+        "3": "NGO",
+        "4": "NGO",
+        "5": "Nagoya",
+        "6": 136.805278,
+        "7": 34.8583333,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Nagasaki Airport, Japan (NGS)",
+        "2": "airport",
+        "3": "NGS",
+        "4": "NGS",
+        "5": "Nagasaki",
+        "6": 129.913611,
+        "7": 32.9169444,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Nagoya (Komaki), Japan (NKM)",
+        "2": "airport",
+        "3": "NKM",
+        "4": "NGO",
+        "5": "Nagoya",
+        "6": 136.924444,
+        "7": 35.255,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Naga, Philippines (WNP)",
+        "2": "airport",
+        "3": "WNP",
+        "4": "WNP",
+        "5": "Naga",
+        "6": 123.270278,
+        "7": 13.585,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Nagoya EK Bus Station, Japan (NGY)",
+        "2": "bus",
+        "3": "NGY",
+        "4": "NGO",
+        "5": "Nagoya",
+        "6": 136.882778,
+        "7": 35.1711111,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Batman, Turkey (BAL)",
+        "2": "airport",
+        "3": "BAL",
+        "4": "BAL",
+        "5": "Batman",
+        "6": 41.1166667,
+        "7": 37.9288889,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Baltimore Washington Int'l, MD (BWI)",
+        "2": "airport",
+        "3": "BWI",
+        "4": "BWI",
+        "5": "Baltimore",
+        "6": -76.668333,
+        "7": 39.1752778,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Balikpapan Sepinggan, Indonesia (BPN)",
+        "2": "airport",
+        "3": "BPN",
+        "4": "BPN",
+        "5": "Balikpapan",
+        "6": 116.894444,
+        "7": -1.2683333,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Balmaceda, Chile (BBA)",
+        "2": "airport",
+        "3": "BBA",
+        "4": "BBA",
+        "5": "Balmaceda",
+        "6": -71.689444,
+        "7": -45.916111,
+        "10": "America/Santiago"
+      },
+      {
+        "1": "Ballina Byron Gateway, Australia (BNK)",
+        "2": "airport",
+        "3": "BNK",
+        "4": "BNK",
+        "5": "Ballina",
+        "6": 153.5625,
+        "7": -28.833889,
+        "10": "Australia/Sydney"
+      },
+      {
+        "1": "Baltra Island Seymour, Ecuador (GPS)",
+        "2": "airport",
+        "3": "GPS",
+        "4": "GPS",
+        "5": "Galapagos Islands",
+        "6": -90.265833,
+        "7": -0.4538889,
+        "10": "Pacific/Galapagos"
+      },
+      {
+        "1": "Balalae, Solomon Islands (BAS)",
+        "2": "airport",
+        "3": "BAS",
+        "4": "BAS",
+        "5": "Balalae",
+        "6": 155.885833,
+        "7": -6.9911111,
+        "10": "Pacific/Guadalcanal"
+      },
+      {
+        "1": "Balkanabat, Turkmenistan (BKN)",
+        "2": "airport",
+        "3": "BKN",
+        "4": "BKN",
+        "5": "Balkanabat",
+        "6": 54.3658333,
+        "7": 39.4802778,
+        "10": "Asia/Ashgabat"
+      },
+      {
+        "1": "Krakow John Paul II - Balice, Poland (KRK)",
+        "2": "airport",
+        "3": "KRK",
+        "4": "KRK",
+        "5": "Krakow",
+        "6": 19.7847222,
+        "7": 50.0777778,
+        "10": "Europe/Warsaw"
+      },
+      {
+        "1": "Denpasar-Bali Ngurah Rai, Indonesia (DPS)",
+        "2": "airport",
+        "3": "DPS",
+        "4": "DPS",
+        "5": "Denpasar Bali",
+        "6": 115.167222,
+        "7": -8.7480556,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Arequipa Rodriguez Ballon International, Peru (AQP)",
+        "2": "airport",
+        "3": "AQP",
+        "4": "AQP",
+        "5": "Arequipa",
+        "6": -71.5725,
+        "7": -16.340833,
+        "10": "America/Lima"
+      }
+    ]
+  }
+}

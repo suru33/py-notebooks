@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Gaborone S. Khama Int'l, Botswana (GBE)",
+        "2": "airport",
+        "3": "GBE",
+        "4": "GBE",
+        "5": "Gaborone",
+        "6": 25.9183333,
+        "7": -24.555278,
+        "10": "Africa/Lusaka"
+      },
+      {
+        "1": "Gabes Matmata, Tunisia (GAE)",
+        "2": "airport",
+        "3": "GAE",
+        "4": "GAE",
+        "5": "Gabes",
+        "6": 9.91611111,
+        "7": 33.7325,
+        "10": "Africa/Tunis"
+      },
+      {
+        "1": "Gabala International, Azerbaijan (GBB)",
+        "2": "airport",
+        "3": "GBB",
+        "4": "GBB",
+        "5": "Gabala",
+        "6": 47.725,
+        "7": 40.8091667,
+        "10": "Asia/Baku"
+      }
+    ]
+  }
+}

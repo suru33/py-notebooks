@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Nizhnevartovsk, Russia (NJC)",
+        "2": "airport",
+        "3": "NJC",
+        "4": "NJC",
+        "5": "Nizhnevartovsk",
+        "6": 76.4836111,
+        "7": 60.9491667,
+        "10": "Asia/Yekaterinburg"
+      },
+      {
+        "1": "Nizhny Novgorod Strigino, Russia (GOJ)",
+        "2": "airport",
+        "3": "GOJ",
+        "4": "GOJ",
+        "5": "Nizhniy Novgorod",
+        "6": 43.7841667,
+        "7": 56.23,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Nizhnekamsk Begishevo, Russia (NBC)",
+        "2": "airport",
+        "3": "NBC",
+        "4": "NBC",
+        "5": "Naberevnye Chelny",
+        "6": 52.1,
+        "7": 55.5666667,
+        "10": "Europe/Moscow"
+      }
+    ]
+  }
+}

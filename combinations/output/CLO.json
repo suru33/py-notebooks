@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Cali Alfonso B. Aragon International, Colombia (CLO)",
+        "2": "airport",
+        "3": "CLO",
+        "4": "CLO",
+        "5": "Cali",
+        "6": -76.381667,
+        "7": 3.54333333,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Cloncurry, Australia (CNJ)",
+        "2": "airport",
+        "3": "CNJ",
+        "4": "CNJ",
+        "5": "Cloncurry",
+        "6": 140.504444,
+        "7": -20.668611,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Clovis Municipal, NM (CVN)",
+        "2": "airport",
+        "3": "CVN",
+        "4": "CVN",
+        "5": "Clovis",
+        "6": -103.07889,
+        "7": 34.4263889,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

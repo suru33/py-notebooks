@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Krasnoyarsk, Russia (KJA)",
+        "2": "airport",
+        "3": "KJA",
+        "4": "KJA",
+        "5": "Krasnoyarsk",
+        "6": 92.4933333,
+        "7": 56.1730556,
+        "10": "Asia/Krasnoyarsk"
+      },
+      {
+        "1": "Mosjoen Kjaerstad, Norway (MJF)",
+        "2": "airport",
+        "3": "MJF",
+        "4": "MJF",
+        "5": "Mosjoen",
+        "6": 13.215,
+        "7": 65.7838889,
+        "10": "Europe/Oslo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tauranga, New Zealand (TRG)",
+        "2": "airport",
+        "3": "TRG",
+        "4": "TRG",
+        "5": "Tauranga",
+        "6": 176.198611,
+        "7": -37.673333,
+        "10": "Pacific/Auckland"
+      },
+      {
+        "1": "Taupo, New Zealand (TUO)",
+        "2": "airport",
+        "3": "TUO",
+        "4": "TUO",
+        "5": "Taupo",
+        "6": 176.085,
+        "7": -38.740833,
+        "10": "Pacific/Auckland"
+      },
+      {
+        "1": "Taunton Bus Station, United Kingdom (TTY)",
+        "2": "bus",
+        "3": "TTY",
+        "4": "TTY",
+        "5": "Taunton",
+        "6": -3.1058333,
+        "7": 51.0152778,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

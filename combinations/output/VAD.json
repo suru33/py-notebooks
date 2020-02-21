@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Vadso, Norway (VDS)",
+        "2": "airport",
+        "3": "VDS",
+        "4": "VDS",
+        "5": "Vadso",
+        "6": 29.8375,
+        "7": 70.0644444,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Vadodara, India (BDQ)",
+        "2": "airport",
+        "3": "BDQ",
+        "4": "BDQ",
+        "5": "Vadodara",
+        "6": 73.2263889,
+        "7": 22.3361111,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

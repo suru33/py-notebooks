@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Buenos Aires, Argentina - All airports",
+        "2": "city",
+        "3": "BUE",
+        "4": "BUE",
+        "5": "Buenos Aires",
+        "6": -58.48451512730325,
+        "7": -34.70908371452014,
+        "10": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "1": "Buenos Aires Ministro Pistarini, Argentina (EZE)",
+        "2": "airport",
+        "3": "EZE",
+        "4": "BUE",
+        "5": "Buenos Aires",
+        "6": -58.535833,
+        "7": -34.822222,
+        "10": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "1": "Buenos Aires Jorge Newbery, Argentina (AEP)",
+        "2": "airport",
+        "3": "AEP",
+        "4": "BUE",
+        "5": "Buenos Aires",
+        "6": -58.416389,
+        "7": -34.558889,
+        "10": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "1": "Buenaventura Gerardo Tobar Lopez, Colombia (BUN)",
+        "2": "airport",
+        "3": "BUN",
+        "4": "BUN",
+        "5": "Buenaventura",
+        "6": -76.989722,
+        "7": 3.81972222,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Mazatlan Rafael Buelna International, Mexico (MZT)",
+        "2": "airport",
+        "3": "MZT",
+        "4": "MZT",
+        "5": "Mazatlan",
+        "6": -106.26611,
+        "7": 23.1613889,
+        "10": "America/Mazatlan"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Genoa Cristoforo Colombo, Italy (GOA)",
+        "2": "airport",
+        "3": "GOA",
+        "4": "GOA",
+        "5": "Genoa",
+        "6": 8.8375,
+        "7": 44.4133333,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Goa Dabolim, India (GOI)",
+        "2": "airport",
+        "3": "GOI",
+        "4": "GOI",
+        "5": "Goa",
+        "6": 73.8313889,
+        "7": 15.3808333,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

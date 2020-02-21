@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Takamatsu, Japan (TAK)",
+        "2": "airport",
+        "3": "TAK",
+        "4": "TAK",
+        "5": "Takamatsu",
+        "6": 134.015556,
+        "7": 34.2141667,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Takume, French Polynesia (TJN)",
+        "2": "airport",
+        "3": "TJN",
+        "4": "TJN",
+        "5": "Takume",
+        "6": -142.26833,
+        "7": -15.855556,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Takapoto, French Polynesia (TKP)",
+        "2": "airport",
+        "3": "TKP",
+        "4": "TKP",
+        "5": "Takapoto",
+        "6": -145.24583,
+        "7": -14.709444,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Takaroa, French Polynesia (TKX)",
+        "2": "airport",
+        "3": "TKX",
+        "4": "TKX",
+        "5": "Takaroa",
+        "6": -145.02444,
+        "7": -14.455833,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Takengon Rembele, Indonesia (TXE)",
+        "2": "airport",
+        "3": "TXE",
+        "4": "TXE",
+        "5": "Takengon",
+        "6": 96.8491667,
+        "7": 4.72138889,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Takoradi, Ghana (TKD)",
+        "2": "airport",
+        "3": "TKD",
+        "4": "TKD",
+        "5": "Takoradi",
+        "6": -1.7747222,
+        "7": 4.89555556,
+        "10": "Africa/Accra"
+      }
+    ]
+  }
+}

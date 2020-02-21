@@ -1,0 +1,106 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Concord Regional, NC (USA)",
+        "2": "airport",
+        "3": "USA",
+        "4": "USA",
+        "5": "Concord",
+        "6": -80.709167,
+        "7": 35.3877778,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Constantine Mohamed Boudiaf, Algeria (CZL)",
+        "2": "airport",
+        "3": "CZL",
+        "4": "CZL",
+        "5": "Constantine",
+        "6": 6.62027778,
+        "7": 36.2761111,
+        "10": "Africa/Algiers"
+      },
+      {
+        "1": "Conakry International, Guinea (CKY)",
+        "2": "airport",
+        "3": "CKY",
+        "4": "CKY",
+        "5": "Conakry",
+        "6": -13.611944,
+        "7": 9.57694444,
+        "10": "Africa/Conakry"
+      },
+      {
+        "1": "Concepcion Carriel Sur, Chile (CCP)",
+        "2": "airport",
+        "3": "CCP",
+        "4": "CCP",
+        "5": "Concepcion",
+        "6": -73.063056,
+        "7": -36.772778,
+        "10": "America/Santiago"
+      },
+      {
+        "1": "Constanta Mihail Kogalniceanu, Romania (CND)",
+        "2": "airport",
+        "3": "CND",
+        "4": "CND",
+        "5": "Constanta",
+        "6": 28.4883333,
+        "7": 44.3622222,
+        "10": "Europe/Bucharest"
+      },
+      {
+        "1": "Concord Buchanan Field, CA (CCR)",
+        "2": "airport",
+        "3": "CCR",
+        "4": "CCR",
+        "5": "Concord",
+        "6": -122.05583,
+        "7": 37.9919444,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Con Dao Island Co Ong, Viet Nam (VCS)",
+        "2": "airport",
+        "3": "VCS",
+        "4": "VCS",
+        "5": "Con Dao",
+        "6": 106.6325,
+        "7": 8.73222222,
+        "10": "Asia/Ho_Chi_Minh"
+      },
+      {
+        "1": "Contadora Island, Panama (OTD)",
+        "2": "airport",
+        "3": "OTD",
+        "4": "OTD",
+        "5": "Contadora",
+        "6": -79.034722,
+        "7": 8.62916667,
+        "10": "America/Panama"
+      },
+      {
+        "1": "Sao Paulo Congonhas, Brazil (CGH)",
+        "2": "airport",
+        "3": "CGH",
+        "4": "SAO",
+        "5": "Sao Paulo",
+        "6": -46.658056,
+        "7": -23.626667,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Ayers Rock Connellan, Australia (AYQ)",
+        "2": "airport",
+        "3": "AYQ",
+        "4": "AYQ",
+        "5": "Ayers Rock",
+        "6": 130.975556,
+        "7": -25.186111,
+        "10": "Australia/Darwin"
+      }
+    ]
+  }
+}

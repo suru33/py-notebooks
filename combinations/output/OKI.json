@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Oki, Japan (OKI)",
+        "2": "airport",
+        "3": "OKI",
+        "4": "OKI",
+        "5": "Oki Island",
+        "6": 133.324722,
+        "7": 36.1811111,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Okinawa Naha, Japan (OKA)",
+        "2": "airport",
+        "3": "OKA",
+        "4": "OKA",
+        "5": "Okinawa",
+        "6": 127.645833,
+        "7": 26.1958333,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Okierabu, Japan (OKE)",
+        "2": "airport",
+        "3": "OKE",
+        "4": "OKE",
+        "5": "Okino Erabu",
+        "6": 128.705833,
+        "7": 27.4322222,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

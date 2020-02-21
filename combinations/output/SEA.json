@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Seattle, WA - All airports",
+        "2": "city",
+        "3": "SEA",
+        "4": "SEA",
+        "5": "Seattle",
+        "6": -122.30889589445934,
+        "7": 47.45477329985606,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Seattle-Tacoma International, WA (SEA)",
+        "2": "airport",
+        "3": "SEA",
+        "4": "SEA",
+        "5": "Seattle",
+        "6": -122.30944,
+        "7": 47.4488889,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Seal Bay Sea Plane Base, AK (SYB)",
+        "2": "airport",
+        "3": "SYB",
+        "4": "SYB",
+        "5": "Seal Bay",
+        "6": -152.20722,
+        "7": 58.3669444,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Seattle Boeing Fld-King Co International, WA (BFI)",
+        "2": "airport",
+        "3": "BFI",
+        "4": "SEA",
+        "5": "Seattle",
+        "6": -122.30194,
+        "7": 47.53,
+        "10": "America/Los_Angeles"
+      }
+    ]
+  }
+}

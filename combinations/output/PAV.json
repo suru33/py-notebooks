@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Paulo Afonso, Brazil (PAV)",
+        "2": "airport",
+        "3": "PAV",
+        "4": "PAV",
+        "5": "Paulo Afonso",
+        "6": -38.250556,
+        "7": -9.4008333,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Pavlodar, Kazakhstan (PWQ)",
+        "2": "airport",
+        "3": "PWQ",
+        "4": "PWQ",
+        "5": "Pavlodar",
+        "6": 77.0738889,
+        "7": 52.195,
+        "10": "Asia/Almaty"
+      }
+    ]
+  }
+}

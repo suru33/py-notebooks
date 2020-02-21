@@ -1,0 +1,126 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Aratika-Nord, French Polynesia (RKA)",
+        "2": "airport",
+        "3": "RKA",
+        "4": "RKA",
+        "5": "Aratika",
+        "6": -145.46778,
+        "7": -15.485278,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Aracaju Santa Maria, Brazil (AJU)",
+        "2": "airport",
+        "3": "AJU",
+        "4": "AJU",
+        "5": "Aracaju",
+        "6": -37.070278,
+        "7": -10.983889,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Araguaina, Brazil (AUX)",
+        "2": "airport",
+        "3": "AUX",
+        "4": "AUX",
+        "5": "Araguaina",
+        "6": -48.240278,
+        "7": -7.2280556,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Arathusa Safari Lodge, South Africa (ASS)",
+        "2": "airport",
+        "3": "ASS",
+        "4": "ASS",
+        "5": "Arathusa Safari Lodge",
+        "6": 31.5183333,
+        "7": -24.741111,
+        "10": "Africa/Johannesburg"
+      },
+      {
+        "1": "Arar, Saudi Arabia (RAE)",
+        "2": "airport",
+        "3": "RAE",
+        "4": "RAE",
+        "5": "Arar",
+        "6": 41.1383333,
+        "7": 30.9066667,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "Arak, Iran (AJK)",
+        "2": "airport",
+        "3": "AJK",
+        "4": "AJK",
+        "5": "Arak",
+        "6": 49.8469444,
+        "7": 34.1380556,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Arauca Santiago Perez Quiroz, Colombia (AUC)",
+        "2": "airport",
+        "3": "AUC",
+        "4": "AUC",
+        "5": "Arauca",
+        "6": -70.736944,
+        "7": 7.06888889,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Aracati Dragao do Mar, Brazil (ARX)",
+        "2": "airport",
+        "3": "ARX",
+        "4": "ARX",
+        "5": "Aracati",
+        "6": -37.805556,
+        "7": -4.5691667,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Araxa, Brazil (AAX)",
+        "2": "airport",
+        "3": "AAX",
+        "4": "AAX",
+        "5": "Araxa",
+        "6": -46.960278,
+        "7": -19.563333,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Aracatuba Dario Guarita, Brazil (ARU)",
+        "2": "airport",
+        "3": "ARU",
+        "4": "ARU",
+        "5": "Aracatuba",
+        "6": -50.424722,
+        "7": -21.141389,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Cali Alfonso B. Aragon International, Colombia (CLO)",
+        "2": "airport",
+        "3": "CLO",
+        "4": "CLO",
+        "5": "Cali",
+        "6": -76.381667,
+        "7": 3.54333333,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Patrai Araxos, Greece (GPA)",
+        "2": "airport",
+        "3": "GPA",
+        "4": "GPA",
+        "5": "Patras",
+        "6": 21.4255556,
+        "7": 38.1511111,
+        "10": "Europe/Athens"
+      }
+    ]
+  }
+}

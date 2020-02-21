@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Zhanjiang, China (ZHA)",
+        "2": "airport",
+        "3": "ZHA",
+        "4": "ZHA",
+        "5": "Zhanjiang",
+        "6": 110.358333,
+        "7": 21.2152778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Zhangjiajie Hehua, China (DYG)",
+        "2": "airport",
+        "3": "DYG",
+        "4": "DYG",
+        "5": "Dayong",
+        "6": 110.443056,
+        "7": 29.1044444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Zhaotong, China (ZAT)",
+        "2": "airport",
+        "3": "ZAT",
+        "4": "ZAT",
+        "5": "Zhaotong",
+        "6": 103.754722,
+        "7": 27.3258333,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Zhangye Ganzhou, China (YZY)",
+        "2": "airport",
+        "3": "YZY",
+        "4": "YZY",
+        "5": "Zhangye",
+        "6": 100.660833,
+        "7": 38.8075,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Zhalantun Chengjisihan, China (NZL)",
+        "2": "airport",
+        "3": "NZL",
+        "4": "NZL",
+        "5": "Zhalantun",
+        "6": 122.767778,
+        "7": 47.8661111,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

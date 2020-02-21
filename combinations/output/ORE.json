@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Orenburg Tsentralny, Russia (REN)",
+        "2": "airport",
+        "3": "REN",
+        "4": "REN",
+        "5": "Orenburg",
+        "6": 55.4566667,
+        "7": 51.7958333,
+        "10": "Asia/Yekaterinburg"
+      },
+      {
+        "1": "Orebro, Sweden (ORB)",
+        "2": "airport",
+        "3": "ORB",
+        "4": "ORB",
+        "5": "Orebro",
+        "6": 15.0380556,
+        "7": 59.2236111,
+        "10": "Europe/Stockholm"
+      }
+    ]
+  }
+}

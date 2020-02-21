@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Las Vegas McCarran International, NV (LAS)",
+        "2": "airport",
+        "3": "LAS",
+        "4": "LAS",
+        "5": "Las Vegas",
+        "6": -115.15222,
+        "7": 36.08,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "McCook Ben Nelson Regional, NE (MCK)",
+        "2": "airport",
+        "3": "MCK",
+        "4": "MCK",
+        "5": "McCook",
+        "6": -100.59278,
+        "7": 40.2077778,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Aniak, AK (ANI)",
+        "2": "airport",
+        "3": "ANI",
+        "4": "ANI",
+        "5": "Aniak",
+        "6": -159.54417,
+        "7": 61.5822222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Aniwa Island, Vanuatu (AWD)",
+        "2": "airport",
+        "3": "AWD",
+        "4": "AWD",
+        "5": "Aniwa",
+        "6": 169.601111,
+        "7": -19.2375,
+        "10": "Pacific/Efate"
+      }
+    ]
+  }
+}

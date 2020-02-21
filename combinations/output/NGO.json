@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Nagoya, Japan - All airports",
+        "2": "city",
+        "3": "NGO",
+        "4": "NGO",
+        "5": "Nagoya",
+        "6": 136.85125824967423,
+        "7": 35.01598905574243,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Nagoya Chubu Centrair International, Japan (NGO)",
+        "2": "airport",
+        "3": "NGO",
+        "4": "NGO",
+        "5": "Nagoya",
+        "6": 136.805278,
+        "7": 34.8583333,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

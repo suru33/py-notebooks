@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Fera Island, Solomon Islands (FRE)",
+        "2": "airport",
+        "3": "FRE",
+        "4": "FRE",
+        "5": "Fera Island",
+        "6": 159.577222,
+        "7": -8.1075,
+        "10": "Pacific/Guadalcanal"
+      },
+      {
+        "1": "Fresno Yosemite International, CA (FAT)",
+        "2": "airport",
+        "3": "FAT",
+        "4": "FAT",
+        "5": "Fresno",
+        "6": -119.71806,
+        "7": 36.7761111,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Freetown Lungi International, Sierra Leone (FNA)",
+        "2": "airport",
+        "3": "FNA",
+        "4": "FNA",
+        "5": "Freetown",
+        "6": -13.195556,
+        "7": 8.61638889,
+        "10": "Africa/Freetown"
+      },
+      {
+        "1": "Fredericton International, NB, Canada (YFC)",
+        "2": "airport",
+        "3": "YFC",
+        "4": "YFC",
+        "5": "Fredericton",
+        "6": -66.53,
+        "7": 45.8688889,
+        "10": "America/Halifax"
+      },
+      {
+        "1": "Freeport Grand Bahama International, Bahamas (FPO)",
+        "2": "airport",
+        "3": "FPO",
+        "4": "FPO",
+        "5": "Freeport",
+        "6": -78.695556,
+        "7": 26.5586111,
+        "10": "America/Nassau"
+      },
+      {
+        "1": "Warsaw Frederic Chopin, Poland (WAW)",
+        "2": "airport",
+        "3": "WAW",
+        "4": "WAW",
+        "5": "Warsaw",
+        "6": 20.9672222,
+        "7": 52.1658333,
+        "10": "Europe/Warsaw"
+      },
+      {
+        "1": "Freiburg Hbf Railway Station, Germany (QFB)",
+        "2": "rail",
+        "3": "QFB",
+        "4": "QFB",
+        "5": "Freiburg Off-Line Pt",
+        "6": 7.84222222,
+        "7": 47.9977778,
+        "10": "Europe/Berlin"
+      }
+    ]
+  }
+}

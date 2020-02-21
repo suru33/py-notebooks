@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Galena Edward G. Pitka Sr., AK (GAL)",
+        "2": "airport",
+        "3": "GAL",
+        "4": "GAL",
+        "5": "Galena",
+        "6": -156.9375,
+        "7": 64.7361111,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Galcaio, Somalia (GLK)",
+        "2": "airport",
+        "3": "GLK",
+        "4": "GLK",
+        "5": "Galcaio",
+        "6": 47.4544444,
+        "7": 6.78138889,
+        "10": "Africa/Mogadishu"
+      },
+      {
+        "1": "Gallivare, Sweden (GEV)",
+        "2": "airport",
+        "3": "GEV",
+        "4": "GEV",
+        "5": "Gallivare",
+        "6": 20.8147222,
+        "7": 67.1325,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Galela Gamarmalamo, Indonesia (GLX)",
+        "2": "airport",
+        "3": "GLX",
+        "4": "GLX",
+        "5": "Galela",
+        "6": 127.785833,
+        "7": 1.83777778,
+        "10": "Asia/Jayapura"
+      },
+      {
+        "1": "Pisa Galileo Galilei, Italy (PSA)",
+        "2": "airport",
+        "3": "PSA",
+        "4": "PSA",
+        "5": "Pisa",
+        "6": 10.3955556,
+        "7": 43.6827778,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Bozeman Yellowstone International, MT (BZN)",
+        "2": "airport",
+        "3": "BZN",
+        "4": "BZN",
+        "5": "Bozeman",
+        "6": -111.15306,
+        "7": 45.7775,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

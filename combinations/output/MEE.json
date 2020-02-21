@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Mare La Roche, New Caledonia (MEE)",
+        "2": "airport",
+        "3": "MEE",
+        "4": "MEE",
+        "5": "Mare",
+        "6": 168.0375,
+        "7": -21.481667,
+        "10": "Pacific/Noumea"
+      },
+      {
+        "1": "Meekatharra, Australia (MKR)",
+        "2": "airport",
+        "3": "MKR",
+        "4": "MKR",
+        "5": "Meekatharra",
+        "6": 118.547778,
+        "7": -26.611667,
+        "10": "Australia/Perth"
+      }
+    ]
+  }
+}

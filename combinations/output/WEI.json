@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Weipa, Australia (WEI)",
+        "2": "airport",
+        "3": "WEI",
+        "4": "WEI",
+        "5": "Weipa",
+        "6": 141.925278,
+        "7": -12.678611,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Weihai Dashuibo, China (WEH)",
+        "2": "airport",
+        "3": "WEH",
+        "4": "WEH",
+        "5": "Weihai",
+        "6": 122.228889,
+        "7": 37.1872222,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Weifang, China (WEF)",
+        "2": "airport",
+        "3": "WEF",
+        "4": "WEF",
+        "5": "Weifang",
+        "6": 119.118611,
+        "7": 36.6469444,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tehran Imam Khomeini International, Iran (IKA)",
+        "2": "airport",
+        "3": "IKA",
+        "4": "THR",
+        "5": "Tehran",
+        "6": 51.1522222,
+        "7": 35.4161111,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Ikaria Island, Greece (JIK)",
+        "2": "airport",
+        "3": "JIK",
+        "4": "JIK",
+        "5": "Ikaria Island",
+        "6": 26.3469444,
+        "7": 37.6827778,
+        "10": "Europe/Athens"
+      }
+    ]
+  }
+}

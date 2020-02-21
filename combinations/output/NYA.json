@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Nyagan, Russia (NYA)",
+        "2": "airport",
+        "3": "NYA",
+        "4": "NYA",
+        "5": "Nyagan",
+        "6": 65.6025,
+        "7": 62.1016667,
+        "10": "Asia/Yekaterinburg"
+      },
+      {
+        "1": "Bagan/Nyaung-u, Myanmar (NYU)",
+        "2": "airport",
+        "3": "NYU",
+        "4": "NYU",
+        "5": "Nyaung-U",
+        "6": 94.9305556,
+        "7": 21.1775,
+        "10": "Asia/Rangoon"
+      },
+      {
+        "1": "Nyala, Sudan (UYL)",
+        "2": "airport",
+        "3": "UYL",
+        "4": "UYL",
+        "5": "Nyala",
+        "6": 24.9561111,
+        "7": 12.0536111,
+        "10": "Africa/Khartoum"
+      }
+    ]
+  }
+}

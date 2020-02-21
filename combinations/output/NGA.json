@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Ngala, South Africa (NGL)",
+        "2": "airport",
+        "3": "NGL",
+        "4": "NGL",
+        "5": "Ngala",
+        "6": 31.3277778,
+        "7": -24.390833,
+        "10": "Africa/Johannesburg"
+      },
+      {
+        "1": "Ngaoundere, Cameroon (NGE)",
+        "2": "airport",
+        "3": "NGE",
+        "4": "NGE",
+        "5": "Ngaoundere",
+        "6": 13.5591667,
+        "7": 7.35694444,
+        "10": "Africa/Douala"
+      }
+    ]
+  }
+}

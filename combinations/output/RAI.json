@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Praia International, Cape Verde (RAI)",
+        "2": "airport",
+        "3": "RAI",
+        "4": "RAI",
+        "5": "Praia",
+        "6": -23.484722,
+        "7": 14.9413889,
+        "10": "Atlantic/Cape_Verde"
+      },
+      {
+        "1": "Raipur Swami Vivekananda, India (RPR)",
+        "2": "airport",
+        "3": "RPR",
+        "4": "RPR",
+        "5": "Raipur",
+        "6": 81.7388889,
+        "7": 21.1802778,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Raiatea Uturoa, French Polynesia (RFP)",
+        "2": "airport",
+        "3": "RFP",
+        "4": "RFP",
+        "5": "Raiatea Island",
+        "6": -151.46583,
+        "7": -16.722778,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Raivavae, French Polynesia (RVV)",
+        "2": "airport",
+        "3": "RVV",
+        "4": "RVV",
+        "5": "Rairua",
+        "6": -147.66194,
+        "7": -23.885278,
+        "10": "Pacific/Tahiti"
+      }
+    ]
+  }
+}

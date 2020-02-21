@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Cascavel A.Mendes da Silva, Brazil (CAC)",
+        "2": "airport",
+        "3": "CAC",
+        "4": "CAC",
+        "5": "Cascavel",
+        "6": -53.500833,
+        "7": -25.000278,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Cacoal Capital do Cafe, Brazil (OAL)",
+        "2": "airport",
+        "3": "OAL",
+        "4": "OAL",
+        "5": "Cacoal",
+        "6": -61.477778,
+        "7": -11.433056,
+        "10": "America/Manaus"
+      }
+    ]
+  }
+}

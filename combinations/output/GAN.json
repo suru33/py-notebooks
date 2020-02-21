@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Gan Island International, Maldives (GAN)",
+        "2": "airport",
+        "3": "GAN",
+        "4": "GAN",
+        "5": "Gan Island",
+        "6": 73.1555556,
+        "7": -0.6933333,
+        "10": "Indian/Maldives"
+      },
+      {
+        "1": "Ganzhou Huangjin, China (KOW)",
+        "2": "airport",
+        "3": "KOW",
+        "4": "KOW",
+        "5": "Ganzhou",
+        "6": 114.775278,
+        "7": 25.8513889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Gander International, NL, Canada (YQX)",
+        "2": "airport",
+        "3": "YQX",
+        "4": "YQX",
+        "5": "Gander",
+        "6": -54.56,
+        "7": 48.9477778,
+        "10": "America/St_Johns"
+      },
+      {
+        "1": "Ganja, Azerbaijan (KVD)",
+        "2": "airport",
+        "3": "KVD",
+        "4": "KVD",
+        "5": "Gyandzha",
+        "6": 46.3175,
+        "7": 40.735,
+        "10": "Asia/Baku"
+      },
+      {
+        "1": "Gannan Xiahe, China (GXH)",
+        "2": "airport",
+        "3": "GXH",
+        "4": "GXH",
+        "5": "Xiahe",
+        "6": 102.620833,
+        "7": 34.8188889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Gangtok Pakyong, India (PYG)",
+        "2": "airport",
+        "3": "PYG",
+        "4": "PYG",
+        "5": "Gangtok",
+        "6": 88.5869444,
+        "7": 27.2277778,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Delhi Indira Gandhi International, India (DEL)",
+        "2": "airport",
+        "3": "DEL",
+        "4": "DEL",
+        "5": "Delhi",
+        "6": 77.1030556,
+        "7": 28.5663889,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

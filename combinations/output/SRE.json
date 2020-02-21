@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sucre Alcantari, Bolivia (SRE)",
+        "2": "airport",
+        "3": "SRE",
+        "4": "SRE",
+        "5": "Sucre",
+        "6": -65.292778,
+        "7": -19.010833,
+        "10": "America/La_Paz"
+      },
+      {
+        "1": "Srednekolymsk, Russia (SEK)",
+        "2": "airport",
+        "3": "SEK",
+        "4": "SEK",
+        "5": "Srednekolymsk",
+        "6": 153.729444,
+        "7": 67.4747222,
+        "10": "Asia/Magadan"
+      }
+    ]
+  }
+}

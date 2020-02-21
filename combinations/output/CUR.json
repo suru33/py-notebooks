@@ -1,0 +1,35 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Curacao Hato International, Curacao (CUR)",
+        "2": "airport",
+        "3": "CUR",
+        "4": "CUR",
+        "5": "Curacao",
+        "6": -68.959722,
+        "7": 12.1888889
+      },
+      {
+        "1": "Curitiba Afonso Pena International, Brazil (CWB)",
+        "2": "airport",
+        "3": "CWB",
+        "4": "CWB",
+        "5": "Curitiba",
+        "6": -49.175833,
+        "7": -25.528611,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Noorvik R. (Bob) Curtis Mem., AK (ORV)",
+        "2": "airport",
+        "3": "ORV",
+        "4": "ORV",
+        "5": "Noorvik",
+        "6": -161.02917,
+        "7": 66.8169444,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

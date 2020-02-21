@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dashoguz, Turkmenistan (TAZ)",
+        "2": "airport",
+        "3": "TAZ",
+        "4": "TAZ",
+        "5": "Tashauz",
+        "6": 59.8425,
+        "7": 41.7616667,
+        "10": "Asia/Ashgabat"
+      },
+      {
+        "1": "Sari Dasht-e-Naz, Iran (SRY)",
+        "2": "airport",
+        "3": "SRY",
+        "4": "SRY",
+        "5": "Sary",
+        "6": 53.1936111,
+        "7": 36.6358333,
+        "10": "Asia/Tehran"
+      }
+    ]
+  }
+}

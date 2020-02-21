@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Puerto Maldonado Padre Aldamiz International, Peru (PEM)",
+        "2": "airport",
+        "3": "PEM",
+        "4": "PEM",
+        "5": "Puerto Maldonado",
+        "6": -69.229167,
+        "7": -12.616389,
+        "10": "America/Lima"
+      },
+      {
+        "1": "Pemba, Mozambique (POL)",
+        "2": "airport",
+        "3": "POL",
+        "4": "POL",
+        "5": "Pemba",
+        "6": 40.5225,
+        "7": -12.986667,
+        "10": "Africa/Maputo"
+      },
+      {
+        "1": "Pemba, Tanzania (PMA)",
+        "2": "airport",
+        "3": "PMA",
+        "4": "PMA",
+        "5": "Pemba",
+        "6": 39.8113889,
+        "7": -5.2572222,
+        "10": "Africa/Dar_es_Salaam"
+      }
+    ]
+  }
+}

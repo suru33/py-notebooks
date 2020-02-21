@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Guernsey, United Kingdom (GCI)",
+        "2": "airport",
+        "3": "GCI",
+        "4": "GCI",
+        "5": "Guernsey",
+        "6": -2.6019444,
+        "7": 49.4347222,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Guelmime, Morocco (GLN)",
+        "2": "airport",
+        "3": "GLN",
+        "4": "GLN",
+        "5": "Goulimime",
+        "6": -10.050278,
+        "7": 29.0266667,
+        "10": "Africa/Casablanca"
+      },
+      {
+        "1": "El Oued Guemar, Algeria (ELU)",
+        "2": "airport",
+        "3": "ELU",
+        "4": "ELU",
+        "5": "El Oued",
+        "6": 6.78277778,
+        "7": 33.5127778,
+        "10": "Africa/Algiers"
+      },
+      {
+        "1": "Santo Domingo Buenaventura Vivas, Venezuela (STD)",
+        "2": "airport",
+        "3": "STD",
+        "4": "STD",
+        "5": "Santo Domingo",
+        "6": -72.035,
+        "7": 7.565,
+        "10": "America/Caracas"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Chignik, AK - All airports",
+        "2": "city",
+        "3": "KCL",
+        "4": "KCL",
+        "5": "Chignik",
+        "6": -158.56184999999996,
+        "7": 56.292685199999994,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Chignik Lagoon, AK (KCL)",
+        "2": "airport",
+        "3": "KCL",
+        "4": "KCL",
+        "5": "Chignik",
+        "6": -158.53139,
+        "7": 56.3119444,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

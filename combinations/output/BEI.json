@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Beijing, China - All airports",
+        "2": "city",
+        "3": "BJS",
+        "4": "BJS",
+        "5": "Beijing",
+        "6": 116.51531695737165,
+        "7": 39.97752105715149,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Beijing Capital International, China (PEK)",
+        "2": "airport",
+        "3": "PEK",
+        "4": "BJS",
+        "5": "Beijing",
+        "6": 116.584444,
+        "7": 40.08,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Beijing Nanyuan, China (NAY)",
+        "2": "airport",
+        "3": "NAY",
+        "4": "BJS",
+        "5": "Beijing",
+        "6": 116.386389,
+        "7": 39.7863889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Beirut Rafic Hariri International, Lebanon (BEY)",
+        "2": "airport",
+        "3": "BEY",
+        "4": "BEY",
+        "5": "Beirut",
+        "6": 35.4883333,
+        "7": 33.8208333,
+        "10": "Asia/Beirut"
+      },
+      {
+        "1": "Beihai Fucheng, China (BHY)",
+        "2": "airport",
+        "3": "BHY",
+        "4": "BHY",
+        "5": "Beihai",
+        "6": 109.293889,
+        "7": 21.5394444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Beira, Mozambique (BEW)",
+        "2": "airport",
+        "3": "BEW",
+        "4": "BEW",
+        "5": "Beira",
+        "6": 34.9075,
+        "7": -19.796389,
+        "10": "Africa/Maputo"
+      }
+    ]
+  }
+}

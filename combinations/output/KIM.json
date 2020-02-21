@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kimberley, South Africa (KIM)",
+        "2": "airport",
+        "3": "KIM",
+        "4": "KIM",
+        "5": "Kimberley",
+        "6": 24.7652778,
+        "7": -28.802778,
+        "10": "Africa/Johannesburg"
+      },
+      {
+        "1": "Kimmirut, NU, Canada (YLC)",
+        "2": "airport",
+        "3": "YLC",
+        "4": "YLC",
+        "5": "Kimmirut/Lake Harbour",
+        "6": -69.876111,
+        "7": 62.8477778,
+        "10": "America/Montreal"
+      }
+    ]
+  }
+}

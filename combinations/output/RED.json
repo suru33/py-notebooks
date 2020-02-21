@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Redmond/Bend Roberts Field, OR (RDM)",
+        "2": "airport",
+        "3": "RDM",
+        "4": "RDM",
+        "5": "Redmond",
+        "6": -121.15,
+        "7": 44.2541667,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Redding Municipal, CA (RDD)",
+        "2": "airport",
+        "3": "RDD",
+        "4": "RDD",
+        "5": "Redding",
+        "6": -122.29333,
+        "7": 40.5088889,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Red Lake, ON, Canada (YRL)",
+        "2": "airport",
+        "3": "YRL",
+        "4": "YRL",
+        "5": "Red Lake",
+        "6": -93.793056,
+        "7": 51.0669444,
+        "10": "America/Rainy_River"
+      },
+      {
+        "1": "Red Devil, AK (RDV)",
+        "2": "airport",
+        "3": "RDV",
+        "4": "RDV",
+        "5": "Red Devil",
+        "6": -157.34528,
+        "7": 61.7869444,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Fuerteventura, Spain (FUE)",
+        "2": "airport",
+        "3": "FUE",
+        "4": "FUE",
+        "5": "Fuerteventura",
+        "6": -13.863889,
+        "7": 28.4527778,
+        "10": "Atlantic/Canary"
+      },
+      {
+        "1": "San Sebastian, Spain (EAS)",
+        "2": "airport",
+        "3": "EAS",
+        "4": "EAS",
+        "5": "San Sebastian",
+        "6": -1.7905556,
+        "7": 43.3563889,
+        "10": "Europe/Madrid"
+      }
+    ]
+  }
+}

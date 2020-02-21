@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Garowe, Somalia (GGR)",
+        "2": "airport",
+        "3": "GGR",
+        "4": "GGR",
+        "5": "Garoe",
+        "6": 48.5675,
+        "7": 8.45805556,
+        "10": "Africa/Mogadishu"
+      },
+      {
+        "1": "Garoua International, Cameroon (GOU)",
+        "2": "airport",
+        "3": "GOU",
+        "4": "GOU",
+        "5": "Garoua",
+        "6": 13.37,
+        "7": 9.33583333,
+        "10": "Africa/Douala"
+      },
+      {
+        "1": "Garden City Regional, KS (GCK)",
+        "2": "airport",
+        "3": "GCK",
+        "4": "GCK",
+        "5": "Garden City",
+        "6": -100.72444,
+        "7": 37.9275,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Garissa, Kenya (GAS)",
+        "2": "airport",
+        "3": "GAS",
+        "4": "GAS",
+        "5": "Garissa",
+        "6": 39.6483333,
+        "7": -0.4636111,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Hermosillo I.Pesqueira Garcia, Mexico (HMO)",
+        "2": "airport",
+        "3": "HMO",
+        "4": "HMO",
+        "5": "Hermosillo",
+        "6": -111.04778,
+        "7": 29.0958333,
+        "10": "America/Chihuahua"
+      },
+      {
+        "1": "Ciudad del Este Guarani International, Paraguay (AGT)",
+        "2": "airport",
+        "3": "AGT",
+        "4": "AGT",
+        "5": "Ciudad del Este",
+        "6": -54.843611,
+        "7": -25.455556,
+        "10": "America/Asuncion"
+      },
+      {
+        "1": "Bordeaux St-Jean Railway Station, France (ZFQ)",
+        "2": "rail",
+        "3": "ZFQ",
+        "4": "BOD",
+        "5": "Bordeaux",
+        "6": -0.5616667,
+        "7": 44.8177778,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Rennes Railway Station, France (ZFJ)",
+        "2": "rail",
+        "3": "ZFJ",
+        "4": "RNS",
+        "5": "Rennes",
+        "6": -1.6725,
+        "7": 48.1033333,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

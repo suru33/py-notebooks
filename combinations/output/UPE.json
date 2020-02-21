@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Upernavik, Greenland (JUV)",
+        "2": "airport",
+        "3": "JUV",
+        "4": "JUV",
+        "5": "Upernavik",
+        "6": -56.131111,
+        "7": 72.7905556,
+        "10": "America/Godthab"
+      },
+      {
+        "1": "Upernavik Kujalleq Heliport, Greenland (UPK)",
+        "2": "helipad",
+        "3": "UPK",
+        "4": "UPK",
+        "5": "Upernavik Kujalleq",
+        "6": -55.531111,
+        "7": 72.1527778,
+        "10": "America/Godthab"
+      }
+    ]
+  }
+}

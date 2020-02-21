@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Eilat, Israel - All airports",
+        "2": "city",
+        "3": "ETH",
+        "4": "ETH",
+        "5": "Eilat",
+        "6": 34.9786111,
+        "7": 29.64277775,
+        "10": "Asia/Jerusalem"
+      },
+      {
+        "1": "Eilat, Israel (ETH)",
+        "2": "airport",
+        "3": "ETH",
+        "4": "ETH",
+        "5": "Eilat",
+        "6": 34.9588889,
+        "7": 29.5583333,
+        "10": "Asia/Jerusalem"
+      },
+      {
+        "1": "Eilat Ramon International, Israel (ETM)",
+        "2": "airport",
+        "3": "ETM",
+        "4": "ETH",
+        "5": "Eilat",
+        "6": 34.9983333,
+        "7": 29.7272222,
+        "10": "Asia/Jerusalem"
+      }
+    ]
+  }
+}

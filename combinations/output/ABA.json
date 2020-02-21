@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Abakan, Russia (ABA)",
+        "2": "airport",
+        "3": "ABA",
+        "4": "ABA",
+        "5": "Abakan",
+        "6": 91.385,
+        "7": 53.74,
+        "10": "Asia/Krasnoyarsk"
+      },
+      {
+        "1": "Abadan, Iran (ABD)",
+        "2": "airport",
+        "3": "ABD",
+        "4": "ABD",
+        "5": "Abadan",
+        "6": 48.2283333,
+        "7": 30.3711111,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Aba/Hongyuan, China (AHJ)",
+        "2": "airport",
+        "3": "AHJ",
+        "4": "AHJ",
+        "5": "Aba/Hongyuan",
+        "6": 102.351944,
+        "7": 32.5313889,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

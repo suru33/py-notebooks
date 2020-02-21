@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Owerri Sam Mbakwe International, Nigeria (QOW)",
+        "2": "airport",
+        "3": "QOW",
+        "4": "QOW",
+        "5": "Owerri Off-Line Pt",
+        "6": 7.20611111,
+        "7": 5.42694444,
+        "10": "Africa/Lagos"
+      },
+      {
+        "1": "Owensboro Daviess County, KY (OWB)",
+        "2": "airport",
+        "3": "OWB",
+        "4": "OWB",
+        "5": "Owensboro",
+        "6": -87.166944,
+        "7": 37.74,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

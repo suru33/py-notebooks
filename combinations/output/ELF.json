@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "El Fasher, Sudan (ELF)",
+        "2": "airport",
+        "3": "ELF",
+        "4": "ELF",
+        "5": "El Fasher",
+        "6": 25.3247222,
+        "7": 13.615,
+        "10": "Africa/Khartoum"
+      },
+      {
+        "1": "Elfin Cove Sea Plane Base, AK (ELV)",
+        "2": "airport",
+        "3": "ELV",
+        "4": "ELV",
+        "5": "Elfin Cove",
+        "6": -136.3475,
+        "7": 58.1952778,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

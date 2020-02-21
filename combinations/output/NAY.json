@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Beijing Nanyuan, China (NAY)",
+        "2": "airport",
+        "3": "NAY",
+        "4": "BJS",
+        "5": "Beijing",
+        "6": 116.386389,
+        "7": 39.7863889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Nay Pyi Taw International, Myanmar (NYT)",
+        "2": "airport",
+        "3": "NYT",
+        "4": "NYT",
+        "5": "Nay Pyi Taw",
+        "6": 96.2013889,
+        "7": 19.6225,
+        "10": "Asia/Rangoon"
+      }
+    ]
+  }
+}

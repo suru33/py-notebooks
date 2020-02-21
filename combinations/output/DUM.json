@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dumai Pinang Kampai, Indonesia (DUM)",
+        "2": "airport",
+        "3": "DUM",
+        "4": "DUM",
+        "5": "Dumai",
+        "6": 101.45,
+        "7": 1.68333333,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Dumaguete Sibulan, Philippines (DGT)",
+        "2": "airport",
+        "3": "DGT",
+        "4": "DGT",
+        "5": "Dumaguete",
+        "6": 123.3,
+        "7": 9.33444444,
+        "10": "Asia/Manila"
+      }
+    ]
+  }
+}

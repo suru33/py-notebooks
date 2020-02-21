@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Atqasuk E.Burnell Sr Memorial, AK (ATK)",
+        "2": "airport",
+        "3": "ATK",
+        "4": "ATK",
+        "5": "Atqasuk",
+        "6": -157.43583,
+        "7": 70.4672222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Atka, AK (AKB)",
+        "2": "airport",
+        "3": "AKB",
+        "4": "AKB",
+        "5": "Atka",
+        "6": -174.20639,
+        "7": 52.2183333,
+        "10": "America/Adak"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Vidyanagar Jindal, India (VDY)",
+        "2": "airport",
+        "3": "VDY",
+        "4": "VDY",
+        "5": "Vidyanagar",
+        "6": 76.6347222,
+        "7": 15.1747222,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Balmaceda, Chile (BBA)",
+        "2": "airport",
+        "3": "BBA",
+        "4": "BBA",
+        "5": "Balmaceda",
+        "6": -71.689444,
+        "7": -45.916111,
+        "10": "America/Santiago"
+      },
+      {
+        "1": "Marilia Frank M. Milenkowichi, Brazil (MII)",
+        "2": "airport",
+        "3": "MII",
+        "4": "MII",
+        "5": "Marilia",
+        "6": -49.926389,
+        "7": -22.196944,
+        "10": "America/Sao_Paulo"
+      }
+    ]
+  }
+}

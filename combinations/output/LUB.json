@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lubbock Preston Smith International, TX (LBB)",
+        "2": "airport",
+        "3": "LBB",
+        "4": "LBB",
+        "5": "Lubbock",
+        "6": -101.82278,
+        "7": 33.6636111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Lubumbashi Luano International, Congo (Zaire) (FBM)",
+        "2": "airport",
+        "3": "FBM",
+        "4": "FBM",
+        "5": "Lubumbashi",
+        "6": 27.5308333,
+        "7": -11.591389,
+        "10": "Africa/Lubumbashi"
+      },
+      {
+        "1": "Lublin, Poland (LUZ)",
+        "2": "airport",
+        "3": "LUZ",
+        "4": "LUZ",
+        "5": "Lublin",
+        "6": 22.6905556,
+        "7": 51.2313889,
+        "10": "Europe/Warsaw"
+      },
+      {
+        "1": "Lubango Mukanka, Angola (SDD)",
+        "2": "airport",
+        "3": "SDD",
+        "4": "SDD",
+        "5": "Lubango",
+        "6": 13.575,
+        "7": -14.924722,
+        "10": "Africa/Luanda"
+      },
+      {
+        "1": "Lodz Wladyslaw Reymont, Poland (LCJ)",
+        "2": "airport",
+        "3": "LCJ",
+        "4": "LCJ",
+        "5": "Lodz",
+        "6": 19.3980556,
+        "7": 51.7219444,
+        "10": "Europe/Warsaw"
+      }
+    ]
+  }
+}

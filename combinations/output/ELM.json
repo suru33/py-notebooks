@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Elmira/Corning Regional, NY (ELM)",
+        "2": "airport",
+        "3": "ELM",
+        "4": "ELM",
+        "5": "Elmira/Corning",
+        "6": -76.891667,
+        "7": 42.16,
+        "10": "America/New_York"
+      },
+      {
+        "1": "El Mirador Heliport, Guatemala (EMR)",
+        "2": "helipad",
+        "3": "EMR",
+        "4": "EMR",
+        "5": "El Mirador",
+        "6": -89.925,
+        "7": 17.7522222,
+        "10": "America/Guatemala"
+      },
+      {
+        "1": "Cagliari Elmas, Italy (CAG)",
+        "2": "airport",
+        "3": "CAG",
+        "4": "CAG",
+        "5": "Cagliari",
+        "6": 9.05777778,
+        "7": 39.2513889,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Sfax Thyna, Tunisia (SFA)",
+        "2": "airport",
+        "3": "SFA",
+        "4": "SFA",
+        "5": "Sfax",
+        "6": 10.6911111,
+        "7": 34.7180556,
+        "10": "Africa/Tunis"
+      }
+    ]
+  }
+}

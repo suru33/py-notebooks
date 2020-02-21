@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kahului, HI (OGG)",
+        "2": "airport",
+        "3": "OGG",
+        "4": "OGG",
+        "5": "Kahului",
+        "6": -156.43056,
+        "7": 20.8986111,
+        "10": "Pacific/Honolulu"
+      },
+      {
+        "1": "Kahramanmaras, Turkey (KCM)",
+        "2": "airport",
+        "3": "KCM",
+        "4": "KCM",
+        "5": "Kahramanmaras",
+        "6": 36.9533333,
+        "7": 37.5388889,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Kahama Buzwagi, Tanzania (KBH)",
+        "2": "airport",
+        "3": "KBH",
+        "4": "KBH",
+        "5": "Kahama",
+        "6": 32.6466667,
+        "7": -3.7916667,
+        "10": "Africa/Dar_es_Salaam"
+      }
+    ]
+  }
+}

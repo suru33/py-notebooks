@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bremen, Germany (BRE)",
+        "2": "airport",
+        "3": "BRE",
+        "4": "BRE",
+        "5": "Bremen",
+        "6": 8.78666667,
+        "7": 53.0475,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Brest Bretagne, France (BES)",
+        "2": "airport",
+        "3": "BES",
+        "4": "BES",
+        "5": "Brest",
+        "6": -4.4216667,
+        "7": 48.4472222,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Brest, Belarus (BQT)",
+        "2": "airport",
+        "3": "BQT",
+        "4": "BQT",
+        "5": "Brest",
+        "6": 23.8969444,
+        "7": 52.1083333,
+        "10": "Europe/Minsk"
+      },
+      {
+        "1": "Brescia Railway Station, Italy (BRZ)",
+        "2": "rail",
+        "3": "BRZ",
+        "4": "BRZ",
+        "5": "Brescia",
+        "6": 10.2127778,
+        "7": 45.5319444,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Bregenz Railway Station, Austria (XGZ)",
+        "2": "rail",
+        "3": "XGZ",
+        "4": "XGZ",
+        "5": "Bregenz Rail Station",
+        "6": 9.74861111,
+        "7": 47.5063889,
+        "10": "Europe/Vienna"
+      },
+      {
+        "1": "Breda Railway Station, Netherlands (QRZ)",
+        "2": "rail",
+        "3": "QRZ",
+        "4": "GLZ",
+        "5": "Breda",
+        "6": 4.78,
+        "7": 51.5955556,
+        "10": "Europe/Amsterdam"
+      }
+    ]
+  }
+}

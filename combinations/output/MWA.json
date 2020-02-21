@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Marion Williamson County Regional, IL (MWA)",
+        "2": "airport",
+        "3": "MWA",
+        "4": "MWA",
+        "5": "Marion",
+        "6": -89.016667,
+        "7": 37.7513889,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Mwanza, Tanzania (MWZ)",
+        "2": "airport",
+        "3": "MWZ",
+        "4": "MWZ",
+        "5": "Mwanza",
+        "6": 32.9327778,
+        "7": -2.4444444,
+        "10": "Africa/Dar_es_Salaam"
+      }
+    ]
+  }
+}

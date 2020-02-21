@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Hoskins, Papua New Guinea (HKN)",
+        "2": "airport",
+        "3": "HKN",
+        "4": "HKN",
+        "5": "Hoskins",
+        "6": 150.405,
+        "7": -5.4622222,
+        "10": "Pacific/Port_Moresby"
+      },
+      {
+        "1": "Windhoek Hosea Kutako International, Namibia (WDH)",
+        "2": "airport",
+        "3": "WDH",
+        "4": "WDH",
+        "5": "Windhoek",
+        "6": 17.4708333,
+        "7": -22.48,
+        "10": "Africa/Windhoek"
+      }
+    ]
+  }
+}

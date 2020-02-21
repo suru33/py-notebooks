@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "San Juan Fernando Luis Ribas Dominicci, PR (SIG)",
+        "2": "airport",
+        "3": "SIG",
+        "4": "SJU",
+        "5": "San Juan",
+        "6": -66.098056,
+        "7": 18.4569444,
+        "10": "America/St_Thomas"
+      },
+      {
+        "1": "Sigiriya, Sri Lanka (GIU)",
+        "2": "airport",
+        "3": "GIU",
+        "4": "GIU",
+        "5": "Sigiriya",
+        "6": 80.7283333,
+        "7": 7.95611111,
+        "10": "Asia/Colombo"
+      }
+    ]
+  }
+}

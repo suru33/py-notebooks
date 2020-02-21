@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bismarck Municipal, ND (BIS)",
+        "2": "airport",
+        "3": "BIS",
+        "4": "BIS",
+        "5": "Bismarck",
+        "6": -100.74583,
+        "7": 46.7722222,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Bishkek Manas International, Kyrgyzstan (FRU)",
+        "2": "airport",
+        "3": "FRU",
+        "4": "FRU",
+        "5": "Bishkek",
+        "6": 74.4775,
+        "7": 43.0613889,
+        "10": "Asia/Bishkek"
+      },
+      {
+        "1": "Bissau Osvaldo Vieira International, Guinea-Bissau (OXB)",
+        "2": "airport",
+        "3": "OXB",
+        "4": "OXB",
+        "5": "Bissau",
+        "6": -15.653611,
+        "7": 11.8947222,
+        "10": "Africa/Bissau"
+      },
+      {
+        "1": "Biskra Mohamed Khider, Algeria (BSK)",
+        "2": "airport",
+        "3": "BSK",
+        "4": "BSK",
+        "5": "Biskra",
+        "6": 5.73833333,
+        "7": 34.7933333,
+        "10": "Africa/Algiers"
+      },
+      {
+        "1": "Bisha, Saudi Arabia (BHH)",
+        "2": "airport",
+        "3": "BHH",
+        "4": "BHH",
+        "5": "Bisha",
+        "6": 42.6208333,
+        "7": 19.9844444,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "Flint Bishop International, MI (FNT)",
+        "2": "airport",
+        "3": "FNT",
+        "4": "FNT",
+        "5": "Flint",
+        "6": -83.743611,
+        "7": 42.9655556,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

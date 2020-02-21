@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Nauru Island International, Nauru (INU)",
+        "2": "airport",
+        "3": "INU",
+        "4": "INU",
+        "5": "Nauru Island",
+        "6": 166.916944,
+        "7": -0.5455556,
+        "10": "Pacific/Nauru"
+      },
+      {
+        "1": "Inuvik Mike Zubko, NT, Canada (YEV)",
+        "2": "airport",
+        "3": "YEV",
+        "4": "YEV",
+        "5": "Inuvik",
+        "6": -133.48278,
+        "7": 68.3041667,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "Inukjuak, QC, Canada (YPH)",
+        "2": "airport",
+        "3": "YPH",
+        "4": "YPH",
+        "5": "Inukjuak",
+        "6": -78.078333,
+        "7": 58.4711111,
+        "10": "America/Montreal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Ouzinkie, AK (KOZ)",
+        "2": "airport",
+        "3": "KOZ",
+        "4": "KOZ",
+        "5": "Ouzinkie",
+        "6": -152.49667,
+        "7": 57.9255556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Kozhikode International, India (CCJ)",
+        "2": "airport",
+        "3": "CCJ",
+        "4": "CCJ",
+        "5": "Calicut",
+        "6": 75.9552778,
+        "7": 11.1369444,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Kozani Filippos, Greece (KZI)",
+        "2": "airport",
+        "3": "KZI",
+        "4": "KZI",
+        "5": "Kozani",
+        "6": 21.8408333,
+        "7": 40.2861111,
+        "10": "Europe/Athens"
+      }
+    ]
+  }
+}

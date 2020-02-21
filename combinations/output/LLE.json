@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lleida Alguaire, Spain (ILD)",
+        "2": "airport",
+        "3": "ILD",
+        "4": "ILD",
+        "5": "Lleida",
+        "6": 0.53527778,
+        "7": 41.7280556,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Lleida Railway Station, Spain (QLQ)",
+        "2": "rail",
+        "3": "QLQ",
+        "4": "ILD",
+        "5": "Lleida",
+        "6": 0.63305556,
+        "7": 41.6208333,
+        "10": "Europe/Madrid"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Wainwright, AK (AIN)",
+        "2": "airport",
+        "3": "AIN",
+        "4": "AIN",
+        "5": "Wainwright",
+        "6": -159.86694,
+        "7": 70.6136111,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Constantine Mohamed Boudiaf, Algeria (CZL)",
+        "2": "airport",
+        "3": "CZL",
+        "4": "CZL",
+        "5": "Constantine",
+        "6": 6.62027778,
+        "7": 36.2761111,
+        "10": "Africa/Algiers"
+      },
+      {
+        "1": "Ouargla Ain el Beida, Algeria (OGX)",
+        "2": "airport",
+        "3": "OGX",
+        "4": "OGX",
+        "5": "Ouargla",
+        "6": 5.41055556,
+        "7": 31.9238889,
+        "10": "Africa/Algiers"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Ondangwa, Namibia (OND)",
+        "2": "airport",
+        "3": "OND",
+        "4": "OND",
+        "5": "Ondangwa",
+        "6": 15.9472222,
+        "7": -17.880556,
+        "10": "Africa/Windhoek"
+      },
+      {
+        "1": "Ondjiva, Angola (VPE)",
+        "2": "airport",
+        "3": "VPE",
+        "4": "VPE",
+        "5": "Ongiva",
+        "6": 15.6847222,
+        "7": -17.043889,
+        "10": "Africa/Luanda"
+      }
+    ]
+  }
+}

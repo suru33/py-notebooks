@@ -1,0 +1,126 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sao Paulo, Brazil - All airports",
+        "2": "city",
+        "3": "SAO",
+        "4": "SAO",
+        "5": "Sao Paulo",
+        "6": -46.73544363985243,
+        "7": -23.326691832166574,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Sao Paulo Guarulhos International, Brazil (GRU)",
+        "2": "airport",
+        "3": "GRU",
+        "4": "SAO",
+        "5": "Sao Paulo",
+        "6": -46.469444,
+        "7": -23.431944,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Sao Paulo Viracopos-Campinas International, Brazil (VCP)",
+        "2": "airport",
+        "3": "VCP",
+        "4": "SAO",
+        "5": "Sao Paulo",
+        "6": -47.134722,
+        "7": -23.008056,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Sao Paulo Congonhas, Brazil (CGH)",
+        "2": "airport",
+        "3": "CGH",
+        "4": "SAO",
+        "5": "Sao Paulo",
+        "6": -46.658056,
+        "7": -23.626667,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Sao Luis Cunha Machado International, Brazil (SLZ)",
+        "2": "airport",
+        "3": "SLZ",
+        "4": "SLZ",
+        "5": "Sao Luiz",
+        "6": -44.234167,
+        "7": -2.5852778,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Sao Jose do Rio Preto Eribelto Manoel Reino, Brazil (SJP)",
+        "2": "airport",
+        "3": "SJP",
+        "4": "SJP",
+        "5": "Sao Jose do Rio Preto",
+        "6": -49.406389,
+        "7": -20.816667,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Sao Tome International, Sao Tome and Principe (TMS)",
+        "2": "airport",
+        "3": "TMS",
+        "4": "TMS",
+        "5": "Sao Tome Island",
+        "6": 6.71222222,
+        "7": 0.37805556,
+        "10": "Africa/Sao_Tome"
+      },
+      {
+        "1": "Sao Vicente Island Sao Pedro, Cape Verde (VXE)",
+        "2": "airport",
+        "3": "VXE",
+        "4": "VXE",
+        "5": "Sao Vicente",
+        "6": -25.054722,
+        "7": 16.8336111,
+        "10": "Atlantic/Cape_Verde"
+      },
+      {
+        "1": "Sao Jorge Island, Portugal (SJZ)",
+        "2": "airport",
+        "3": "SJZ",
+        "4": "SJZ",
+        "5": "Sao Jorge Island",
+        "6": -28.175833,
+        "7": 38.6655556,
+        "10": "Atlantic/Azores"
+      },
+      {
+        "1": "Sao Jose dos Campos U.E. Stumpf International, Brazil (SJK)",
+        "2": "airport",
+        "3": "SJK",
+        "4": "SJK",
+        "5": "Sao Jose Dos Campos",
+        "6": -45.862778,
+        "7": -23.228056,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Sao Nicolau Island Preguica, Cape Verde (SNE)",
+        "2": "airport",
+        "3": "SNE",
+        "4": "SNE",
+        "5": "Sao Nicolau",
+        "6": -24.284167,
+        "7": 16.5886111,
+        "10": "Atlantic/Cape_Verde"
+      },
+      {
+        "1": "Sao Filipe, Cape Verde (SFL)",
+        "2": "airport",
+        "3": "SFL",
+        "4": "SFL",
+        "5": "Sao Filipe",
+        "6": -24.481944,
+        "7": 14.8866667,
+        "10": "Atlantic/Cape_Verde"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Altamira, Brazil (ATM)",
+        "2": "airport",
+        "3": "ATM",
+        "4": "ATM",
+        "5": "Altamira",
+        "6": -52.253889,
+        "7": -3.2538889,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Atmautluak, AK (ATT)",
+        "2": "airport",
+        "3": "ATT",
+        "4": "ATT",
+        "5": "Atmautluak",
+        "6": -162.27389,
+        "7": 60.8669444,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

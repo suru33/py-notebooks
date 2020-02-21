@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kiev, Ukraine - All airports",
+        "2": "city",
+        "3": "IEV",
+        "4": "IEV",
+        "5": "Kiev",
+        "6": 30.721807238909516,
+        "7": 50.36701914657445,
+        "10": "Europe/Kiev"
+      },
+      {
+        "1": "Kiev Zhuliany International, Ukraine (IEV)",
+        "2": "airport",
+        "3": "IEV",
+        "4": "IEV",
+        "5": "Kiev",
+        "6": 30.4497222,
+        "7": 50.4016667,
+        "10": "Europe/Kiev"
+      }
+    ]
+  }
+}

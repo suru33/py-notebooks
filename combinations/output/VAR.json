@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Varna, Bulgaria (VAR)",
+        "2": "airport",
+        "3": "VAR",
+        "4": "VAR",
+        "5": "Varna",
+        "6": 27.825,
+        "7": 43.2319444,
+        "10": "Europe/Sofia"
+      },
+      {
+        "1": "Varadero Juan G. Gomez International, Cuba (VRA)",
+        "2": "airport",
+        "3": "VRA",
+        "4": "VRA",
+        "5": "Varadero",
+        "6": -81.435278,
+        "7": 23.0344444,
+        "10": "America/Havana"
+      },
+      {
+        "1": "Varanasi Lal Bahadur Shastri, India (VNS)",
+        "2": "airport",
+        "3": "VNS",
+        "4": "VNS",
+        "5": "Varanasi",
+        "6": 82.8594444,
+        "7": 25.4522222,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Vardo Svartnes, Norway (VAW)",
+        "2": "airport",
+        "3": "VAW",
+        "4": "VAW",
+        "5": "Vardoe",
+        "6": 31.045,
+        "7": 70.3552778,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Varginha Maj. Brig. Trompowsky, Brazil (VAG)",
+        "2": "airport",
+        "3": "VAG",
+        "4": "VAG",
+        "5": "Varginha",
+        "6": -45.473889,
+        "7": -21.59,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Barrancabermeja Yariguies, Colombia (EJA)",
+        "2": "airport",
+        "3": "EJA",
+        "4": "EJA",
+        "5": "Barrancabermeja",
+        "6": -73.806667,
+        "7": 7.02444444,
+        "10": "America/Bogota"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Haikou Meilan International, China (HAK)",
+        "2": "airport",
+        "3": "HAK",
+        "4": "HAK",
+        "5": "Haikou",
+        "6": 110.458889,
+        "7": 19.9347222,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Hailey/Sun Valley Friedman Memorial, ID (SUN)",
+        "2": "airport",
+        "3": "SUN",
+        "4": "SUN",
+        "5": "Sun Valley",
+        "6": -114.29722,
+        "7": 43.5055556,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Hailar Dongshan, China (HLD)",
+        "2": "airport",
+        "3": "HLD",
+        "4": "HLD",
+        "5": "Hailar",
+        "6": 119.816667,
+        "7": 49.2086111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Hail, Saudi Arabia (HAS)",
+        "2": "airport",
+        "3": "HAS",
+        "4": "HAS",
+        "5": "Hail",
+        "6": 41.6863889,
+        "7": 27.4380556,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "Haiphong Cat Bi International, Viet Nam (HPH)",
+        "2": "airport",
+        "3": "HPH",
+        "4": "HPH",
+        "5": "Haiphong",
+        "6": 106.725,
+        "7": 20.8194444,
+        "10": "Asia/Ho_Chi_Minh"
+      },
+      {
+        "1": "Haines, AK (HNS)",
+        "2": "airport",
+        "3": "HNS",
+        "4": "HNS",
+        "5": "Haines",
+        "6": -135.52361,
+        "7": 59.2438889,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

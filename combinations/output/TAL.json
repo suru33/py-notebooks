@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tanana Ralph M. Calhoun Mem., AK (TAL)",
+        "2": "airport",
+        "3": "TAL",
+        "4": "TAL",
+        "5": "Tanana",
+        "6": -152.10667,
+        "7": 65.1747222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Tallinn Lennart Meri, Estonia (TLL)",
+        "2": "airport",
+        "3": "TLL",
+        "4": "TLL",
+        "5": "Tallinn",
+        "6": 24.8325,
+        "7": 59.4133333,
+        "10": "Europe/Tallinn"
+      },
+      {
+        "1": "Tallahassee International, FL (TLH)",
+        "2": "airport",
+        "3": "TLH",
+        "4": "TLH",
+        "5": "Tallahassee",
+        "6": -84.349722,
+        "7": 30.3916667,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Talakan, Russia (TLK)",
+        "2": "airport",
+        "3": "TLK",
+        "4": "TLK",
+        "5": "Talakan",
+        "6": 111.045556,
+        "7": 59.8816667,
+        "10": "Asia/Yakutsk"
+      },
+      {
+        "1": "Taloyoak, NU, Canada (YYH)",
+        "2": "airport",
+        "3": "YYH",
+        "4": "YYH",
+        "5": "Taloyak",
+        "6": -93.576667,
+        "7": 69.5466667,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "Talara Victor Monteas Arias, Peru (TYL)",
+        "2": "airport",
+        "3": "TYL",
+        "4": "TYL",
+        "5": "Talara",
+        "6": -81.254167,
+        "7": -4.5766667,
+        "10": "America/Lima"
+      },
+      {
+        "1": "Taldykorgan, Kazakhstan (TDK)",
+        "2": "airport",
+        "3": "TDK",
+        "4": "TDK",
+        "5": "Taldy Kurgan",
+        "6": 78.4427778,
+        "7": 45.1227778,
+        "10": "Asia/Almaty"
+      },
+      {
+        "1": "Badajoz, Spain (BJZ)",
+        "2": "airport",
+        "3": "BJZ",
+        "4": "BJZ",
+        "5": "Badajoz",
+        "6": -6.8213889,
+        "7": 38.8913889,
+        "10": "Europe/Madrid"
+      }
+    ]
+  }
+}

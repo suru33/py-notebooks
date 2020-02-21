@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Hendersonv. Asheville Regional, NC (AVL)",
+        "2": "airport",
+        "3": "AVL",
+        "4": "AVL",
+        "5": "Asheville",
+        "6": -82.541944,
+        "7": 35.4361111,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Ashgabat International, Turkmenistan (ASB)",
+        "2": "airport",
+        "3": "ASB",
+        "4": "ASB",
+        "5": "Ashgabat",
+        "6": 58.3608333,
+        "7": 37.9869444,
+        "10": "Asia/Ashgabat"
+      },
+      {
+        "1": "Ashford International Railway Station, United Kingdom (QDH)",
+        "2": "rail",
+        "3": "QDH",
+        "4": "QDH",
+        "5": "Ashford International Rail Station",
+        "6": 0.87472222,
+        "7": 51.1433333,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

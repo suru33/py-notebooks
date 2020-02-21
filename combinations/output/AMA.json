@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Amarillo Rick Husband International, TX (AMA)",
+        "2": "airport",
+        "3": "AMA",
+        "4": "AMA",
+        "5": "Amarillo",
+        "6": -101.70583,
+        "7": 35.2194444,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Amami, Japan (ASJ)",
+        "2": "airport",
+        "3": "ASJ",
+        "4": "ASJ",
+        "5": "Amami O Shima",
+        "6": 129.7125,
+        "7": 28.4305556,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Amasya Merzifon, Turkey (MZH)",
+        "2": "airport",
+        "3": "MZH",
+        "4": "MZH",
+        "5": "Merzifon",
+        "6": 35.5202778,
+        "7": 40.8286111,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Amakusa, Japan (AXJ)",
+        "2": "airport",
+        "3": "AXJ",
+        "4": "AXJ",
+        "5": "Amakusa",
+        "6": 130.158889,
+        "7": 32.4822222,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Lucknow Chaudhary Charan Singh, India (LKO)",
+        "2": "airport",
+        "3": "LKO",
+        "4": "LKO",
+        "5": "Lucknow",
+        "6": 80.8894444,
+        "7": 26.7605556,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Majuro Amata Kabua International, Marshall Islands (MAJ)",
+        "2": "airport",
+        "3": "MAJ",
+        "4": "MAJ",
+        "5": "Majuro",
+        "6": 171.271944,
+        "7": 7.06472222,
+        "10": "Pacific/Kwajalein"
+      }
+    ]
+  }
+}

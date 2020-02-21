@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Haikou Meilan International, China (HAK)",
+        "2": "airport",
+        "3": "HAK",
+        "4": "HAK",
+        "5": "Haikou",
+        "6": 110.458889,
+        "7": 19.9347222,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Hakodate, Japan (HKD)",
+        "2": "airport",
+        "3": "HKD",
+        "4": "HKD",
+        "5": "Hakodate",
+        "6": 140.821944,
+        "7": 41.77,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Hakkari Yuksekova, Turkey (YKO)",
+        "2": "airport",
+        "3": "YKO",
+        "4": "YKO",
+        "5": "Hakkari",
+        "6": 44.2383333,
+        "7": 37.5494444,
+        "10": "Europe/Istanbul"
+      }
+    ]
+  }
+}

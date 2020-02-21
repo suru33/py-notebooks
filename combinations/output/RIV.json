@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Riverton Regional, WY (RIW)",
+        "2": "airport",
+        "3": "RIW",
+        "4": "RIW",
+        "5": "Riverton",
+        "6": -108.46,
+        "7": 43.0655556,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Rivas Costa Esmeralda, Nicaragua (ECI)",
+        "2": "airport",
+        "3": "ECI",
+        "4": "ECI",
+        "5": "Rivas",
+        "6": -86.033333,
+        "7": 11.4275,
+        "10": "America/Managua"
+      }
+    ]
+  }
+}

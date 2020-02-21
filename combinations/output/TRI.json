@@ -1,0 +1,106 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tri-cities Reg'l, TN (TRI)",
+        "2": "airport",
+        "3": "TRI",
+        "4": "TRI",
+        "5": "Tri-Cities Regional",
+        "6": -82.4075,
+        "7": 36.4752778,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Trieste Ronchi dei Legionari, Italy (TRS)",
+        "2": "airport",
+        "3": "TRS",
+        "4": "TRS",
+        "5": "Trieste",
+        "6": 13.4722222,
+        "7": 45.8275,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Tripoli Mitiga, Libya (MJI)",
+        "2": "airport",
+        "3": "MJI",
+        "4": "TIP",
+        "5": "Tripoli",
+        "6": 13.2897222,
+        "7": 32.8933333,
+        "10": "Africa/Tripoli"
+      },
+      {
+        "1": "Trinidad Jorge Henrich Arauz, Bolivia (TDD)",
+        "2": "airport",
+        "3": "TDD",
+        "4": "TDD",
+        "5": "Trinidad",
+        "6": -64.915,
+        "7": -14.821667,
+        "10": "America/La_Paz"
+      },
+      {
+        "1": "Trincomalee China Bay, Sri Lanka (TRR)",
+        "2": "airport",
+        "3": "TRR",
+        "4": "TRR",
+        "5": "Trincomalee",
+        "6": 81.1819444,
+        "7": 8.53972222,
+        "10": "Asia/Colombo"
+      },
+      {
+        "1": "Trieste Railway Station, Italy (TXB)",
+        "2": "rail",
+        "3": "TXB",
+        "4": "TRS",
+        "5": "Trieste",
+        "6": 13.7722222,
+        "7": 45.6572222,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Pasco Tri-Cities, WA (PSC)",
+        "2": "airport",
+        "3": "PSC",
+        "4": "PSC",
+        "5": "Pasco",
+        "6": -119.11667,
+        "7": 46.2666667,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Kathmandu Tribhuvan International, Nepal (KTM)",
+        "2": "airport",
+        "3": "KTM",
+        "4": "KTM",
+        "5": "Kathmandu",
+        "6": 85.3591667,
+        "7": 27.6966667,
+        "10": "Asia/Katmandu"
+      },
+      {
+        "1": "Huntington Tri-State, WV (HTS)",
+        "2": "airport",
+        "3": "HTS",
+        "4": "HTS",
+        "5": "Huntington",
+        "6": -82.559167,
+        "7": 38.3683333,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Saginaw/Midland/Bay C. MBS International, MI (MBS)",
+        "2": "airport",
+        "3": "MBS",
+        "4": "MBS",
+        "5": "Saginaw",
+        "6": -84.0825,
+        "7": 43.5319444,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

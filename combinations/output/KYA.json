@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Konya, Turkey (KYA)",
+        "2": "airport",
+        "3": "KYA",
+        "4": "KYA",
+        "5": "Konya",
+        "6": 32.5619444,
+        "7": 37.9788889,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Kyaukpyu, Myanmar (KYP)",
+        "2": "airport",
+        "3": "KYP",
+        "4": "KYP",
+        "5": "Kyaukpyu",
+        "6": 93.5347222,
+        "7": 19.4263889,
+        "10": "Asia/Rangoon"
+      }
+    ]
+  }
+}

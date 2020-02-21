@@ -1,0 +1,96 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Chuathbaluk, AK (CHU)",
+        "2": "airport",
+        "3": "CHU",
+        "4": "CHU",
+        "5": "Chuathbaluk",
+        "6": -159.23778,
+        "7": 61.5847222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Chuuk International, Micronesia (TKK)",
+        "2": "airport",
+        "3": "TKK",
+        "4": "TKK",
+        "5": "Truk",
+        "6": 151.843056,
+        "7": 7.46194444,
+        "10": "Pacific/Truk"
+      },
+      {
+        "1": "Churchill Falls, NL, Canada (ZUM)",
+        "2": "airport",
+        "3": "ZUM",
+        "4": "ZUM",
+        "5": "Churchill Falls",
+        "6": -64.106111,
+        "7": 53.5627778,
+        "10": "America/Halifax"
+      },
+      {
+        "1": "Churchill, MB, Canada (YYQ)",
+        "2": "airport",
+        "3": "YYQ",
+        "4": "YYQ",
+        "5": "Churchill",
+        "6": -94.068611,
+        "7": 58.7366667,
+        "10": "America/Rainy_River"
+      },
+      {
+        "1": "Chu Lai International, Viet Nam (VCL)",
+        "2": "airport",
+        "3": "VCL",
+        "4": "VCL",
+        "5": "Tamky",
+        "6": 108.707222,
+        "7": 15.4075,
+        "10": "Asia/Ho_Chi_Minh"
+      },
+      {
+        "1": "Chumphon, Thailand (CJM)",
+        "2": "airport",
+        "3": "CJM",
+        "4": "CJM",
+        "5": "Chumphon",
+        "6": 99.3616667,
+        "7": 10.7113889,
+        "10": "Asia/Bangkok"
+      },
+      {
+        "1": "Churchill Railway Station, MB, Canada (XAD)",
+        "2": "rail",
+        "3": "XAD",
+        "4": "YYQ",
+        "5": "Churchill",
+        "6": -94.1725,
+        "7": 58.7669444,
+        "10": "America/Rainy_River"
+      },
+      {
+        "1": "Nagoya Chubu Centrair International, Japan (NGO)",
+        "2": "airport",
+        "3": "NGO",
+        "4": "NGO",
+        "5": "Nagoya",
+        "6": 136.805278,
+        "7": 34.8583333,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Iquique Diego Aracena, Chile (IQQ)",
+        "2": "airport",
+        "3": "IQQ",
+        "4": "IQQ",
+        "5": "Iquique",
+        "6": -70.181389,
+        "7": -20.535278,
+        "10": "America/Santiago"
+      }
+    ]
+  }
+}

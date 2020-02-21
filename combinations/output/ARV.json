@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Arvidsjaur, Sweden (AJR)",
+        "2": "airport",
+        "3": "AJR",
+        "4": "AJR",
+        "5": "Arvidsjaur",
+        "6": 19.2819444,
+        "7": 65.5902778,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Arviat, NU, Canada (YEK)",
+        "2": "airport",
+        "3": "YEK",
+        "4": "YEK",
+        "5": "Arviat",
+        "6": -94.070833,
+        "7": 61.0941667,
+        "10": "America/Rainy_River"
+      }
+    ]
+  }
+}

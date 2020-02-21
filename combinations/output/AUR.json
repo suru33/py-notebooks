@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Aurillac, France (AUR)",
+        "2": "airport",
+        "3": "AUR",
+        "4": "AUR",
+        "5": "Aurillac",
+        "6": 2.41666667,
+        "7": 44.8975,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Aurukun, Australia (AUU)",
+        "2": "airport",
+        "3": "AUU",
+        "4": "AUU",
+        "5": "Aurukun Mission",
+        "6": 141.720833,
+        "7": -13.353889,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Aurangabad, India (IXU)",
+        "2": "airport",
+        "3": "IXU",
+        "4": "IXU",
+        "5": "Aurangabad",
+        "6": 75.3980556,
+        "7": 19.8627778,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

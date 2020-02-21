@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Aracatuba Dario Guarita, Brazil (ARU)",
+        "2": "airport",
+        "3": "ARU",
+        "4": "ARU",
+        "5": "Aracatuba",
+        "6": -50.424722,
+        "7": -21.141389,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Aruba Reina Beatrix, Aruba (AUA)",
+        "2": "airport",
+        "3": "AUA",
+        "4": "AUA",
+        "5": "Aruba",
+        "6": -70.015278,
+        "7": 12.5013889,
+        "10": "America/Aruba"
+      },
+      {
+        "1": "Arusha, Tanzania (ARK)",
+        "2": "airport",
+        "3": "ARK",
+        "4": "ARK",
+        "5": "Arusha",
+        "6": 36.625,
+        "7": -3.3672222,
+        "10": "Africa/Dar_es_Salaam"
+      },
+      {
+        "1": "Arutua, French Polynesia (AXR)",
+        "2": "airport",
+        "3": "AXR",
+        "4": "AXR",
+        "5": "Arutua",
+        "6": -146.61667,
+        "7": -15.248333,
+        "10": "Pacific/Tahiti"
+      }
+    ]
+  }
+}

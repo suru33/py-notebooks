@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Belo Horizonte Pampulha, Brazil (PLU)",
+        "2": "airport",
+        "3": "PLU",
+        "4": "BHZ",
+        "5": "Belo Horizonte",
+        "6": -43.950556,
+        "7": -19.851111,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Mendoza El Plumerillo, Argentina (MDZ)",
+        "2": "airport",
+        "3": "MDZ",
+        "4": "MDZ",
+        "5": "Mendoza",
+        "6": -68.792778,
+        "7": -32.831667,
+        "10": "America/Argentina/Mendoza"
+      },
+      {
+        "1": "Quimper Pluguffan, France (UIP)",
+        "2": "airport",
+        "3": "UIP",
+        "4": "UIP",
+        "5": "Quimper",
+        "6": -4.1677778,
+        "7": 47.975,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

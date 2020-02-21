@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dourados F. de Matos Pereira, Brazil (DOU)",
+        "2": "airport",
+        "3": "DOU",
+        "4": "DOU",
+        "5": "Dourados",
+        "6": -54.926667,
+        "7": -22.201389,
+        "10": "America/Cuiaba"
+      },
+      {
+        "1": "Charlotte Douglas International, NC (CLT)",
+        "2": "airport",
+        "3": "CLT",
+        "4": "CLT",
+        "5": "Charlotte",
+        "6": -80.943056,
+        "7": 35.2138889,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Douala International, Cameroon (DLA)",
+        "2": "airport",
+        "3": "DLA",
+        "4": "DLA",
+        "5": "Douala",
+        "6": 9.71944444,
+        "7": 4.00611111,
+        "10": "Africa/Douala"
+      },
+      {
+        "1": "Albany Southwest Georgia Regional, GA (ABY)",
+        "2": "airport",
+        "3": "ABY",
+        "4": "ABY",
+        "5": "Albany",
+        "6": -84.194444,
+        "7": 31.5355556,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

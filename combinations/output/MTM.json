@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Metlakatla Sea Plane Base, AK (MTM)",
+        "2": "airport",
+        "3": "MTM",
+        "4": "MTM",
+        "5": "Metlakatla",
+        "6": -131.58333,
+        "7": 55.1333333,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Mount Magnet, Australia (MMG)",
+        "2": "airport",
+        "3": "MMG",
+        "4": "MMG",
+        "5": "Mount Magnet",
+        "6": 117.841667,
+        "7": -28.116111,
+        "10": "Australia/Perth"
+      }
+    ]
+  }
+}

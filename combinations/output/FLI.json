@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Flint Bishop International, MI (FNT)",
+        "2": "airport",
+        "3": "FNT",
+        "4": "FNT",
+        "5": "Flint",
+        "6": -83.743611,
+        "7": 42.9655556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Flin Flon, MB, Canada (YFO)",
+        "2": "airport",
+        "3": "YFO",
+        "4": "YFO",
+        "5": "Flin Flon",
+        "6": -101.68167,
+        "7": 54.6780556,
+        "10": "America/Rainy_River"
+      },
+      {
+        "1": "Flinders Island, Australia (FLS)",
+        "2": "airport",
+        "3": "FLS",
+        "4": "FLS",
+        "5": "Flinders Island",
+        "6": 147.993889,
+        "7": -40.094444,
+        "10": "Australia/Hobart"
+      }
+    ]
+  }
+}

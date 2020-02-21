@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Vanimo, Papua New Guinea (VAI)",
+        "2": "airport",
+        "3": "VAI",
+        "4": "VAI",
+        "5": "Vanimo",
+        "6": 141.3025,
+        "7": -2.6925,
+        "10": "Pacific/Port_Moresby"
+      },
+      {
+        "1": "Vail/Eagle Eagle County Regional, CO (EGE)",
+        "2": "airport",
+        "3": "EGE",
+        "4": "EGE",
+        "5": "Vail",
+        "6": -106.91778,
+        "7": 39.6425,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

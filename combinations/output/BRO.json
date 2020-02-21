@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Brownsville South Padre Is. International, TX (BRO)",
+        "2": "airport",
+        "3": "BRO",
+        "4": "BRO",
+        "5": "Brownsville",
+        "6": -97.425833,
+        "7": 25.9069444,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Broome International, Australia (BME)",
+        "2": "airport",
+        "3": "BME",
+        "4": "BME",
+        "5": "Broome",
+        "6": 122.228333,
+        "7": -17.948889,
+        "10": "Australia/Perth"
+      },
+      {
+        "1": "Broken Hill, Australia (BHQ)",
+        "2": "airport",
+        "3": "BHQ",
+        "4": "BHQ",
+        "5": "Broken Hill",
+        "6": 141.471667,
+        "7": -32.001389,
+        "10": "Australia/Adelaide"
+      },
+      {
+        "1": "Bronnoysund Bronnoy, Norway (BNN)",
+        "2": "airport",
+        "3": "BNN",
+        "4": "BNN",
+        "5": "Bronnoysund",
+        "6": 12.2175,
+        "7": 65.4611111,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Qikiqtarjuaq Broughton Island, NU, Canada (YVM)",
+        "2": "airport",
+        "3": "YVM",
+        "4": "YVM",
+        "5": "Broughton Island",
+        "6": -64.031389,
+        "7": 67.5458333,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Stockholm Bromma, Sweden (BMA)",
+        "2": "airport",
+        "3": "BMA",
+        "4": "STO",
+        "5": "Stockholm",
+        "6": 17.9416667,
+        "7": 59.3544444,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Greater Binghamton, NY (BGM)",
+        "2": "airport",
+        "3": "BGM",
+        "4": "BGM",
+        "5": "Binghamton",
+        "6": -75.979722,
+        "7": 42.2086111,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

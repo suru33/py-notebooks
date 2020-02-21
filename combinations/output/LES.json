@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Toronto Lester B. Pearson International, ON, Canada (YYZ)",
+        "2": "airport",
+        "3": "YYZ",
+        "4": "YTO",
+        "5": "Toronto",
+        "6": -79.630556,
+        "7": 43.6772222,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Lille Lesquin, France (LIL)",
+        "2": "airport",
+        "3": "LIL",
+        "4": "LIL",
+        "5": "Lille",
+        "6": 3.08694444,
+        "7": 50.5633333,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Annaba Rabah Bitat, Algeria (AAE)",
+        "2": "airport",
+        "3": "AAE",
+        "4": "AAE",
+        "5": "Annaba",
+        "6": 7.80916667,
+        "7": 36.8222222,
+        "10": "Africa/Algiers"
+      },
+      {
+        "1": "Marie-Galante, Guadeloupe (GBJ)",
+        "2": "airport",
+        "3": "GBJ",
+        "4": "GBJ",
+        "5": "Marie Galante",
+        "6": -61.27,
+        "7": 15.8688889,
+        "10": "America/Guadeloupe"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Atmautluak, AK (ATT)",
+        "2": "airport",
+        "3": "ATT",
+        "4": "ATT",
+        "5": "Atmautluak",
+        "6": -162.27389,
+        "7": 60.8669444,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Attawapiskat, ON, Canada (YAT)",
+        "2": "airport",
+        "3": "YAT",
+        "4": "YAT",
+        "5": "Attawapiskat",
+        "6": -82.431111,
+        "7": 52.9277778,
+        "10": "America/Montreal"
+      }
+    ]
+  }
+}

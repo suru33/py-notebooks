@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Pleiku, Viet Nam (PXU)",
+        "2": "airport",
+        "3": "PXU",
+        "4": "PXU",
+        "5": "Pleiku",
+        "6": 108.017222,
+        "7": 14.0044444,
+        "10": "Asia/Ho_Chi_Minh"
+      },
+      {
+        "1": "Plettenberg Bay, South Africa (PBZ)",
+        "2": "airport",
+        "3": "PBZ",
+        "4": "PBZ",
+        "5": "Plettenberg Bay",
+        "6": 23.3266667,
+        "7": -34.088056,
+        "10": "Africa/Johannesburg"
+      },
+      {
+        "1": "Zagreb Franjo Tudman, Croatia (ZAG)",
+        "2": "airport",
+        "3": "ZAG",
+        "4": "ZAG",
+        "5": "Zagreb",
+        "6": 16.0688889,
+        "7": 45.7430556,
+        "10": "Europe/Zagreb"
+      },
+      {
+        "1": "Dinard/St-Malo Pleurtuit, France (DNR)",
+        "2": "airport",
+        "3": "DNR",
+        "4": "DNR",
+        "5": "Dinard",
+        "6": -2.08,
+        "7": 48.5877778,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

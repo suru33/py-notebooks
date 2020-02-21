@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Durban King Shaka International, South Africa (DUR)",
+        "2": "airport",
+        "3": "DUR",
+        "4": "DUR",
+        "5": "Durban",
+        "6": 31.1163889,
+        "7": -29.614444,
+        "10": "Africa/Johannesburg"
+      },
+      {
+        "1": "Durango La Plata County, CO (DRO)",
+        "2": "airport",
+        "3": "DRO",
+        "4": "DRO",
+        "5": "Durango",
+        "6": -107.75361,
+        "7": 37.1522222,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Durango Guadalupe Victoria International, Mexico (DGO)",
+        "2": "airport",
+        "3": "DGO",
+        "4": "DGO",
+        "5": "Durango",
+        "6": -104.52806,
+        "7": 24.1241667,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Durham Tees Valley, United Kingdom (MME)",
+        "2": "airport",
+        "3": "MME",
+        "4": "MME",
+        "5": "Teesside",
+        "6": -1.4294444,
+        "7": 54.5091667,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Durgapur Kazi Nazrul Islam, India (RDP)",
+        "2": "airport",
+        "3": "RDP",
+        "4": "RDP",
+        "5": "Durgapur",
+        "6": 87.2422222,
+        "7": 23.6241667,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Durres Railway Station, Albania (DUH)",
+        "2": "rail",
+        "3": "DUH",
+        "4": "DUH",
+        "5": "Durres",
+        "6": 19.4547222,
+        "7": 41.3177778,
+        "10": "Europe/Tirane"
+      }
+    ]
+  }
+}

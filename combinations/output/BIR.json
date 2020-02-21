@@ -1,0 +1,96 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Biratnagar, Nepal (BIR)",
+        "2": "airport",
+        "3": "BIR",
+        "4": "BIR",
+        "5": "Biratnagar",
+        "6": 87.2666667,
+        "7": 26.4825,
+        "10": "Asia/Katmandu"
+      },
+      {
+        "1": "Birmingham Shuttlesworth International, AL (BHM)",
+        "2": "airport",
+        "3": "BHM",
+        "4": "BHM",
+        "5": "Birmingham",
+        "6": -86.753611,
+        "7": 33.5630556,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Birmingham, United Kingdom (BHX)",
+        "2": "airport",
+        "3": "BHX",
+        "4": "BHX",
+        "5": "Birmingham",
+        "6": -1.7477778,
+        "7": 52.4536111,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Birdsville, Australia (BVI)",
+        "2": "airport",
+        "3": "BVI",
+        "4": "BVI",
+        "5": "Birdsville",
+        "6": 139.345278,
+        "7": -25.891944,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Birch Creek, AK (KBC)",
+        "2": "airport",
+        "3": "KBC",
+        "4": "KBC",
+        "5": "Birch Creek",
+        "6": -145.81889,
+        "7": 66.2722222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Birjand, Iran (XBJ)",
+        "2": "airport",
+        "3": "XBJ",
+        "4": "XBJ",
+        "5": "Birjand",
+        "6": 59.2886111,
+        "7": 32.8938889,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Antigua V.C. Bird International, Antigua and Barbuda (ANU)",
+        "2": "airport",
+        "3": "ANU",
+        "4": "ANU",
+        "5": "Antigua",
+        "6": -61.792778,
+        "7": 17.1366667,
+        "10": "America/Antigua"
+      },
+      {
+        "1": "Trapani Birgi, Italy (TPS)",
+        "2": "airport",
+        "3": "TPS",
+        "4": "TPS",
+        "5": "Trapani",
+        "6": 12.4941667,
+        "7": 37.9075,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "North Platte Regional(Lee Bird Field), NE (LBF)",
+        "2": "airport",
+        "3": "LBF",
+        "4": "LBF",
+        "5": "North Platte",
+        "6": -100.69306,
+        "7": 41.1311111,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

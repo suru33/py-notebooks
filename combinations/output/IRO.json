@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Iron Mountain/Kingsfd. Ford, MI (IMT)",
+        "2": "airport",
+        "3": "IMT",
+        "4": "IMT",
+        "5": "Iron Mountain",
+        "6": -88.116667,
+        "7": 45.8166667,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Ironwood Gogebic-Iron County, MI (IWD)",
+        "2": "airport",
+        "3": "IWD",
+        "4": "IWD",
+        "5": "Ironwood",
+        "6": -90.132778,
+        "7": 46.5277778,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

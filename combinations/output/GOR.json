@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Gorontalo Djalaluddin, Indonesia (GTO)",
+        "2": "airport",
+        "3": "GTO",
+        "4": "GTO",
+        "5": "Gorontalo",
+        "6": 122.851389,
+        "7": 0.63722222,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Gorakhpur, India (GOP)",
+        "2": "airport",
+        "3": "GOP",
+        "4": "GOP",
+        "5": "Gorakhpur",
+        "6": 83.45,
+        "7": 26.7411111,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Gorgan, Iran (GBT)",
+        "2": "airport",
+        "3": "GBT",
+        "4": "GBT",
+        "5": "Gorgan",
+        "6": 54.3980556,
+        "7": 36.9113889,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Gorno-Altaysk, Russia (RGK)",
+        "2": "airport",
+        "3": "RGK",
+        "4": "RGK",
+        "5": "Gorno-Altaysk",
+        "6": 85.8363889,
+        "7": 51.9691667,
+        "10": "Asia/Krasnoyarsk"
+      },
+      {
+        "1": "Goroka, Papua New Guinea (GKA)",
+        "2": "airport",
+        "3": "GKA",
+        "4": "GKA",
+        "5": "Goroka",
+        "6": 145.391944,
+        "7": -6.0816667,
+        "10": "Pacific/Port_Moresby"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "St Gallen-Altenrhein, Switzerland (ACH)",
+        "2": "airport",
+        "3": "ACH",
+        "4": "ACH",
+        "5": "Altenrhein",
+        "6": 9.56083333,
+        "7": 47.485,
+        "10": "Europe/Zurich"
+      },
+      {
+        "1": "Achutupo, Panama (ACU)",
+        "2": "airport",
+        "3": "ACU",
+        "4": "ACU",
+        "5": "Achutupo",
+        "6": -77.966667,
+        "7": 8.43333333,
+        "10": "America/Panama"
+      }
+    ]
+  }
+}

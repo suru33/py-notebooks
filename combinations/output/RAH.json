@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Rafha, Saudi Arabia (RAH)",
+        "2": "airport",
+        "3": "RAH",
+        "4": "RAH",
+        "5": "Rafha",
+        "6": 43.4905556,
+        "7": 29.6263889,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "Rahim Yar Khan Shaikh Zayed International, Pakistan (RYK)",
+        "2": "airport",
+        "3": "RYK",
+        "4": "RYK",
+        "5": "Rahim Yar Khan",
+        "6": 70.2794444,
+        "7": 28.3838889,
+        "10": "Asia/Karachi"
+      }
+    ]
+  }
+}

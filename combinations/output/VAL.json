@@ -1,0 +1,196 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Valenca, Brazil (VAL)",
+        "2": "airport",
+        "3": "VAL",
+        "4": "VAL",
+        "5": "Valenca",
+        "6": -39.066667,
+        "7": -13.366667,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Valencia, Spain (VLC)",
+        "2": "airport",
+        "3": "VLC",
+        "4": "VLC",
+        "5": "Valencia",
+        "6": -0.4816667,
+        "7": 39.4894444,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Val d'Or, QC, Canada (YVO)",
+        "2": "airport",
+        "3": "YVO",
+        "4": "YVO",
+        "5": "Val D'Or",
+        "6": -77.782778,
+        "7": 48.0533333,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Valencia Arturo Michelena International, Venezuela (VLN)",
+        "2": "airport",
+        "3": "VLN",
+        "4": "VLN",
+        "5": "Valencia",
+        "6": -67.928333,
+        "7": 10.1497222,
+        "10": "America/Caracas"
+      },
+      {
+        "1": "Valladolid, Spain (VLL)",
+        "2": "airport",
+        "3": "VLL",
+        "4": "VLL",
+        "5": "Valladolid",
+        "6": -4.8519444,
+        "7": 41.7061111,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Valledupar Alfonso Lopez Pumarejo, Colombia (VUP)",
+        "2": "airport",
+        "3": "VUP",
+        "4": "VUP",
+        "5": "Valledupar",
+        "6": -73.249444,
+        "7": 10.435,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Valdez Pioneer Field, AK (VDZ)",
+        "2": "airport",
+        "3": "VDZ",
+        "4": "VDZ",
+        "5": "Valdez",
+        "6": -146.24833,
+        "7": 61.1338889,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Valdosta Regional, GA (VLD)",
+        "2": "airport",
+        "3": "VLD",
+        "4": "VLD",
+        "5": "Valdosta",
+        "6": -83.276667,
+        "7": 30.7825,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Valesdir, Vanuatu (VLS)",
+        "2": "airport",
+        "3": "VLS",
+        "4": "VLS",
+        "5": "Valesdir",
+        "6": 168.176944,
+        "7": -16.795833,
+        "10": "Pacific/Efate"
+      },
+      {
+        "1": "Valverde El Hierro, Spain (VDE)",
+        "2": "airport",
+        "3": "VDE",
+        "4": "VDE",
+        "5": "Valverde",
+        "6": -17.886944,
+        "7": 27.8147222,
+        "10": "Atlantic/Canary"
+      },
+      {
+        "1": "Valdivia Pichoy, Chile (ZAL)",
+        "2": "airport",
+        "3": "ZAL",
+        "4": "ZAL",
+        "5": "Valdivia",
+        "6": -73.086389,
+        "7": -39.649444,
+        "10": "America/Santiago"
+      },
+      {
+        "1": "Valencia Railway Station, Spain (YJV)",
+        "2": "rail",
+        "3": "YJV",
+        "4": "VLC",
+        "5": "Valencia",
+        "6": -0.3772222,
+        "7": 39.4666667,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Valladolid Campo Grande Railway Station, Spain (XIV)",
+        "2": "rail",
+        "3": "XIV",
+        "4": "VLL",
+        "5": "Valladolid",
+        "6": -4.7269444,
+        "7": 41.6419444,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Valence TGV Railway Station, France (XHK)",
+        "2": "rail",
+        "3": "XHK",
+        "4": "VAF",
+        "5": "Valence",
+        "6": 4.97861111,
+        "7": 44.9916667,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Valladolid Bus Station, Spain (XJN)",
+        "2": "bus",
+        "3": "XJN",
+        "4": "VLL",
+        "5": "Valladolid",
+        "6": -4.7333333,
+        "7": 41.6413889,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Harlingen Valley International, TX (HRL)",
+        "2": "airport",
+        "3": "HRL",
+        "4": "HRL",
+        "5": "Harlingen",
+        "6": -97.654444,
+        "7": 26.2286111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Destin-Ft Walton Beach, FL (VPS)",
+        "2": "airport",
+        "3": "VPS",
+        "4": "VPS",
+        "5": "Valparaiso",
+        "6": -86.52,
+        "7": 30.4866667,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Belem Val de Cans International, Brazil (BEL)",
+        "2": "airport",
+        "3": "BEL",
+        "4": "BEL",
+        "5": "Belem",
+        "6": -48.476389,
+        "7": -1.3791667,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Honningsvag Valan, Norway (HVG)",
+        "2": "airport",
+        "3": "HVG",
+        "4": "HVG",
+        "5": "Honningsvag",
+        "6": 25.9802778,
+        "7": 71.0097222,
+        "10": "Europe/Oslo"
+      }
+    ]
+  }
+}

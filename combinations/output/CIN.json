@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Cincinnati, OH - All airports",
+        "2": "city",
+        "3": "CVG",
+        "4": "CVG",
+        "5": "Cincinnati",
+        "6": -84.61164083389515,
+        "7": 39.06031505142508,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Cincinnati Northern Kentucky International, OH (CVG)",
+        "2": "airport",
+        "3": "CVG",
+        "4": "CVG",
+        "5": "Cincinnati",
+        "6": -84.667778,
+        "7": 39.0488889,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Cincinnati Municipal (Lunken Field), OH (LUK)",
+        "2": "airport",
+        "3": "LUK",
+        "4": "CVG",
+        "5": "Cincinnati",
+        "6": -84.416667,
+        "7": 39.1,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

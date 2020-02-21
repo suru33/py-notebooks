@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tete Chingozi, Mozambique (TET)",
+        "2": "airport",
+        "3": "TET",
+        "4": "TET",
+        "5": "Tete",
+        "6": 33.6402778,
+        "7": -16.104722,
+        "10": "Africa/Maputo"
+      },
+      {
+        "1": "Tete-a-la Baleine, QC, Canada (ZTB)",
+        "2": "airport",
+        "3": "ZTB",
+        "4": "ZTB",
+        "5": "Tete-A-La Baleine",
+        "6": -59.383611,
+        "7": 50.6744444,
+        "10": "America/Blanc-Sablon"
+      },
+      {
+        "1": "Tetouan Saniat R'mel, Morocco (TTU)",
+        "2": "airport",
+        "3": "TTU",
+        "4": "TTU",
+        "5": "Tetuan",
+        "6": -5.3280556,
+        "7": 35.59,
+        "10": "Africa/Casablanca"
+      },
+      {
+        "1": "Teterboro, NJ (TEB)",
+        "2": "airport",
+        "3": "TEB",
+        "4": "TEB",
+        "5": "Teterboro",
+        "6": -74.060833,
+        "7": 40.85,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

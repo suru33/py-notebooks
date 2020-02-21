@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bournemouth International, United Kingdom (BOH)",
+        "2": "airport",
+        "3": "BOH",
+        "4": "BOH",
+        "5": "Bournemouth",
+        "6": -1.8425,
+        "7": 50.78,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Boulia, Australia (BQL)",
+        "2": "airport",
+        "3": "BQL",
+        "4": "BQL",
+        "5": "Boulia",
+        "6": 139.900833,
+        "7": -22.913056,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Bouake, Ivory Coast (BYK)",
+        "2": "airport",
+        "3": "BYK",
+        "4": "BYK",
+        "5": "Bouake",
+        "6": -5.0711111,
+        "7": 7.73694444,
+        "10": "Africa/Abidjan"
+      },
+      {
+        "1": "Tangier Ibn Batouta, Morocco (TNG)",
+        "2": "airport",
+        "3": "TNG",
+        "4": "TNG",
+        "5": "Tangier",
+        "6": -5.9169444,
+        "7": 35.7269444,
+        "10": "Africa/Casablanca"
+      },
+      {
+        "1": "Tiaret Bou Chekif, Algeria (TID)",
+        "2": "airport",
+        "3": "TID",
+        "4": "TID",
+        "5": "Tiaret",
+        "6": 1.46694444,
+        "7": 35.3416667,
+        "10": "Africa/Algiers"
+      }
+    ]
+  }
+}

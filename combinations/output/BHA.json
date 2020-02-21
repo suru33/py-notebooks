@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bhamo, Myanmar (BMO)",
+        "2": "airport",
+        "3": "BMO",
+        "4": "BMO",
+        "5": "Bhamo",
+        "6": 97.25,
+        "7": 24.2666667,
+        "10": "Asia/Rangoon"
+      },
+      {
+        "1": "Bhairahawa Gautam Buddha, Nepal (BWA)",
+        "2": "airport",
+        "3": "BWA",
+        "4": "BWA",
+        "5": "Bhairawa",
+        "6": 83.4163889,
+        "7": 27.5058333,
+        "10": "Asia/Katmandu"
+      },
+      {
+        "1": "Bharatpur, Nepal (BHR)",
+        "2": "airport",
+        "3": "BHR",
+        "4": "BHR",
+        "5": "Bharatpur",
+        "6": 84.4280556,
+        "7": 27.6780556,
+        "10": "Asia/Katmandu"
+      },
+      {
+        "1": "Bhadrapur Chandragadhi, Nepal (BDP)",
+        "2": "airport",
+        "3": "BDP",
+        "4": "BDP",
+        "5": "Bhadrapur",
+        "6": 88.0802778,
+        "7": 26.5705556,
+        "10": "Asia/Katmandu"
+      },
+      {
+        "1": "Bhavnagar, India (BHU)",
+        "2": "airport",
+        "3": "BHU",
+        "4": "BHU",
+        "5": "Bhavnagar",
+        "6": 72.1852778,
+        "7": 21.7522222,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Mersa Matruh, Egypt (MUH)",
+        "2": "airport",
+        "3": "MUH",
+        "4": "MUH",
+        "5": "Mersa Matruh",
+        "6": 27.2166667,
+        "7": 31.3333333,
+        "10": "Africa/Cairo"
+      },
+      {
+        "1": "Lagos Murtala Muhammed International, Nigeria (LOS)",
+        "2": "airport",
+        "3": "LOS",
+        "4": "LOS",
+        "5": "Lagos",
+        "6": 3.32111111,
+        "7": 6.5775,
+        "10": "Africa/Lagos"
+      }
+    ]
+  }
+}

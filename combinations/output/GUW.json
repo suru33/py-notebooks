@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Atyrau, Kazakhstan (GUW)",
+        "2": "airport",
+        "3": "GUW",
+        "4": "GUW",
+        "5": "Atyrau",
+        "6": 51.8213889,
+        "7": 47.1219444,
+        "10": "Asia/Aqtau"
+      },
+      {
+        "1": "Guwahati Gopinath Bordoloi International, India (GAU)",
+        "2": "airport",
+        "3": "GAU",
+        "4": "GAU",
+        "5": "Gauahati",
+        "6": 91.5858333,
+        "7": 26.1061111,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

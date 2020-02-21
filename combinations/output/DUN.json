@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dunhuang, China (DNH)",
+        "2": "airport",
+        "3": "DNH",
+        "4": "DNH",
+        "5": "Dunhuang",
+        "6": 94.6816667,
+        "7": 40.0922222,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Dunedin International, New Zealand (DUD)",
+        "2": "airport",
+        "3": "DUD",
+        "4": "DUD",
+        "5": "Dunedin",
+        "6": 170.1975,
+        "7": -45.929167,
+        "10": "Pacific/Auckland"
+      },
+      {
+        "1": "Dundee, United Kingdom (DND)",
+        "2": "airport",
+        "3": "DND",
+        "4": "DND",
+        "5": "Dundee",
+        "6": -3.0255556,
+        "7": 56.4522222,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Dundo, Angola (DUE)",
+        "2": "airport",
+        "3": "DUE",
+        "4": "DUE",
+        "5": "Dundo",
+        "6": 20.8188889,
+        "7": -7.4005556,
+        "10": "Africa/Luanda"
+      }
+    ]
+  }
+}

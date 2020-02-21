@@ -1,0 +1,25 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Florencia Gustavo A. Paredes, Colombia (FLA)",
+        "2": "airport",
+        "3": "FLA",
+        "4": "FLA",
+        "5": "Florencia",
+        "6": -75.564444,
+        "7": 1.58916667,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Bonaire Flamingo International, Bonaire, Saint Eustatius and Saba (BON)",
+        "2": "airport",
+        "3": "BON",
+        "4": "BON",
+        "5": "Bonaire",
+        "6": -68.268611,
+        "7": 12.1311111
+      }
+    ]
+  }
+}

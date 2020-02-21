@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dallas Love Field, TX (DAL)",
+        "2": "airport",
+        "3": "DAL",
+        "4": "DFW",
+        "5": "Dallas/Fort Worth",
+        "6": -96.851667,
+        "7": 32.8472222,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Chattanooga Metropolitan Apt, TN (CHA)",
+        "2": "airport",
+        "3": "CHA",
+        "4": "CHA",
+        "5": "Chattanooga",
+        "6": -85.203889,
+        "7": 35.0352778,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

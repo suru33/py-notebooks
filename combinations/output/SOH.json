@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sohag International, Egypt (HMB)",
+        "2": "airport",
+        "3": "HMB",
+        "4": "HMB",
+        "5": "Sohag",
+        "6": 31.7427778,
+        "7": 26.3427778,
+        "10": "Africa/Cairo"
+      },
+      {
+        "1": "Sohar, Oman (OHS)",
+        "2": "airport",
+        "3": "OHS",
+        "4": "OHS",
+        "5": "Sohar",
+        "6": 56.6255556,
+        "7": 24.3861111,
+        "10": "Asia/Muscat"
+      }
+    ]
+  }
+}

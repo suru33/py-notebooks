@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "White Plains Westchester County, NY (HPN)",
+        "2": "airport",
+        "3": "HPN",
+        "4": "HPN",
+        "5": "Westchester County",
+        "6": -73.7075,
+        "7": 41.0669444,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Whitehorse Erik Nielsen International, YT, Canada (YXY)",
+        "2": "airport",
+        "3": "YXY",
+        "4": "YXY",
+        "5": "Whitehorse",
+        "6": -135.06722,
+        "7": 60.7094444,
+        "10": "America/Vancouver"
+      },
+      {
+        "1": "White Mountain, AK (WMO)",
+        "2": "airport",
+        "3": "WMO",
+        "4": "WMO",
+        "5": "White Mountain",
+        "6": -163.41111,
+        "7": 64.6863889,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Proserpine Whitsunday Coast, Australia (PPP)",
+        "2": "airport",
+        "3": "PPP",
+        "4": "PPP",
+        "5": "Proserpine",
+        "6": 148.553056,
+        "7": -20.494167,
+        "10": "Australia/Brisbane"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Virgin Gorda, British Virgin Islands (VIJ)",
+        "2": "airport",
+        "3": "VIJ",
+        "4": "VIJ",
+        "5": "Virgin Gorda",
+        "6": -64.428056,
+        "7": 18.4461111,
+        "10": "America/Tortola"
+      },
+      {
+        "1": "Vijayawada, India (VGA)",
+        "2": "airport",
+        "3": "VGA",
+        "4": "VGA",
+        "5": "Vijayawada",
+        "6": 80.7969444,
+        "7": 16.5305556,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

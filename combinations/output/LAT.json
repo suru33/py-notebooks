@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Latrobe Westmoreland, PA (LBE)",
+        "2": "airport",
+        "3": "LBE",
+        "4": "LBE",
+        "5": "Latrobe",
+        "6": -79.404722,
+        "7": 40.2758333,
+        "10": "America/New_York"
+      },
+      {
+        "1": "La Tabatiere, QC, Canada (ZLT)",
+        "2": "airport",
+        "3": "ZLT",
+        "4": "ZLT",
+        "5": "La Tabatiere",
+        "6": -58.975278,
+        "7": 50.8308333,
+        "10": "America/Blanc-Sablon"
+      },
+      {
+        "1": "Latacunga Cotapaxi International, Ecuador (LTX)",
+        "2": "airport",
+        "3": "LTX",
+        "4": "LTX",
+        "5": "Latacunga",
+        "6": -78.615833,
+        "7": -0.9075,
+        "10": "America/Guayaquil"
+      }
+    ]
+  }
+}

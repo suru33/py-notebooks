@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Seronera, Tanzania (SEU)",
+        "2": "airport",
+        "3": "SEU",
+        "4": "SEU",
+        "5": "Seronera",
+        "6": 34.8219444,
+        "7": -2.4572222,
+        "10": "Africa/Dar_es_Salaam"
+      },
+      {
+        "1": "Serui S.Condronegoro, Indonesia (ZRI)",
+        "2": "airport",
+        "3": "ZRI",
+        "4": "ZRI",
+        "5": "Serui",
+        "6": 136.239722,
+        "7": -1.8741667,
+        "10": "Asia/Jayapura"
+      },
+      {
+        "1": "Sermiligaaq Heliport, Greenland (SGG)",
+        "2": "helipad",
+        "3": "SGG",
+        "4": "SGG",
+        "5": "Sermiligaaq",
+        "6": -36.378333,
+        "7": 65.9058333,
+        "10": "America/Godthab"
+      },
+      {
+        "1": "Puebla Hermanos Serdan International, Mexico (PBC)",
+        "2": "airport",
+        "3": "PBC",
+        "4": "PBC",
+        "5": "Puebla",
+        "6": -98.371389,
+        "7": 19.1580556,
+        "10": "America/Cancun"
+      }
+    ]
+  }
+}

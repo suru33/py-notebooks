@@ -1,0 +1,186 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Caracas Simon Bolivar International, Venezuela (CCS)",
+        "2": "airport",
+        "3": "CCS",
+        "4": "CCS",
+        "5": "Caracas",
+        "6": -66.990556,
+        "7": 10.6030556,
+        "10": "America/Caracas"
+      },
+      {
+        "1": "Cardiff, United Kingdom (CWL)",
+        "2": "airport",
+        "3": "CWL",
+        "4": "CWL",
+        "5": "Cardiff",
+        "6": -3.3433333,
+        "7": 51.3966667,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Cartagena Rafael Nunez International, Colombia (CTG)",
+        "2": "airport",
+        "3": "CTG",
+        "4": "CTG",
+        "5": "Cartagena",
+        "6": -75.513056,
+        "7": 10.4425,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Carcassonne Salvaza, France (CCF)",
+        "2": "airport",
+        "3": "CCF",
+        "4": "CCF",
+        "5": "Carcassonne",
+        "6": 2.30861111,
+        "7": 43.2158333,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Parauapebas Carajas, Brazil (CKS)",
+        "2": "airport",
+        "3": "CKS",
+        "4": "CKS",
+        "5": "Carajas",
+        "6": -50.003611,
+        "7": -6.1177778,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Carlsbad Cavern City Air Term., NM (CNM)",
+        "2": "airport",
+        "3": "CNM",
+        "4": "CNM",
+        "5": "Carlsbad",
+        "6": -104.26333,
+        "7": 32.3375,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Carnarvon, Australia (CVQ)",
+        "2": "airport",
+        "3": "CVQ",
+        "4": "CVQ",
+        "5": "Carnarvon",
+        "6": 113.666389,
+        "7": -24.884722,
+        "10": "Australia/Perth"
+      },
+      {
+        "1": "Cartago Santa Ana, Colombia (CRC)",
+        "2": "airport",
+        "3": "CRC",
+        "4": "CRC",
+        "5": "Cartago",
+        "6": -75.956389,
+        "7": 4.75833333,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Carlisle Central Railway Stn., United Kingdom (CXX)",
+        "2": "rail",
+        "3": "CXX",
+        "4": "CAX",
+        "5": "Carlisle",
+        "6": -2.9333333,
+        "7": 54.8905556,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Cardiff Railway Station, United Kingdom (CFW)",
+        "2": "rail",
+        "3": "CFW",
+        "4": "CWL",
+        "5": "Cardiff",
+        "6": -3.1791667,
+        "7": 51.4758333,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Tunis Carthage, Tunisia (TUN)",
+        "2": "airport",
+        "3": "TUN",
+        "4": "TUN",
+        "5": "Tunis",
+        "6": 10.2272222,
+        "7": 36.8511111,
+        "10": "Africa/Tunis"
+      },
+      {
+        "1": "Montevideo Carrasco, Uruguay (MVD)",
+        "2": "airport",
+        "3": "MVD",
+        "4": "MVD",
+        "5": "Montevideo",
+        "6": -56.030833,
+        "7": -34.838333,
+        "10": "America/Montevideo"
+      },
+      {
+        "1": "Samsun Carsamba, Turkey (SZF)",
+        "2": "airport",
+        "3": "SZF",
+        "4": "SZF",
+        "5": "Samsun",
+        "6": 36.5672222,
+        "7": 41.2544444,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Caen Carpiquet, France (CFR)",
+        "2": "airport",
+        "3": "CFR",
+        "4": "CFR",
+        "5": "Caen",
+        "6": -0.45,
+        "7": 49.1733333,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Denizli Cardak, Turkey (DNZ)",
+        "2": "airport",
+        "3": "DNZ",
+        "4": "DNZ",
+        "5": "Denizli",
+        "6": 29.7013889,
+        "7": 37.7855556,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Concepcion Carriel Sur, Chile (CCP)",
+        "2": "airport",
+        "3": "CCP",
+        "4": "CCP",
+        "5": "Concepcion",
+        "6": -73.063056,
+        "7": -36.772778,
+        "10": "America/Santiago"
+      },
+      {
+        "1": "Juazeiro do Norte O. Bezerra de Menezes, Brazil (JDO)",
+        "2": "airport",
+        "3": "JDO",
+        "4": "JDO",
+        "5": "Juazeiro do Norte",
+        "6": -39.271389,
+        "7": -7.2186111,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Saurimo, Angola (VHC)",
+        "2": "airport",
+        "3": "VHC",
+        "4": "VHC",
+        "5": "Saurimo",
+        "6": 20.4316667,
+        "7": -9.6891667,
+        "10": "Africa/Luanda"
+      }
+    ]
+  }
+}

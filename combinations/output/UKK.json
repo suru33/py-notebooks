@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Ust-Kamenogorsk, Kazakhstan (UKK)",
+        "2": "airport",
+        "3": "UKK",
+        "4": "UKK",
+        "5": "Ust-Kamenogorsk",
+        "6": 82.4936111,
+        "7": 50.0366667,
+        "10": "Asia/Almaty"
+      },
+      {
+        "1": "Ukkusissat Heliport, Greenland (JUK)",
+        "2": "helipad",
+        "3": "JUK",
+        "4": "JUK",
+        "5": "Ukkusissat",
+        "6": -51.883611,
+        "7": 71.0552778,
+        "10": "America/Godthab"
+      }
+    ]
+  }
+}

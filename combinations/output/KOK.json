@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kokkola/Pietarsaari Kruunupyy, Finland (KOK)",
+        "2": "airport",
+        "3": "KOK",
+        "4": "KOK",
+        "5": "Kokkola/Pietarsaari",
+        "6": 23.1430556,
+        "7": 63.7211111,
+        "10": "Europe/Helsinki"
+      },
+      {
+        "1": "Kokhanok, AK (KNK)",
+        "2": "airport",
+        "3": "KNK",
+        "4": "KNK",
+        "5": "Kakhonak",
+        "6": -154.80361,
+        "7": 59.4333333,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Kokshetau, Kazakhstan (KOV)",
+        "2": "airport",
+        "3": "KOV",
+        "4": "KOV",
+        "5": "Kokshetau",
+        "6": 69.5947222,
+        "7": 53.3291667,
+        "10": "Asia/Almaty"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Cauayan, Philippines (CYZ)",
+        "2": "airport",
+        "3": "CYZ",
+        "4": "CYZ",
+        "5": "Cauayan",
+        "6": 121.755278,
+        "7": 16.9288889,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Avignon Caumont, France (AVN)",
+        "2": "airport",
+        "3": "AVN",
+        "4": "AVN",
+        "5": "Avignon",
+        "6": 4.90194444,
+        "7": 43.9066667,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

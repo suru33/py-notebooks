@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Koggala, Sri Lanka (KCT)",
+        "2": "airport",
+        "3": "KCT",
+        "4": "KCT",
+        "5": "Koggala",
+        "6": 80.3202778,
+        "7": 5.99361111,
+        "10": "Asia/Colombo"
+      },
+      {
+        "1": "Kogalym, Russia (KGP)",
+        "2": "airport",
+        "3": "KGP",
+        "4": "KGP",
+        "5": "Kogalym",
+        "6": 74.5338889,
+        "7": 62.1905556,
+        "10": "Asia/Yekaterinburg"
+      },
+      {
+        "1": "Constanta Mihail Kogalniceanu, Romania (CND)",
+        "2": "airport",
+        "3": "CND",
+        "4": "CND",
+        "5": "Constanta",
+        "6": 28.4883333,
+        "7": 44.3622222,
+        "10": "Europe/Bucharest"
+      }
+    ]
+  }
+}

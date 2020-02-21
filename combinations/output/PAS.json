@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Paros, Greece (PAS)",
+        "2": "airport",
+        "3": "PAS",
+        "4": "PAS",
+        "5": "Paros",
+        "6": 25.1286111,
+        "7": 37.0102778,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Pasco Tri-Cities, WA (PSC)",
+        "2": "airport",
+        "3": "PSC",
+        "4": "PSC",
+        "5": "Pasco",
+        "6": -119.11667,
+        "7": 46.2666667,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Pasighat, India (IXT)",
+        "2": "airport",
+        "3": "IXT",
+        "4": "IXT",
+        "5": "Pasighat",
+        "6": 95.3363889,
+        "7": 28.0672222,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Pasto Antonio Narino, Colombia (PSO)",
+        "2": "airport",
+        "3": "PSO",
+        "4": "PSO",
+        "5": "Pasto",
+        "6": -77.291111,
+        "7": 1.39611111,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Passo Fundo Lauro Kurtz, Brazil (PFB)",
+        "2": "airport",
+        "3": "PFB",
+        "4": "PFB",
+        "5": "Passo Fundo",
+        "6": -52.329167,
+        "7": -28.244444,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Mobile Regional, AL (MOB)",
+        "2": "airport",
+        "3": "MOB",
+        "4": "MOB",
+        "5": "Mobile",
+        "6": -88.242778,
+        "7": 30.6911111,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Moscow, Russia - All airports",
+        "2": "city",
+        "3": "MOW",
+        "4": "MOW",
+        "5": "Moscow",
+        "6": 37.53019203163873,
+        "7": 55.66510550435875,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Moscow Sheremetyevo, Russia (SVO)",
+        "2": "airport",
+        "3": "SVO",
+        "4": "MOW",
+        "5": "Moscow",
+        "6": 37.4147222,
+        "7": 55.9727778,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Moscow Domodedovo, Russia (DME)",
+        "2": "airport",
+        "3": "DME",
+        "4": "MOW",
+        "5": "Moscow",
+        "6": 37.9063889,
+        "7": 55.4088889,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Moscow Vnukovo, Russia (VKO)",
+        "2": "airport",
+        "3": "VKO",
+        "4": "MOW",
+        "5": "Moscow",
+        "6": 37.2613889,
+        "7": 55.5916667,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Moser Bay Sea Plane Base, AK (KMY)",
+        "2": "airport",
+        "3": "KMY",
+        "4": "KMY",
+        "5": "Moser Bay",
+        "6": -154.15167,
+        "7": 57.0013889,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Mostar International, Bosnia-Herzegovina (OMO)",
+        "2": "airport",
+        "3": "OMO",
+        "4": "OMO",
+        "5": "Mostar",
+        "6": 17.8458333,
+        "7": 43.2827778,
+        "10": "Europe/Sarajevo"
+      },
+      {
+        "1": "Mosjoen Kjaerstad, Norway (MJF)",
+        "2": "airport",
+        "3": "MJF",
+        "4": "MJF",
+        "5": "Mosjoen",
+        "6": 13.215,
+        "7": 65.7838889,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Mossoro Dix-Sept Rosado, Brazil (MVF)",
+        "2": "airport",
+        "3": "MVF",
+        "4": "MVF",
+        "5": "Mossoro",
+        "6": -37.363611,
+        "7": -5.2005556,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Ostrava Leos Janacek, Czech Republic (OSR)",
+        "2": "airport",
+        "3": "OSR",
+        "4": "OSR",
+        "5": "Ostrava",
+        "6": 18.1111111,
+        "7": 49.6961111,
+        "10": "Europe/Prague"
+      },
+      {
+        "1": "Pullman WA/Moscow ID Regional, WA (PUW)",
+        "2": "airport",
+        "3": "PUW",
+        "4": "PUW",
+        "5": "Pullman",
+        "6": -117.11111,
+        "7": 46.7436111,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Maseru Moshoeshoe I International, Lesotho (MSU)",
+        "2": "airport",
+        "3": "MSU",
+        "4": "MSU",
+        "5": "Maseru",
+        "6": 27.5525,
+        "7": -29.462222,
+        "10": "Africa/Maseru"
+      }
+    ]
+  }
+}

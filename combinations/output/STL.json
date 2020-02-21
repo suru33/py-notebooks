@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "St. Louis Lambert Int'l, MO (STL)",
+        "2": "airport",
+        "3": "STL",
+        "4": "STL",
+        "5": "St Louis",
+        "6": -90.37,
+        "7": 38.7486111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "St Lucia, Saint Lucia - All airports",
+        "2": "city",
+        "3": "SLU",
+        "4": "SLU",
+        "5": "St Lucia",
+        "6": -60.97079906141557,
+        "7": 13.862804032526928,
+        "10": "America/St_Lucia"
+      },
+      {
+        "1": "St Lucia Hewanorra International, Saint Lucia (UVF)",
+        "2": "airport",
+        "3": "UVF",
+        "4": "SLU",
+        "5": "St Lucia",
+        "6": -60.9525,
+        "7": 13.7333333,
+        "10": "America/St_Lucia"
+      },
+      {
+        "1": "St Lucia George F.L. Charles, Saint Lucia (SLU)",
+        "2": "airport",
+        "3": "SLU",
+        "4": "SLU",
+        "5": "St Lucia",
+        "6": -60.993056,
+        "7": 14.0202778,
+        "10": "America/St_Lucia"
+      }
+    ]
+  }
+}

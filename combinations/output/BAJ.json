@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bajawa Soa, Indonesia (BJW)",
+        "2": "airport",
+        "3": "BJW",
+        "4": "BJW",
+        "5": "Bajawa",
+        "6": 121.057778,
+        "7": -8.7077778,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Mangalore, India (IXE)",
+        "2": "airport",
+        "3": "IXE",
+        "4": "IXE",
+        "5": "Mangalore",
+        "6": 74.89,
+        "7": 12.9613889,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

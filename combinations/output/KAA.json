@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kasama, Zambia (KAA)",
+        "2": "airport",
+        "3": "KAA",
+        "4": "KAA",
+        "5": "Kasama",
+        "6": 31.1347222,
+        "7": -10.218056,
+        "10": "Africa/Lusaka"
+      },
+      {
+        "1": "Kaadedhdhoo Island, Maldives (KDM)",
+        "2": "airport",
+        "3": "KDM",
+        "4": "KDM",
+        "5": "Kaadedhdhoo",
+        "6": 72.9961111,
+        "7": 0.48833333,
+        "10": "Indian/Maldives"
+      }
+    ]
+  }
+}

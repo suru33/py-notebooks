@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Orsta/Volda Hovden, Norway (HOV)",
+        "2": "airport",
+        "3": "HOV",
+        "4": "HOV",
+        "5": "Orsta-Volda",
+        "6": 6.07111111,
+        "7": 62.1791667,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Orsk, Russia (OSW)",
+        "2": "airport",
+        "3": "OSW",
+        "4": "OSW",
+        "5": "Orsk",
+        "6": 58.5955556,
+        "7": 51.0725,
+        "10": "Asia/Yekaterinburg"
+      }
+    ]
+  }
+}

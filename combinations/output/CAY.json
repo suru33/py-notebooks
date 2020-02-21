@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Cayenne Felix Eboue, French Guiana (CAY)",
+        "2": "airport",
+        "3": "CAY",
+        "4": "CAY",
+        "5": "Cayenne",
+        "6": -52.360556,
+        "7": 4.81972222,
+        "10": "America/Cayenne"
+      },
+      {
+        "1": "Cayo Coco Jardines del Rey, Cuba (CCC)",
+        "2": "airport",
+        "3": "CCC",
+        "4": "CCC",
+        "5": "Cayo Coco",
+        "6": -78.328333,
+        "7": 22.4611111,
+        "10": "America/Havana"
+      },
+      {
+        "1": "Cayo Largo del Sur Vilo Acuna International, Cuba (CYO)",
+        "2": "airport",
+        "3": "CYO",
+        "4": "CYO",
+        "5": "Cayo Largo del Sur",
+        "6": -81.546111,
+        "7": 21.6163889,
+        "10": "America/Havana"
+      },
+      {
+        "1": "Caye Caulker, Belize (CUK)",
+        "2": "airport",
+        "3": "CUK",
+        "4": "CUK",
+        "5": "Caye Caulker",
+        "6": -88.0325,
+        "7": 17.7352778,
+        "10": "America/Belize"
+      },
+      {
+        "1": "Cayman Brac C. Kirkconnell International, Cayman Islands (CYB)",
+        "2": "airport",
+        "3": "CYB",
+        "4": "CYB",
+        "5": "Cayman Brac",
+        "6": -79.882778,
+        "7": 19.6869444,
+        "10": "America/Cayman"
+      },
+      {
+        "1": "Caye Chapel, Belize (CYC)",
+        "2": "airport",
+        "3": "CYC",
+        "4": "CYC",
+        "5": "Caye Chapel",
+        "6": -88.045,
+        "7": 17.6836111,
+        "10": "America/Belize"
+      }
+    ]
+  }
+}

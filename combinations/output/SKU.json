@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Skyros, Greece (SKU)",
+        "2": "airport",
+        "3": "SKU",
+        "4": "SKU",
+        "5": "Skiros",
+        "6": 24.4880556,
+        "7": 38.9683333,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Skukuza, South Africa (SZK)",
+        "2": "airport",
+        "3": "SZK",
+        "4": "SZK",
+        "5": "Skukuza",
+        "6": 31.5905556,
+        "7": -24.964444,
+        "10": "Africa/Johannesburg"
+      }
+    ]
+  }
+}

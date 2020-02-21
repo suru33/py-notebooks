@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Juliaca Inco Mnco Capac International, Peru (JUL)",
+        "2": "airport",
+        "3": "JUL",
+        "4": "JUL",
+        "5": "Juliaca",
+        "6": -70.158056,
+        "7": -15.467222,
+        "10": "America/Lima"
+      },
+      {
+        "1": "Julia Creek, Australia (JCK)",
+        "2": "airport",
+        "3": "JCK",
+        "4": "JCK",
+        "5": "Julia Creek",
+        "6": 141.7225,
+        "7": -20.668333,
+        "10": "Australia/Brisbane"
+      }
+    ]
+  }
+}

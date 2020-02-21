@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Mobile, AL - All airports",
+        "2": "city",
+        "3": "MOB",
+        "4": "MOB",
+        "5": "Mobile",
+        "6": -88.20654461366341,
+        "7": 30.679223793988005,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Mobile Regional, AL (MOB)",
+        "2": "airport",
+        "3": "MOB",
+        "4": "MOB",
+        "5": "Mobile",
+        "6": -88.242778,
+        "7": 30.6911111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Mobile Downtown Arpt, AL (BFM)",
+        "2": "airport",
+        "3": "BFM",
+        "4": "MOB",
+        "5": "Mobile",
+        "6": -88.066667,
+        "7": 30.6333333,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

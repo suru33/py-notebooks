@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Luena, Angola (LUO)",
+        "2": "airport",
+        "3": "LUO",
+        "4": "LUO",
+        "5": "Luena",
+        "6": 19.8938889,
+        "7": -11.767222,
+        "10": "Africa/Luanda"
+      },
+      {
+        "1": "Luoyang Beijiao, China (LYA)",
+        "2": "airport",
+        "3": "LYA",
+        "4": "LYA",
+        "5": "Luoyang",
+        "6": 112.389444,
+        "7": 34.7413889,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

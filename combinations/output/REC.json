@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Recife Guararapes International, Brazil (REC)",
+        "2": "airport",
+        "3": "REC",
+        "4": "REC",
+        "5": "Recife",
+        "6": -34.923056,
+        "7": -8.1266667,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Reconquista, Argentina (RCQ)",
+        "2": "airport",
+        "3": "RCQ",
+        "4": "RCQ",
+        "5": "Reconquista",
+        "6": -59.690833,
+        "7": -29.210556,
+        "10": "America/Argentina/Buenos_Aires"
+      }
+    ]
+  }
+}

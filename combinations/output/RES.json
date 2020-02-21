@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Resistencia, Argentina (RES)",
+        "2": "airport",
+        "3": "RES",
+        "4": "RES",
+        "5": "Resistencia",
+        "6": -59.056111,
+        "7": -27.45,
+        "10": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "1": "Resolute Bay, NU, Canada (YRB)",
+        "2": "airport",
+        "3": "YRB",
+        "4": "YRB",
+        "5": "Resolute",
+        "6": -94.969444,
+        "7": 74.7169444,
+        "10": "America/Rainy_River"
+      }
+    ]
+  }
+}

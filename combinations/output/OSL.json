@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Oslo, Norway - All airports",
+        "2": "city",
+        "3": "OSL",
+        "4": "OSL",
+        "5": "Oslo",
+        "6": 10.872462865152011,
+        "7": 59.92126285946585,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Oslo Gardermoen, Norway (OSL)",
+        "2": "airport",
+        "3": "OSL",
+        "4": "OSL",
+        "5": "Oslo",
+        "6": 11.1002778,
+        "7": 60.1938889,
+        "10": "Europe/Oslo"
+      }
+    ]
+  }
+}

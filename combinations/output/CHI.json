@@ -1,0 +1,316 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Chicago, IL - All airports",
+        "2": "city",
+        "3": "CHI",
+        "4": "CHI",
+        "5": "Chicago",
+        "6": -87.97597111235251,
+        "7": 41.93251868231928,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Chicago O'Hare, IL (ORD)",
+        "2": "airport",
+        "3": "ORD",
+        "4": "CHI",
+        "5": "Chicago",
+        "6": -87.904722,
+        "7": 41.9786111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Chicago Midway International, IL (MDW)",
+        "2": "airport",
+        "3": "MDW",
+        "4": "CHI",
+        "5": "Chicago",
+        "6": -87.7525,
+        "7": 41.7861111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Chignik, AK - All airports",
+        "2": "city",
+        "3": "KCL",
+        "4": "KCL",
+        "5": "Chignik",
+        "6": -158.56184999999996,
+        "7": 56.292685199999994,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Chisinau International, Moldova (KIV)",
+        "2": "airport",
+        "3": "KIV",
+        "4": "KIV",
+        "5": "Kishinev",
+        "6": 28.9308333,
+        "7": 46.9277778,
+        "10": "Europe/Chisinau"
+      },
+      {
+        "1": "Chiang Mai International, Thailand (CNX)",
+        "2": "airport",
+        "3": "CNX",
+        "4": "CNX",
+        "5": "Chiang Mai",
+        "6": 98.9627778,
+        "7": 18.7713889,
+        "10": "Asia/Bangkok"
+      },
+      {
+        "1": "Chihuahua R. Fierro Villalobos, Mexico (CUU)",
+        "2": "airport",
+        "3": "CUU",
+        "4": "CUU",
+        "5": "Chihuahua",
+        "6": -105.96444,
+        "7": 28.7027778,
+        "10": "America/Mazatlan"
+      },
+      {
+        "1": "Chicago/Rockford International, IL (RFD)",
+        "2": "airport",
+        "3": "RFD",
+        "4": "CHI",
+        "5": "Chicago",
+        "6": -89.099167,
+        "7": 42.1980556,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Chignik Airport, AK (KCG)",
+        "2": "airport",
+        "3": "KCG",
+        "4": "KCL",
+        "5": "Chignik",
+        "6": -158.37472,
+        "7": 56.3105556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Chignik Lagoon, AK (KCL)",
+        "2": "airport",
+        "3": "KCL",
+        "4": "KCL",
+        "5": "Chignik",
+        "6": -158.53139,
+        "7": 56.3119444,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Chignik Lake, AK (KCQ)",
+        "2": "airport",
+        "3": "KCQ",
+        "4": "KCL",
+        "5": "Chignik",
+        "6": -158.77944,
+        "7": 56.2555556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Chifeng Yulong, China (CIF)",
+        "2": "airport",
+        "3": "CIF",
+        "4": "CIF",
+        "5": "Chifeng",
+        "6": 118.840833,
+        "7": 42.16,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Chita Kadala, Russia (HTA)",
+        "2": "airport",
+        "3": "HTA",
+        "4": "HTA",
+        "5": "Chita",
+        "6": 113.305556,
+        "7": 52.0263889,
+        "10": "Asia/Yakutsk"
+      },
+      {
+        "1": "Chiang Rai Mae Fah Luang International, Thailand (CEI)",
+        "2": "airport",
+        "3": "CEI",
+        "4": "CEI",
+        "5": "Chiang Rai",
+        "6": 99.8830556,
+        "7": 19.9522222,
+        "10": "Asia/Bangkok"
+      },
+      {
+        "1": "Chittagong Shah Amanat International, Bangladesh (CGP)",
+        "2": "airport",
+        "3": "CGP",
+        "4": "CGP",
+        "5": "Chittagong",
+        "6": 91.8133333,
+        "7": 22.2497222,
+        "10": "Asia/Dhaka"
+      },
+      {
+        "1": "Chizhou Jiuhuashan, China (JUH)",
+        "2": "airport",
+        "3": "JUH",
+        "4": "JUH",
+        "5": "Chizhou",
+        "6": 117.686667,
+        "7": 30.7402778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Chisasibi, QC, Canada (YKU)",
+        "2": "airport",
+        "3": "YKU",
+        "4": "YKU",
+        "5": "Chisasibi",
+        "6": -78.916944,
+        "7": 53.8055556,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Chibougamau Chapais, QC, Canada (YMT)",
+        "2": "airport",
+        "3": "YMT",
+        "4": "YMT",
+        "5": "Chibougamau",
+        "6": -74.528056,
+        "7": 49.7719444,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Chios Omiros, Greece (JKH)",
+        "2": "airport",
+        "3": "JKH",
+        "4": "JKH",
+        "5": "Chios",
+        "6": 26.1405556,
+        "7": 38.3430556,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Chimoio, Mozambique (VPY)",
+        "2": "airport",
+        "3": "VPY",
+        "4": "VPY",
+        "5": "Chimoio",
+        "6": 33.4288889,
+        "7": -19.151389,
+        "10": "Africa/Maputo"
+      },
+      {
+        "1": "Chiclayo J.A. Quinones Gonzalez, Peru (CIX)",
+        "2": "airport",
+        "3": "CIX",
+        "4": "CIX",
+        "5": "Chiclayo",
+        "6": -79.828056,
+        "7": -6.7875,
+        "10": "America/Lima"
+      },
+      {
+        "1": "Chicken, AK (CKX)",
+        "2": "airport",
+        "3": "CKX",
+        "4": "CKX",
+        "5": "Chicken",
+        "6": -141.95139,
+        "7": 64.0663889,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Chisana, AK (CZN)",
+        "2": "airport",
+        "3": "CZN",
+        "4": "CZN",
+        "5": "Chisana",
+        "6": -142.05111,
+        "7": 62.0736111,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Chiayi, Taiwan (CYI)",
+        "2": "airport",
+        "3": "CYI",
+        "4": "CYI",
+        "5": "Chiayi",
+        "6": 120.390556,
+        "7": 23.4633333,
+        "10": "Asia/Taipei"
+      },
+      {
+        "1": "Chitral, Pakistan (CJL)",
+        "2": "airport",
+        "3": "CJL",
+        "4": "CJL",
+        "5": "Chitral",
+        "6": 71.8005556,
+        "7": 35.8866667,
+        "10": "Asia/Karachi"
+      },
+      {
+        "1": "Chitre Alonso Valderrama, Panama (CTD)",
+        "2": "airport",
+        "3": "CTD",
+        "4": "CTD",
+        "5": "Chitre",
+        "6": -80.41,
+        "7": 7.98805556,
+        "10": "America/Panama"
+      },
+      {
+        "1": "Sapporo New Chitose, Japan (CTS)",
+        "2": "airport",
+        "3": "CTS",
+        "4": "SPK",
+        "5": "Sapporo",
+        "6": 141.692222,
+        "7": 42.7752778,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Taichung Cingcyuangang, Taiwan (RMQ)",
+        "2": "airport",
+        "3": "RMQ",
+        "4": "RMQ",
+        "5": "Taichung",
+        "6": 120.620833,
+        "7": 24.265,
+        "10": "Asia/Taipei"
+      },
+      {
+        "1": "Blantyre Chileka International, Malawi (BLZ)",
+        "2": "airport",
+        "3": "BLZ",
+        "4": "BLZ",
+        "5": "Blantyre",
+        "6": 34.9738889,
+        "7": -15.679167,
+        "10": "Africa/Blantyre"
+      },
+      {
+        "1": "Aurangabad, India (IXU)",
+        "2": "airport",
+        "3": "IXU",
+        "4": "IXU",
+        "5": "Aurangabad",
+        "6": 75.3980556,
+        "7": 19.8627778,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Sault Ste Marie Chippewa County International, MI (CIU)",
+        "2": "airport",
+        "3": "CIU",
+        "4": "SSM",
+        "5": "Sault Sainte Marie",
+        "6": -84.4725,
+        "7": 46.2508333,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

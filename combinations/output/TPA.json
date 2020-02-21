@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tampa, FL - All airports",
+        "2": "city",
+        "3": "TPA",
+        "4": "TPA",
+        "5": "Tampa",
+        "6": -82.58714183482309,
+        "7": 27.952771720454994,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Tampa International, FL (TPA)",
+        "2": "airport",
+        "3": "TPA",
+        "4": "TPA",
+        "5": "Tampa",
+        "6": -82.533333,
+        "7": 27.9755556,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

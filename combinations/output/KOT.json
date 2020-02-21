@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kotlik, AK (KOT)",
+        "2": "airport",
+        "3": "KOT",
+        "4": "KOT",
+        "5": "Kotlik",
+        "6": -163.53056,
+        "7": 63.0325,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Kotzebue Ralph Wien Memorial, AK (OTZ)",
+        "2": "airport",
+        "3": "OTZ",
+        "4": "OTZ",
+        "5": "Kotzebue",
+        "6": -162.59417,
+        "7": 66.8886111,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Kota Kinabalu International, Malaysia (BKI)",
+        "2": "airport",
+        "3": "BKI",
+        "4": "BKI",
+        "5": "Kota Kinabalu",
+        "6": 116.053056,
+        "7": 5.93722222,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Kotte Diyawanna Oya SPB, Sri Lanka (DWO)",
+        "2": "airport",
+        "3": "DWO",
+        "4": "DWO",
+        "5": "Kotte",
+        "6": 79.9091667,
+        "7": 6.90555556,
+        "10": "Asia/Colombo"
+      },
+      {
+        "1": "Kota Bharu Sultan Ismail Petra, Malaysia (KBR)",
+        "2": "airport",
+        "3": "KBR",
+        "4": "KBR",
+        "5": "Kota Bharu",
+        "6": 102.291111,
+        "7": 6.1675,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Kotabaru Gusti Sjamsir Alam, Indonesia (KBU)",
+        "2": "airport",
+        "3": "KBU",
+        "4": "KBU",
+        "5": "Kotabaru",
+        "6": 116.164722,
+        "7": -3.2961111,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Kotlas, Russia (KSZ)",
+        "2": "airport",
+        "3": "KSZ",
+        "4": "KSZ",
+        "5": "Kotlas",
+        "6": 46.6988889,
+        "7": 61.2361111,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Accra Kotoka International, Ghana (ACC)",
+        "2": "airport",
+        "3": "ACC",
+        "4": "ACC",
+        "5": "Accra",
+        "6": -0.1666667,
+        "7": 5.60527778,
+        "10": "Africa/Accra"
+      }
+    ]
+  }
+}

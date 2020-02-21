@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Exeter, United Kingdom (EXT)",
+        "2": "airport",
+        "3": "EXT",
+        "4": "EXT",
+        "5": "Exeter",
+        "6": -3.4138889,
+        "7": 50.7344444,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Exeter St. Thomas Railway St., United Kingdom (EXS)",
+        "2": "rail",
+        "3": "EXS",
+        "4": "EXT",
+        "5": "Exeter",
+        "6": -3.5391667,
+        "7": 50.7172222,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

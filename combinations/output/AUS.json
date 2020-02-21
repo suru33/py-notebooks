@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Austin-Bergstrom International, TX (AUS)",
+        "2": "airport",
+        "3": "AUS",
+        "4": "AUS",
+        "5": "Austin",
+        "6": -97.67,
+        "7": 30.1944444,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Green Bay Austin Straubel International, WI (GRB)",
+        "2": "airport",
+        "3": "GRB",
+        "4": "GRB",
+        "5": "Green Bay",
+        "6": -88.133889,
+        "7": 44.4855556,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

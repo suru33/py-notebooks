@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Nottingham East Midlands, United Kingdom (EMA)",
+        "2": "airport",
+        "3": "EMA",
+        "4": "NQT",
+        "5": "Nottingham",
+        "6": -1.3280556,
+        "7": 52.8311111,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Notodden, Norway (NTB)",
+        "2": "airport",
+        "3": "NTB",
+        "4": "NTB",
+        "5": "Notodden",
+        "6": 9.21194444,
+        "7": 59.5661111,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Nottingham Bus Station, United Kingdom (ZGB)",
+        "2": "bus",
+        "3": "ZGB",
+        "4": "NQT",
+        "5": "Nottingham",
+        "6": -1.1486111,
+        "7": 52.9591667,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Wajima Noto, Japan (NTQ)",
+        "2": "airport",
+        "3": "NTQ",
+        "4": "NTQ",
+        "5": "Wajima",
+        "6": 136.958889,
+        "7": 37.2925,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

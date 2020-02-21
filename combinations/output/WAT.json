@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Watertown Regional, SD (ATY)",
+        "2": "airport",
+        "3": "ATY",
+        "4": "ATY",
+        "5": "Watertown",
+        "6": -97.151111,
+        "7": 44.9136111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Waterfall Sea Plane Base, AK (KWF)",
+        "2": "airport",
+        "3": "KWF",
+        "4": "KWF",
+        "5": "Waterfall",
+        "6": -133.24472,
+        "7": 55.2952778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Waterloo Regional, IA (ALO)",
+        "2": "airport",
+        "3": "ALO",
+        "4": "ALO",
+        "5": "Waterloo",
+        "6": -92.400278,
+        "7": 42.5569444,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Watertown International, NY (ART)",
+        "2": "airport",
+        "3": "ART",
+        "4": "ART",
+        "5": "Watertown",
+        "6": -76.021667,
+        "7": 43.9919444,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Watford Jct Railway Station, United Kingdom (WXF)",
+        "2": "rail",
+        "3": "WXF",
+        "4": "WXF",
+        "5": "Braintree",
+        "6": -0.3966667,
+        "7": 51.6638889,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Vientiane Wattay International, Laos (VTE)",
+        "2": "airport",
+        "3": "VTE",
+        "4": "VTE",
+        "5": "Vientiane",
+        "6": 102.563333,
+        "7": 17.9883333,
+        "10": "Asia/Vientiane"
+      },
+      {
+        "1": "Kitchener-Waterloo Regional Airport, ON, Canada (YKF)",
+        "2": "airport",
+        "3": "YKF",
+        "4": "YTO",
+        "5": "Toronto",
+        "6": -80.378611,
+        "7": 43.4608333,
+        "10": "America/Montreal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Jakarta, Indonesia - All airports",
+        "2": "city",
+        "3": "JKT",
+        "4": "JKT",
+        "5": "Jakarta",
+        "6": 106.7298295217979,
+        "7": -6.169935995052132,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Jakarta Soekarno-Hatta International, Indonesia (CGK)",
+        "2": "airport",
+        "3": "CGK",
+        "4": "JKT",
+        "5": "Jakarta",
+        "6": 106.655833,
+        "7": -6.1255556,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Jakarta Halim Perdanakusuma, Indonesia (HLP)",
+        "2": "airport",
+        "3": "HLP",
+        "4": "JKT",
+        "5": "Jakarta",
+        "6": 106.891111,
+        "7": -6.2666667,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Jakar Bathpalathang, Bhutan (BUT)",
+        "2": "airport",
+        "3": "BUT",
+        "4": "BUT",
+        "5": "Jakar",
+        "6": 90.7466667,
+        "7": 27.5630556,
+        "10": "Asia/Thimphu"
+      }
+    ]
+  }
+}

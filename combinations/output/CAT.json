@@ -1,0 +1,106 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Catania Fontanarossa, Italy (CTA)",
+        "2": "airport",
+        "3": "CTA",
+        "4": "CTA",
+        "5": "Catania",
+        "6": 15.0638889,
+        "7": 37.4666667,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Cataratas del Iguazu, Argentina (IGR)",
+        "2": "airport",
+        "3": "IGR",
+        "4": "IGR",
+        "5": "Iguazu",
+        "6": -54.473333,
+        "7": -25.737222,
+        "10": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "1": "Caticlan Godofredo P. Ramos, Philippines (MPH)",
+        "2": "airport",
+        "3": "MPH",
+        "4": "MPH",
+        "5": "Caticlan",
+        "6": 121.954167,
+        "7": 11.9244444,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Cat Lake, ON, Canada (YAC)",
+        "2": "airport",
+        "3": "YAC",
+        "4": "YAC",
+        "5": "Cat Lake",
+        "6": -91.8275,
+        "7": 51.7277778,
+        "10": "America/Rainy_River"
+      },
+      {
+        "1": "Catumbela, Angola (CBT)",
+        "2": "airport",
+        "3": "CBT",
+        "4": "CBT",
+        "5": "Catumbela",
+        "6": 13.4869444,
+        "7": -12.481389,
+        "10": "Africa/Luanda"
+      },
+      {
+        "1": "Catamarca, Argentina (CTC)",
+        "2": "airport",
+        "3": "CTC",
+        "4": "CTC",
+        "5": "Catamarca",
+        "6": -65.751111,
+        "7": -28.593056,
+        "10": "America/Argentina/Mendoza"
+      },
+      {
+        "1": "Catarman National, Philippines (CRM)",
+        "2": "airport",
+        "3": "CRM",
+        "4": "CRM",
+        "5": "Catarman",
+        "6": 124.635833,
+        "7": 12.5025,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Calvi Ste Catherine, France (CLY)",
+        "2": "airport",
+        "3": "CLY",
+        "4": "CLY",
+        "5": "Calvi",
+        "6": 8.79305556,
+        "7": 42.5202778,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Foz do Iguacu Cataratas International, Brazil (IGU)",
+        "2": "airport",
+        "3": "IGU",
+        "4": "IGU",
+        "5": "Iguassu Falls",
+        "6": -54.487222,
+        "7": -25.596111,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Haiphong Cat Bi International, Viet Nam (HPH)",
+        "2": "airport",
+        "3": "HPH",
+        "4": "HPH",
+        "5": "Haiphong",
+        "6": 106.725,
+        "7": 20.8194444,
+        "10": "Asia/Ho_Chi_Minh"
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Quebec Jean Lesage International, QC, Canada (YQB)",
+        "2": "airport",
+        "3": "YQB",
+        "4": "YQB",
+        "5": "Quebec",
+        "6": -71.393333,
+        "7": 46.7911111,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Queretaro Intercontinental, Mexico (QRO)",
+        "2": "airport",
+        "3": "QRO",
+        "4": "QRO",
+        "5": "Queretaro",
+        "6": -100.18556,
+        "7": 20.6172222,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Queenstown, New Zealand (ZQN)",
+        "2": "airport",
+        "3": "ZQN",
+        "4": "ZQN",
+        "5": "Queenstown",
+        "6": 168.746667,
+        "7": -45.018333,
+        "10": "Pacific/Auckland"
+      },
+      {
+        "1": "Quetta International, Pakistan (UET)",
+        "2": "airport",
+        "3": "UET",
+        "4": "UET",
+        "5": "Quetta",
+        "6": 66.9377778,
+        "7": 30.2513889,
+        "10": "Asia/Karachi"
+      },
+      {
+        "1": "Quepos La Managua, Costa Rica (XQP)",
+        "2": "airport",
+        "3": "XQP",
+        "4": "XQP",
+        "5": "Quepos",
+        "6": -84.129722,
+        "7": 9.44305556,
+        "10": "America/Costa_Rica"
+      },
+      {
+        "1": "Quelimane, Mozambique (UEL)",
+        "2": "airport",
+        "3": "UEL",
+        "4": "UEL",
+        "5": "Quelimane",
+        "6": 36.8691667,
+        "7": -17.855556,
+        "10": "Africa/Maputo"
+      },
+      {
+        "1": "Quesnel, BC, Canada (YQZ)",
+        "2": "airport",
+        "3": "YQZ",
+        "4": "YQZ",
+        "5": "Quesnel",
+        "6": -122.51028,
+        "7": 53.0261111,
+        "10": "America/Vancouver"
+      },
+      {
+        "1": "Quebec City Railway Station, QC, Canada (XLJ)",
+        "2": "rail",
+        "3": "XLJ",
+        "4": "YQB",
+        "5": "Quebec",
+        "6": -71.213889,
+        "7": 46.8175,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Quebec Sainte-Foy Bus Station, QC, Canada (BQC)",
+        "2": "bus",
+        "3": "BQC",
+        "4": "YQB",
+        "5": "Quebec",
+        "6": -71.308056,
+        "7": 46.7691667,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Amman Queen Alia International, Jordan (AMM)",
+        "2": "airport",
+        "3": "AMM",
+        "4": "AMM",
+        "5": "Amman",
+        "6": 35.9933333,
+        "7": 31.7225,
+        "10": "Asia/Amman"
+      },
+      {
+        "1": "Aruba Reina Beatrix, Aruba (AUA)",
+        "2": "airport",
+        "3": "AUA",
+        "4": "AUA",
+        "5": "Aruba",
+        "6": -70.015278,
+        "7": 12.5013889,
+        "10": "America/Aruba"
+      }
+    ]
+  }
+}

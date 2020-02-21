@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kavala Megas Alexandros, Greece (KVA)",
+        "2": "airport",
+        "3": "KVA",
+        "4": "KVA",
+        "5": "Kavala",
+        "6": 24.6191667,
+        "7": 40.9133333,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Kavieng, Papua New Guinea (KVG)",
+        "2": "airport",
+        "3": "KVG",
+        "4": "KVG",
+        "5": "Kavieng",
+        "6": 150.808056,
+        "7": -2.5794444,
+        "10": "Pacific/Port_Moresby"
+      },
+      {
+        "1": "Kavalerovo, Russia (KVR)",
+        "2": "airport",
+        "3": "KVR",
+        "4": "KVR",
+        "5": "Kavalerovo",
+        "6": 135.028889,
+        "7": 44.2725,
+        "10": "Asia/Vladivostok"
+      }
+    ]
+  }
+}

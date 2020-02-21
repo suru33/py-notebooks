@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Colorado Springs Municipal, CO (COS)",
+        "2": "airport",
+        "3": "COS",
+        "4": "COS",
+        "5": "Colorado Springs",
+        "6": -104.70083,
+        "7": 38.8058333,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Girona Costa Brava, Spain (GRO)",
+        "2": "airport",
+        "3": "GRO",
+        "4": "GRO",
+        "5": "Gerona",
+        "6": 2.76055556,
+        "7": 41.9008333,
+        "10": "Europe/Madrid"
+      }
+    ]
+  }
+}

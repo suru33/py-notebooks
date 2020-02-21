@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Mong Hsat, Myanmar (MOG)",
+        "2": "airport",
+        "3": "MOG",
+        "4": "MOG",
+        "5": "Mong Hsat",
+        "6": 99.2583333,
+        "7": 20.5183333,
+        "10": "Asia/Rangoon"
+      },
+      {
+        "1": "Mogadishu Aden Adde International, Somalia (MGQ)",
+        "2": "airport",
+        "3": "MGQ",
+        "4": "MGQ",
+        "5": "Mogadishu",
+        "6": 45.305,
+        "7": 2.01472222,
+        "10": "Africa/Mogadishu"
+      }
+    ]
+  }
+}

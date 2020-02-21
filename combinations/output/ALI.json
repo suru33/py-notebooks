@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Alicante, Spain (ALC)",
+        "2": "airport",
+        "3": "ALC",
+        "4": "ALC",
+        "5": "Alicante",
+        "6": -0.5580556,
+        "7": 38.2822222,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Alice Springs, Australia (ASP)",
+        "2": "airport",
+        "3": "ASP",
+        "4": "ASP",
+        "5": "Alice Springs",
+        "6": 133.902222,
+        "7": -23.806667,
+        "10": "Australia/Darwin"
+      },
+      {
+        "1": "Alitak Sea Plane Base, AK (ALZ)",
+        "2": "airport",
+        "3": "ALZ",
+        "4": "ALZ",
+        "5": "Alitak",
+        "6": -154.24972,
+        "7": 56.8988889,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Alicante Railway Station, Spain (YJE)",
+        "2": "rail",
+        "3": "YJE",
+        "4": "ALC",
+        "5": "Alicante",
+        "6": -0.4958333,
+        "7": 38.3447222,
+        "10": "Europe/Madrid"
+      }
+    ]
+  }
+}

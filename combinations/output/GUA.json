@@ -1,0 +1,146 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Guatemala City La Aurora International, Guatemala (GUA)",
+        "2": "airport",
+        "3": "GUA",
+        "4": "GUA",
+        "5": "Guatemala City",
+        "6": -90.527222,
+        "7": 14.5844444,
+        "10": "America/Guatemala"
+      },
+      {
+        "1": "Guangzhou Baiyun International, China (CAN)",
+        "2": "airport",
+        "3": "CAN",
+        "4": "CAN",
+        "5": "Guangzhou",
+        "6": 113.298889,
+        "7": 23.3925,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Guadalajara Miguel Hidalgo International, Mexico (GDL)",
+        "2": "airport",
+        "3": "GDL",
+        "4": "GDL",
+        "5": "Guadalajara",
+        "6": -103.31111,
+        "7": 20.5216667,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Guantanamo, Cuba - All airports",
+        "2": "city",
+        "3": "GAO",
+        "4": "GAO",
+        "5": "Guantanamo",
+        "6": -75.18231112326579,
+        "7": 19.99404851099297,
+        "10": "America/Havana"
+      },
+      {
+        "1": "Guam A.B. Won Pat International, Guam (GUM)",
+        "2": "airport",
+        "3": "GUM",
+        "4": "GUM",
+        "5": "Guam",
+        "6": 144.796111,
+        "7": 13.4833333,
+        "10": "Pacific/Guam"
+      },
+      {
+        "1": "Guayaquil Jose Joaquin de Olmedo, Ecuador (GYE)",
+        "2": "airport",
+        "3": "GYE",
+        "4": "GYE",
+        "5": "Guayaquil",
+        "6": -79.883611,
+        "7": -2.1575,
+        "10": "America/Guayaquil"
+      },
+      {
+        "1": "Guangyuan Panlong, China (GYS)",
+        "2": "airport",
+        "3": "GYS",
+        "4": "GYS",
+        "5": "Guang Yuan",
+        "6": 105.693056,
+        "7": 32.39,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Guayaramerin, Bolivia (GYA)",
+        "2": "airport",
+        "3": "GYA",
+        "4": "GYA",
+        "5": "Guayaramerin",
+        "6": -65.347222,
+        "7": -10.817778,
+        "10": "America/La_Paz"
+      },
+      {
+        "1": "Guantanamo Bay NS, Cuba (NBW)",
+        "2": "airport",
+        "3": "NBW",
+        "4": "GAO",
+        "5": "Guantanamo",
+        "6": -75.205278,
+        "7": 19.9066667,
+        "10": "America/Havana"
+      },
+      {
+        "1": "Guantanamo Mariana Grajales, Cuba (GAO)",
+        "2": "airport",
+        "3": "GAO",
+        "4": "GAO",
+        "5": "Guantanamo",
+        "6": -75.158333,
+        "7": 20.0852778,
+        "10": "America/Havana"
+      },
+      {
+        "1": "Guapi Juan Casiano, Colombia (GPI)",
+        "2": "airport",
+        "3": "GPI",
+        "4": "GPI",
+        "5": "Guapi",
+        "6": -77.898333,
+        "7": 2.57,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Guadalajara Railway Station, Spain (GDU)",
+        "2": "rail",
+        "3": "GDU",
+        "4": "GDU",
+        "5": "Guadalajara",
+        "6": -3.1822222,
+        "7": 40.6438889,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Sao Paulo Guarulhos International, Brazil (GRU)",
+        "2": "airport",
+        "3": "GRU",
+        "4": "SAO",
+        "5": "Sao Paulo",
+        "6": -46.469444,
+        "7": -23.431944,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Recife Guararapes International, Brazil (REC)",
+        "2": "airport",
+        "3": "REC",
+        "4": "REC",
+        "5": "Recife",
+        "6": -34.923056,
+        "7": -8.1266667,
+        "10": "America/Belem"
+      }
+    ]
+  }
+}

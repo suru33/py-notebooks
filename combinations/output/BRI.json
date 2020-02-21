@@ -1,0 +1,126 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bari Palese, Italy (BRI)",
+        "2": "airport",
+        "3": "BRI",
+        "4": "BRI",
+        "5": "Bari",
+        "6": 16.765,
+        "7": 41.1380556,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Bristol, United Kingdom (BRS)",
+        "2": "airport",
+        "3": "BRS",
+        "4": "BRS",
+        "5": "Bristol",
+        "6": -2.7188889,
+        "7": 51.3825,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Brisbane International, Australia (BNE)",
+        "2": "airport",
+        "3": "BNE",
+        "4": "BNE",
+        "5": "Brisbane",
+        "6": 153.1175,
+        "7": -27.384167,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Brindisi Casale, Italy (BDS)",
+        "2": "airport",
+        "3": "BDS",
+        "4": "BDS",
+        "5": "Brindisi",
+        "6": 17.9480556,
+        "7": 40.6605556,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Bridgetown Grantley Adams International, Barbados (BGI)",
+        "2": "airport",
+        "3": "BGI",
+        "4": "BGI",
+        "5": "Barbados",
+        "6": -59.4925,
+        "7": 13.0747222,
+        "10": "America/Barbados"
+      },
+      {
+        "1": "Brive-la-Gaillarde Vallee de la Dordogne, France (BVE)",
+        "2": "airport",
+        "3": "BVE",
+        "4": "BVE",
+        "5": "Brive-La-Gaillarde",
+        "6": 1.47194444,
+        "7": 45.1516667,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Brindisi Railway Station, Italy (BQD)",
+        "2": "rail",
+        "3": "BQD",
+        "4": "BDS",
+        "5": "Brindisi",
+        "6": 17.9388889,
+        "7": 40.6341667,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Bridgwater Railway Station, United Kingdom (UBW)",
+        "2": "rail",
+        "3": "UBW",
+        "4": "UBW",
+        "5": "Bridgwater",
+        "6": -2.9902778,
+        "7": 51.1277778,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Bristol Temple Meads Railway St., United Kingdom (TPB)",
+        "2": "rail",
+        "3": "TPB",
+        "4": "BRS",
+        "5": "Bristol",
+        "6": -2.5808333,
+        "7": 51.4491667,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Bristol Parkway Railway St., United Kingdom (BPR)",
+        "2": "rail",
+        "3": "BPR",
+        "4": "BRS",
+        "5": "Bristol",
+        "6": -2.5416667,
+        "7": 51.5138889,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Brighton Railway Station, United Kingdom (BSH)",
+        "2": "rail",
+        "3": "BSH",
+        "4": "BSH",
+        "5": "Brighton",
+        "6": -0.1408333,
+        "7": 50.8291667,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Forde Bringeland, Norway (FDE)",
+        "2": "airport",
+        "3": "FDE",
+        "4": "FDE",
+        "5": "Forde",
+        "6": 5.76055556,
+        "7": 61.3919444,
+        "10": "Europe/Oslo"
+      }
+    ]
+  }
+}

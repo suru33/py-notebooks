@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Maasai Mara Olare, Kenya (OLG)",
+        "2": "airport",
+        "3": "OLG",
+        "4": "MRE",
+        "5": "Mara Lodges",
+        "6": 34.8855556,
+        "7": -1.5661111,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Olga Bay Sea Plane Base, AK (KOY)",
+        "2": "airport",
+        "3": "KOY",
+        "4": "KOY",
+        "5": "Olga Bay",
+        "6": -154.22917,
+        "7": 57.1602778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Olgii, Mongolia (ULG)",
+        "2": "airport",
+        "3": "ULG",
+        "4": "ULG",
+        "5": "Ulgit",
+        "6": 89.9219444,
+        "7": 48.9933333,
+        "10": "Asia/Ulaanbaatar"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Manus Island Momote, Papua New Guinea (MAS)",
+        "2": "airport",
+        "3": "MAS",
+        "4": "MAS",
+        "5": "Manus Island",
+        "6": 147.425,
+        "7": -2.065,
+        "10": "Pacific/Port_Moresby"
+      },
+      {
+        "1": "Mashhad Shahid Hashemi Nejad, Iran (MHD)",
+        "2": "airport",
+        "3": "MHD",
+        "4": "MHD",
+        "5": "Mashad",
+        "6": 59.645,
+        "7": 36.2341667,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Mason City Municipal, IA (MCW)",
+        "2": "airport",
+        "3": "MCW",
+        "4": "MCW",
+        "5": "Mason City",
+        "6": -93.335833,
+        "7": 43.1558333,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Massena International, NY (MSS)",
+        "2": "airport",
+        "3": "MSS",
+        "4": "MSS",
+        "5": "Massena",
+        "6": -74.845556,
+        "7": 44.9358333,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Masset, BC, Canada (ZMT)",
+        "2": "airport",
+        "3": "ZMT",
+        "4": "ZMT",
+        "5": "Masset",
+        "6": -132.12528,
+        "7": 54.0275,
+        "10": "America/Vancouver"
+      },
+      {
+        "1": "Maseru Moshoeshoe I International, Lesotho (MSU)",
+        "2": "airport",
+        "3": "MSU",
+        "4": "MSU",
+        "5": "Maseru",
+        "6": 27.5525,
+        "7": -29.462222,
+        "10": "Africa/Maseru"
+      },
+      {
+        "1": "Masbate Moises R. Espinosa, Philippines (MBT)",
+        "2": "airport",
+        "3": "MBT",
+        "4": "MBT",
+        "5": "Masbate",
+        "6": 123.629444,
+        "7": 12.3688889,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Masuda Iwami, Japan (IWJ)",
+        "2": "airport",
+        "3": "IWJ",
+        "4": "IWJ",
+        "5": "Iwami",
+        "6": 131.790278,
+        "7": 34.6763889,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

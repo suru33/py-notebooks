@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Pormpuraaw, Australia (EDR)",
+        "2": "airport",
+        "3": "EDR",
+        "4": "EDR",
+        "5": "Edward River",
+        "6": 141.609722,
+        "7": -14.896944,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Edremit Koca Seyit, Turkey (EDO)",
+        "2": "airport",
+        "3": "EDO",
+        "4": "EDO",
+        "5": "Edremit/Korfez",
+        "6": 27.0138889,
+        "7": 39.5547222,
+        "10": "Europe/Istanbul"
+      }
+    ]
+  }
+}

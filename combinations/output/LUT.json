@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lutselke, NT, Canada (YSG)",
+        "2": "airport",
+        "3": "YSG",
+        "4": "YSG",
+        "5": "Lutselke Snowdrift",
+        "6": -110.6825,
+        "7": 62.4177778,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "London Luton, United Kingdom (LTN)",
+        "2": "airport",
+        "3": "LTN",
+        "4": "LON",
+        "5": "London",
+        "6": -0.3683333,
+        "7": 51.8747222,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

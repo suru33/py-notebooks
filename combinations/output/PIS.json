@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Poitiers Biard, France (PIS)",
+        "2": "airport",
+        "3": "PIS",
+        "4": "PIS",
+        "5": "Poitiers",
+        "6": 0.30666667,
+        "7": 46.5875,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Pisa Galileo Galilei, Italy (PSA)",
+        "2": "airport",
+        "3": "PSA",
+        "4": "PSA",
+        "5": "Pisa",
+        "6": 10.3955556,
+        "7": 43.6827778,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Pisco Renan Elias Olivera, Peru (PIO)",
+        "2": "airport",
+        "3": "PIO",
+        "4": "PIO",
+        "5": "Pisco",
+        "6": -76.220278,
+        "7": -13.745,
+        "10": "America/Lima"
+      }
+    ]
+  }
+}

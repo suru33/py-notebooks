@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sevilla, Spain (SVQ)",
+        "2": "airport",
+        "3": "SVQ",
+        "4": "SVQ",
+        "5": "Seville",
+        "6": -5.8930556,
+        "7": 37.4180556,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Severo-Evensk, Russia (SWV)",
+        "2": "airport",
+        "3": "SWV",
+        "4": "SWV",
+        "5": "Evensk",
+        "6": 159.229722,
+        "7": 61.9213889,
+        "10": "Asia/Magadan"
+      },
+      {
+        "1": "Sevilla Santa Justa Railway St, Spain (XQA)",
+        "2": "rail",
+        "3": "XQA",
+        "4": "SVQ",
+        "5": "Seville",
+        "6": -5.9741667,
+        "7": 37.3941667,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Natal International, Brazil (NAT)",
+        "2": "airport",
+        "3": "NAT",
+        "4": "NAT",
+        "5": "Natal",
+        "6": -35.376111,
+        "7": -5.7680556,
+        "10": "America/Belem"
+      }
+    ]
+  }
+}

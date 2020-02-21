@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lamu Manda, Kenya (LAU)",
+        "2": "airport",
+        "3": "LAU",
+        "4": "LAU",
+        "5": "Lamu",
+        "6": 40.9130556,
+        "7": -2.2525,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Launceston, Australia (LST)",
+        "2": "airport",
+        "3": "LST",
+        "4": "LST",
+        "5": "Launceston",
+        "6": 147.211111,
+        "7": -41.545278,
+        "10": "Australia/Hobart"
+      },
+      {
+        "1": "Hattiesburg/Laurel Regional, MS (PIB)",
+        "2": "airport",
+        "3": "PIB",
+        "4": "LUL",
+        "5": "Laurel",
+        "6": -89.336944,
+        "7": 31.4672222,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Puerto Plata Gregorio Luperon International, Dominican Republic (POP)",
+        "2": "airport",
+        "3": "POP",
+        "4": "POP",
+        "5": "Puerto Plata",
+        "6": -70.57,
+        "7": 19.7577778,
+        "10": "America/Santo_Domingo"
+      }
+    ]
+  }
+}

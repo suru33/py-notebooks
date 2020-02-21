@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Almeria, Spain (LEI)",
+        "2": "airport",
+        "3": "LEI",
+        "4": "LEI",
+        "5": "Almeria",
+        "6": -2.37,
+        "7": 36.8438889,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Leipzig/Halle, Germany (LEJ)",
+        "2": "airport",
+        "3": "LEJ",
+        "4": "LEJ",
+        "5": "Leipzig",
+        "6": 12.2416667,
+        "7": 51.4325,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Leipzig/Halle Leipzig Hbf Railway Station, Germany (XIT)",
+        "2": "rail",
+        "3": "XIT",
+        "4": "LEJ",
+        "5": "Leipzig",
+        "6": 12.3816667,
+        "7": 51.3458333,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Leicester Railway Station, United Kingdom (QEW)",
+        "2": "rail",
+        "3": "QEW",
+        "4": "QEW",
+        "5": "Leicester Off-Line Pt",
+        "6": -1.1247222,
+        "7": 52.6311111,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

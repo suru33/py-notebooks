@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kulusuk, Greenland (KUS)",
+        "2": "airport",
+        "3": "KUS",
+        "4": "KUS",
+        "5": "Kulusuk Island",
+        "6": -37.134167,
+        "7": 65.5733333,
+        "10": "America/Godthab"
+      },
+      {
+        "1": "Kushiro, Japan (KUH)",
+        "2": "airport",
+        "3": "KUH",
+        "4": "KUH",
+        "5": "Kushiro",
+        "6": 144.193056,
+        "7": 43.0408333,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

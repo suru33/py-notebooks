@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kobuk, AK (OBU)",
+        "2": "airport",
+        "3": "OBU",
+        "4": "OBU",
+        "5": "Kobuk",
+        "6": -156.89833,
+        "7": 66.9125,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Osaka Kobe, Japan (UKB)",
+        "2": "airport",
+        "3": "UKB",
+        "4": "OSA",
+        "5": "Osaka",
+        "6": 135.223889,
+        "7": 34.6327778,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

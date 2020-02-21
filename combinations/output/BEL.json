@@ -1,0 +1,275 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Belem Val de Cans International, Brazil (BEL)",
+        "2": "airport",
+        "3": "BEL",
+        "4": "BEL",
+        "5": "Belem",
+        "6": -48.476389,
+        "7": -1.3791667,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Belfast, United Kingdom - All airports",
+        "2": "city",
+        "3": "BFS",
+        "4": "BFS",
+        "5": "Belfast",
+        "6": -6.0857081710538035,
+        "7": 54.642550364656714,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Belo Horizonte, Brazil - All airports",
+        "2": "city",
+        "3": "BHZ",
+        "4": "BHZ",
+        "5": "Belo Horizonte",
+        "6": -43.964672442246886,
+        "7": -19.683849677916648,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Belize City, Belize - All airports",
+        "2": "city",
+        "3": "BZE",
+        "4": "BZE",
+        "5": "Belize City",
+        "6": -88.25941076160794,
+        "7": 17.529285776038137,
+        "10": "America/Belize"
+      },
+      {
+        "1": "Belgrade Nikola Tesla, Serbia (BEG)",
+        "2": "airport",
+        "3": "BEG",
+        "4": "BEG",
+        "5": "Belgrade",
+        "6": 20.3091667,
+        "7": 44.8183333
+      },
+      {
+        "1": "Belfast International, United Kingdom (BFS)",
+        "2": "airport",
+        "3": "BFS",
+        "4": "BFS",
+        "5": "Belfast",
+        "6": -6.2158333,
+        "7": 54.6575,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Belo Horizonte Tancredo Neves, Brazil (CNF)",
+        "2": "airport",
+        "3": "CNF",
+        "4": "BHZ",
+        "5": "Belo Horizonte",
+        "6": -43.968889,
+        "7": -19.633889,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Bellingham International, WA (BLI)",
+        "2": "airport",
+        "3": "BLI",
+        "4": "BLI",
+        "5": "Bellingham",
+        "6": -122.5375,
+        "7": 48.7927778,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Belleville MidAmerica St Louis, IL (BLV)",
+        "2": "airport",
+        "3": "BLV",
+        "4": "BLV",
+        "5": "Belleville",
+        "6": -89.848889,
+        "7": 38.5411111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Belize City Philip S.W.Goldson International, Belize (BZE)",
+        "2": "airport",
+        "3": "BZE",
+        "4": "BZE",
+        "5": "Belize City",
+        "6": -88.308333,
+        "7": 17.5391667,
+        "10": "America/Belize"
+      },
+      {
+        "1": "Belfast George Best City Apt, United Kingdom (BHD)",
+        "2": "airport",
+        "3": "BHD",
+        "4": "BFS",
+        "5": "Belfast",
+        "6": -5.8725,
+        "7": 54.6180556,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Belgorod, Russia (EGO)",
+        "2": "airport",
+        "3": "EGO",
+        "4": "EGO",
+        "5": "Belgorod",
+        "6": 36.59,
+        "7": 50.6438889,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Beloyarsky, Russia (EYK)",
+        "2": "airport",
+        "3": "EYK",
+        "4": "EYK",
+        "5": "Beloyarsky",
+        "6": 66.6997222,
+        "7": 63.6905556,
+        "10": "Asia/Yekaterinburg"
+      },
+      {
+        "1": "Belize City Municipal, Belize (TZA)",
+        "2": "airport",
+        "3": "TZA",
+        "4": "BZE",
+        "5": "Belize City",
+        "6": -88.195556,
+        "7": 17.5163889,
+        "10": "America/Belize"
+      },
+      {
+        "1": "Belmopan Hector Silva, Belize (BCV)",
+        "2": "airport",
+        "3": "BCV",
+        "4": "BCV",
+        "5": "Belmopan",
+        "6": -88.776667,
+        "7": 17.2697222,
+        "10": "America/Belize"
+      },
+      {
+        "1": "Bella Bella Campbell Island, BC, Canada (ZEL)",
+        "2": "airport",
+        "3": "ZEL",
+        "4": "ZEL",
+        "5": "Bella Bella",
+        "6": -128.15667,
+        "7": 52.1847222,
+        "10": "America/Vancouver"
+      },
+      {
+        "1": "Belo Horizonte Pampulha, Brazil (PLU)",
+        "2": "airport",
+        "3": "PLU",
+        "4": "BHZ",
+        "5": "Belo Horizonte",
+        "6": -43.950556,
+        "7": -19.851111,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Bella Coola, BC, Canada (QBC)",
+        "2": "airport",
+        "3": "QBC",
+        "4": "QBC",
+        "5": "Bella Coola",
+        "6": -126.59583,
+        "7": 52.3875,
+        "10": "America/Vancouver"
+      },
+      {
+        "1": "Bellona Anua, Solomon Islands (BNY)",
+        "2": "airport",
+        "3": "BNY",
+        "4": "BNY",
+        "5": "Bellona",
+        "6": 159.798889,
+        "7": -11.302222,
+        "10": "Pacific/Guadalcanal"
+      },
+      {
+        "1": "Belaya Gora, Russia (BGN)",
+        "2": "airport",
+        "3": "BGN",
+        "4": "BGN",
+        "5": "Belaya Gora",
+        "6": 146.231111,
+        "7": 68.5569444,
+        "10": "Asia/Magadan"
+      },
+      {
+        "1": "Beletwene, Somalia (BLW)",
+        "2": "airport",
+        "3": "BLW",
+        "4": "BLW",
+        "5": "Beletwene",
+        "6": 45.2383333,
+        "7": 4.76583333,
+        "10": "Africa/Mogadishu"
+      },
+      {
+        "1": "Belgaum Sambre, India (IXG)",
+        "2": "airport",
+        "3": "IXG",
+        "4": "IXG",
+        "5": "Belgaum",
+        "6": 74.6183333,
+        "7": 15.8591667,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Belleville Railway Station, ON, Canada (XVV)",
+        "2": "rail",
+        "3": "XVV",
+        "4": "XVV",
+        "5": "Belleville Rail Station",
+        "6": -77.375,
+        "7": 44.1794444,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Limoges Bellegarde, France (LIG)",
+        "2": "airport",
+        "3": "LIG",
+        "4": "LIG",
+        "5": "Limoges",
+        "6": 1.18027778,
+        "7": 45.8608333,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Porto Velho J.T. de Oliveira International, Brazil (PVH)",
+        "2": "airport",
+        "3": "PVH",
+        "4": "PVH",
+        "5": "Porto Velho",
+        "6": -63.902222,
+        "7": -8.7091667,
+        "10": "America/Manaus"
+      },
+      {
+        "1": "Cobija Capitan Anibal Arab, Bolivia (CIJ)",
+        "2": "airport",
+        "3": "CIJ",
+        "4": "CIJ",
+        "5": "Cobija",
+        "6": -68.783056,
+        "7": -11.040556,
+        "10": "America/La_Paz"
+      },
+      {
+        "1": "Bern Belp, Switzerland (BRN)",
+        "2": "airport",
+        "3": "BRN",
+        "4": "BRN",
+        "5": "Berne",
+        "6": 7.49722222,
+        "7": 46.9141667,
+        "10": "Europe/Zurich"
+      }
+    ]
+  }
+}

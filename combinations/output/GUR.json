@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Alotau Gurney, Papua New Guinea (GUR)",
+        "2": "airport",
+        "3": "GUR",
+        "4": "GUR",
+        "5": "Alotau",
+        "6": 150.339167,
+        "7": -10.311389,
+        "10": "Pacific/Port_Moresby"
+      },
+      {
+        "1": "Gurayat, Saudi Arabia (URY)",
+        "2": "airport",
+        "3": "URY",
+        "4": "URY",
+        "5": "Gurayat",
+        "6": 37.2794444,
+        "7": 31.4119444,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "Guriel, Somalia (GUO)",
+        "2": "airport",
+        "3": "GUO",
+        "4": "GUO",
+        "5": "Guriel",
+        "6": 45.9852778,
+        "7": 5.3175,
+        "10": "Africa/Mogadishu"
+      }
+    ]
+  }
+}

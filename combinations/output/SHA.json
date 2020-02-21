@@ -1,0 +1,196 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Shanghai, China - All airports",
+        "2": "city",
+        "3": "SHA",
+        "4": "SHA",
+        "5": "Shanghai",
+        "6": 121.60382471636154,
+        "7": 31.166724813345493,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Shanghai Hongqiao International, China (SHA)",
+        "2": "airport",
+        "3": "SHA",
+        "4": "SHA",
+        "5": "Shanghai",
+        "6": 121.336389,
+        "7": 31.1977778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Shanghai Pudong International, China (PVG)",
+        "2": "airport",
+        "3": "PVG",
+        "4": "SHA",
+        "5": "Shanghai",
+        "6": 121.805278,
+        "7": 31.1433333,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Sharjah, United Arab Emirates (SHJ)",
+        "2": "airport",
+        "3": "SHJ",
+        "4": "SHJ",
+        "5": "Sharjah",
+        "6": 55.5172222,
+        "7": 25.3286111,
+        "10": "Asia/Dubai"
+      },
+      {
+        "1": "Shantou Jieyang Chaoshan, China (SWA)",
+        "2": "airport",
+        "3": "SWA",
+        "4": "SWA",
+        "5": "Shantou",
+        "6": 116.7625,
+        "7": 23.4275,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Sharm el-Sheikh International, Egypt (SSH)",
+        "2": "airport",
+        "3": "SSH",
+        "4": "SSH",
+        "5": "Sharm El Sheikh",
+        "6": 34.395,
+        "7": 27.9772222,
+        "10": "Africa/Cairo"
+      },
+      {
+        "1": "Shannon International, Ireland (SNN)",
+        "2": "airport",
+        "3": "SNN",
+        "4": "SNN",
+        "5": "Shannon",
+        "6": -8.9247222,
+        "7": 52.7019444,
+        "10": "Europe/Dublin"
+      },
+      {
+        "1": "Shageluk, AK (SHX)",
+        "2": "airport",
+        "3": "SHX",
+        "4": "SHX",
+        "5": "Shageluk",
+        "6": -159.56917,
+        "7": 62.6925,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Shaoyang Wugang, China (WGN)",
+        "2": "airport",
+        "3": "WGN",
+        "4": "WGN",
+        "5": "Shaoyang",
+        "6": 110.641111,
+        "7": 26.8061111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Shangrao Sanqingshan, China (SQD)",
+        "2": "airport",
+        "3": "SQD",
+        "4": "SQD",
+        "5": "Shangrao",
+        "6": 117.964167,
+        "7": 28.3797222,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Shaktoolik, AK (SKK)",
+        "2": "airport",
+        "3": "SKK",
+        "4": "SKK",
+        "5": "Shaktoolik",
+        "6": -161.2025,
+        "7": 64.3611111,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Sharurah, Saudi Arabia (SHW)",
+        "2": "airport",
+        "3": "SHW",
+        "4": "SHW",
+        "5": "Sharurah",
+        "6": 47.1213889,
+        "7": 17.4669444,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "Shache Yeerqiang, China (QSZ)",
+        "2": "airport",
+        "3": "QSZ",
+        "4": "QSZ",
+        "5": "Shache",
+        "6": 77.0666667,
+        "7": 38.2486111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Shahrud, Iran (RUD)",
+        "2": "airport",
+        "3": "RUD",
+        "4": "RUD",
+        "5": "Shahrud",
+        "6": 55.0894444,
+        "7": 36.4208333,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Jingzhou Shashi, China (SHS)",
+        "2": "airport",
+        "3": "SHS",
+        "4": "SHS",
+        "5": "Shashi",
+        "6": 112.279167,
+        "7": 30.3213889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Shahre Kord, Iran (CQD)",
+        "2": "airport",
+        "3": "CQD",
+        "4": "CQD",
+        "5": "Shahre-Kord",
+        "6": 50.8405556,
+        "7": 32.2983333,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Shaoyang Railway Station, China (SYG)",
+        "2": "rail",
+        "3": "SYG",
+        "4": "WGN",
+        "5": "Shaoyang",
+        "6": 111.504444,
+        "7": 27.5741667,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Kinmen Shangyi, Taiwan (KNH)",
+        "2": "airport",
+        "3": "KNH",
+        "4": "KNH",
+        "5": "Kinmen",
+        "6": 118.361667,
+        "7": 24.4297222,
+        "10": "Asia/Taipei"
+      },
+      {
+        "1": "Monkey Mia Shark Bay, Australia (MJK)",
+        "2": "airport",
+        "3": "MJK",
+        "4": "MJK",
+        "5": "Monkey Mia",
+        "6": 113.575833,
+        "7": -25.895278,
+        "10": "Australia/Perth"
+      }
+    ]
+  }
+}

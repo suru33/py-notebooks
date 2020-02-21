@@ -1,0 +1,25 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Belgrade Nikola Tesla, Serbia (BEG)",
+        "2": "airport",
+        "3": "BEG",
+        "4": "BEG",
+        "5": "Belgrade",
+        "6": 20.3091667,
+        "7": 44.8183333
+      },
+      {
+        "1": "Hyderabad Rajiv Gandhi International, India (HYD)",
+        "2": "airport",
+        "3": "HYD",
+        "4": "HYD",
+        "5": "Hyderabad",
+        "6": 78.4313889,
+        "7": 17.2311111,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

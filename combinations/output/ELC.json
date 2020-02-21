@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Elcho Island, Australia (ELC)",
+        "2": "airport",
+        "3": "ELC",
+        "4": "ELC",
+        "5": "Elcho Island",
+        "6": 135.570556,
+        "7": -12.019444,
+        "10": "Australia/Darwin"
+      },
+      {
+        "1": "El Calafate Comandante A. Tola, Argentina (FTE)",
+        "2": "airport",
+        "3": "FTE",
+        "4": "FTE",
+        "5": "El Calafate",
+        "6": -72.053333,
+        "7": -50.28,
+        "10": "America/Argentina/Mendoza"
+      }
+    ]
+  }
+}

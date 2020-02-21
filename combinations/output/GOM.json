@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Goma International, Congo (Zaire) (GOM)",
+        "2": "airport",
+        "3": "GOM",
+        "4": "GOM",
+        "5": "Goma",
+        "6": 29.2383333,
+        "7": -1.6708333,
+        "10": "Africa/Lubumbashi"
+      },
+      {
+        "1": "Gombe Lawanti, Nigeria (GMO)",
+        "2": "airport",
+        "3": "GMO",
+        "4": "GMO",
+        "5": "Gombe",
+        "6": 10.8988889,
+        "7": 10.2980556,
+        "10": "Africa/Lagos"
+      },
+      {
+        "1": "Gomel, Belarus (GME)",
+        "2": "airport",
+        "3": "GME",
+        "4": "GME",
+        "5": "Gomel",
+        "6": 31.0166667,
+        "7": 52.5269444,
+        "10": "Europe/Minsk"
+      },
+      {
+        "1": "Manaus Eduardo Gomes International, Brazil (MAO)",
+        "2": "airport",
+        "3": "MAO",
+        "4": "MAO",
+        "5": "Manaus",
+        "6": -60.049722,
+        "7": -3.0386111,
+        "10": "America/Manaus"
+      },
+      {
+        "1": "Uberlandia Cesar Bombonato, Brazil (UDI)",
+        "2": "airport",
+        "3": "UDI",
+        "4": "UDI",
+        "5": "Uberlandia",
+        "6": -48.225556,
+        "7": -18.882778,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Ilheus Jorge Amado, Brazil (IOS)",
+        "2": "airport",
+        "3": "IOS",
+        "4": "IOS",
+        "5": "Ilheus",
+        "6": -39.033333,
+        "7": -14.815833,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Santarem Maestro Wilson Fonseca, Brazil (STM)",
+        "2": "airport",
+        "3": "STM",
+        "4": "STM",
+        "5": "Santarem",
+        "6": -54.792778,
+        "7": -2.4225,
+        "10": "America/Belem"
+      }
+    ]
+  }
+}

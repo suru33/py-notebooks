@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Maiduguri International, Nigeria (MIU)",
+        "2": "airport",
+        "3": "MIU",
+        "4": "MIU",
+        "5": "Maiduguri",
+        "6": 13.0808333,
+        "7": 11.8552778,
+        "10": "Africa/Lagos"
+      },
+      {
+        "1": "Maio Island, Cape Verde (MMO)",
+        "2": "airport",
+        "3": "MMO",
+        "4": "MMO",
+        "5": "Maio",
+        "6": -23.213611,
+        "7": 15.1558333,
+        "10": "Atlantic/Cape_Verde"
+      },
+      {
+        "1": "Port-au-Prince Toussaint Louverture, Haiti (PAP)",
+        "2": "airport",
+        "3": "PAP",
+        "4": "PAP",
+        "5": "Port Au Prince",
+        "6": -72.2925,
+        "7": 18.58,
+        "10": "America/Port-au-Prince"
+      }
+    ]
+  }
+}

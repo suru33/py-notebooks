@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Roswell International Air Center, NM (ROW)",
+        "2": "airport",
+        "3": "ROW",
+        "4": "ROW",
+        "5": "Roswell",
+        "6": -104.53056,
+        "7": 33.3016667,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Jorhat Rowriah, India (JRH)",
+        "2": "airport",
+        "3": "JRH",
+        "4": "JRH",
+        "5": "Jorhat",
+        "6": 94.1755556,
+        "7": 26.7316667,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

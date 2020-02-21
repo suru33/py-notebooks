@@ -1,0 +1,226 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "New York, NY - All airports",
+        "2": "city",
+        "3": "NYC",
+        "4": "NYC",
+        "5": "New York",
+        "6": -73.83494650117721,
+        "7": 40.703879221072995,
+        "10": "America/New_York"
+      },
+      {
+        "1": "New York John F Kennedy International, NY (JFK)",
+        "2": "airport",
+        "3": "JFK",
+        "4": "NYC",
+        "5": "New York",
+        "6": -73.778889,
+        "7": 40.6397222,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Newark Liberty International, NJ (EWR)",
+        "2": "airport",
+        "3": "EWR",
+        "4": "EWR",
+        "5": "Newark",
+        "6": -74.168611,
+        "7": 40.6925,
+        "10": "America/New_York"
+      },
+      {
+        "1": "New York LaGuardia, NY (LGA)",
+        "2": "airport",
+        "3": "LGA",
+        "4": "NYC",
+        "5": "New York",
+        "6": -73.8725,
+        "7": 40.7772222,
+        "10": "America/New_York"
+      },
+      {
+        "1": "New Orleans Louis Armstrong International, LA (MSY)",
+        "2": "airport",
+        "3": "MSY",
+        "4": "MSY",
+        "5": "New Orleans",
+        "6": -90.258056,
+        "7": 29.9933333,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Newcastle International, United Kingdom (NCL)",
+        "2": "airport",
+        "3": "NCL",
+        "4": "NCL",
+        "5": "Newcastle",
+        "6": -1.6916667,
+        "7": 55.0375,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Newburgh Stewart, NY (SWF)",
+        "2": "airport",
+        "3": "SWF",
+        "4": "SWF",
+        "5": "Newburgh",
+        "6": -74.104722,
+        "7": 41.5041667,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Newport News/Williamsburg Int'l, VA (PHF)",
+        "2": "airport",
+        "3": "PHF",
+        "4": "PHF",
+        "5": "Newport News",
+        "6": -76.493056,
+        "7": 37.1319444,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Newquay Cornwall, United Kingdom (NQY)",
+        "2": "airport",
+        "3": "NQY",
+        "4": "NQY",
+        "5": "Newquay",
+        "6": -5.0016667,
+        "7": 50.4433333,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Newtok, AK (WWT)",
+        "2": "airport",
+        "3": "WWT",
+        "4": "WWT",
+        "5": "Newtok",
+        "6": -164.6425,
+        "7": 60.9402778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Newcastle Williamtown, Australia (NTL)",
+        "2": "airport",
+        "3": "NTL",
+        "4": "NTL",
+        "5": "Newcastle",
+        "6": 151.834444,
+        "7": -32.795,
+        "10": "Australia/Sydney"
+      },
+      {
+        "1": "New Ishigaki, Japan (ISG)",
+        "2": "airport",
+        "3": "ISG",
+        "4": "ISG",
+        "5": "Ishigaki",
+        "6": 124.245,
+        "7": 24.3963889,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "New Plymouth, New Zealand (NPL)",
+        "2": "airport",
+        "3": "NPL",
+        "4": "NPL",
+        "5": "New Plymouth",
+        "6": 174.1775,
+        "7": -39.008056,
+        "10": "Pacific/Auckland"
+      },
+      {
+        "1": "New Haven Tweed, CT (HVN)",
+        "2": "airport",
+        "3": "HVN",
+        "4": "HVN",
+        "5": "New Haven",
+        "6": -72.886944,
+        "7": 41.2638889,
+        "10": "America/New_York"
+      },
+      {
+        "1": "New Bedford/Fall River New Bedford Regional, MA (EWB)",
+        "2": "airport",
+        "3": "EWB",
+        "4": "EWB",
+        "5": "New Bedford",
+        "6": -70.956944,
+        "7": 41.6761111,
+        "10": "America/New_York"
+      },
+      {
+        "1": "New Bern Coastal Carolina Regional, NC (EWN)",
+        "2": "airport",
+        "3": "EWN",
+        "4": "EWN",
+        "5": "New Bern",
+        "6": -77.043056,
+        "7": 35.0730556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "New Stuyahok, AK (KNW)",
+        "2": "airport",
+        "3": "KNW",
+        "4": "KNW",
+        "5": "New Stuyahok",
+        "6": -157.32861,
+        "7": 59.4505556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Newman, Australia (ZNE)",
+        "2": "airport",
+        "3": "ZNE",
+        "4": "ZNE",
+        "5": "Newman",
+        "6": 119.802778,
+        "7": -23.417778,
+        "10": "Australia/Perth"
+      },
+      {
+        "1": "New Haven Railway Station, CT (ZVE)",
+        "2": "rail",
+        "3": "ZVE",
+        "4": "HVN",
+        "5": "New Haven",
+        "6": -72.926944,
+        "7": 41.2977778,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Newport Railway Station, United Kingdom (XNE)",
+        "2": "rail",
+        "3": "XNE",
+        "4": "XNE",
+        "5": "Newport Rail Station",
+        "6": -3.0005556,
+        "7": 51.5888889,
+        "10": "Europe/London"
+      },
+      {
+        "1": "New York Newark NJ Penn Railway St, NY (ZRP)",
+        "2": "rail",
+        "3": "ZRP",
+        "4": "NYC",
+        "5": "New York",
+        "6": -74.164722,
+        "7": 40.7347222,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Nevis Vance W. Amory International, Saint Kitts and Nevis (NEV)",
+        "2": "airport",
+        "3": "NEV",
+        "4": "NEV",
+        "5": "Nevis",
+        "6": -62.59,
+        "7": 17.2055556,
+        "10": "America/St_Kitts"
+      }
+    ]
+  }
+}

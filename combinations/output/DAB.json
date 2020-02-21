@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Daytona Beach International, FL (DAB)",
+        "2": "airport",
+        "3": "DAB",
+        "4": "DAB",
+        "5": "Daytona Beach",
+        "6": -81.058056,
+        "7": 29.18,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Goa Dabolim, India (GOI)",
+        "2": "airport",
+        "3": "GOI",
+        "4": "GOI",
+        "5": "Goa",
+        "6": 73.8313889,
+        "7": 15.3808333,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Udaipur Maharana Pratap, India (UDR)",
+        "2": "airport",
+        "3": "UDR",
+        "4": "UDR",
+        "5": "Udaipur",
+        "6": 73.8961111,
+        "7": 24.6177778,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

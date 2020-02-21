@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Majuro Amata Kabua International, Marshall Islands (MAJ)",
+        "2": "airport",
+        "3": "MAJ",
+        "4": "MAJ",
+        "5": "Majuro",
+        "6": 171.271944,
+        "7": 7.06472222,
+        "10": "Pacific/Kwajalein"
+      },
+      {
+        "1": "Majalengka Kertajati International, Indonesia (KJT)",
+        "2": "airport",
+        "3": "KJT",
+        "4": "KJT",
+        "5": "Majalengka",
+        "6": 108.169444,
+        "7": -6.6513889,
+        "10": "Asia/Jakarta"
+      }
+    ]
+  }
+}

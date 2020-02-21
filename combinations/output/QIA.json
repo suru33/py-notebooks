@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Qianjiang Wulingshan, China (JIQ)",
+        "2": "airport",
+        "3": "JIQ",
+        "4": "JIQ",
+        "5": "Qianjiang Shi",
+        "6": 108.831667,
+        "7": 29.5147222,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Qianjiang Railway Station, China (JQJ)",
+        "2": "rail",
+        "3": "JQJ",
+        "4": "JIQ",
+        "5": "Qianjiang Shi",
+        "6": 108.790556,
+        "7": 29.4430556,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Erzurum, Turkey (ERZ)",
+        "2": "airport",
+        "3": "ERZ",
+        "4": "ERZ",
+        "5": "Erzurum",
+        "6": 41.1702778,
+        "7": 39.9563889,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Erzincan, Turkey (ERC)",
+        "2": "airport",
+        "3": "ERC",
+        "4": "ERC",
+        "5": "Erzincan",
+        "6": 39.5269444,
+        "7": 39.7102778,
+        "10": "Europe/Istanbul"
+      }
+    ]
+  }
+}

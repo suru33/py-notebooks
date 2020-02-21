@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kristiansand Kjevik, Norway (KRS)",
+        "2": "airport",
+        "3": "KRS",
+        "4": "KRS",
+        "5": "Kristiansand",
+        "6": 8.08527778,
+        "7": 58.2041667,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Kristiansund Kvernberget, Norway (KSU)",
+        "2": "airport",
+        "3": "KSU",
+        "4": "KSU",
+        "5": "Kristiansund",
+        "6": 7.82444444,
+        "7": 63.1116667,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Kristianstad, Sweden (KID)",
+        "2": "airport",
+        "3": "KID",
+        "4": "KID",
+        "5": "Kristianstad",
+        "6": 14.0855556,
+        "7": 55.9216667,
+        "10": "Europe/Stockholm"
+      }
+    ]
+  }
+}

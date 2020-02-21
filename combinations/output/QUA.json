@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Quanzhou Jinjiang, China (JJN)",
+        "2": "airport",
+        "3": "JJN",
+        "4": "JJN",
+        "5": "Jinjiang",
+        "6": 118.588056,
+        "7": 24.7955556,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Quaqtaq, QC, Canada (YQC)",
+        "2": "airport",
+        "3": "YQC",
+        "4": "YQC",
+        "5": "Quaqtaq",
+        "6": -69.618056,
+        "7": 61.0466667,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Quang Ninh Van Don International, Viet Nam (VDO)",
+        "2": "airport",
+        "3": "VDO",
+        "4": "VDO",
+        "5": "Quang Ninh",
+        "6": 107.419722,
+        "7": 21.1138889,
+        "10": "Asia/Ho_Chi_Minh"
+      },
+      {
+        "1": "Moline Quad City International, IL (MLI)",
+        "2": "airport",
+        "3": "MLI",
+        "4": "MLI",
+        "5": "Moline",
+        "6": -90.5075,
+        "7": 41.4486111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Karachi Jinnah International, Pakistan (KHI)",
+        "2": "airport",
+        "3": "KHI",
+        "4": "KHI",
+        "5": "Karachi",
+        "6": 67.1608333,
+        "7": 24.9066667,
+        "10": "Asia/Karachi"
+      }
+    ]
+  }
+}

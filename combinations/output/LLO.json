@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Palopo Lagaligo, Indonesia (LLO)",
+        "2": "airport",
+        "3": "LLO",
+        "4": "LLO",
+        "5": "Palopo",
+        "6": 120.245,
+        "7": -3.0825,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Lloydminster, SK, Canada (YLL)",
+        "2": "airport",
+        "3": "YLL",
+        "4": "YLL",
+        "5": "Lloydminster",
+        "6": -110.0725,
+        "7": 53.3091667,
+        "10": "America/Edmonton"
+      }
+    ]
+  }
+}

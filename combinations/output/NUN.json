@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Nunam Iqua Sheldon Point, AK (SXP)",
+        "2": "airport",
+        "3": "SXP",
+        "4": "SXP",
+        "5": "Sheldon Point",
+        "6": -164.84667,
+        "7": 62.5216667,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Nunapitchuk, AK (NUP)",
+        "2": "airport",
+        "3": "NUP",
+        "4": "NUP",
+        "5": "Nunapitchuk",
+        "6": -162.44167,
+        "7": 60.9041667,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Nunukan, Indonesia (NNX)",
+        "2": "airport",
+        "3": "NNX",
+        "4": "NNX",
+        "5": "Nunukan",
+        "6": 117.668333,
+        "7": 4.13583333,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Cartagena Rafael Nunez International, Colombia (CTG)",
+        "2": "airport",
+        "3": "CTG",
+        "4": "CTG",
+        "5": "Cartagena",
+        "6": -75.513056,
+        "7": 10.4425,
+        "10": "America/Bogota"
+      }
+    ]
+  }
+}

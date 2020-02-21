@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "San Antonio International, TX (SAT)",
+        "2": "airport",
+        "3": "SAT",
+        "4": "SAT",
+        "5": "San Antonio",
+        "6": -98.469722,
+        "7": 29.5336111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Satu Mare, Romania (SUJ)",
+        "2": "airport",
+        "3": "SUJ",
+        "4": "SUJ",
+        "5": "Satu Mare",
+        "6": 22.8858333,
+        "7": 47.7033333,
+        "10": "Europe/Bucharest"
+      },
+      {
+        "1": "Jammu Satwari, India (IXJ)",
+        "2": "airport",
+        "3": "IXJ",
+        "4": "IXJ",
+        "5": "Jammu",
+        "6": 74.8375,
+        "7": 32.6891667,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

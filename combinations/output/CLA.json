@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Clarksburg North Central W.V., WV (CKB)",
+        "2": "airport",
+        "3": "CKB",
+        "4": "CKB",
+        "5": "Clarksburg",
+        "6": -80.228056,
+        "7": 39.2966667,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Clarks Point, AK (CLP)",
+        "2": "airport",
+        "3": "CLP",
+        "4": "CLP",
+        "5": "Clarks Point",
+        "6": -158.52944,
+        "7": 58.8336111,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Angeles/Mabalacat Clark International, Philippines (CRK)",
+        "2": "airport",
+        "3": "CRK",
+        "4": "CRK",
+        "5": "Angeles/Mabalacat",
+        "6": 120.560278,
+        "7": 15.1861111,
+        "10": "Asia/Manila"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Allentown Lehigh Valley International, PA (ABE)",
+        "2": "airport",
+        "3": "ABE",
+        "4": "ABE",
+        "5": "Allentown/Bethlehem",
+        "6": -75.440833,
+        "7": 40.6522222,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Aberdeen Dyce, United Kingdom (ABZ)",
+        "2": "airport",
+        "3": "ABZ",
+        "4": "ABZ",
+        "5": "Aberdeen",
+        "6": -2.2002778,
+        "7": 57.2041667,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Aberdeen Regional, SD (ABR)",
+        "2": "airport",
+        "3": "ABR",
+        "4": "ABR",
+        "5": "Aberdeen",
+        "6": -98.425556,
+        "7": 45.4536111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Abeche, Chad (AEH)",
+        "2": "airport",
+        "3": "AEH",
+        "4": "AEH",
+        "5": "Abecher",
+        "6": 20.8444444,
+        "7": 13.8475,
+        "10": "Africa/Ndjamena"
+      }
+    ]
+  }
+}

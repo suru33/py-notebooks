@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Foshan Shadi, China (FUO)",
+        "2": "airport",
+        "3": "FUO",
+        "4": "FUO",
+        "5": "Fuoshan",
+        "6": 113.07,
+        "7": 23.0816667,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Foshan CZ Bus Station, China (FSA)",
+        "2": "bus",
+        "3": "FSA",
+        "4": "FUO",
+        "5": "Fuoshan",
+        "6": 113.108056,
+        "7": 23.0394444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Victoria Regional, TX (VCT)",
+        "2": "airport",
+        "3": "VCT",
+        "4": "VCT",
+        "5": "Victoria",
+        "6": -96.918611,
+        "7": 28.8525,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

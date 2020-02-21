@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Mombasa Moi International, Kenya (MBA)",
+        "2": "airport",
+        "3": "MBA",
+        "4": "MBA",
+        "5": "Mombasa",
+        "6": 39.5997222,
+        "7": -4.0280556,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Dunedin International, New Zealand (DUD)",
+        "2": "airport",
+        "3": "DUD",
+        "4": "DUD",
+        "5": "Dunedin",
+        "6": 170.1975,
+        "7": -45.929167,
+        "10": "Pacific/Auckland"
+      },
+      {
+        "1": "Manus Island Momote, Papua New Guinea (MAS)",
+        "2": "airport",
+        "3": "MAS",
+        "4": "MAS",
+        "5": "Manus Island",
+        "6": 147.425,
+        "7": -2.065,
+        "10": "Pacific/Port_Moresby"
+      }
+    ]
+  }
+}

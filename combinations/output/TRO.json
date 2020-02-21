@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Taree, Australia (TRO)",
+        "2": "airport",
+        "3": "TRO",
+        "4": "TRO",
+        "5": "Taree",
+        "6": 152.513889,
+        "7": -31.888611,
+        "10": "Australia/Sydney"
+      },
+      {
+        "1": "Tromso Langnes, Norway (TOS)",
+        "2": "airport",
+        "3": "TOS",
+        "4": "TOS",
+        "5": "Tromso",
+        "6": 18.9188889,
+        "7": 69.6833333,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Trondheim Vaernes, Norway (TRD)",
+        "2": "airport",
+        "3": "TRD",
+        "4": "TRD",
+        "5": "Trondheim",
+        "6": 10.9241667,
+        "7": 63.4575,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Trollhattan/Vanersborg, Sweden (THN)",
+        "2": "airport",
+        "3": "THN",
+        "4": "THN",
+        "5": "Trollhattan",
+        "6": 12.345,
+        "7": 58.3180556,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Aurillac, France (AUR)",
+        "2": "airport",
+        "3": "AUR",
+        "4": "AUR",
+        "5": "Aurillac",
+        "6": 2.41666667,
+        "7": 44.8975,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

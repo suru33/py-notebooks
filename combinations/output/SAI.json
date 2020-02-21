@@ -1,0 +1,394 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Minneapolis/St Paul International, MN (MSP)",
+        "2": "airport",
+        "3": "MSP",
+        "4": "MSP",
+        "5": "Minneapolis/St Paul",
+        "6": -93.221667,
+        "7": 44.8819444,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Saipan Francisco C. Ada International, Northern Mariana Islands (SPN)",
+        "2": "airport",
+        "3": "SPN",
+        "4": "SPN",
+        "5": "Saipan",
+        "6": 145.729444,
+        "7": 15.1188889,
+        "10": "Pacific/Saipan"
+      },
+      {
+        "1": "St. Louis Lambert Int'l, MO (STL)",
+        "2": "airport",
+        "3": "STL",
+        "4": "STL",
+        "5": "St Louis",
+        "6": -90.37,
+        "7": 38.7486111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Tampa International, FL (TPA)",
+        "2": "airport",
+        "3": "TPA",
+        "4": "TPA",
+        "5": "Tampa",
+        "6": -82.533333,
+        "7": 27.9755556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Saint John, NB, Canada (YSJ)",
+        "2": "airport",
+        "3": "YSJ",
+        "4": "YSJ",
+        "5": "St John",
+        "6": -65.882222,
+        "7": 45.3205556,
+        "10": "America/Halifax"
+      },
+      {
+        "1": "Sainte-Marie, Madagascar (SMS)",
+        "2": "airport",
+        "3": "SMS",
+        "4": "SMS",
+        "5": "Ste Marie",
+        "6": 49.8158333,
+        "7": -17.093889,
+        "10": "Indian/Antananarivo"
+      },
+      {
+        "1": "Saibai Island, Australia (SBR)",
+        "2": "airport",
+        "3": "SBR",
+        "4": "SBR",
+        "5": "Saibai Island",
+        "6": 142.625,
+        "7": -9.3786111,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "St Petersburg Pulkovo, Russia (LED)",
+        "2": "airport",
+        "3": "LED",
+        "4": "LED",
+        "5": "St Petersburg",
+        "6": 30.2625,
+        "7": 59.8002778,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Saidpur, Bangladesh (SPD)",
+        "2": "airport",
+        "3": "SPD",
+        "4": "SPD",
+        "5": "Saidpur",
+        "6": 88.9088889,
+        "7": 25.7591667,
+        "10": "Asia/Dhaka"
+      },
+      {
+        "1": "Lyon St-Exupery, France (LYS)",
+        "2": "airport",
+        "3": "LYS",
+        "4": "LYS",
+        "5": "Lyon",
+        "6": 5.08111111,
+        "7": 45.7255556,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Tampa St.Pete-Clearwater International, FL (PIE)",
+        "2": "airport",
+        "3": "PIE",
+        "4": "TPA",
+        "5": "Tampa",
+        "6": -82.6875,
+        "7": 27.9102778,
+        "10": "America/New_York"
+      },
+      {
+        "1": "St Thomas Island Cyril E. King, VI (STT)",
+        "2": "airport",
+        "3": "STT",
+        "4": "STT",
+        "5": "St Thomas Island",
+        "6": -64.973333,
+        "7": 18.3372222,
+        "10": "America/St_Thomas"
+      },
+      {
+        "1": "St Mary's, AK (KSM)",
+        "2": "airport",
+        "3": "KSM",
+        "4": "KSM",
+        "5": "St Marys",
+        "6": -163.30083,
+        "7": 62.0605556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "St Croix Island Henry E. Rohlsen, VI (STX)",
+        "2": "airport",
+        "3": "STX",
+        "4": "STX",
+        "5": "St Croix Island",
+        "6": -64.798611,
+        "7": 17.7019444,
+        "10": "America/St_Thomas"
+      },
+      {
+        "1": "Fes Saiss, Morocco (FEZ)",
+        "2": "airport",
+        "3": "FEZ",
+        "4": "FEZ",
+        "5": "Fez",
+        "6": -4.9780556,
+        "7": 33.9272222,
+        "10": "Africa/Casablanca"
+      },
+      {
+        "1": "St Maarten Princess Juliana International, Sint Maarten (SXM)",
+        "2": "airport",
+        "3": "SXM",
+        "4": "SXM",
+        "5": "St Maarten",
+        "6": -63.108889,
+        "7": 18.0408333
+      },
+      {
+        "1": "St John's International, NL, Canada (YYT)",
+        "2": "airport",
+        "3": "YYT",
+        "4": "YYT",
+        "5": "St Johns",
+        "6": -52.751944,
+        "7": 47.6186111,
+        "10": "America/St_Johns"
+      },
+      {
+        "1": "Rennes St Jacques, France (RNS)",
+        "2": "airport",
+        "3": "RNS",
+        "4": "RNS",
+        "5": "Rennes",
+        "6": -1.7322222,
+        "7": 48.0719444,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "St George Municipal, UT (SGU)",
+        "2": "airport",
+        "3": "SGU",
+        "4": "SGU",
+        "5": "St George",
+        "6": -113.59306,
+        "7": 37.0905556,
+        "10": "America/Denver"
+      },
+      {
+        "1": "St-Denis Roland Garros, Reunion (RUN)",
+        "2": "airport",
+        "3": "RUN",
+        "4": "RUN",
+        "5": "St Denis de la Reunion",
+        "6": 55.5102778,
+        "7": -20.887222,
+        "10": "Indian/Reunion"
+      },
+      {
+        "1": "St Kitts Robert L. Bradshaw International, Saint Kitts and Nevis (SKB)",
+        "2": "airport",
+        "3": "SKB",
+        "4": "SKB",
+        "5": "St Kitts",
+        "6": -62.718611,
+        "7": 17.3111111,
+        "10": "America/St_Kitts"
+      },
+      {
+        "1": "St Lucia Hewanorra International, Saint Lucia (UVF)",
+        "2": "airport",
+        "3": "UVF",
+        "4": "SLU",
+        "5": "St Lucia",
+        "6": -60.9525,
+        "7": 13.7333333,
+        "10": "America/St_Lucia"
+      },
+      {
+        "1": "St Michael, AK (SMK)",
+        "2": "airport",
+        "3": "SMK",
+        "4": "SMK",
+        "5": "St Michael",
+        "6": -162.03083,
+        "7": 63.4811111,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "St Barthelemy Gustaf III, Saint Barthelemy (SBH)",
+        "2": "airport",
+        "3": "SBH",
+        "4": "SBH",
+        "5": "St Barthelemy",
+        "6": -62.843611,
+        "7": 17.9044444,
+        "10": "America/St_Barthelemy"
+      },
+      {
+        "1": "St Lucia George F.L. Charles, Saint Lucia (SLU)",
+        "2": "airport",
+        "3": "SLU",
+        "4": "SLU",
+        "5": "St Lucia",
+        "6": -60.993056,
+        "7": 14.0202778,
+        "10": "America/St_Lucia"
+      },
+      {
+        "1": "St Vincent Argyle International, Saint Vincent and the Grenadines (SVD)",
+        "2": "airport",
+        "3": "SVD",
+        "4": "SVD",
+        "5": "St Vincent",
+        "6": -61.210833,
+        "7": 13.1444444,
+        "10": "America/St_Vincent"
+      },
+      {
+        "1": "St Anthony, NL, Canada (YAY)",
+        "2": "airport",
+        "3": "YAY",
+        "4": "YAY",
+        "5": "St Anthony",
+        "6": -56.083056,
+        "7": 51.3919444,
+        "10": "America/St_Johns"
+      },
+      {
+        "1": "St Paul Island, AK (SNP)",
+        "2": "airport",
+        "3": "SNP",
+        "4": "SNP",
+        "5": "St Paul Island",
+        "6": -170.22056,
+        "7": 57.1672222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "St Martin Grand-Case L'Esperance, Saint Martin (SFG)",
+        "2": "airport",
+        "3": "SFG",
+        "4": "SFG",
+        "5": "St Martin",
+        "6": -63.049167,
+        "7": 18.1008333,
+        "10": "America/Marigot"
+      },
+      {
+        "1": "St-Pierre, Saint Pierre and Miquelon (FSP)",
+        "2": "airport",
+        "3": "FSP",
+        "4": "FSP",
+        "5": "St Pierre",
+        "6": -56.174444,
+        "7": 46.7633333,
+        "10": "America/Miquelon"
+      },
+      {
+        "1": "St George, Australia (SGO)",
+        "2": "airport",
+        "3": "SGO",
+        "4": "SGO",
+        "5": "St George",
+        "6": 148.595278,
+        "7": -28.049722,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "St Eustatius F.D. Roosevelt, Bonaire, Saint Eustatius and Saba (EUX)",
+        "2": "airport",
+        "3": "EUX",
+        "4": "EUX",
+        "5": "St Eustatius",
+        "6": -62.979444,
+        "7": 17.4963889
+      },
+      {
+        "1": "St Cloud Regional, MN (STC)",
+        "2": "airport",
+        "3": "STC",
+        "4": "STC",
+        "5": "St Cloud",
+        "6": -94.06,
+        "7": 45.5466667,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "St George Island, AK (STG)",
+        "2": "airport",
+        "3": "STG",
+        "4": "STG",
+        "5": "St George Island",
+        "6": -169.66417,
+        "7": 56.5777778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "St-Pierre Pierrefonds, Reunion (ZSE)",
+        "2": "airport",
+        "3": "ZSE",
+        "4": "ZSE",
+        "5": "St Pierre de la Reunion",
+        "6": 55.425,
+        "7": -21.320833,
+        "10": "Indian/Reunion"
+      },
+      {
+        "1": "St-Nazaire Montoir, France (SNR)",
+        "2": "airport",
+        "3": "SNR",
+        "4": "SNR",
+        "5": "St Nazaire",
+        "6": -2.1566667,
+        "7": 47.3105556,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "St Gallen-Altenrhein, Switzerland (ACH)",
+        "2": "airport",
+        "3": "ACH",
+        "4": "ACH",
+        "5": "Altenrhein",
+        "6": 9.56083333,
+        "7": 47.485,
+        "10": "Europe/Zurich"
+      },
+      {
+        "1": "London St Pancras International RailSt, United Kingdom (QQS)",
+        "2": "rail",
+        "3": "QQS",
+        "4": "LON",
+        "5": "London",
+        "6": -0.1263889,
+        "7": 51.5316667,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Tours St-Pierre-Corps RailSt, France (XSH)",
+        "2": "rail",
+        "3": "XSH",
+        "4": "TUF",
+        "5": "Tours",
+        "6": 0.69388889,
+        "7": 47.3894444,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

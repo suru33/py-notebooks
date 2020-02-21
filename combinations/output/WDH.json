@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Windhoek, Namibia - All airports",
+        "2": "city",
+        "3": "WDH",
+        "4": "WDH",
+        "5": "Windhoek",
+        "6": 17.297589184670954,
+        "7": -22.538693293050144,
+        "10": "Africa/Windhoek"
+      },
+      {
+        "1": "Windhoek Hosea Kutako International, Namibia (WDH)",
+        "2": "airport",
+        "3": "WDH",
+        "4": "WDH",
+        "5": "Windhoek",
+        "6": 17.4708333,
+        "7": -22.48,
+        "10": "Africa/Windhoek"
+      }
+    ]
+  }
+}

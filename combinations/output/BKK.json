@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bangkok, Thailand - All airports",
+        "2": "city",
+        "3": "BKK",
+        "4": "BKK",
+        "5": "Bangkok",
+        "6": 100.69169906155643,
+        "7": 13.776979920214934,
+        "10": "Asia/Bangkok"
+      },
+      {
+        "1": "Bangkok Suvarnabhumi International, Thailand (BKK)",
+        "2": "airport",
+        "3": "BKK",
+        "4": "BKK",
+        "5": "Bangkok",
+        "6": 100.748889,
+        "7": 13.6858333,
+        "10": "Asia/Bangkok"
+      }
+    ]
+  }
+}

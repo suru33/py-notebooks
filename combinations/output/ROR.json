@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Koror Palau International, Palau (ROR)",
+        "2": "airport",
+        "3": "ROR",
+        "4": "ROR",
+        "5": "Koror",
+        "6": 134.544167,
+        "7": 7.36722222,
+        "10": "Pacific/Palau"
+      },
+      {
+        "1": "Rorvik Ryum, Norway (RVK)",
+        "2": "airport",
+        "3": "RVK",
+        "4": "RVK",
+        "5": "Roervik",
+        "6": 11.1355556,
+        "7": 64.8341667,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Roros, Norway (RRS)",
+        "2": "airport",
+        "3": "RRS",
+        "4": "RRS",
+        "5": "Roros",
+        "6": 11.3447222,
+        "7": 62.5788889,
+        "10": "Europe/Oslo"
+      }
+    ]
+  }
+}

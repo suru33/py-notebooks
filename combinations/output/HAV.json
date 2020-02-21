@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Havana Jose Marti International, Cuba (HAV)",
+        "2": "airport",
+        "3": "HAV",
+        "4": "HAV",
+        "5": "Havana",
+        "6": -82.407778,
+        "7": 22.9902778,
+        "10": "America/Havana"
+      },
+      {
+        "1": "Havre-St-Pierre, QC, Canada (YGV)",
+        "2": "airport",
+        "3": "YGV",
+        "4": "YGV",
+        "5": "Havre Saint Pierre",
+        "6": -63.611389,
+        "7": 50.2819444,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Havre City-County, MT (HVR)",
+        "2": "airport",
+        "3": "HVR",
+        "4": "HVR",
+        "5": "Havre",
+        "6": -109.75917,
+        "7": 48.5441667,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

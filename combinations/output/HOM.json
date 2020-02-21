@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Homer, AK (HOM)",
+        "2": "airport",
+        "3": "HOM",
+        "4": "HOM",
+        "5": "Homer",
+        "6": -151.47667,
+        "7": 59.6455556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Homalin, Myanmar (HOX)",
+        "2": "airport",
+        "3": "HOX",
+        "4": "HOX",
+        "5": "Homalin",
+        "6": 94.9147222,
+        "7": 24.8986111,
+        "10": "Asia/Rangoon"
+      }
+    ]
+  }
+}

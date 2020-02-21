@@ -1,0 +1,136 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Chennai International, India (MAA)",
+        "2": "airport",
+        "3": "MAA",
+        "4": "MAA",
+        "5": "Chennai",
+        "6": 80.1805556,
+        "7": 12.9944444,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Maasai Mara Keekorok, Kenya (KEU)",
+        "2": "airport",
+        "3": "KEU",
+        "4": "MRE",
+        "5": "Mara Lodges",
+        "6": 35.2586111,
+        "7": -1.5866667,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Maasai Mara Mara Serena, Kenya (MRE)",
+        "2": "airport",
+        "3": "MRE",
+        "4": "MRE",
+        "5": "Mara Lodges",
+        "6": 35.0094444,
+        "7": -1.4044444,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Maasai Mara Kichwa Tembo, Kenya (KTJ)",
+        "2": "airport",
+        "3": "KTJ",
+        "4": "MRE",
+        "5": "Mara Lodges",
+        "6": 35.0277778,
+        "7": -1.2636111,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Maasai Mara Mara North, Kenya (HKR)",
+        "2": "airport",
+        "3": "HKR",
+        "4": "MRE",
+        "5": "Mara Lodges",
+        "6": 35.1247222,
+        "7": -1.1455556,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Maasai Mara Musiara, Kenya (MDR)",
+        "2": "airport",
+        "3": "MDR",
+        "4": "MRE",
+        "5": "Mara Lodges",
+        "6": 35.0641667,
+        "7": -1.2988889,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Maasai Mara Ol Seki, Kenya (OSJ)",
+        "2": "airport",
+        "3": "OSJ",
+        "4": "MRE",
+        "5": "Mara Lodges",
+        "6": 35.3783333,
+        "7": -1.3786111,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Maasai Mara Olare, Kenya (OLG)",
+        "2": "airport",
+        "3": "OLG",
+        "4": "MRE",
+        "5": "Mara Lodges",
+        "6": 34.8855556,
+        "7": -1.5661111,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Maasai Mara Olkiombo, Kenya (OLX)",
+        "2": "airport",
+        "3": "OLX",
+        "4": "MRE",
+        "5": "Mara Lodges",
+        "6": 35.1105556,
+        "7": -1.4088889,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Maasai Mara Angama, Kenya (ANA)",
+        "2": "airport",
+        "3": "ANA",
+        "4": "MRE",
+        "5": "Mara Lodges",
+        "6": 34.9552778,
+        "7": -1.2716667,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Maastricht/Aachen, Netherlands (MST)",
+        "2": "airport",
+        "3": "MST",
+        "4": "MST",
+        "5": "Maastricht",
+        "6": 5.77694444,
+        "7": 50.9158333,
+        "10": "Europe/Amsterdam"
+      },
+      {
+        "1": "Maamigili Island, Maldives (VAM)",
+        "2": "airport",
+        "3": "VAM",
+        "4": "VAM",
+        "5": "Maamigili",
+        "6": 72.8366667,
+        "7": 3.47083333,
+        "10": "Indian/Maldives"
+      },
+      {
+        "1": "Maastricht Railway Station, Netherlands (ZYT)",
+        "2": "rail",
+        "3": "ZYT",
+        "4": "MST",
+        "5": "Maastricht",
+        "6": 5.70638889,
+        "7": 50.8505556,
+        "10": "Europe/Amsterdam"
+      }
+    ]
+  }
+}

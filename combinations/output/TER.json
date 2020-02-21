@@ -1,0 +1,96 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Terceira Island Lajes, Portugal (TER)",
+        "2": "airport",
+        "3": "TER",
+        "4": "TER",
+        "5": "Terceira",
+        "6": -27.090833,
+        "7": 38.7619444,
+        "10": "Atlantic/Azores"
+      },
+      {
+        "1": "Teresina Petronio Portella, Brazil (THE)",
+        "2": "airport",
+        "3": "THE",
+        "4": "THE",
+        "5": "Teresina",
+        "6": -42.823611,
+        "7": -5.06,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Ternate Sultan Babullah, Indonesia (TTE)",
+        "2": "airport",
+        "3": "TTE",
+        "4": "TTE",
+        "5": "Ternate",
+        "6": 127.381389,
+        "7": 0.83138889,
+        "10": "Asia/Jayapura"
+      },
+      {
+        "1": "Terrace Northwest Regional, BC, Canada (YXT)",
+        "2": "airport",
+        "3": "YXT",
+        "4": "YXT",
+        "5": "Terrace",
+        "6": -128.57611,
+        "7": 54.4686111,
+        "10": "America/Vancouver"
+      },
+      {
+        "1": "Terney, Russia (NEI)",
+        "2": "airport",
+        "3": "NEI",
+        "4": "NEI",
+        "5": "Terney",
+        "6": 136.590556,
+        "7": 45.0830556,
+        "10": "Asia/Vladivostok"
+      },
+      {
+        "1": "Termez, Uzbekistan (TMJ)",
+        "2": "airport",
+        "3": "TMJ",
+        "4": "TMJ",
+        "5": "Termez",
+        "6": 67.31,
+        "7": 37.2866667,
+        "10": "Asia/Samarkand"
+      },
+      {
+        "1": "Termas de Rio Hondo, Argentina (RHD)",
+        "2": "airport",
+        "3": "RHD",
+        "4": "RHD",
+        "5": "Rio Hondo",
+        "6": -64.906667,
+        "7": -27.473611,
+        "10": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "1": "Terre-de-Haut Les Saintes, Guadeloupe (LSS)",
+        "2": "airport",
+        "3": "LSS",
+        "4": "LSS",
+        "5": "Terre-De-Haut",
+        "6": -61.580556,
+        "7": 15.8644444,
+        "10": "America/Guadeloupe"
+      },
+      {
+        "1": "Tortola Terrance B. Lettsome, British Virgin Islands (EIS)",
+        "2": "airport",
+        "3": "EIS",
+        "4": "TOV",
+        "5": "Tortola",
+        "6": -64.543056,
+        "7": 18.4447222,
+        "10": "America/Tortola"
+      }
+    ]
+  }
+}

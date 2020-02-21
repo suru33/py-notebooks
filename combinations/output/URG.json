@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Uruguaiana Rubem Berta International, Brazil (URG)",
+        "2": "airport",
+        "3": "URG",
+        "4": "URG",
+        "5": "Uruguaiana",
+        "6": -57.0375,
+        "7": -29.782222,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Urgench International, Uzbekistan (UGC)",
+        "2": "airport",
+        "3": "UGC",
+        "4": "UGC",
+        "5": "Urgench",
+        "6": 60.6416667,
+        "7": 41.5841667,
+        "10": "Asia/Samarkand"
+      }
+    ]
+  }
+}

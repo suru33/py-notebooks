@@ -1,0 +1,166 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Macau, Macao - All airports",
+        "2": "city",
+        "3": "MFM",
+        "4": "MFM",
+        "5": "Macau",
+        "6": 113.58146656622463,
+        "7": 22.163552969423815,
+        "10": "Asia/Macau"
+      },
+      {
+        "1": "Macau International, Macao (MFM)",
+        "2": "airport",
+        "3": "MFM",
+        "4": "MFM",
+        "5": "Macau",
+        "6": 113.591667,
+        "7": 22.1494444,
+        "10": "Asia/Macau"
+      },
+      {
+        "1": "Maceio Zumbi dos Palmares International, Brazil (MCZ)",
+        "2": "airport",
+        "3": "MCZ",
+        "4": "MCZ",
+        "5": "Maceio",
+        "6": -35.791667,
+        "7": -9.5108333,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Macapa Alberto Alcolumbre International, Brazil (MCP)",
+        "2": "airport",
+        "3": "MCP",
+        "4": "MCP",
+        "5": "Macapa",
+        "6": -51.072222,
+        "7": 0.05055556,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Mackay, Australia (MKY)",
+        "2": "airport",
+        "3": "MKY",
+        "4": "MKY",
+        "5": "Mackay",
+        "6": 149.179722,
+        "7": -21.171667,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Macon Middle Georgia Regional, GA (MCN)",
+        "2": "airport",
+        "3": "MCN",
+        "4": "MCN",
+        "5": "Macon",
+        "6": -83.648056,
+        "7": 32.6961111,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Macau Ferry Terminal, Macao (XZM)",
+        "2": "airport",
+        "3": "XZM",
+        "4": "MFM",
+        "5": "Macau",
+        "6": 113.558611,
+        "7": 22.1966667,
+        "10": "Asia/Macau"
+      },
+      {
+        "1": "Macau Taipa Ferry Terminal, Macao (YFT)",
+        "2": "airport",
+        "3": "YFT",
+        "4": "MFM",
+        "5": "Macau",
+        "6": 113.576944,
+        "7": 22.1641667,
+        "10": "Asia/Macau"
+      },
+      {
+        "1": "Macau CZ Bus Station, Macao (AZM)",
+        "2": "bus",
+        "3": "AZM",
+        "4": "MFM",
+        "5": "Macau",
+        "6": 113.548889,
+        "7": 22.2155556,
+        "10": "Asia/Macau"
+      },
+      {
+        "1": "Islip Long Island MacArthur, NY (ISP)",
+        "2": "airport",
+        "3": "ISP",
+        "4": "ISP",
+        "5": "Islip Long Island",
+        "6": -73.100278,
+        "7": 40.7952778,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Cebu Mactan International, Philippines (CEB)",
+        "2": "airport",
+        "3": "CEB",
+        "4": "CEB",
+        "5": "Cebu",
+        "6": 123.979444,
+        "7": 10.3075,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Santiago de Cuba Antonio Maceo International, Cuba (SCU)",
+        "2": "airport",
+        "3": "SCU",
+        "4": "SCU",
+        "5": "Santiago",
+        "6": -75.835278,
+        "7": 19.9697222,
+        "10": "America/Havana"
+      },
+      {
+        "1": "Sao Luis Cunha Machado International, Brazil (SLZ)",
+        "2": "airport",
+        "3": "SLZ",
+        "4": "SLZ",
+        "5": "Sao Luiz",
+        "6": -44.234167,
+        "7": -2.5852778,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Merced Regional, CA (MCE)",
+        "2": "airport",
+        "3": "MCE",
+        "4": "MCE",
+        "5": "Merced",
+        "6": -120.51667,
+        "7": 37.2833333,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Popayan Guillermo L. Valencia, Colombia (PPN)",
+        "2": "airport",
+        "3": "PPN",
+        "4": "PPN",
+        "5": "Popayan",
+        "6": -76.609444,
+        "7": 2.45444444,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Campbeltown, United Kingdom (CAL)",
+        "2": "airport",
+        "3": "CAL",
+        "4": "CAL",
+        "5": "Campbeltown",
+        "6": -5.6863889,
+        "7": 55.4372222,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

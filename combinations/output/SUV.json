@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Suva Nausori International, Fiji (SUV)",
+        "2": "airport",
+        "3": "SUV",
+        "4": "SUV",
+        "5": "Suva",
+        "6": 178.563056,
+        "7": -18.044722,
+        "10": "Pacific/Fiji"
+      },
+      {
+        "1": "Bangkok Suvarnabhumi International, Thailand (BKK)",
+        "2": "airport",
+        "3": "BKK",
+        "4": "BKK",
+        "5": "Bangkok",
+        "6": 100.748889,
+        "7": 13.6858333,
+        "10": "Asia/Bangkok"
+      }
+    ]
+  }
+}

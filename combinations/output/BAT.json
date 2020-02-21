@@ -1,0 +1,156 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Baton Rouge Metropolitan-Ryan Field, LA (BTR)",
+        "2": "airport",
+        "3": "BTR",
+        "4": "BTR",
+        "5": "Baton Rouge",
+        "6": -91.149722,
+        "7": 30.5330556,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Batam Hang Nadim, Indonesia (BTH)",
+        "2": "airport",
+        "3": "BTH",
+        "4": "BTH",
+        "5": "Batam",
+        "6": 104.118889,
+        "7": 1.12111111,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Batumi, Georgia (BUS)",
+        "2": "airport",
+        "3": "BUS",
+        "4": "BUS",
+        "5": "Batumi",
+        "6": 41.5997222,
+        "7": 41.6102778,
+        "10": "Asia/Tbilisi"
+      },
+      {
+        "1": "Batsfjord, Norway (BJF)",
+        "2": "airport",
+        "3": "BJF",
+        "4": "BJF",
+        "5": "Batsfjord",
+        "6": 29.6925,
+        "7": 70.6002778,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Batna Mostepha Ben Boulaid, Algeria (BLJ)",
+        "2": "airport",
+        "3": "BLJ",
+        "4": "BLJ",
+        "5": "Batna",
+        "6": 6.30861111,
+        "7": 35.7522222,
+        "10": "Africa/Algiers"
+      },
+      {
+        "1": "Bata, Equatorial Guinea (BSG)",
+        "2": "airport",
+        "3": "BSG",
+        "4": "BSG",
+        "5": "Bata",
+        "6": 9.80555556,
+        "7": 1.90555556,
+        "10": "Africa/Malabo"
+      },
+      {
+        "1": "Batticaloa, Sri Lanka (BTC)",
+        "2": "airport",
+        "3": "BTC",
+        "4": "BTC",
+        "5": "Batticaloa",
+        "6": 81.6766667,
+        "7": 7.70472222,
+        "10": "Asia/Colombo"
+      },
+      {
+        "1": "Batman, Turkey (BAL)",
+        "2": "airport",
+        "3": "BAL",
+        "4": "BAL",
+        "5": "Batman",
+        "6": 41.1166667,
+        "7": 37.9288889,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Batu Licin, Indonesia (BTW)",
+        "2": "airport",
+        "3": "BTW",
+        "4": "BTW",
+        "5": "Batu Licin",
+        "6": 116.0,
+        "7": -3.45,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Bathinda, India (BUP)",
+        "2": "airport",
+        "3": "BUP",
+        "4": "BUP",
+        "5": "Bhatinda",
+        "6": 74.7558333,
+        "7": 30.2702778,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Bathurst, Australia (BHS)",
+        "2": "airport",
+        "3": "BHS",
+        "4": "BHS",
+        "5": "Bathurst",
+        "6": 149.651944,
+        "7": -33.409444,
+        "10": "Australia/Sydney"
+      },
+      {
+        "1": "Bathurst, NB, Canada (ZBF)",
+        "2": "airport",
+        "3": "ZBF",
+        "4": "ZBF",
+        "5": "Bathurst",
+        "6": -65.738889,
+        "7": 47.6297222,
+        "10": "America/Halifax"
+      },
+      {
+        "1": "Batagay, Russia (BQJ)",
+        "2": "airport",
+        "3": "BQJ",
+        "4": "BQJ",
+        "5": "Batagay",
+        "6": 134.693333,
+        "7": 67.6477778,
+        "10": "Asia/Vladivostok"
+      },
+      {
+        "1": "Bath Spa Railway Station, United Kingdom (QQX)",
+        "2": "rail",
+        "3": "QQX",
+        "4": "QQX",
+        "5": "Bath Rail Station",
+        "6": -2.3572222,
+        "7": 51.3777778,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Kalamazoo/Battle Creek International, MI (AZO)",
+        "2": "airport",
+        "3": "AZO",
+        "4": "AZO",
+        "5": "Kalamazoo",
+        "6": -85.551944,
+        "7": 42.235,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Misima Island, Papua New Guinea (MIS)",
+        "2": "airport",
+        "3": "MIS",
+        "4": "MIS",
+        "5": "Misima Island",
+        "6": 152.836111,
+        "7": -10.689444,
+        "10": "Pacific/Port_Moresby"
+      },
+      {
+        "1": "Missoula International, MT (MSO)",
+        "2": "airport",
+        "3": "MSO",
+        "4": "MSO",
+        "5": "Missoula",
+        "6": -114.09056,
+        "7": 46.9163889,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Misawa, Japan (MSJ)",
+        "2": "airport",
+        "3": "MSJ",
+        "4": "MSJ",
+        "5": "Misawa",
+        "6": 141.368333,
+        "7": 40.7033333,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Misurata, Libya (MRA)",
+        "2": "airport",
+        "3": "MRA",
+        "4": "MRA",
+        "5": "Misurata",
+        "6": 15.0613889,
+        "7": 32.3219444,
+        "10": "Africa/Tripoli"
+      }
+    ]
+  }
+}

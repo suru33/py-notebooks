@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Qingdao Liuting International, China (TAO)",
+        "2": "airport",
+        "3": "TAO",
+        "4": "TAO",
+        "5": "Qingdao",
+        "6": 120.374444,
+        "7": 36.2661111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Taipei Taiwan Taoyuan International, Taiwan (TPE)",
+        "2": "airport",
+        "3": "TPE",
+        "4": "TPE",
+        "5": "Taipei",
+        "6": 121.232778,
+        "7": 25.0777778,
+        "10": "Asia/Taipei"
+      }
+    ]
+  }
+}

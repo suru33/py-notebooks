@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Victoria, BC, Canada - All airports",
+        "2": "city",
+        "3": "YYJ",
+        "4": "YYJ",
+        "5": "Victoria",
+        "6": -123.4118966245344,
+        "7": 48.588048890597605,
+        "10": "America/Vancouver"
+      },
+      {
+        "1": "Victoria International, BC, Canada (YYJ)",
+        "2": "airport",
+        "3": "YYJ",
+        "4": "YYJ",
+        "5": "Victoria",
+        "6": -123.42583,
+        "7": 48.6469444,
+        "10": "America/Vancouver"
+      }
+    ]
+  }
+}

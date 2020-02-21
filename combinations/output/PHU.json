@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Phuket International, Thailand (HKT)",
+        "2": "airport",
+        "3": "HKT",
+        "4": "HKT",
+        "5": "Phuket",
+        "6": 98.3052778,
+        "7": 8.11222222,
+        "10": "Asia/Bangkok"
+      },
+      {
+        "1": "Phu Quoc Island International, Viet Nam (PQC)",
+        "2": "airport",
+        "3": "PQC",
+        "4": "PQC",
+        "5": "Phuquoc",
+        "6": 103.967222,
+        "7": 10.2269444,
+        "10": "Asia/Ho_Chi_Minh"
+      },
+      {
+        "1": "Buon Ma Thuot, Viet Nam (BMV)",
+        "2": "airport",
+        "3": "BMV",
+        "4": "BMV",
+        "5": "Ban Me Thuot",
+        "6": 108.120278,
+        "7": 12.6683333,
+        "10": "Asia/Ho_Chi_Minh"
+      },
+      {
+        "1": "Hue Phu Bai International, Viet Nam (HUI)",
+        "2": "airport",
+        "3": "HUI",
+        "4": "HUI",
+        "5": "Hue",
+        "6": 107.703056,
+        "7": 16.4008333,
+        "10": "Asia/Ho_Chi_Minh"
+      }
+    ]
+  }
+}

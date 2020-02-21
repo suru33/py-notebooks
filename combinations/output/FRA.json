@@ -1,0 +1,106 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Frankfurt, Germany - All airports",
+        "2": "city",
+        "3": "FRA",
+        "4": "FRA",
+        "5": "Frankfurt",
+        "6": 8.283061672721198,
+        "7": 50.02542926738962,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Frankfurt International, Germany (FRA)",
+        "2": "airport",
+        "3": "FRA",
+        "4": "FRA",
+        "5": "Frankfurt",
+        "6": 8.57055556,
+        "7": 50.0330556,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Frankfurt Hahn, Germany (HHN)",
+        "2": "airport",
+        "3": "HHN",
+        "4": "FRA",
+        "5": "Frankfurt",
+        "6": 7.26388889,
+        "7": 49.9486111,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Munich Franz Joseph Strauss Int'l, Germany (MUC)",
+        "2": "airport",
+        "3": "MUC",
+        "4": "MUC",
+        "5": "Munich",
+        "6": 11.7861111,
+        "7": 48.3538889,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Franklin Venango Regional, PA (FKL)",
+        "2": "airport",
+        "3": "FKL",
+        "4": "FKL",
+        "5": "Franklin",
+        "6": -79.86,
+        "7": 41.3791667,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Franceville Mvengue, Gabon (MVB)",
+        "2": "airport",
+        "3": "MVB",
+        "4": "MVB",
+        "5": "Franceville",
+        "6": 13.4380556,
+        "7": -1.6561111,
+        "10": "Africa/Libreville"
+      },
+      {
+        "1": "Francistown, Botswana (FRW)",
+        "2": "airport",
+        "3": "FRW",
+        "4": "FRW",
+        "5": "Francistown",
+        "6": 27.4744444,
+        "7": -21.159722,
+        "10": "Africa/Lusaka"
+      },
+      {
+        "1": "Frankfurt Hbf Railway Station, Germany (ZRB)",
+        "2": "rail",
+        "3": "ZRB",
+        "4": "FRA",
+        "5": "Frankfurt",
+        "6": 8.66305556,
+        "7": 50.1066667,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Holguin Frank Pais International, Cuba (HOG)",
+        "2": "airport",
+        "3": "HOG",
+        "4": "HOG",
+        "5": "Holguin",
+        "6": -76.315,
+        "7": 20.7855556,
+        "10": "America/Havana"
+      },
+      {
+        "1": "Queenstown, New Zealand (ZQN)",
+        "2": "airport",
+        "3": "ZQN",
+        "4": "ZQN",
+        "5": "Queenstown",
+        "6": 168.746667,
+        "7": -45.018333,
+        "10": "Pacific/Auckland"
+      }
+    ]
+  }
+}

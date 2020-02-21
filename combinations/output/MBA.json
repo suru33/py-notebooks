@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Mombasa Moi International, Kenya (MBA)",
+        "2": "airport",
+        "3": "MBA",
+        "4": "MBA",
+        "5": "Mombasa",
+        "6": 39.5997222,
+        "7": -4.0280556,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Mbandaka, Congo (Zaire) (MDK)",
+        "2": "airport",
+        "3": "MDK",
+        "4": "MDK",
+        "5": "Mbandaka",
+        "6": 18.2886111,
+        "7": 0.0225,
+        "10": "Africa/Kinshasa"
+      }
+    ]
+  }
+}

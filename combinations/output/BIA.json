@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bastia Poretta, France (BIA)",
+        "2": "airport",
+        "3": "BIA",
+        "4": "BIA",
+        "5": "Bastia",
+        "6": 9.48472222,
+        "7": 42.55,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Biarritz Pays Basque, France (BIQ)",
+        "2": "airport",
+        "3": "BIQ",
+        "4": "BIQ",
+        "5": "Biarritz",
+        "6": -1.5311111,
+        "7": 43.4683333,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Biak Frans Kaisiepo, Indonesia (BIK)",
+        "2": "airport",
+        "3": "BIK",
+        "4": "BIK",
+        "5": "Biak",
+        "6": 136.108056,
+        "7": -1.19,
+        "10": "Asia/Jayapura"
+      },
+      {
+        "1": "Poitiers Biard, France (PIS)",
+        "2": "airport",
+        "3": "PIS",
+        "4": "PIS",
+        "5": "Poitiers",
+        "6": 0.30666667,
+        "7": 46.5875,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

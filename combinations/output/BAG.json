@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Baghdad International, Iraq (BGW)",
+        "2": "airport",
+        "3": "BGW",
+        "4": "BGW",
+        "5": "Baghdad",
+        "6": 44.2344444,
+        "7": 33.2625,
+        "10": "Asia/Baghdad"
+      },
+      {
+        "1": "Bagdogra, India (IXB)",
+        "2": "airport",
+        "3": "IXB",
+        "4": "IXB",
+        "5": "Bagdogra",
+        "6": 88.3286111,
+        "7": 26.6811111,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Bagotville, QC, Canada (YBG)",
+        "2": "airport",
+        "3": "YBG",
+        "4": "YBG",
+        "5": "Bagotville",
+        "6": -70.9925,
+        "7": 48.3322222,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Bagan/Nyaung-u, Myanmar (NYU)",
+        "2": "airport",
+        "3": "NYU",
+        "4": "NYU",
+        "5": "Nyaung-U",
+        "6": 94.9305556,
+        "7": 21.1775,
+        "10": "Asia/Rangoon"
+      },
+      {
+        "1": "Coventry, United Kingdom (CVT)",
+        "2": "airport",
+        "3": "CVT",
+        "4": "CVT",
+        "5": "Coventry",
+        "6": -1.4797222,
+        "7": 52.3697222,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

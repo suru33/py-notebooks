@@ -1,0 +1,116 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dallas Love Field, TX (DAL)",
+        "2": "airport",
+        "3": "DAL",
+        "4": "DFW",
+        "5": "Dallas/Fort Worth",
+        "6": -96.851667,
+        "7": 32.8472222,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Dallas/Fort Worth, TX - All airports",
+        "2": "city",
+        "3": "DFW",
+        "4": "DFW",
+        "5": "Dallas/Fort Worth",
+        "6": -96.97058100183683,
+        "7": 32.878944382007155,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Dallas/Fort Worth International, TX (DFW)",
+        "2": "airport",
+        "3": "DFW",
+        "4": "DFW",
+        "5": "Dallas/Fort Worth",
+        "6": -97.038056,
+        "7": 32.8969444,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Dalian Zhoushuizi International, China (DLC)",
+        "2": "airport",
+        "3": "DLC",
+        "4": "DLC",
+        "5": "Dalian",
+        "6": 121.538611,
+        "7": 38.9655556,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Dalaman, Turkey (DLM)",
+        "2": "airport",
+        "3": "DLM",
+        "4": "DLM",
+        "5": "Dalaman",
+        "6": 28.7925,
+        "7": 36.7130556,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Dali, China (DLU)",
+        "2": "airport",
+        "3": "DLU",
+        "4": "DLU",
+        "5": "Dali City",
+        "6": 100.319444,
+        "7": 25.6502778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Da Lat Lien Khuong, Viet Nam (DLI)",
+        "2": "airport",
+        "3": "DLI",
+        "4": "DLI",
+        "5": "Dalat",
+        "6": 108.366667,
+        "7": 11.75,
+        "10": "Asia/Ho_Chi_Minh"
+      },
+      {
+        "1": "Dalbandin, Pakistan (DBA)",
+        "2": "airport",
+        "3": "DBA",
+        "4": "DBA",
+        "5": "Dalbandin",
+        "6": 64.4038889,
+        "7": 28.8755556,
+        "10": "Asia/Karachi"
+      },
+      {
+        "1": "Dalnegorsk, Russia (DHG)",
+        "2": "airport",
+        "3": "DHG",
+        "4": "DHG",
+        "5": "Dalnegorsk",
+        "6": 135.490833,
+        "7": 44.5580556,
+        "10": "Asia/Vladivostok"
+      },
+      {
+        "1": "Dalnerechensk, Russia (DLR)",
+        "2": "airport",
+        "3": "DLR",
+        "4": "DLR",
+        "5": "Dalnerechensk",
+        "6": 133.735278,
+        "7": 45.8775,
+        "10": "Asia/Vladivostok"
+      },
+      {
+        "1": "Dalianbei Railway St, China (DBL)",
+        "2": "rail",
+        "3": "DBL",
+        "4": "DLC",
+        "5": "Dalian",
+        "6": 121.630278,
+        "7": 38.9236111,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

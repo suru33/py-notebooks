@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Mukhaizna, Oman (UKH)",
+        "2": "airport",
+        "3": "UKH",
+        "4": "UKH",
+        "5": "Mukhaizna",
+        "6": 56.4,
+        "7": 19.3877778,
+        "10": "Asia/Muscat"
+      },
+      {
+        "1": "Ukhta, Russia (UCT)",
+        "2": "airport",
+        "3": "UCT",
+        "4": "UCT",
+        "5": "Ukhta",
+        "6": 53.8044444,
+        "7": 63.5666667,
+        "10": "Europe/Moscow"
+      }
+    ]
+  }
+}

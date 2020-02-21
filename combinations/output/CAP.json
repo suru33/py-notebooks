@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Cap-Haitien Hugo Chavez International, Haiti (CAP)",
+        "2": "airport",
+        "3": "CAP",
+        "4": "CAP",
+        "5": "Cap Haitien",
+        "6": -72.194722,
+        "7": 19.7330556,
+        "10": "America/Port-au-Prince"
+      },
+      {
+        "1": "Cape Town International, South Africa (CPT)",
+        "2": "airport",
+        "3": "CPT",
+        "4": "CPT",
+        "5": "Cape Town",
+        "6": 18.6016667,
+        "7": -33.964722,
+        "10": "Africa/Johannesburg"
+      },
+      {
+        "1": "Cape Dorset, NU, Canada (YTE)",
+        "2": "airport",
+        "3": "YTE",
+        "4": "YTE",
+        "5": "Cape Dorset",
+        "6": -76.526667,
+        "7": 64.23,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Cape Lisburne, AK (LUR)",
+        "2": "airport",
+        "3": "LUR",
+        "4": "LUR",
+        "5": "Cape Lisburne",
+        "6": -166.11,
+        "7": 68.875,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Cape Girardeau Regional, MO (CGI)",
+        "2": "airport",
+        "3": "CGI",
+        "4": "CGI",
+        "5": "Cape Girardeau",
+        "6": -89.570833,
+        "7": 37.2252778,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Cap Skiring, Senegal (CSK)",
+        "2": "airport",
+        "3": "CSK",
+        "4": "CSK",
+        "5": "Cap Skirring",
+        "6": -16.7475,
+        "7": 12.3947222,
+        "10": "Africa/Dakar"
+      },
+      {
+        "1": "Naples Capodichino, Italy (NAP)",
+        "2": "airport",
+        "3": "NAP",
+        "4": "NAP",
+        "5": "Naples",
+        "6": 14.2908333,
+        "7": 40.8844444,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Florencia Gustavo A. Paredes, Colombia (FLA)",
+        "2": "airport",
+        "3": "FLA",
+        "4": "FLA",
+        "5": "Florencia",
+        "6": -75.564444,
+        "7": 1.58916667,
+        "10": "America/Bogota"
+      }
+    ]
+  }
+}

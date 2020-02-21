@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Cotonou Cadjehoun, Benin (COO)",
+        "2": "airport",
+        "3": "COO",
+        "4": "COO",
+        "5": "Cotonou",
+        "6": 2.38444444,
+        "7": 6.35722222,
+        "10": "Africa/Porto-Novo"
+      },
+      {
+        "1": "Cooma Snowy Mountains, Australia (OOM)",
+        "2": "airport",
+        "3": "OOM",
+        "4": "OOM",
+        "5": "Cooma",
+        "6": 148.973889,
+        "7": -36.300556,
+        "10": "Australia/Sydney"
+      },
+      {
+        "1": "Coober Pedy, Australia (CPD)",
+        "2": "airport",
+        "3": "CPD",
+        "4": "CPD",
+        "5": "Coober Pedy",
+        "6": 134.72,
+        "7": -29.040278,
+        "10": "Australia/Adelaide"
+      },
+      {
+        "1": "Cooktown, Australia (CTN)",
+        "2": "airport",
+        "3": "CTN",
+        "4": "CTN",
+        "5": "Cooktown",
+        "6": 145.182778,
+        "7": -15.443611,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Coondewanna, Australia (CJF)",
+        "2": "airport",
+        "3": "CJF",
+        "4": "CJF",
+        "5": "Coondewanna",
+        "6": 118.8125,
+        "7": -22.965,
+        "10": "Australia/Perth"
+      },
+      {
+        "1": "Con Dao Island Co Ong, Viet Nam (VCS)",
+        "2": "airport",
+        "3": "VCS",
+        "4": "VCS",
+        "5": "Con Dao",
+        "6": 106.6325,
+        "7": 8.73222222,
+        "10": "Asia/Ho_Chi_Minh"
+      }
+    ]
+  }
+}

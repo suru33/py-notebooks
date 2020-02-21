@@ -1,0 +1,106 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Gold Coast Coolangatta, Australia (OOL)",
+        "2": "airport",
+        "3": "OOL",
+        "4": "OOL",
+        "5": "Gold Coast",
+        "6": 153.504722,
+        "7": -28.164444,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Golovin, AK (GLV)",
+        "2": "airport",
+        "3": "GLV",
+        "4": "GLV",
+        "5": "Golovin",
+        "6": -163.01194,
+        "7": 64.5480556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Golmud, China (GOQ)",
+        "2": "airport",
+        "3": "GOQ",
+        "4": "GOQ",
+        "5": "Golmud",
+        "6": 94.7883333,
+        "7": 36.4005556,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Golfito, Costa Rica (GLF)",
+        "2": "airport",
+        "3": "GLF",
+        "4": "GLF",
+        "5": "Golfito",
+        "6": -83.181389,
+        "7": 8.65333333,
+        "10": "America/Costa_Rica"
+      },
+      {
+        "1": "Golog Maqin, China (GMQ)",
+        "2": "airport",
+        "3": "GMQ",
+        "4": "GMQ",
+        "5": "Golog",
+        "6": 100.322222,
+        "7": 34.4075,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Belize City Philip S.W.Goldson International, Belize (BZE)",
+        "2": "airport",
+        "3": "BZE",
+        "4": "BZE",
+        "5": "Belize City",
+        "6": -88.308333,
+        "7": 17.5391667,
+        "10": "America/Belize"
+      },
+      {
+        "1": "Podgorica, Montenegro (TGD)",
+        "2": "airport",
+        "3": "TGD",
+        "4": "TGD",
+        "5": "Podgorica",
+        "6": 19.2519444,
+        "7": 42.3594444,
+        "10": "Europe/Podgorica"
+      },
+      {
+        "1": "Szczecin Goleniow, Poland (SZZ)",
+        "2": "airport",
+        "3": "SZZ",
+        "4": "SZZ",
+        "5": "Szczecin",
+        "6": 14.9022222,
+        "7": 53.5847222,
+        "10": "Europe/Warsaw"
+      },
+      {
+        "1": "La Ceiba Goloson International, Honduras (LCE)",
+        "2": "airport",
+        "3": "LCE",
+        "4": "LCE",
+        "5": "La Ceiba",
+        "6": -86.853056,
+        "7": 15.7425,
+        "10": "America/Tegucigalpa"
+      },
+      {
+        "1": "Columbus Golden Triangle Regional, MS (GTR)",
+        "2": "airport",
+        "3": "GTR",
+        "4": "UBS",
+        "5": "Columbus",
+        "6": -88.380833,
+        "7": 33.4658333,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

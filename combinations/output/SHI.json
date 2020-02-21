@@ -1,0 +1,126 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Shimojishima, Japan (SHI)",
+        "2": "airport",
+        "3": "SHI",
+        "4": "SHI",
+        "5": "Shimojishima",
+        "6": 125.145,
+        "7": 24.8272222,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Shijiazhuang Zhengding International, China (SJW)",
+        "2": "airport",
+        "3": "SJW",
+        "4": "SJW",
+        "5": "Shijiazhuang",
+        "6": 114.697222,
+        "7": 38.2805556,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Shiyan Wudangshan, China (WDS)",
+        "2": "airport",
+        "3": "WDS",
+        "4": "WDS",
+        "5": "Shiyan",
+        "6": 110.906111,
+        "7": 32.5933333,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Shiraz Shahid Dastghaib International, Iran (SYZ)",
+        "2": "airport",
+        "3": "SYZ",
+        "4": "SYZ",
+        "5": "Shiraz",
+        "6": 52.5886111,
+        "7": 29.5402778,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Shizuoka Mount Fuji, Japan (FSZ)",
+        "2": "airport",
+        "3": "FSZ",
+        "4": "FSZ",
+        "5": "Shizuoka",
+        "6": 138.180833,
+        "7": 34.7969444,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Shihezi Huayuan, China (SHF)",
+        "2": "airport",
+        "3": "SHF",
+        "4": "SHF",
+        "5": "Shanhaiguan",
+        "6": 86.0625,
+        "7": 44.2694444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Shirdi, India (SAG)",
+        "2": "airport",
+        "3": "SAG",
+        "4": "SAG",
+        "5": "Shirdi",
+        "6": 74.3772222,
+        "7": 19.6888889,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Shiquanhe Ngari Gunsa/Ali Kunsha, China (NGQ)",
+        "2": "airport",
+        "3": "NGQ",
+        "4": "NGQ",
+        "5": "Shi-Quan-He",
+        "6": 80.0533333,
+        "7": 32.0997222,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Shishmaref, AK (SHH)",
+        "2": "airport",
+        "3": "SHH",
+        "4": "SHH",
+        "5": "Shishmaref",
+        "6": -166.08944,
+        "7": 66.2494444,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Shillong Barapani, India (SHL)",
+        "2": "airport",
+        "3": "SHL",
+        "4": "SHL",
+        "5": "Shillong",
+        "6": 91.9775,
+        "7": 25.7036111,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Shimla, India (SLV)",
+        "2": "airport",
+        "3": "SLV",
+        "4": "SLV",
+        "5": "Simla",
+        "6": 77.0680556,
+        "7": 31.0816667,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Shiyan Railway Station, China (EJQ)",
+        "2": "rail",
+        "3": "EJQ",
+        "4": "WDS",
+        "5": "Shiyan",
+        "6": 110.781667,
+        "7": 32.6036111,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

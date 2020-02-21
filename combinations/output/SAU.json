@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sault Sainte Marie, ON, Canada (YAM)",
+        "2": "airport",
+        "3": "YAM",
+        "4": "YAM",
+        "5": "Sault Sainte Marie",
+        "6": -84.509444,
+        "7": 46.485,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Sault Ste Marie Chippewa County International, MI (CIU)",
+        "2": "airport",
+        "3": "CIU",
+        "4": "SSM",
+        "5": "Sault Sainte Marie",
+        "6": -84.4725,
+        "7": 46.2508333,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Saurimo, Angola (VHC)",
+        "2": "airport",
+        "3": "VHC",
+        "4": "VHC",
+        "5": "Saurimo",
+        "6": 20.4316667,
+        "7": -9.6891667,
+        "10": "Africa/Luanda"
+      },
+      {
+        "1": "Saumlaki Olilit, Indonesia (SXK)",
+        "2": "airport",
+        "3": "SXK",
+        "4": "SXK",
+        "5": "Saumlaki",
+        "6": 131.305,
+        "7": -7.9880556,
+        "10": "Asia/Jayapura"
+      }
+    ]
+  }
+}

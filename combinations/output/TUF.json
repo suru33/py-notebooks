@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tours Val de Loire, France (TUF)",
+        "2": "airport",
+        "3": "TUF",
+        "4": "TUF",
+        "5": "Tours",
+        "6": 0.72305556,
+        "7": 47.4319444,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Tufi, Papua New Guinea (TFI)",
+        "2": "airport",
+        "3": "TFI",
+        "4": "TFI",
+        "5": "Tufi",
+        "6": 149.32,
+        "7": -9.0763889,
+        "10": "Pacific/Port_Moresby"
+      }
+    ]
+  }
+}

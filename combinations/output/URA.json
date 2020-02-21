@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Uralsk Ak Zhol, Kazakhstan (URA)",
+        "2": "airport",
+        "3": "URA",
+        "4": "URA",
+        "5": "Uralsk",
+        "6": 51.5416667,
+        "7": 51.1511111,
+        "10": "Asia/Aqtau"
+      },
+      {
+        "1": "Uray, Russia (URJ)",
+        "2": "airport",
+        "3": "URJ",
+        "4": "URJ",
+        "5": "Uray",
+        "6": 64.83,
+        "7": 60.1161111,
+        "10": "Asia/Yekaterinburg"
+      }
+    ]
+  }
+}

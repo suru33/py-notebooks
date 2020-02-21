@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Nuremberg, Germany (NUE)",
+        "2": "airport",
+        "3": "NUE",
+        "4": "NUE",
+        "5": "Nuremberg",
+        "6": 11.0669444,
+        "7": 49.4986111,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Nueva Gerona Rafael Cabrera, Cuba (GER)",
+        "2": "airport",
+        "3": "GER",
+        "4": "GER",
+        "5": "Nueva Gerona",
+        "6": -82.783889,
+        "7": 21.8347222,
+        "10": "America/Havana"
+      },
+      {
+        "1": "Nuevo Laredo Quetzalcoatl International, Mexico (NLD)",
+        "2": "airport",
+        "3": "NLD",
+        "4": "NLD",
+        "5": "Nuevo Laredo",
+        "6": -99.570556,
+        "7": 27.4438889,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

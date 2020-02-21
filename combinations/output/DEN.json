@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Denver International, CO (DEN)",
+        "2": "airport",
+        "3": "DEN",
+        "4": "DEN",
+        "5": "Denver",
+        "6": -104.67306,
+        "7": 39.8616667,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Denpasar-Bali Ngurah Rai, Indonesia (DPS)",
+        "2": "airport",
+        "3": "DPS",
+        "4": "DPS",
+        "5": "Denpasar Bali",
+        "6": 115.167222,
+        "7": -8.7480556,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Denizli Cardak, Turkey (DNZ)",
+        "2": "airport",
+        "3": "DNZ",
+        "4": "DNZ",
+        "5": "Denizli",
+        "6": 29.7013889,
+        "7": 37.7855556,
+        "10": "Europe/Istanbul"
+      }
+    ]
+  }
+}

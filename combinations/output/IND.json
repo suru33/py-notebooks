@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Indianapolis International, IN (IND)",
+        "2": "airport",
+        "3": "IND",
+        "4": "IND",
+        "5": "Indianapolis",
+        "6": -86.294444,
+        "7": 39.7172222,
+        "10": "America/Indiana/Indianapolis"
+      },
+      {
+        "1": "Indore Devi Ahilya Bai Holkar, India (IDR)",
+        "2": "airport",
+        "3": "IDR",
+        "4": "IDR",
+        "5": "Indore",
+        "6": 75.8011111,
+        "7": 22.7216667,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Independence, Belize (INB)",
+        "2": "airport",
+        "3": "INB",
+        "4": "INB",
+        "5": "Independence",
+        "6": -88.443056,
+        "7": 16.5341667,
+        "10": "America/Belize"
+      },
+      {
+        "1": "Inda Selassie Shire, Ethiopia (SHC)",
+        "2": "airport",
+        "3": "SHC",
+        "4": "SHC",
+        "5": "Indaselassie",
+        "6": 38.2713889,
+        "7": 14.0794444,
+        "10": "Africa/Addis_Ababa"
+      },
+      {
+        "1": "Roswell International Air Center, NM (ROW)",
+        "2": "airport",
+        "3": "ROW",
+        "4": "ROW",
+        "5": "Roswell",
+        "6": -104.53056,
+        "7": 33.3016667,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

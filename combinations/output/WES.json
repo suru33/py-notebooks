@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "White Plains Westchester County, NY (HPN)",
+        "2": "airport",
+        "3": "HPN",
+        "4": "HPN",
+        "5": "Westchester County",
+        "6": -73.7075,
+        "7": 41.0669444,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Westerland Sylt, Germany (GWT)",
+        "2": "airport",
+        "3": "GWT",
+        "4": "GWT",
+        "5": "Westerland",
+        "6": 8.34055556,
+        "7": 54.9133333,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "West Angelas, Australia (WLP)",
+        "2": "airport",
+        "3": "WLP",
+        "4": "WLP",
+        "5": "West Angelas",
+        "6": 118.706944,
+        "7": -23.136944,
+        "10": "Australia/Perth"
+      },
+      {
+        "1": "West Point Village SPB, AK (KWP)",
+        "2": "airport",
+        "3": "KWP",
+        "4": "KWP",
+        "5": "West Point",
+        "6": -153.54611,
+        "7": 57.77,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "West Yellowstone, MT (WYS)",
+        "2": "airport",
+        "3": "WYS",
+        "4": "WYS",
+        "5": "West Yellowstone",
+        "6": -111.11778,
+        "7": 44.6883333,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Westray, United Kingdom (WRY)",
+        "2": "airport",
+        "3": "WRY",
+        "4": "WRY",
+        "5": "Westray",
+        "6": -2.95,
+        "7": 59.3502778,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Westport, New Zealand (WSZ)",
+        "2": "airport",
+        "3": "WSZ",
+        "4": "WSZ",
+        "5": "Westport",
+        "6": 171.579167,
+        "7": -41.736944,
+        "10": "Pacific/Auckland"
+      },
+      {
+        "1": "Latrobe Westmoreland, PA (LBE)",
+        "2": "airport",
+        "3": "LBE",
+        "4": "LBE",
+        "5": "Latrobe",
+        "6": -79.404722,
+        "7": 40.2758333,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

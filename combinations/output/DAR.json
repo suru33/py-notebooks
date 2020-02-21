@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dar es Salaam Julius Nyerere International, Tanzania (DAR)",
+        "2": "airport",
+        "3": "DAR",
+        "4": "DAR",
+        "5": "Dar Es Salaam",
+        "6": 39.2025,
+        "7": -6.8780556,
+        "10": "Africa/Dar_es_Salaam"
+      },
+      {
+        "1": "Darwin International, Australia (DRW)",
+        "2": "airport",
+        "3": "DRW",
+        "4": "DRW",
+        "5": "Darwin",
+        "6": 130.876667,
+        "7": -12.414722,
+        "10": "Australia/Darwin"
+      },
+      {
+        "1": "Darnley Island, Australia (NLF)",
+        "2": "airport",
+        "3": "NLF",
+        "4": "NLF",
+        "5": "Darnley Island",
+        "6": 143.780278,
+        "7": -9.5791667,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Daru, Papua New Guinea (DAU)",
+        "2": "airport",
+        "3": "DAU",
+        "4": "DAU",
+        "5": "Daru",
+        "6": 143.208056,
+        "7": -9.0866667,
+        "10": "Pacific/Port_Moresby"
+      },
+      {
+        "1": "Aswan International, Egypt (ASW)",
+        "2": "airport",
+        "3": "ASW",
+        "4": "ASW",
+        "5": "Aswan",
+        "6": 32.82,
+        "7": 23.9644444,
+        "10": "Africa/Cairo"
+      }
+    ]
+  }
+}

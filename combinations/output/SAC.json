@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sacramento, CA - All airports",
+        "2": "city",
+        "3": "SAC",
+        "4": "SAC",
+        "5": "Sacramento",
+        "6": -121.51820409941315,
+        "7": 38.53044470472964,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Sacramento International, CA (SMF)",
+        "2": "airport",
+        "3": "SMF",
+        "4": "SAC",
+        "5": "Sacramento",
+        "6": -121.59083,
+        "7": 38.6955556,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Sacramento Stockton Metropolitan, CA (SCK)",
+        "2": "airport",
+        "3": "SCK",
+        "4": "SAC",
+        "5": "Sacramento",
+        "6": -121.23833,
+        "7": 37.8941667,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Sachigo Lake, ON, Canada (ZPB)",
+        "2": "airport",
+        "3": "ZPB",
+        "4": "ZPB",
+        "5": "Sachigo Lake",
+        "6": -92.195833,
+        "7": 53.8908333,
+        "10": "America/Rainy_River"
+      },
+      {
+        "1": "Sachs Harbour D.Nasogaluak Saaryuaq, NT, Canada (YSY)",
+        "2": "airport",
+        "3": "YSY",
+        "4": "YSY",
+        "5": "Sachs Harbour",
+        "6": -125.2425,
+        "7": 71.9938889,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "Jinju Sacheon, South Korea (HIN)",
+        "2": "airport",
+        "3": "HIN",
+        "4": "HIN",
+        "5": "Chinju",
+        "6": 128.070278,
+        "7": 35.0886111,
+        "10": "Asia/Seoul"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Mo i Rana Rossvoll, Norway (MQN)",
+        "2": "airport",
+        "3": "MQN",
+        "4": "MQN",
+        "5": "Mo I Rana",
+        "6": 14.3,
+        "7": 66.3666667,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Mombasa Moi International, Kenya (MBA)",
+        "2": "airport",
+        "3": "MBA",
+        "4": "MBA",
+        "5": "Mombasa",
+        "6": 39.5997222,
+        "7": -4.0280556,
+        "10": "Africa/Nairobi"
+      }
+    ]
+  }
+}

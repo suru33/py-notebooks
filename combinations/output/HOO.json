@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Hoolehua Molokai, HI (MKK)",
+        "2": "airport",
+        "3": "MKK",
+        "4": "MKK",
+        "5": "Hoolehua",
+        "6": -157.09778,
+        "7": 21.1516667,
+        "10": "Pacific/Honolulu"
+      },
+      {
+        "1": "Hooper Bay, AK (HPB)",
+        "2": "airport",
+        "3": "HPB",
+        "4": "HPB",
+        "5": "Hooper Bay",
+        "6": -166.14667,
+        "7": 61.5238889,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Hoonah, AK (HNH)",
+        "2": "airport",
+        "3": "HNH",
+        "4": "HNH",
+        "5": "Hoonah",
+        "6": -135.41278,
+        "7": 58.0958333,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

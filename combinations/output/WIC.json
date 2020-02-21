@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Wick, United Kingdom (WIC)",
+        "2": "airport",
+        "3": "WIC",
+        "4": "WIC",
+        "5": "Wick",
+        "6": -3.0930556,
+        "7": 58.4588889,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Wichita Dwight D. Eisenhower, KS (ICT)",
+        "2": "airport",
+        "3": "ICT",
+        "4": "ICT",
+        "5": "Wichita",
+        "6": -97.433056,
+        "7": 37.6527778,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Wichita Falls Municipal/Sheppard AFB, TX (SPS)",
+        "2": "airport",
+        "3": "SPS",
+        "4": "SPS",
+        "5": "Wichita Falls",
+        "6": -98.491944,
+        "7": 33.9888889,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Dortmund, Germany (DTM)",
+        "2": "airport",
+        "3": "DTM",
+        "4": "DTM",
+        "5": "Dortmund",
+        "6": 7.61222222,
+        "7": 51.5183333,
+        "10": "Europe/Berlin"
+      }
+    ]
+  }
+}

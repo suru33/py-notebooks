@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Futuna Island Pointe Vele, Wallis and Futuna Islands (FUT)",
+        "2": "airport",
+        "3": "FUT",
+        "4": "FUT",
+        "5": "Futuna",
+        "6": -178.06611,
+        "7": -14.311389,
+        "10": "Pacific/Wallis"
+      },
+      {
+        "1": "Futuna Island, Vanuatu (FTA)",
+        "2": "airport",
+        "3": "FTA",
+        "4": "FTA",
+        "5": "Futuna Island",
+        "6": 170.2325,
+        "7": -19.516389,
+        "10": "Pacific/Efate"
+      }
+    ]
+  }
+}

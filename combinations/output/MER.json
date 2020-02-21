@@ -1,0 +1,96 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Merida M. Crescencio Rejon, Mexico (MID)",
+        "2": "airport",
+        "3": "MID",
+        "4": "MID",
+        "5": "Merida",
+        "6": -89.657778,
+        "7": 20.9369444,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Meru-Kinna Mulika Lodge, Kenya (JJM)",
+        "2": "airport",
+        "3": "JJM",
+        "4": "JJM",
+        "5": "Meru-Kiina",
+        "6": 38.1722222,
+        "7": 0.22805556,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Merauke Mopah, Indonesia (MKQ)",
+        "2": "airport",
+        "3": "MKQ",
+        "4": "MKQ",
+        "5": "Merauke",
+        "6": 140.418333,
+        "7": -8.5202778,
+        "10": "Asia/Jayapura"
+      },
+      {
+        "1": "Meridian Regional (Key Field), MS (MEI)",
+        "2": "airport",
+        "3": "MEI",
+        "4": "MEI",
+        "5": "Meridian",
+        "6": -88.751944,
+        "7": 32.3327778,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Amasya Merzifon, Turkey (MZH)",
+        "2": "airport",
+        "3": "MZH",
+        "4": "MZH",
+        "5": "Merzifon",
+        "6": 35.5202778,
+        "7": 40.8286111,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Merimbula, Australia (MIM)",
+        "2": "airport",
+        "3": "MIM",
+        "4": "MIM",
+        "5": "Merimbula",
+        "6": 149.901389,
+        "7": -36.908611,
+        "10": "Australia/Sydney"
+      },
+      {
+        "1": "Merced Regional, CA (MCE)",
+        "2": "airport",
+        "3": "MCE",
+        "4": "MCE",
+        "5": "Merced",
+        "6": -120.51667,
+        "7": 37.2833333,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Mersa Matruh, Egypt (MUH)",
+        "2": "airport",
+        "3": "MUH",
+        "4": "MUH",
+        "5": "Mersa Matruh",
+        "6": 27.2166667,
+        "7": 31.3333333,
+        "10": "Africa/Cairo"
+      },
+      {
+        "1": "Ponce Mercedita, PR (PSE)",
+        "2": "airport",
+        "3": "PSE",
+        "4": "PSE",
+        "5": "Ponce",
+        "6": -66.563056,
+        "7": 18.0083333,
+        "10": "America/St_Thomas"
+      }
+    ]
+  }
+}

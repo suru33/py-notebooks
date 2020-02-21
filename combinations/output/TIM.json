@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tembagapura/Timika Moses Kilangin, Indonesia (TIM)",
+        "2": "airport",
+        "3": "TIM",
+        "4": "TIM",
+        "5": "Tembagapura",
+        "6": 136.8875,
+        "7": -4.5283333,
+        "10": "Asia/Jayapura"
+      },
+      {
+        "1": "Timisoara Traian Vuia, Romania (TSR)",
+        "2": "airport",
+        "3": "TSR",
+        "4": "TSR",
+        "5": "Timisoara",
+        "6": 21.3377778,
+        "7": 45.81,
+        "10": "Europe/Bucharest"
+      },
+      {
+        "1": "Timmins Victor M. Power, ON, Canada (YTS)",
+        "2": "airport",
+        "3": "YTS",
+        "4": "YTS",
+        "5": "Timmins",
+        "6": -81.376667,
+        "7": 48.5697222,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Timimoun, Algeria (TMX)",
+        "2": "airport",
+        "3": "TMX",
+        "4": "TMX",
+        "5": "Timimoun",
+        "6": 0.27694444,
+        "7": 29.2369444,
+        "10": "Africa/Algiers"
+      },
+      {
+        "1": "Timaru Richard Pearse, New Zealand (TIU)",
+        "2": "airport",
+        "3": "TIU",
+        "4": "TIU",
+        "5": "Timaru",
+        "6": 171.224722,
+        "7": -44.3,
+        "10": "Pacific/Auckland"
+      }
+    ]
+  }
+}

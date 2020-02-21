@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Haugesund Karmoy, Norway (HAU)",
+        "2": "airport",
+        "3": "HAU",
+        "4": "HAU",
+        "5": "Haugesund",
+        "6": 5.20833333,
+        "7": 59.3452778,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Sogndal Haukasen, Norway (SOG)",
+        "2": "airport",
+        "3": "SOG",
+        "4": "SOG",
+        "5": "Sogndal",
+        "6": 7.13944444,
+        "7": 61.1566667,
+        "10": "Europe/Oslo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Singapore, Singapore - All airports",
+        "2": "city",
+        "3": "SIN",
+        "4": "SIN",
+        "5": "Singapore",
+        "6": 103.97241663442765,
+        "7": 1.3672527681025661,
+        "10": "Asia/Singapore"
+      },
+      {
+        "1": "Singapore Changi, Singapore (SIN)",
+        "2": "airport",
+        "3": "SIN",
+        "4": "SIN",
+        "5": "Singapore",
+        "6": 103.989444,
+        "7": 1.35916667,
+        "10": "Asia/Singapore"
+      },
+      {
+        "1": "Sinop Jao B. Figueiredo, Brazil (OPS)",
+        "2": "airport",
+        "3": "OPS",
+        "4": "OPS",
+        "5": "Sinop",
+        "6": -55.586111,
+        "7": -11.885,
+        "10": "America/Cuiaba"
+      },
+      {
+        "1": "Singapore Seletar, Singapore (XSP)",
+        "2": "airport",
+        "3": "XSP",
+        "4": "SIN",
+        "5": "Singapore",
+        "6": 103.867778,
+        "7": 1.41694444,
+        "10": "Asia/Singapore"
+      },
+      {
+        "1": "Sinop, Turkey (NOP)",
+        "2": "airport",
+        "3": "NOP",
+        "4": "NOP",
+        "5": "Sinop",
+        "6": 35.0775,
+        "7": 42.0213889,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Sintang Susilo, Indonesia (SQG)",
+        "2": "airport",
+        "3": "SQG",
+        "4": "SQG",
+        "5": "Sintang",
+        "6": 111.473333,
+        "7": 0.06361111,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Agartala, India (IXA)",
+        "2": "airport",
+        "3": "IXA",
+        "4": "IXA",
+        "5": "Agartala",
+        "6": 91.2405556,
+        "7": 23.8869444,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

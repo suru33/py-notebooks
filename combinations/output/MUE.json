@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kamuela Waimea-Kohala, HI (MUE)",
+        "2": "airport",
+        "3": "MUE",
+        "4": "MUE",
+        "5": "Kamuela",
+        "6": -155.66806,
+        "7": 20.0013889,
+        "10": "Pacific/Honolulu"
+      },
+      {
+        "1": "Muenster/Osnabrueck International, Germany (FMO)",
+        "2": "airport",
+        "3": "FMO",
+        "4": "FMO",
+        "5": "Munster",
+        "6": 7.68472222,
+        "7": 52.1347222,
+        "10": "Europe/Berlin"
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Manchester, United Kingdom (MAN)",
+        "2": "airport",
+        "3": "MAN",
+        "4": "MAN",
+        "5": "Manchester",
+        "6": -2.275,
+        "7": 53.3536111,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Manchester-Boston Regional, NH (MHT)",
+        "2": "airport",
+        "3": "MHT",
+        "4": "MHT",
+        "5": "Manchester",
+        "6": -71.435556,
+        "7": 42.9325,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Manila Ninoy Aquino International, Philippines (MNL)",
+        "2": "airport",
+        "3": "MNL",
+        "4": "MNL",
+        "5": "Manila",
+        "6": 121.019444,
+        "7": 14.5086111,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Mandalay International, Myanmar (MDL)",
+        "2": "airport",
+        "3": "MDL",
+        "4": "MDL",
+        "5": "Mandalay",
+        "6": 95.9780556,
+        "7": 21.7022222,
+        "10": "Asia/Rangoon"
+      },
+      {
+        "1": "Manado Sam Ratulangi, Indonesia (MDC)",
+        "2": "airport",
+        "3": "MDC",
+        "4": "MDC",
+        "5": "Manado",
+        "6": 124.926389,
+        "7": 1.54916667,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Manaus Eduardo Gomes International, Brazil (MAO)",
+        "2": "airport",
+        "3": "MAO",
+        "4": "MAO",
+        "5": "Manaus",
+        "6": -60.049722,
+        "7": -3.0386111,
+        "10": "America/Manaus"
+      },
+      {
+        "1": "Mangalore, India (IXE)",
+        "2": "airport",
+        "3": "IXE",
+        "4": "IXE",
+        "5": "Mangalore",
+        "6": 74.89,
+        "7": 12.9613889,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Managua Augusto C. Sandino International, Nicaragua (MGA)",
+        "2": "airport",
+        "3": "MGA",
+        "4": "MGA",
+        "5": "Managua",
+        "6": -86.168056,
+        "7": 12.1413889,
+        "10": "America/Managua"
+      },
+      {
+        "1": "Manzhouli Xijiao, China (NZH)",
+        "2": "airport",
+        "3": "NZH",
+        "4": "NZH",
+        "5": "Manzhouli",
+        "6": 117.330556,
+        "7": 49.5666667,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Manokwari Rendani, Indonesia (MKW)",
+        "2": "airport",
+        "3": "MKW",
+        "4": "MKW",
+        "5": "Manokwari",
+        "6": 134.049167,
+        "7": -0.8919444,
+        "10": "Asia/Jayapura"
+      },
+      {
+        "1": "Manzanillo Playa de Oro International, Mexico (ZLO)",
+        "2": "airport",
+        "3": "ZLO",
+        "4": "ZLO",
+        "5": "Manzanillo",
+        "6": -104.55861,
+        "7": 19.1447222,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Manihi, French Polynesia (XMH)",
+        "2": "airport",
+        "3": "XMH",
+        "4": "XMH",
+        "5": "Manihi",
+        "6": -146.07,
+        "7": -14.436667,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Manley Hot Springs, AK (MLY)",
+        "2": "airport",
+        "3": "MLY",
+        "4": "MLY",
+        "5": "Manley Hot Springs",
+        "6": -150.64111,
+        "7": 64.9980556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Manaung, Myanmar (MGU)",
+        "2": "airport",
+        "3": "MGU",
+        "4": "MGU",
+        "5": "Manaung",
+        "6": 93.6833333,
+        "7": 18.8463889,
+        "10": "Asia/Rangoon"
+      },
+      {
+        "1": "Maningrida, Australia (MNG)",
+        "2": "airport",
+        "3": "MNG",
+        "4": "MNG",
+        "5": "Maningrida",
+        "6": 134.234167,
+        "7": -12.056111,
+        "10": "Australia/Darwin"
+      },
+      {
+        "1": "Mannheim City Airport, Germany (MHG)",
+        "2": "airport",
+        "3": "MHG",
+        "4": "MHG",
+        "5": "Mannheim",
+        "6": 8.51416667,
+        "7": 49.4727778,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Manus Island Momote, Papua New Guinea (MAS)",
+        "2": "airport",
+        "3": "MAS",
+        "4": "MAS",
+        "5": "Manus Island",
+        "6": 147.425,
+        "7": -2.065,
+        "10": "Pacific/Port_Moresby"
+      },
+      {
+        "1": "Manzanillo Sierra Maestra, Cuba (MZO)",
+        "2": "airport",
+        "3": "MZO",
+        "4": "MZO",
+        "5": "Manzanillo",
+        "6": -77.089167,
+        "7": 20.2880556,
+        "10": "America/Havana"
+      },
+      {
+        "1": "Manhattan Regional, KS (MHK)",
+        "2": "airport",
+        "3": "MHK",
+        "4": "MHK",
+        "5": "Manhattan",
+        "6": -96.669167,
+        "7": 39.1422222,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Manokotak, AK (KMO)",
+        "2": "airport",
+        "3": "KMO",
+        "4": "KMO",
+        "5": "Manokotak",
+        "6": -159.05056,
+        "7": 58.9897222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Maniitsoq, Greenland (JSU)",
+        "2": "airport",
+        "3": "JSU",
+        "4": "JSU",
+        "5": "Maniitsoq",
+        "6": -52.939722,
+        "7": 65.4125,
+        "10": "America/Godthab"
+      },
+      {
+        "1": "Manistee Co. Blacker, MI (MBL)",
+        "2": "airport",
+        "3": "MBL",
+        "4": "MBL",
+        "5": "Manistee",
+        "6": -86.252222,
+        "7": 44.2730556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Manizales La Nubia, Colombia (MZL)",
+        "2": "airport",
+        "3": "MZL",
+        "4": "MZL",
+        "5": "Manizales",
+        "6": -75.464722,
+        "7": 5.02972222,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Man, Ivory Coast (MJC)",
+        "2": "airport",
+        "3": "MJC",
+        "4": "MJC",
+        "5": "Man",
+        "6": -7.5875,
+        "7": 7.27194444,
+        "10": "Africa/Abidjan"
+      },
+      {
+        "1": "Manzini King Mswati III International, Swaziland (SHO)",
+        "2": "airport",
+        "3": "SHO",
+        "4": "MTS",
+        "5": "Manzini",
+        "6": 31.7172222,
+        "7": -26.356944,
+        "10": "Africa/Mbabane"
+      },
+      {
+        "1": "Mandera, Kenya (NDE)",
+        "2": "airport",
+        "3": "NDE",
+        "4": "NDE",
+        "5": "Mandera",
+        "6": 41.8444444,
+        "7": 3.93416667,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Manta Eloy Alfaro International, Ecuador (MEC)",
+        "2": "airport",
+        "3": "MEC",
+        "4": "MEC",
+        "5": "Manta",
+        "6": -80.678889,
+        "7": -0.9461111,
+        "10": "America/Guayaquil"
+      },
+      {
+        "1": "Manchester Bus Station, United Kingdom (ZMP)",
+        "2": "bus",
+        "3": "ZMP",
+        "4": "MAN",
+        "5": "Manchester",
+        "6": -2.2377778,
+        "7": 53.4780556,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Mannheim Hbf Railway Station, Germany (MHJ)",
+        "2": "rail",
+        "3": "MHJ",
+        "4": "MHG",
+        "5": "Mannheim",
+        "6": 8.46916667,
+        "7": 49.4794444,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Kingston Norman Manley International, Jamaica (KIN)",
+        "2": "airport",
+        "3": "KIN",
+        "4": "KIN",
+        "5": "Kingston",
+        "6": -76.7875,
+        "7": 17.9355556,
+        "10": "America/Jamaica"
+      },
+      {
+        "1": "Dehong Mangshi, China (LUM)",
+        "2": "airport",
+        "3": "LUM",
+        "4": "LUM",
+        "5": "Luxi",
+        "6": 98.5322222,
+        "7": 24.4013889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Iloilo International, Philippines (ILO)",
+        "2": "airport",
+        "3": "ILO",
+        "4": "ILO",
+        "5": "Iloilo",
+        "6": 122.545278,
+        "7": 10.7130556,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Temuco La Araucania, Chile (ZCO)",
+        "2": "airport",
+        "3": "ZCO",
+        "4": "ZCO",
+        "5": "Temuco",
+        "6": -72.646944,
+        "7": -38.926944,
+        "10": "America/Santiago"
+      }
+    ]
+  }
+}

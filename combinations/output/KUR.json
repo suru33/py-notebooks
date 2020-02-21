@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kursk Vostochny, Russia (URS)",
+        "2": "airport",
+        "3": "URS",
+        "4": "URS",
+        "5": "Kursk",
+        "6": 36.2955556,
+        "7": 51.7505556,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Kurgan, Russia (KRO)",
+        "2": "airport",
+        "3": "KRO",
+        "4": "KRO",
+        "5": "Kurgan",
+        "6": 65.4105556,
+        "7": 55.4708333,
+        "10": "Asia/Yekaterinburg"
+      },
+      {
+        "1": "Passo Fundo Lauro Kurtz, Brazil (PFB)",
+        "2": "airport",
+        "3": "PFB",
+        "4": "PFB",
+        "5": "Passo Fundo",
+        "6": -52.329167,
+        "7": -28.244444,
+        "10": "America/Sao_Paulo"
+      }
+    ]
+  }
+}

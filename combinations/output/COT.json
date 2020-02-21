@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Cotonou Cadjehoun, Benin (COO)",
+        "2": "airport",
+        "3": "COO",
+        "4": "COO",
+        "5": "Cotonou",
+        "6": 2.38444444,
+        "7": 6.35722222,
+        "10": "Africa/Porto-Novo"
+      },
+      {
+        "1": "Coto 47, Costa Rica (OTR)",
+        "2": "airport",
+        "3": "OTR",
+        "4": "OTR",
+        "5": "Coto 47",
+        "6": -82.968889,
+        "7": 8.60194444,
+        "10": "America/Costa_Rica"
+      },
+      {
+        "1": "Cotabato Awang, Philippines (CBO)",
+        "2": "airport",
+        "3": "CBO",
+        "4": "CBO",
+        "5": "Cotabato",
+        "6": 124.209722,
+        "7": 7.16527778,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Nice Cote d'Azur, France (NCE)",
+        "2": "airport",
+        "3": "NCE",
+        "4": "NCE",
+        "5": "Nice",
+        "6": 7.215,
+        "7": 43.6652778,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

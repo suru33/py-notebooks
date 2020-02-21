@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Rarotonga Island, Cook Islands (RAR)",
+        "2": "airport",
+        "3": "RAR",
+        "4": "RAR",
+        "5": "Rarotonga",
+        "6": -159.79833,
+        "7": -21.202778,
+        "10": "Pacific/Rarotonga"
+      },
+      {
+        "1": "Raroia, French Polynesia (RRR)",
+        "2": "airport",
+        "3": "RRR",
+        "4": "RRR",
+        "5": "Raroia",
+        "6": -142.47694,
+        "7": -16.045,
+        "10": "Pacific/Tahiti"
+      }
+    ]
+  }
+}

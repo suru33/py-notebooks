@@ -1,0 +1,136 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Jinja, Uganda (JIN)",
+        "2": "airport",
+        "3": "JIN",
+        "4": "JIN",
+        "5": "Jinja",
+        "6": 33.1944444,
+        "7": 0.45194444,
+        "10": "Africa/Kampala"
+      },
+      {
+        "1": "Jinan Yaoqiang International, China (TNA)",
+        "2": "airport",
+        "3": "TNA",
+        "4": "TNA",
+        "5": "Jinan",
+        "6": 117.216111,
+        "7": 36.8572222,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Quanzhou Jinjiang, China (JJN)",
+        "2": "airport",
+        "3": "JJN",
+        "4": "JJN",
+        "5": "Jinjiang",
+        "6": 118.588056,
+        "7": 24.7955556,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Jinghong Xishuangbanna Gasa International, China (JHG)",
+        "2": "airport",
+        "3": "JHG",
+        "4": "JHG",
+        "5": "Jinghong",
+        "6": 100.763056,
+        "7": 21.9730556,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Jining Qufu, China (JNG)",
+        "2": "airport",
+        "3": "JNG",
+        "4": "JNG",
+        "5": "Jining",
+        "6": 116.346667,
+        "7": 35.2930556,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Jingdezhen Luojia, China (JDZ)",
+        "2": "airport",
+        "3": "JDZ",
+        "4": "JDZ",
+        "5": "Jingdezhen",
+        "6": 117.176389,
+        "7": 29.3391667,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Jinzhouwan, China (JNZ)",
+        "2": "airport",
+        "3": "JNZ",
+        "4": "JNZ",
+        "5": "Jinzhou",
+        "6": 121.061944,
+        "7": 41.1025,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Jinchang Jinchuan, China (JIC)",
+        "2": "airport",
+        "3": "JIC",
+        "4": "JIC",
+        "5": "Jingchang",
+        "6": 102.348611,
+        "7": 38.5419444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Jinju Sacheon, South Korea (HIN)",
+        "2": "airport",
+        "3": "HIN",
+        "4": "HIN",
+        "5": "Chinju",
+        "6": 128.070278,
+        "7": 35.0886111,
+        "10": "Asia/Seoul"
+      },
+      {
+        "1": "Jinka Bako, Ethiopia (BCO)",
+        "2": "airport",
+        "3": "BCO",
+        "4": "BCO",
+        "5": "Jinka",
+        "6": 36.5625,
+        "7": 5.78388889,
+        "10": "Africa/Addis_Ababa"
+      },
+      {
+        "1": "Jingzhou Shashi, China (SHS)",
+        "2": "airport",
+        "3": "SHS",
+        "4": "SHS",
+        "5": "Shashi",
+        "6": 112.279167,
+        "7": 30.3213889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Jingmen Railway Station, China (JJL)",
+        "2": "rail",
+        "3": "JJL",
+        "4": "JJL",
+        "5": "Jingmen",
+        "6": 112.206667,
+        "7": 31.0533333,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Jingzhou Railway Station, China (EJJ)",
+        "2": "rail",
+        "3": "EJJ",
+        "4": "SHS",
+        "5": "Shashi",
+        "6": 112.2075,
+        "7": 30.3727778,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

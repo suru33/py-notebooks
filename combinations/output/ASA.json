@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Assab International, Eritrea (ASA)",
+        "2": "airport",
+        "3": "ASA",
+        "4": "ASA",
+        "5": "Assab",
+        "6": 42.645,
+        "7": 13.0716667,
+        "10": "Africa/Asmara"
+      },
+      {
+        "1": "Asaloyeh Persian Gulf International, Iran (PGU)",
+        "2": "airport",
+        "3": "PGU",
+        "4": "PGU",
+        "5": "Asaloyeh Persian Gulf",
+        "6": 52.7377778,
+        "7": 27.3794444,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Asahikawa, Japan (AKJ)",
+        "2": "airport",
+        "3": "AKJ",
+        "4": "AKJ",
+        "5": "Asahikawa",
+        "6": 142.4475,
+        "7": 43.6708333,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Asaba International, Nigeria (ABB)",
+        "2": "airport",
+        "3": "ABB",
+        "4": "ABB",
+        "5": "Asaba",
+        "6": 6.66722222,
+        "7": 6.20305556,
+        "10": "Africa/Lagos"
+      }
+    ]
+  }
+}

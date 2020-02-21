@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Monbetsu, Japan (MBE)",
+        "2": "airport",
+        "3": "MBE",
+        "4": "MBE",
+        "5": "Monbetsu",
+        "6": 143.404167,
+        "7": 44.3038889,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Mbeya, Tanzania (MBI)",
+        "2": "airport",
+        "3": "MBI",
+        "4": "MBI",
+        "5": "Mbeya",
+        "6": 33.4638889,
+        "7": -8.9197222,
+        "10": "Africa/Dar_es_Salaam"
+      }
+    ]
+  }
+}

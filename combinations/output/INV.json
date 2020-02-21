@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Inverness, United Kingdom (INV)",
+        "2": "airport",
+        "3": "INV",
+        "4": "INV",
+        "5": "Inverness",
+        "6": -4.05,
+        "7": 57.54,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Invercargill, New Zealand (IVC)",
+        "2": "airport",
+        "3": "IVC",
+        "4": "IVC",
+        "5": "Invercargill",
+        "6": 168.313056,
+        "7": -46.414722,
+        "10": "Pacific/Auckland"
+      },
+      {
+        "1": "Inverell, Australia (IVR)",
+        "2": "airport",
+        "3": "IVR",
+        "4": "IVR",
+        "5": "Inverell",
+        "6": 151.145,
+        "7": -29.886944,
+        "10": "Australia/Sydney"
+      }
+    ]
+  }
+}

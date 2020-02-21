@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dusseldorf, Germany - All airports",
+        "2": "city",
+        "3": "DUS",
+        "4": "DUS",
+        "5": "Dusseldorf",
+        "6": 6.622498167919889,
+        "7": 51.359239407083834,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Duesseldorf International, Germany (DUS)",
+        "2": "airport",
+        "3": "DUS",
+        "4": "DUS",
+        "5": "Dusseldorf",
+        "6": 6.76666667,
+        "7": 51.2894444,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Dushanbe International, Tajikistan (DYU)",
+        "2": "airport",
+        "3": "DYU",
+        "4": "DYU",
+        "5": "Dushanbe",
+        "6": 68.825,
+        "7": 38.5433333,
+        "10": "Asia/Dushanbe"
+      }
+    ]
+  }
+}

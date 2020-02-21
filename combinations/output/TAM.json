@@ -1,0 +1,136 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tampico F. Javier Mina International, Mexico (TAM)",
+        "2": "airport",
+        "3": "TAM",
+        "4": "TAM",
+        "5": "Tampico",
+        "6": -97.865833,
+        "7": 22.2963889,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Tampa, FL - All airports",
+        "2": "city",
+        "3": "TPA",
+        "4": "TPA",
+        "5": "Tampa",
+        "6": -82.58714183482309,
+        "7": 27.952771720454994,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Tampa International, FL (TPA)",
+        "2": "airport",
+        "3": "TPA",
+        "4": "TPA",
+        "5": "Tampa",
+        "6": -82.533333,
+        "7": 27.9755556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Tampa St.Pete-Clearwater International, FL (PIE)",
+        "2": "airport",
+        "3": "PIE",
+        "4": "TPA",
+        "5": "Tampa",
+        "6": -82.6875,
+        "7": 27.9102778,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Tamanrasset Aguenar, Algeria (TMR)",
+        "2": "airport",
+        "3": "TMR",
+        "4": "TMR",
+        "5": "Tamanrasset",
+        "6": 5.45111111,
+        "7": 22.8113889,
+        "10": "Africa/Algiers"
+      },
+      {
+        "1": "Tampere-Pirkkala, Finland (TMP)",
+        "2": "airport",
+        "3": "TMP",
+        "4": "TMP",
+        "5": "Tampere",
+        "6": 23.6044444,
+        "7": 61.4141667,
+        "10": "Europe/Helsinki"
+      },
+      {
+        "1": "Tambolaka Waikabubak, Indonesia (TMC)",
+        "2": "airport",
+        "3": "TMC",
+        "4": "TMC",
+        "5": "Tambolaka",
+        "6": 119.244444,
+        "7": -9.4097222,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Tambor, Costa Rica (TMU)",
+        "2": "airport",
+        "3": "TMU",
+        "4": "TMU",
+        "5": "Tambor",
+        "6": -85.016944,
+        "7": 9.73972222,
+        "10": "America/Costa_Rica"
+      },
+      {
+        "1": "Tamarindo, Costa Rica (TNO)",
+        "2": "airport",
+        "3": "TNO",
+        "4": "TNO",
+        "5": "Tamarindo",
+        "6": -85.812778,
+        "7": 10.3158333,
+        "10": "America/Costa_Rica"
+      },
+      {
+        "1": "Tambov Donskoye, Russia (TBW)",
+        "2": "airport",
+        "3": "TBW",
+        "4": "TBW",
+        "5": "Tambov",
+        "6": 41.3744444,
+        "7": 52.7005556,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Tamworth, Australia (TMW)",
+        "2": "airport",
+        "3": "TMW",
+        "4": "TMW",
+        "5": "Tamworth",
+        "6": 150.846667,
+        "7": -31.083889,
+        "10": "Australia/Sydney"
+      },
+      {
+        "1": "Tamale, Ghana (TML)",
+        "2": "airport",
+        "3": "TML",
+        "4": "TML",
+        "5": "Tamale",
+        "6": -0.8633333,
+        "7": 9.55722222,
+        "10": "Africa/Accra"
+      },
+      {
+        "1": "Tamchy Issyk-Kul, Kyrgyzstan (IKU)",
+        "2": "airport",
+        "3": "IKU",
+        "4": "IKU",
+        "5": "Tamchy",
+        "6": 76.7019444,
+        "7": 42.5855556,
+        "10": "Asia/Bishkek"
+      }
+    ]
+  }
+}

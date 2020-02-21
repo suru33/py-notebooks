@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tahuna Naha, Indonesia (NAH)",
+        "2": "airport",
+        "3": "NAH",
+        "4": "NAH",
+        "5": "Naha",
+        "6": 125.528056,
+        "7": 3.68333333,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Okinawa Naha, Japan (OKA)",
+        "2": "airport",
+        "3": "OKA",
+        "4": "OKA",
+        "5": "Okinawa",
+        "6": 127.645833,
+        "7": 26.1958333,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

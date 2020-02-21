@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Zunyi, China - All airports",
+        "2": "city",
+        "3": "ZYI",
+        "4": "ZYI",
+        "5": "Zunyi",
+        "6": 106.79914642819193,
+        "7": 27.81369393628982,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Zunyi Xinzhou, China (ZYI)",
+        "2": "airport",
+        "3": "ZYI",
+        "4": "ZYI",
+        "5": "Zunyi",
+        "6": 107.246111,
+        "7": 27.8111111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Zunyi Maotai, China (WMT)",
+        "2": "airport",
+        "3": "WMT",
+        "4": "ZYI",
+        "5": "Zunyi",
+        "6": 106.332778,
+        "7": 27.8163889,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

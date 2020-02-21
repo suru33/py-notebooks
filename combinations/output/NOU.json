@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Noumea, New Caledonia - All airports",
+        "2": "city",
+        "3": "NOU",
+        "4": "NOU",
+        "5": "Noumea",
+        "6": 166.32376282512763,
+        "7": -22.118401989209804,
+        "10": "Pacific/Noumea"
+      },
+      {
+        "1": "Noumea La Tontouta, New Caledonia (NOU)",
+        "2": "airport",
+        "3": "NOU",
+        "4": "NOU",
+        "5": "Noumea",
+        "6": 166.213056,
+        "7": -22.014444,
+        "10": "Pacific/Noumea"
+      },
+      {
+        "1": "Nouakchott, Mauritania (NKC)",
+        "2": "airport",
+        "3": "NKC",
+        "4": "NKC",
+        "5": "Nouakchott",
+        "6": -15.948056,
+        "7": 18.0977778,
+        "10": "Africa/Nouakchott"
+      },
+      {
+        "1": "Noumea Magenta, New Caledonia (GEA)",
+        "2": "airport",
+        "3": "GEA",
+        "4": "NOU",
+        "5": "Noumea",
+        "6": 166.472778,
+        "7": -22.258333,
+        "10": "Pacific/Noumea"
+      },
+      {
+        "1": "Nouadhibou, Mauritania (NDB)",
+        "2": "airport",
+        "3": "NDB",
+        "4": "NDB",
+        "5": "Nouadhibou",
+        "6": -17.03,
+        "7": 20.9330556,
+        "10": "Africa/Nouakchott"
+      },
+      {
+        "1": "Ghardaia Noumerat, Algeria (GHA)",
+        "2": "airport",
+        "3": "GHA",
+        "4": "GHA",
+        "5": "Ghardaia",
+        "6": 3.79416667,
+        "7": 32.3841667,
+        "10": "Africa/Algiers"
+      }
+    ]
+  }
+}

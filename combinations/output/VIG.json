@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "El Vigia Juan P. Perez Alfonso, Venezuela (VIG)",
+        "2": "airport",
+        "3": "VIG",
+        "4": "VIG",
+        "5": "El Vigia",
+        "6": -71.672778,
+        "7": 8.62416667,
+        "10": "America/Caracas"
+      },
+      {
+        "1": "Vigo, Spain (VGO)",
+        "2": "airport",
+        "3": "VGO",
+        "4": "VGO",
+        "5": "Vigo",
+        "6": -8.6266667,
+        "7": 42.2316667,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Vigo Bus Station, Spain (VBT)",
+        "2": "bus",
+        "3": "VBT",
+        "4": "VGO",
+        "5": "Vigo",
+        "6": -8.7094444,
+        "7": 42.2241667,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Alesund Vigra, Norway (AES)",
+        "2": "airport",
+        "3": "AES",
+        "4": "AES",
+        "5": "Aalesund",
+        "6": 6.11027778,
+        "7": 62.5602778,
+        "10": "Europe/Oslo"
+      }
+    ]
+  }
+}

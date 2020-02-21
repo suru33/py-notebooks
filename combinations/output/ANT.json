@@ -1,0 +1,106 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Antalya, Turkey (AYT)",
+        "2": "airport",
+        "3": "AYT",
+        "4": "AYT",
+        "5": "Antalya",
+        "6": 30.8005556,
+        "7": 36.8986111,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Antigua V.C. Bird International, Antigua and Barbuda (ANU)",
+        "2": "airport",
+        "3": "ANU",
+        "4": "ANU",
+        "5": "Antigua",
+        "6": -61.792778,
+        "7": 17.1366667,
+        "10": "America/Antigua"
+      },
+      {
+        "1": "Antananarivo Ivato International, Madagascar (TNR)",
+        "2": "airport",
+        "3": "TNR",
+        "4": "TNR",
+        "5": "Antananarivo",
+        "6": 47.4788889,
+        "7": -18.796944,
+        "10": "Indian/Antananarivo"
+      },
+      {
+        "1": "Antwerp International, Belgium (ANR)",
+        "2": "airport",
+        "3": "ANR",
+        "4": "ANR",
+        "5": "Antwerp",
+        "6": 4.46027778,
+        "7": 51.1894444,
+        "10": "Europe/Brussels"
+      },
+      {
+        "1": "Antsiranana Arrachart, Madagascar (DIE)",
+        "2": "airport",
+        "3": "DIE",
+        "4": "DIE",
+        "5": "Antsiranana",
+        "6": 49.2916667,
+        "7": -12.349444,
+        "10": "Indian/Antananarivo"
+      },
+      {
+        "1": "Antofagasta Cerro Moreno, Chile (ANF)",
+        "2": "airport",
+        "3": "ANF",
+        "4": "ANF",
+        "5": "Antofagasta",
+        "6": -70.445,
+        "7": -23.444444,
+        "10": "America/Santiago"
+      },
+      {
+        "1": "Antique Evelio Javier, Philippines (EUQ)",
+        "2": "airport",
+        "3": "EUQ",
+        "4": "EUQ",
+        "5": "Antique",
+        "6": 121.9325,
+        "7": 10.7677778,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Antwerp Central Railway Station, Belgium (ZWE)",
+        "2": "rail",
+        "3": "ZWE",
+        "4": "ANR",
+        "5": "Antwerp",
+        "6": 4.42083333,
+        "7": 51.2177778,
+        "10": "Europe/Brussels"
+      },
+      {
+        "1": "Antwerp Berchem Railway Station, Belgium (ZYZ)",
+        "2": "rail",
+        "3": "ZYZ",
+        "4": "ANR",
+        "5": "Antwerp",
+        "6": 4.43305556,
+        "7": 51.1988889,
+        "10": "Europe/Brussels"
+      },
+      {
+        "1": "Guam A.B. Won Pat International, Guam (GUM)",
+        "2": "airport",
+        "3": "GUM",
+        "4": "GUM",
+        "5": "Guam",
+        "6": 144.796111,
+        "7": 13.4833333,
+        "10": "Pacific/Guam"
+      }
+    ]
+  }
+}

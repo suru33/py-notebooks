@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Allentown Lehigh Valley International, PA (ABE)",
+        "2": "airport",
+        "3": "ABE",
+        "4": "ABE",
+        "5": "Allentown/Bethlehem",
+        "6": -75.440833,
+        "7": 40.6522222,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Allahabad, India (IXD)",
+        "2": "airport",
+        "3": "IXD",
+        "4": "IXD",
+        "5": "Allahabad",
+        "6": 81.7338889,
+        "7": 25.44,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Allakaket, AK (AET)",
+        "2": "airport",
+        "3": "AET",
+        "4": "AET",
+        "5": "Allakaket",
+        "6": -152.63194,
+        "7": 66.5505556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Alliance Municipal, NE (AIA)",
+        "2": "airport",
+        "3": "AIA",
+        "4": "AIA",
+        "5": "Alliance",
+        "6": -102.80778,
+        "7": 42.0519444,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Memmingen Allgaeu, Germany (FMM)",
+        "2": "airport",
+        "3": "FMM",
+        "4": "FMM",
+        "5": "Memmingen",
+        "6": 10.2375,
+        "7": 47.9880556,
+        "10": "Europe/Berlin"
+      }
+    ]
+  }
+}

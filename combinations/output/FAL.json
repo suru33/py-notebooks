@@ -1,0 +1,55 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "False Pass, AK (KFP)",
+        "2": "airport",
+        "3": "KFP",
+        "4": "KFP",
+        "5": "False Pass",
+        "6": -163.40639,
+        "7": 54.8480556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Ancona Falconara, Italy (AOI)",
+        "2": "airport",
+        "3": "AOI",
+        "4": "AOI",
+        "5": "Ancona",
+        "6": 13.3602778,
+        "7": 43.6166667,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Apia Faleolo International, Samoa (APW)",
+        "2": "airport",
+        "3": "APW",
+        "4": "APW",
+        "5": "Apia",
+        "6": -171.99722,
+        "7": -13.829722
+      },
+      {
+        "1": "Int'l Falls Int'l, MN (INL)",
+        "2": "airport",
+        "3": "INL",
+        "4": "INL",
+        "5": "International Falls",
+        "6": -93.403056,
+        "7": 48.5661111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Borlange/Falun Dala, Sweden (BLE)",
+        "2": "airport",
+        "3": "BLE",
+        "4": "BLE",
+        "5": "Borlange",
+        "6": 15.5152778,
+        "7": 60.4219444,
+        "10": "Europe/Stockholm"
+      }
+    ]
+  }
+}

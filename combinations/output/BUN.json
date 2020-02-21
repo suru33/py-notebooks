@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Buenaventura Gerardo Tobar Lopez, Colombia (BUN)",
+        "2": "airport",
+        "3": "BUN",
+        "4": "BUN",
+        "5": "Buenaventura",
+        "6": -76.989722,
+        "7": 3.81972222,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Bunia, Congo (Zaire) (BUX)",
+        "2": "airport",
+        "3": "BUX",
+        "4": "BUX",
+        "5": "Bunia",
+        "6": 30.2208333,
+        "7": 1.56583333,
+        "10": "Africa/Lubumbashi"
+      },
+      {
+        "1": "Bundaberg, Australia (BDB)",
+        "2": "airport",
+        "3": "BDB",
+        "4": "BDB",
+        "5": "Bundaberg",
+        "6": 152.320833,
+        "7": -24.9025,
+        "10": "Australia/Brisbane"
+      }
+    ]
+  }
+}

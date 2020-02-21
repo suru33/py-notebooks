@@ -1,0 +1,106 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Taipei, Taiwan - All airports",
+        "2": "city",
+        "3": "TPE",
+        "4": "TPE",
+        "5": "Taipei",
+        "6": 121.31601515435003,
+        "7": 25.075680586731654,
+        "10": "Asia/Taipei"
+      },
+      {
+        "1": "Taipei Taiwan Taoyuan International, Taiwan (TPE)",
+        "2": "airport",
+        "3": "TPE",
+        "4": "TPE",
+        "5": "Taipei",
+        "6": 121.232778,
+        "7": 25.0777778,
+        "10": "Asia/Taipei"
+      },
+      {
+        "1": "Taiyuan Wusu International, China (TYN)",
+        "2": "airport",
+        "3": "TYN",
+        "4": "TYN",
+        "5": "Taiyuan",
+        "6": 112.628333,
+        "7": 37.7469444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Taichung Cingcyuangang, Taiwan (RMQ)",
+        "2": "airport",
+        "3": "RMQ",
+        "4": "RMQ",
+        "5": "Taichung",
+        "6": 120.620833,
+        "7": 24.265,
+        "10": "Asia/Taipei"
+      },
+      {
+        "1": "Taipei Songshan, Taiwan (TSA)",
+        "2": "airport",
+        "3": "TSA",
+        "4": "TPE",
+        "5": "Taipei",
+        "6": 121.5525,
+        "7": 25.0697222,
+        "10": "Asia/Taipei"
+      },
+      {
+        "1": "Taizhou Luqiao, China (HYN)",
+        "2": "airport",
+        "3": "HYN",
+        "4": "HYN",
+        "5": "Huangyan",
+        "6": 121.430278,
+        "7": 28.5652778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Taif, Saudi Arabia (TIF)",
+        "2": "airport",
+        "3": "TIF",
+        "4": "TIF",
+        "5": "Taif",
+        "6": 40.5444444,
+        "7": 21.4833333,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "Tainan, Taiwan (TNN)",
+        "2": "airport",
+        "3": "TNN",
+        "4": "TNN",
+        "5": "Tainan",
+        "6": 120.205833,
+        "7": 22.9502778,
+        "10": "Asia/Taipei"
+      },
+      {
+        "1": "Taitung Fongnian, Taiwan (TTT)",
+        "2": "airport",
+        "3": "TTT",
+        "4": "TTT",
+        "5": "Taitung",
+        "6": 121.181944,
+        "7": 22.7930556,
+        "10": "Asia/Taipei"
+      },
+      {
+        "1": "Taishan Bus Station, China (THJ)",
+        "2": "bus",
+        "3": "THJ",
+        "4": "ZCA",
+        "5": "Tai Shan",
+        "6": 112.776389,
+        "7": 22.2566667,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

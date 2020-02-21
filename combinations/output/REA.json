@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Reao, French Polynesia (REA)",
+        "2": "airport",
+        "3": "REA",
+        "4": "REA",
+        "5": "Reao",
+        "6": -136.43944,
+        "7": -18.466111,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Washington Ronald Reagan National, DC (DCA)",
+        "2": "airport",
+        "3": "DCA",
+        "4": "WAS",
+        "5": "Washington",
+        "6": -77.037778,
+        "7": 38.8522222,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Reading Railway Service, United Kingdom (XRE)",
+        "2": "rail",
+        "3": "XRE",
+        "4": "XRE",
+        "5": "Reading Rail Station",
+        "6": -0.9727778,
+        "7": 51.4591667,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Grand Island Central Nebraska Regional, NE (GRI)",
+        "2": "airport",
+        "3": "GRI",
+        "4": "GRI",
+        "5": "Grand Island",
+        "6": -98.309722,
+        "7": 40.9675,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Griffith, Australia (GFF)",
+        "2": "airport",
+        "3": "GFF",
+        "4": "GFF",
+        "5": "Griffith",
+        "6": 146.061667,
+        "7": -34.253889,
+        "10": "Australia/Sydney"
+      },
+      {
+        "1": "Grise Fiord, NU, Canada (YGZ)",
+        "2": "airport",
+        "3": "YGZ",
+        "4": "YGZ",
+        "5": "Grise Fiord",
+        "6": -82.9125,
+        "7": 76.4266667,
+        "10": "America/Montreal"
+      }
+    ]
+  }
+}

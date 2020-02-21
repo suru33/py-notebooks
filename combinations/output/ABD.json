@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Abadan, Iran (ABD)",
+        "2": "airport",
+        "3": "ABD",
+        "4": "ABD",
+        "5": "Abadan",
+        "6": 48.2283333,
+        "7": 30.3711111,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Madinah Mohammad Bin Abdulaziz, Saudi Arabia (MED)",
+        "2": "airport",
+        "3": "MED",
+        "4": "MED",
+        "5": "Madinah",
+        "6": 39.705,
+        "7": 24.5533333,
+        "10": "Asia/Riyadh"
+      }
+    ]
+  }
+}

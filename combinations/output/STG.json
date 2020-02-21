@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "St George Island, AK (STG)",
+        "2": "airport",
+        "3": "STG",
+        "4": "STG",
+        "5": "St George Island",
+        "6": -169.66417,
+        "7": 56.5777778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "St George Municipal, UT (SGU)",
+        "2": "airport",
+        "3": "SGU",
+        "4": "SGU",
+        "5": "St George",
+        "6": -113.59306,
+        "7": 37.0905556,
+        "10": "America/Denver"
+      },
+      {
+        "1": "St George, Australia (SGO)",
+        "2": "airport",
+        "3": "SGO",
+        "4": "SGO",
+        "5": "St George",
+        "6": 148.595278,
+        "7": -28.049722,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "St Gallen-Altenrhein, Switzerland (ACH)",
+        "2": "airport",
+        "3": "ACH",
+        "4": "ACH",
+        "5": "Altenrhein",
+        "6": 9.56083333,
+        "7": 47.485,
+        "10": "Europe/Zurich"
+      }
+    ]
+  }
+}

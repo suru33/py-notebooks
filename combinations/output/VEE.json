@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Venetie, AK (VEE)",
+        "2": "airport",
+        "3": "VEE",
+        "4": "VEE",
+        "5": "Venetie",
+        "6": -146.37833,
+        "7": 67.0063889,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Veenendaal-De Klomp Bus Station, Netherlands (QVX)",
+        "2": "bus",
+        "3": "QVX",
+        "4": "QVX",
+        "5": "Veenendaal-De Klomp",
+        "6": 5.57416667,
+        "7": 52.0461111,
+        "10": "Europe/Amsterdam"
+      }
+    ]
+  }
+}

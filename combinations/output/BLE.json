@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Borlange/Falun Dala, Sweden (BLE)",
+        "2": "airport",
+        "3": "BLE",
+        "4": "BLE",
+        "5": "Borlange",
+        "6": 15.5152778,
+        "7": 60.4219444,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Blenheim Woodbourne, New Zealand (BHE)",
+        "2": "airport",
+        "3": "BHE",
+        "4": "BHE",
+        "5": "Blenheim",
+        "6": 173.869167,
+        "7": -41.517778,
+        "10": "Pacific/Auckland"
+      }
+    ]
+  }
+}

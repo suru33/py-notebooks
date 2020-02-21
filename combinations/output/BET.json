@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bethel, AK (BET)",
+        "2": "airport",
+        "3": "BET",
+        "4": "BET",
+        "5": "Bethel",
+        "6": -161.83806,
+        "7": 60.7797222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Bettles, AK (BTT)",
+        "2": "airport",
+        "3": "BTT",
+        "4": "BTT",
+        "5": "Bettles",
+        "6": -151.52917,
+        "7": 66.9138889,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Key West International, FL (EYW)",
+        "2": "airport",
+        "3": "EYW",
+        "4": "EYW",
+        "5": "Key West",
+        "6": -81.759444,
+        "7": 24.5561111,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Meridian Regional (Key Field), MS (MEI)",
+        "2": "airport",
+        "3": "MEI",
+        "4": "MEI",
+        "5": "Meridian",
+        "6": -88.751944,
+        "7": 32.3327778,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

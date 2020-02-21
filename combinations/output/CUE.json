@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Cuenca Mariscal Lamar International, Ecuador (CUE)",
+        "2": "airport",
+        "3": "CUE",
+        "4": "CUE",
+        "5": "Cuenca",
+        "6": -78.984444,
+        "7": -2.8894444,
+        "10": "America/Guayaquil"
+      },
+      {
+        "1": "Cuenca Railway Station, Spain (CEJ)",
+        "2": "rail",
+        "3": "CEJ",
+        "4": "CEJ",
+        "5": "Cuenca",
+        "6": -2.1366667,
+        "7": 40.0675,
+        "10": "Europe/Madrid"
+      }
+    ]
+  }
+}

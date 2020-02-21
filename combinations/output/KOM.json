@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Komatsu, Japan (KMQ)",
+        "2": "airport",
+        "3": "KMQ",
+        "4": "KMQ",
+        "5": "Komatsu",
+        "6": 136.406667,
+        "7": 36.3947222,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Komsomolsk-na-Amure Khurba, Russia (KXK)",
+        "2": "airport",
+        "3": "KXK",
+        "4": "KXK",
+        "5": "Komsomolsk Na Amure",
+        "6": 136.935833,
+        "7": 50.4077778,
+        "10": "Asia/Vladivostok"
+      },
+      {
+        "1": "Nagoya (Komaki), Japan (NKM)",
+        "2": "airport",
+        "3": "NKM",
+        "4": "NGO",
+        "5": "Nagoya",
+        "6": 136.924444,
+        "7": 35.255,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

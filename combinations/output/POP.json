@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Puerto Plata Gregorio Luperon International, Dominican Republic (POP)",
+        "2": "airport",
+        "3": "POP",
+        "4": "POP",
+        "5": "Puerto Plata",
+        "6": -70.57,
+        "7": 19.7577778,
+        "10": "America/Santo_Domingo"
+      },
+      {
+        "1": "Poprad Tatry, Slovakia (TAT)",
+        "2": "airport",
+        "3": "TAT",
+        "4": "TAT",
+        "5": "Tatry/Poprad",
+        "6": 20.2411111,
+        "7": 49.0736111,
+        "10": "Europe/Bratislava"
+      },
+      {
+        "1": "Popondetta Girua, Papua New Guinea (PNP)",
+        "2": "airport",
+        "3": "PNP",
+        "4": "PNP",
+        "5": "Popondetta",
+        "6": 148.309167,
+        "7": -8.8044444,
+        "10": "Pacific/Port_Moresby"
+      },
+      {
+        "1": "Popayan Guillermo L. Valencia, Colombia (PPN)",
+        "2": "airport",
+        "3": "PPN",
+        "4": "PPN",
+        "5": "Popayan",
+        "6": -76.609444,
+        "7": 2.45444444,
+        "10": "America/Bogota"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Medellin, Colombia - All airports",
+        "2": "city",
+        "3": "MDE",
+        "4": "MDE",
+        "5": "Medellin",
+        "6": -75.5005415312466,
+        "7": 6.190144452419712,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Medellin Jose Maria Cordova International, Colombia (MDE)",
+        "2": "airport",
+        "3": "MDE",
+        "4": "MDE",
+        "5": "Medellin",
+        "6": -75.423056,
+        "7": 6.16444444,
+        "10": "America/Bogota"
+      }
+    ]
+  }
+}

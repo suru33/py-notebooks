@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Chisinau International, Moldova (KIV)",
+        "2": "airport",
+        "3": "KIV",
+        "4": "KIV",
+        "5": "Kishinev",
+        "6": 28.9308333,
+        "7": 46.9277778,
+        "10": "Europe/Chisinau"
+      },
+      {
+        "1": "Kivalina, AK (KVL)",
+        "2": "airport",
+        "3": "KVL",
+        "4": "KVL",
+        "5": "Kivalina",
+        "6": -164.56361,
+        "7": 67.7361111,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

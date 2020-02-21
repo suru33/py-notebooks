@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Philadelphia International, PA (PHL)",
+        "2": "airport",
+        "3": "PHL",
+        "4": "PHL",
+        "5": "Philadelphia",
+        "6": -75.241111,
+        "7": 39.8719444,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Philadelphia Trenton-Mercer, NJ (TTN)",
+        "2": "airport",
+        "3": "TTN",
+        "4": "TTN",
+        "5": "Trenton",
+        "6": -74.811944,
+        "7": 40.2769444,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Phinda Zulu Inyala, South Africa (PZL)",
+        "2": "airport",
+        "3": "PZL",
+        "4": "PZL",
+        "5": "Phinda Game Reserve",
+        "6": 32.31,
+        "7": -27.849722,
+        "10": "Africa/Johannesburg"
+      },
+      {
+        "1": "Phitsanulok, Thailand (PHS)",
+        "2": "airport",
+        "3": "PHS",
+        "4": "PHS",
+        "5": "Phitsanulok",
+        "6": 100.279167,
+        "7": 16.7830556,
+        "10": "Asia/Bangkok"
+      },
+      {
+        "1": "Philadelphia 30th St Railway Station, PA (ZFV)",
+        "2": "rail",
+        "3": "ZFV",
+        "4": "PHL",
+        "5": "Philadelphia",
+        "6": -75.182222,
+        "7": 39.9558333,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Kozani Filippos, Greece (KZI)",
+        "2": "airport",
+        "3": "KZI",
+        "4": "KZI",
+        "5": "Kozani",
+        "6": 21.8408333,
+        "7": 40.2861111,
+        "10": "Europe/Athens"
+      }
+    ]
+  }
+}

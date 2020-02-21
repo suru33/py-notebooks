@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Rurutu, French Polynesia (RUR)",
+        "2": "airport",
+        "3": "RUR",
+        "4": "RUR",
+        "5": "Rurutu",
+        "6": -151.36056,
+        "7": -22.434167,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Rurrenabaque, Bolivia (RBQ)",
+        "2": "airport",
+        "3": "RBQ",
+        "4": "RBQ",
+        "5": "Rurrenabaque",
+        "6": -67.498889,
+        "7": -14.426667,
+        "10": "America/La_Paz"
+      }
+    ]
+  }
+}

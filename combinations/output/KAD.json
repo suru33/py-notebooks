@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kaduna, Nigeria (KAD)",
+        "2": "airport",
+        "3": "KAD",
+        "4": "KAD",
+        "5": "Kaduna",
+        "6": 7.32,
+        "7": 10.6961111,
+        "10": "Africa/Lagos"
+      },
+      {
+        "1": "Kadhdhoo Island, Maldives (KDO)",
+        "2": "airport",
+        "3": "KDO",
+        "4": "KDO",
+        "5": "Kadhdhoo",
+        "6": 73.5197222,
+        "7": 1.85833333,
+        "10": "Indian/Maldives"
+      },
+      {
+        "1": "Kadavu Island Vunisea, Fiji (KDV)",
+        "2": "airport",
+        "3": "KDV",
+        "4": "KDV",
+        "5": "Kandavu",
+        "6": 178.157222,
+        "7": -19.058333,
+        "10": "Pacific/Fiji"
+      }
+    ]
+  }
+}

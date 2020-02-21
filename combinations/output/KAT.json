@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Katowice Pyrzowice, Poland (KTW)",
+        "2": "airport",
+        "3": "KTW",
+        "4": "KTW",
+        "5": "Katowice",
+        "6": 19.08,
+        "7": 50.4741667,
+        "10": "Europe/Warsaw"
+      },
+      {
+        "1": "Kathmandu Tribhuvan International, Nepal (KTM)",
+        "2": "airport",
+        "3": "KTM",
+        "4": "KTM",
+        "5": "Kathmandu",
+        "6": 85.3591667,
+        "7": 27.6966667,
+        "10": "Asia/Katmandu"
+      },
+      {
+        "1": "Katiu, French Polynesia (KXU)",
+        "2": "airport",
+        "3": "KXU",
+        "4": "KXU",
+        "5": "Katiu",
+        "6": -144.40306,
+        "7": -16.339444,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Katherine RAAF Tindal, Australia (KTR)",
+        "2": "airport",
+        "3": "KTR",
+        "4": "KTR",
+        "5": "Katherine",
+        "6": 132.377778,
+        "7": -14.521111,
+        "10": "Australia/Darwin"
+      },
+      {
+        "1": "Katima Mulilo Mpacha, Namibia (MPA)",
+        "2": "airport",
+        "3": "MPA",
+        "4": "MPA",
+        "5": "Mpacha",
+        "6": 24.1833333,
+        "7": -17.633333,
+        "10": "Africa/Windhoek"
+      }
+    ]
+  }
+}

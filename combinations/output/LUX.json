@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Luxembourg, Luxembourg (LUX)",
+        "2": "airport",
+        "3": "LUX",
+        "4": "LUX",
+        "5": "Luxembourg",
+        "6": 6.20444444,
+        "7": 49.6233333,
+        "10": "Europe/Luxembourg"
+      },
+      {
+        "1": "Luxor International, Egypt (LXR)",
+        "2": "airport",
+        "3": "LXR",
+        "4": "LXR",
+        "5": "Luxor",
+        "6": 32.7066667,
+        "7": 25.6711111,
+        "10": "Africa/Cairo"
+      }
+    ]
+  }
+}

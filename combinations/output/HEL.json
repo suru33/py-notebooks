@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Helsinki-Vantaa, Finland (HEL)",
+        "2": "airport",
+        "3": "HEL",
+        "4": "HEL",
+        "5": "Helsinki",
+        "6": 24.9633333,
+        "7": 60.3172222,
+        "10": "Europe/Helsinki"
+      },
+      {
+        "1": "Helena Regional, MT (HLN)",
+        "2": "airport",
+        "3": "HLN",
+        "4": "HLN",
+        "5": "Helena",
+        "6": -111.98278,
+        "7": 46.6069444,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Angelholm/Helsingborg, Sweden (AGH)",
+        "2": "airport",
+        "3": "AGH",
+        "4": "AGH",
+        "5": "Helsingborg",
+        "6": 12.8472222,
+        "7": 56.2961111,
+        "10": "Europe/Stockholm"
+      }
+    ]
+  }
+}

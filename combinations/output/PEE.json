@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Perm Bolshoye Savino, Russia (PEE)",
+        "2": "airport",
+        "3": "PEE",
+        "4": "PEE",
+        "5": "Perm",
+        "6": 56.0211111,
+        "7": 57.9144444,
+        "10": "Asia/Yekaterinburg"
+      },
+      {
+        "1": "Coimbatore International, India (CJB)",
+        "2": "airport",
+        "3": "CJB",
+        "4": "CJB",
+        "5": "Coimbatore",
+        "6": 77.0433333,
+        "7": 11.03,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Labuha Oesman Sadik, Indonesia (LAH)",
+        "2": "airport",
+        "3": "LAH",
+        "4": "LAH",
+        "5": "Labuha",
+        "6": 127.504167,
+        "7": -0.6347222,
+        "10": "Asia/Jayapura"
+      },
+      {
+        "1": "Lahore Allama Iqbal International, Pakistan (LHE)",
+        "2": "airport",
+        "3": "LHE",
+        "4": "LHE",
+        "5": "Lahore",
+        "6": 74.4036111,
+        "7": 31.5216667,
+        "10": "Asia/Karachi"
+      },
+      {
+        "1": "Lahat Pagar Alam, Indonesia (PXA)",
+        "2": "airport",
+        "3": "PXA",
+        "4": "PXA",
+        "5": "Lahat",
+        "6": 103.239167,
+        "7": -4.0330556,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Lahad Datu, Malaysia (LDU)",
+        "2": "airport",
+        "3": "LDU",
+        "4": "LDU",
+        "5": "Lahad Datu",
+        "6": 118.328333,
+        "7": 5.03027778,
+        "10": "Asia/Kuching"
+      }
+    ]
+  }
+}

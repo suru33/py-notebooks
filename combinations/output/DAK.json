@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dakar Blaise Diagne International, Senegal (DSS)",
+        "2": "airport",
+        "3": "DSS",
+        "4": "DKR",
+        "5": "Dakar",
+        "6": -17.071389,
+        "7": 14.6725,
+        "10": "Africa/Dakar"
+      },
+      {
+        "1": "Dakhla, Morocco (VIL)",
+        "2": "airport",
+        "3": "VIL",
+        "4": "VIL",
+        "5": "Dakhla",
+        "6": -15.931944,
+        "7": 23.7183333,
+        "10": "Africa/Casablanca"
+      }
+    ]
+  }
+}

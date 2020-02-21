@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tongren Fenhuang, China (TEN)",
+        "2": "airport",
+        "3": "TEN",
+        "4": "TEN",
+        "5": "Tongren",
+        "6": 109.308333,
+        "7": 27.8833333,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Tenerife, Spain - All airports",
+        "2": "city",
+        "3": "TCI",
+        "4": "TCI",
+        "5": "Tenerife",
+        "6": -16.50740476792192,
+        "7": 28.168055037996186,
+        "10": "Atlantic/Canary"
+      },
+      {
+        "1": "Tenerife Sur Reina Sofia, Spain (TFS)",
+        "2": "airport",
+        "3": "TFS",
+        "4": "TCI",
+        "5": "Tenerife",
+        "6": -16.5725,
+        "7": 28.0444444,
+        "10": "Atlantic/Canary"
+      },
+      {
+        "1": "Tenerife Norte Los Rodeos, Spain (TFN)",
+        "2": "airport",
+        "3": "TFN",
+        "4": "TCI",
+        "5": "Tenerife",
+        "6": -16.341667,
+        "7": 28.4827778,
+        "10": "Atlantic/Canary"
+      },
+      {
+        "1": "Tengchong Tuofeng, China (TCZ)",
+        "2": "airport",
+        "3": "TCZ",
+        "4": "TCZ",
+        "5": "Tengchong",
+        "6": 98.4855556,
+        "7": 24.9377778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Tenakee Springs Tenakee SPB, AK (TKE)",
+        "2": "airport",
+        "3": "TKE",
+        "4": "TKE",
+        "5": "Tenakee",
+        "6": -135.21722,
+        "7": 57.7794444,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Tennant Creek, Australia (TCA)",
+        "2": "airport",
+        "3": "TCA",
+        "4": "TCA",
+        "5": "Tennant Creek",
+        "6": 134.176944,
+        "7": -19.634444,
+        "10": "Australia/Darwin"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Yantai Penglai International, China (YNT)",
+        "2": "airport",
+        "3": "YNT",
+        "4": "YNT",
+        "5": "Yantai",
+        "6": 120.987222,
+        "7": 37.6572222,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Yangon International, Myanmar (RGN)",
+        "2": "airport",
+        "3": "RGN",
+        "4": "RGN",
+        "5": "Yangon",
+        "6": 96.1333333,
+        "7": 16.9072222,
+        "10": "Asia/Rangoon"
+      },
+      {
+        "1": "Yancheng Nanyang, China (YNZ)",
+        "2": "airport",
+        "3": "YNZ",
+        "4": "YNZ",
+        "5": "Yancheng",
+        "6": 120.203056,
+        "7": 33.4261111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Yangzhou Taizhou, China (YTY)",
+        "2": "airport",
+        "3": "YTY",
+        "4": "YTY",
+        "5": "Yangzhou",
+        "6": 119.718889,
+        "7": 32.5630556,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Yanji Chaoyangchuan, China (YNJ)",
+        "2": "airport",
+        "3": "YNJ",
+        "4": "YNJ",
+        "5": "Yanji",
+        "6": 129.451389,
+        "7": 42.8827778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Yan'an Nanniwan, China (ENY)",
+        "2": "airport",
+        "3": "ENY",
+        "4": "ENY",
+        "5": "Yan'An",
+        "6": 109.553333,
+        "7": 36.6366667,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Yanbu al Bahr, Saudi Arabia (YNB)",
+        "2": "airport",
+        "3": "YNB",
+        "4": "YNB",
+        "5": "Yanbu",
+        "6": 38.0633333,
+        "7": 24.1441667,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "Yangyang International, South Korea (YNY)",
+        "2": "airport",
+        "3": "YNY",
+        "4": "YNY",
+        "5": "Yangyang",
+        "6": 128.669167,
+        "7": 38.0613889,
+        "10": "Asia/Seoul"
+      },
+      {
+        "1": "Ayacucho Alfredo M. Duarte, Peru (AYP)",
+        "2": "airport",
+        "3": "AYP",
+        "4": "AYP",
+        "5": "Ayacucho",
+        "6": -74.204444,
+        "7": -13.154722,
+        "10": "America/Lima"
+      }
+    ]
+  }
+}

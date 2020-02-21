@@ -1,0 +1,166 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Hanoi Noi Bai International, Viet Nam (HAN)",
+        "2": "airport",
+        "3": "HAN",
+        "4": "HAN",
+        "5": "Hanoi",
+        "6": 105.807222,
+        "7": 21.2211111,
+        "10": "Asia/Ho_Chi_Minh"
+      },
+      {
+        "1": "Hangzhou Xiaoshan International, China (HGH)",
+        "2": "airport",
+        "3": "HGH",
+        "4": "HGH",
+        "5": "Hangzhou",
+        "6": 120.434444,
+        "7": 30.2294444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Hannover, Germany (HAJ)",
+        "2": "airport",
+        "3": "HAJ",
+        "4": "HAJ",
+        "5": "Hanover",
+        "6": 9.68944444,
+        "7": 52.4605556,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Handan, China (HDG)",
+        "2": "airport",
+        "3": "HDG",
+        "4": "HDG",
+        "5": "Hebei Handan",
+        "6": 114.425,
+        "7": 36.5258333,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Hanzhong Chenggu, China (HZG)",
+        "2": "airport",
+        "3": "HZG",
+        "4": "HZG",
+        "5": "Hanzhong",
+        "6": 107.204722,
+        "7": 33.1338889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Hanamaki, Japan (HNA)",
+        "2": "airport",
+        "3": "HNA",
+        "4": "HNA",
+        "5": "Morioka",
+        "6": 141.135278,
+        "7": 39.4286111,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Hanimaadhoo Island, Maldives (HAQ)",
+        "2": "airport",
+        "3": "HAQ",
+        "4": "HAQ",
+        "5": "Hanimaadhoo",
+        "6": 73.1686111,
+        "7": 6.74638889,
+        "10": "Indian/Maldives"
+      },
+      {
+        "1": "Hana, HI (HNM)",
+        "2": "airport",
+        "3": "HNM",
+        "4": "HNM",
+        "5": "Hana",
+        "6": -156.01444,
+        "7": 20.7955556,
+        "10": "Pacific/Honolulu"
+      },
+      {
+        "1": "Hancock Houghton County Mem., MI (CMX)",
+        "2": "airport",
+        "3": "CMX",
+        "4": "CMX",
+        "5": "Hancock",
+        "6": -88.489167,
+        "7": 47.1683333,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Hannover Hbf Railway Station, Germany (ZVR)",
+        "2": "rail",
+        "3": "ZVR",
+        "4": "HAJ",
+        "5": "Hanover",
+        "6": 9.74194444,
+        "7": 52.3772222,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Hangzhou Railway Station, China (HZD)",
+        "2": "rail",
+        "3": "HZD",
+        "4": "HGH",
+        "5": "Hangzhou",
+        "6": 120.181667,
+        "7": 30.2433333,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Hangzhou Tourist Ctr. Bus Stn., China (HHL)",
+        "2": "bus",
+        "3": "HHL",
+        "4": "HGH",
+        "5": "Hangzhou",
+        "6": 120.13,
+        "7": 30.2716667,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Tokyo International (Haneda), Japan (HND)",
+        "2": "airport",
+        "3": "HND",
+        "4": "TYO",
+        "5": "Tokyo",
+        "6": 139.779722,
+        "7": 35.5522222,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Syracuse Hancock International, NY (SYR)",
+        "2": "airport",
+        "3": "SYR",
+        "4": "SYR",
+        "5": "Syracuse",
+        "6": -76.106389,
+        "7": 43.1111111,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Wilmington International, NC (ILM)",
+        "2": "airport",
+        "3": "ILM",
+        "4": "ILM",
+        "5": "Wilmington",
+        "6": -77.9025,
+        "7": 34.2705556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Batam Hang Nadim, Indonesia (BTH)",
+        "2": "airport",
+        "3": "BTH",
+        "4": "BTH",
+        "5": "Batam",
+        "6": 104.118889,
+        "7": 1.12111111,
+        "10": "Asia/Jakarta"
+      }
+    ]
+  }
+}

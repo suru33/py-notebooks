@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Apataki, French Polynesia (APK)",
+        "2": "airport",
+        "3": "APK",
+        "4": "APK",
+        "5": "Apataki",
+        "6": -146.41528,
+        "7": -15.573611,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Apartado Carepa-A.R. Betancourt, Colombia (APO)",
+        "2": "airport",
+        "3": "APO",
+        "4": "APO",
+        "5": "Apartado",
+        "6": -76.716667,
+        "7": 7.8125,
+        "10": "America/Bogota"
+      }
+    ]
+  }
+}

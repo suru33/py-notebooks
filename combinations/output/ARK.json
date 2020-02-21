@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Arusha, Tanzania (ARK)",
+        "2": "airport",
+        "3": "ARK",
+        "4": "ARK",
+        "5": "Arusha",
+        "6": 36.625,
+        "7": -3.3672222,
+        "10": "Africa/Dar_es_Salaam"
+      },
+      {
+        "1": "Arkhangelsk Talagi, Russia (ARH)",
+        "2": "airport",
+        "3": "ARH",
+        "4": "ARH",
+        "5": "Arkhangelsk",
+        "6": 40.7166667,
+        "7": 64.6002778,
+        "10": "Europe/Moscow"
+      }
+    ]
+  }
+}

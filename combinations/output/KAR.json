@@ -1,0 +1,166 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Karachi Jinnah International, Pakistan (KHI)",
+        "2": "airport",
+        "3": "KHI",
+        "4": "KHI",
+        "5": "Karachi",
+        "6": 67.1608333,
+        "7": 24.9066667,
+        "10": "Asia/Karachi"
+      },
+      {
+        "1": "Karlsruhe/Baden-Baden Baden Airpark, Germany (FKB)",
+        "2": "airport",
+        "3": "FKB",
+        "4": "FKB",
+        "5": "Karlsruhe/Baden Baden",
+        "6": 8.08055556,
+        "7": 48.7794444,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Karamay, China (KRY)",
+        "2": "airport",
+        "3": "KRY",
+        "4": "KRY",
+        "5": "Karamay",
+        "6": 84.9538889,
+        "7": 45.4661111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Karpathos, Greece (AOK)",
+        "2": "airport",
+        "3": "AOK",
+        "4": "AOK",
+        "5": "Karpathos",
+        "6": 27.1461111,
+        "7": 35.4213889,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Karaganda Sary-Arka, Kazakhstan (KGF)",
+        "2": "airport",
+        "3": "KGF",
+        "4": "KGF",
+        "5": "Karaganda",
+        "6": 73.3344444,
+        "7": 49.6708333,
+        "10": "Asia/Almaty"
+      },
+      {
+        "1": "Karumba, Australia (KRB)",
+        "2": "airport",
+        "3": "KRB",
+        "4": "KRB",
+        "5": "Karumba",
+        "6": 140.832778,
+        "7": -17.452778,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Karlstad, Sweden (KSD)",
+        "2": "airport",
+        "3": "KSD",
+        "4": "KSD",
+        "5": "Karlstad",
+        "6": 13.3375,
+        "7": 59.4447222,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Kars, Turkey (KSY)",
+        "2": "airport",
+        "3": "KSY",
+        "4": "KSY",
+        "5": "Kars",
+        "6": 43.115,
+        "7": 40.5622222,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Karluk, AK (KYK)",
+        "2": "airport",
+        "3": "KYK",
+        "4": "KYK",
+        "5": "Karluk",
+        "6": -154.45194,
+        "7": 57.5655556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Karshi Khanabad, Uzbekistan (KSQ)",
+        "2": "airport",
+        "3": "KSQ",
+        "4": "KSQ",
+        "5": "Karshi",
+        "6": 65.7747222,
+        "7": 38.8019444,
+        "10": "Asia/Samarkand"
+      },
+      {
+        "1": "Karimunjawa Dewadaru, Indonesia (KWB)",
+        "2": "airport",
+        "3": "KWB",
+        "4": "KWB",
+        "5": "Karimunjawa",
+        "6": 110.466667,
+        "7": -5.85,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Karlovy Vary International, Czech Republic (KLV)",
+        "2": "airport",
+        "3": "KLV",
+        "4": "KLV",
+        "5": "Karlovy Vary",
+        "6": 12.915,
+        "7": 50.2030556,
+        "10": "Europe/Prague"
+      },
+      {
+        "1": "Karratha, Australia (KTA)",
+        "2": "airport",
+        "3": "KTA",
+        "4": "KTA",
+        "5": "Karratha",
+        "6": 116.773333,
+        "7": -20.712222,
+        "10": "Australia/Perth"
+      },
+      {
+        "1": "Karup Midtjyllands, Denmark (KRP)",
+        "2": "airport",
+        "3": "KRP",
+        "4": "KRP",
+        "5": "Karup",
+        "6": 9.12472222,
+        "7": 56.2975,
+        "10": "Europe/Copenhagen"
+      },
+      {
+        "1": "Karlsruhe/Baden-Baden Karlsruhe Hbf Railway Station, Germany (KJR)",
+        "2": "rail",
+        "3": "KJR",
+        "4": "FKB",
+        "5": "Karlsruhe/Baden Baden",
+        "6": 8.40222222,
+        "7": 48.9936111,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Chatham Island Tuuta, New Zealand (CHT)",
+        "2": "airport",
+        "3": "CHT",
+        "4": "CHT",
+        "5": "Chatham Island",
+        "6": -176.465,
+        "7": -43.811944,
+        "10": "Pacific/Chatham"
+      }
+    ]
+  }
+}

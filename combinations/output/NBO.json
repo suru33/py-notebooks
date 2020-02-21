@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Nairobi, Kenya - All airports",
+        "2": "city",
+        "3": "NBO",
+        "4": "NBO",
+        "5": "Nairobi",
+        "6": 36.889216311692586,
+        "7": -1.3200194107084346,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Nairobi Jomo Kenyatta International, Kenya (NBO)",
+        "2": "airport",
+        "3": "NBO",
+        "4": "NBO",
+        "5": "Nairobi",
+        "6": 36.9277778,
+        "7": -1.3191667,
+        "10": "Africa/Nairobi"
+      }
+    ]
+  }
+}

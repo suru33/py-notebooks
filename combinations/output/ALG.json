@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Algiers Houari Boumediene, Algeria (ALG)",
+        "2": "airport",
+        "3": "ALG",
+        "4": "ALG",
+        "5": "Algiers",
+        "6": 3.21472222,
+        "7": 36.6941667,
+        "10": "Africa/Algiers"
+      },
+      {
+        "1": "Alghero Fertilia, Italy (AHO)",
+        "2": "airport",
+        "3": "AHO",
+        "4": "AHO",
+        "5": "Alghero",
+        "6": 8.28972222,
+        "7": 40.6302778,
+        "10": "Europe/Rome"
+      }
+    ]
+  }
+}

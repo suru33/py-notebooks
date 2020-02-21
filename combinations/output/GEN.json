@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Geneva International, Switzerland (GVA)",
+        "2": "airport",
+        "3": "GVA",
+        "4": "GVA",
+        "5": "Geneva",
+        "6": 6.10888889,
+        "7": 46.2380556,
+        "10": "Europe/Zurich"
+      },
+      {
+        "1": "Genoa Cristoforo Colombo, Italy (GOA)",
+        "2": "airport",
+        "3": "GOA",
+        "4": "GOA",
+        "5": "Genoa",
+        "6": 8.8375,
+        "7": 44.4133333,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "General Santos International, Philippines (GES)",
+        "2": "airport",
+        "3": "GES",
+        "4": "GES",
+        "5": "General Santos",
+        "6": 125.235278,
+        "7": 6.10638889,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Geneina, Sudan (EGN)",
+        "2": "airport",
+        "3": "EGN",
+        "4": "EGN",
+        "5": "Geneina",
+        "6": 22.4725,
+        "7": 13.4836111,
+        "10": "Africa/Khartoum"
+      },
+      {
+        "1": "Goiania Santa Genoveva, Brazil (GYN)",
+        "2": "airport",
+        "3": "GYN",
+        "4": "GYN",
+        "5": "Goiania",
+        "6": -49.220556,
+        "7": -16.631944,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Tampico F. Javier Mina International, Mexico (TAM)",
+        "2": "airport",
+        "3": "TAM",
+        "4": "TAM",
+        "5": "Tampico",
+        "6": -97.865833,
+        "7": 22.2963889,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Riberalta, Bolivia (RIB)",
+        "2": "airport",
+        "3": "RIB",
+        "4": "RIB",
+        "5": "Riberalta",
+        "6": -66.073611,
+        "7": -11.010556,
+        "10": "America/La_Paz"
+      },
+      {
+        "1": "Laramie Regional, WY (LAR)",
+        "2": "airport",
+        "3": "LAR",
+        "4": "LAR",
+        "5": "Laramie",
+        "6": -105.675,
+        "7": 41.3119444,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kapalua, HI (JHM)",
+        "2": "airport",
+        "3": "JHM",
+        "4": "JHM",
+        "5": "Kapalua",
+        "6": -156.67306,
+        "7": 20.9630556,
+        "10": "Pacific/Honolulu"
+      },
+      {
+        "1": "Kerkyra Ioannis Kapodistrias, Greece (CFU)",
+        "2": "airport",
+        "3": "CFU",
+        "4": "CFU",
+        "5": "Kerkyra",
+        "6": 19.9116667,
+        "7": 39.6019444,
+        "10": "Europe/Athens"
+      }
+    ]
+  }
+}

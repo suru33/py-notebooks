@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Macon Middle Georgia Regional, GA (MCN)",
+        "2": "airport",
+        "3": "MCN",
+        "4": "MCN",
+        "5": "Macon",
+        "6": -83.648056,
+        "7": 32.6961111,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Crescent City Del Norte County Regional, CA (CEC)",
+        "2": "airport",
+        "3": "CEC",
+        "4": "CEC",
+        "5": "Crescent City",
+        "6": -124.23667,
+        "7": 41.7802778,
+        "10": "America/Los_Angeles"
+      }
+    ]
+  }
+}

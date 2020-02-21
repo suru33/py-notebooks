@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Goteborg Landvetter, Sweden (GOT)",
+        "2": "airport",
+        "3": "GOT",
+        "4": "GOT",
+        "5": "Gothenburg",
+        "6": 12.2797222,
+        "7": 57.6627778,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Goto-Fukue, Japan (FUJ)",
+        "2": "airport",
+        "3": "FUJ",
+        "4": "FUJ",
+        "5": "Fukue",
+        "6": 128.832778,
+        "7": 32.6663889,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

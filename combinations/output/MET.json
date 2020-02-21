@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Metz/Nancy Lorraine, France (ETZ)",
+        "2": "airport",
+        "3": "ETZ",
+        "4": "ETZ",
+        "5": "Metz/Nancy",
+        "6": 6.24666667,
+        "7": 48.9783333,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Metlakatla Sea Plane Base, AK (MTM)",
+        "2": "airport",
+        "3": "MTM",
+        "4": "MTM",
+        "5": "Metlakatla",
+        "6": -131.58333,
+        "7": 55.1333333,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Metz/Nancy Lorraine TGV Railway Station, France (XZI)",
+        "2": "rail",
+        "3": "XZI",
+        "4": "ETZ",
+        "5": "Metz/Nancy",
+        "6": 6.17,
+        "7": 48.9477778,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

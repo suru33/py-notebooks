@@ -1,0 +1,45 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bukhara International, Uzbekistan (BHK)",
+        "2": "airport",
+        "3": "BHK",
+        "4": "BHK",
+        "5": "Bukhara",
+        "6": 64.48,
+        "7": 39.7663889,
+        "10": "Asia/Samarkand"
+      },
+      {
+        "1": "Bukavu Kavumu, Congo (Zaire) (BKY)",
+        "2": "airport",
+        "3": "BKY",
+        "4": "BKY",
+        "5": "Bukavu",
+        "6": 28.8088889,
+        "7": -2.3088889,
+        "10": "Africa/Lubumbashi"
+      },
+      {
+        "1": "Buka, Papua New Guinea (BUA)",
+        "2": "airport",
+        "3": "BUA",
+        "4": "BUA",
+        "5": "Buka",
+        "6": 154.672778,
+        "7": -5.4222222
+      },
+      {
+        "1": "Bukoba, Tanzania (BKZ)",
+        "2": "airport",
+        "3": "BKZ",
+        "4": "BKZ",
+        "5": "Bukoba",
+        "6": 31.8219444,
+        "7": -1.3325,
+        "10": "Africa/Dar_es_Salaam"
+      }
+    ]
+  }
+}

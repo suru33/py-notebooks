@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Riberalta, Bolivia (RIB)",
+        "2": "airport",
+        "3": "RIB",
+        "4": "RIB",
+        "5": "Riberalta",
+        "6": -66.073611,
+        "7": -11.010556,
+        "10": "America/La_Paz"
+      },
+      {
+        "1": "Ribeirao Preto Leite Lopes, Brazil (RAO)",
+        "2": "airport",
+        "3": "RAO",
+        "4": "RAO",
+        "5": "Ribeirao Preto",
+        "6": -47.774167,
+        "7": -21.134167,
+        "10": "America/Sao_Paulo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Le Mans Railway Station, France (ZLN)",
+        "2": "rail",
+        "3": "ZLN",
+        "4": "LME",
+        "5": "Le Mans",
+        "6": 0.19194444,
+        "7": 47.9958333,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Tupelo Regional, MS (TUP)",
+        "2": "airport",
+        "3": "TUP",
+        "4": "TUP",
+        "5": "Tupelo",
+        "6": -88.77,
+        "7": 34.2680556,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

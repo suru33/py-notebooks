@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Okinawa Naha, Japan (OKA)",
+        "2": "airport",
+        "3": "OKA",
+        "4": "OKA",
+        "5": "Okinawa",
+        "6": 127.645833,
+        "7": 26.1958333,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Okayama, Japan (OKJ)",
+        "2": "airport",
+        "3": "OKJ",
+        "4": "OKJ",
+        "5": "Okayama",
+        "6": 133.855278,
+        "7": 34.7569444,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Sapporo Okadama, Japan (OKD)",
+        "2": "airport",
+        "3": "OKD",
+        "4": "SPK",
+        "5": "Sapporo",
+        "6": 141.380278,
+        "7": 43.1161111,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

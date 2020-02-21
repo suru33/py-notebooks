@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Pituffik Thule Air Base, Greenland (THU)",
+        "2": "airport",
+        "3": "THU",
+        "4": "THU",
+        "5": "Pituffik",
+        "6": -68.75,
+        "7": 76.5333333,
+        "10": "America/Thule"
+      },
+      {
+        "1": "Thunder Bay International, ON, Canada (YQT)",
+        "2": "airport",
+        "3": "YQT",
+        "4": "YQT",
+        "5": "Thunder Bay",
+        "6": -89.323889,
+        "7": 48.3719444,
+        "10": "America/Montreal"
+      }
+    ]
+  }
+}

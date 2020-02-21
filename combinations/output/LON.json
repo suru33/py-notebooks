@@ -1,0 +1,286 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "London, United Kingdom - All airports",
+        "2": "city",
+        "3": "LON",
+        "4": "LON",
+        "5": "London",
+        "6": -0.09534323131290934,
+        "7": 51.56025353189161,
+        "10": "Europe/London"
+      },
+      {
+        "1": "London Gatwick, United Kingdom (LGW)",
+        "2": "airport",
+        "3": "LGW",
+        "4": "LON",
+        "5": "London",
+        "6": -0.1902778,
+        "7": 51.1480556,
+        "10": "Europe/London"
+      },
+      {
+        "1": "London Heathrow, United Kingdom (LHR)",
+        "2": "airport",
+        "3": "LHR",
+        "4": "LON",
+        "5": "London",
+        "6": -0.4613889,
+        "7": 51.4775,
+        "10": "Europe/London"
+      },
+      {
+        "1": "London Stansted, United Kingdom (STN)",
+        "2": "airport",
+        "3": "STN",
+        "4": "LON",
+        "5": "London",
+        "6": 0.235,
+        "7": 51.885,
+        "10": "Europe/London"
+      },
+      {
+        "1": "London Luton, United Kingdom (LTN)",
+        "2": "airport",
+        "3": "LTN",
+        "4": "LON",
+        "5": "London",
+        "6": -0.3683333,
+        "7": 51.8747222,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Long Beach Daugherty Field, CA (LGB)",
+        "2": "airport",
+        "3": "LGB",
+        "4": "LGB",
+        "5": "Long Beach",
+        "6": -118.15167,
+        "7": 33.8177778,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "London City Airport, United Kingdom (LCY)",
+        "2": "airport",
+        "3": "LCY",
+        "4": "LON",
+        "5": "London",
+        "6": 0.05416667,
+        "7": 51.505,
+        "10": "Europe/London"
+      },
+      {
+        "1": "London Southend, United Kingdom (SEN)",
+        "2": "airport",
+        "3": "SEN",
+        "4": "LON",
+        "5": "London",
+        "6": 0.69555556,
+        "7": 51.5713889,
+        "10": "Europe/London"
+      },
+      {
+        "1": "London International, ON, Canada (YXU)",
+        "2": "airport",
+        "3": "YXU",
+        "4": "YXU",
+        "5": "London",
+        "6": -81.153889,
+        "7": 43.0355556,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Longnan Cheng Xian, China (LNL)",
+        "2": "airport",
+        "3": "LNL",
+        "4": "LNL",
+        "5": "Longnan",
+        "6": 105.789167,
+        "7": 33.7902778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Longyan Guanzhishan, China (LCX)",
+        "2": "airport",
+        "3": "LCX",
+        "4": "LCX",
+        "5": "Longyan",
+        "6": 116.745556,
+        "7": 25.6755556,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Londrina Jose Richa, Brazil (LDB)",
+        "2": "airport",
+        "3": "LDB",
+        "4": "LDB",
+        "5": "Londrina",
+        "6": -51.13,
+        "7": -23.333611,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Longreach, Australia (LRE)",
+        "2": "airport",
+        "3": "LRE",
+        "4": "LRE",
+        "5": "Longreach",
+        "6": 144.277778,
+        "7": -23.431944,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Longyearbyen Svalbard, Norway (LYR)",
+        "2": "airport",
+        "3": "LYR",
+        "4": "LYR",
+        "5": "Longyearbyen",
+        "6": 15.4655556,
+        "7": 78.2461111,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Londolozi, South Africa (LDZ)",
+        "2": "airport",
+        "3": "LDZ",
+        "4": "LDZ",
+        "5": "Londolozi",
+        "6": 31.5041667,
+        "7": -24.808056,
+        "10": "Africa/Johannesburg"
+      },
+      {
+        "1": "Long Seridan, Malaysia (ODN)",
+        "2": "airport",
+        "3": "ODN",
+        "4": "ODN",
+        "5": "Long Seridan",
+        "6": 115.068333,
+        "7": 3.9775,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Long Lellang, Malaysia (LGL)",
+        "2": "airport",
+        "3": "LGL",
+        "4": "LGL",
+        "5": "Long Lellang",
+        "6": 115.153333,
+        "7": 3.42111111,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Lonorore, Vanuatu (LNE)",
+        "2": "airport",
+        "3": "LNE",
+        "4": "LNE",
+        "5": "Lonorore",
+        "6": 168.171111,
+        "7": -15.864167,
+        "10": "Pacific/Efate"
+      },
+      {
+        "1": "Longview East Texas Regional, TX (GGG)",
+        "2": "airport",
+        "3": "GGG",
+        "4": "GGG",
+        "5": "Longview",
+        "6": -94.711389,
+        "7": 32.3838889,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Long Akah, Malaysia (LKH)",
+        "2": "airport",
+        "3": "LKH",
+        "4": "LKH",
+        "5": "Long Akah",
+        "6": 114.786944,
+        "7": 3.31194444,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Long Banga, Malaysia (LBP)",
+        "2": "airport",
+        "3": "LBP",
+        "4": "LBP",
+        "5": "Long Banga",
+        "6": 115.402222,
+        "7": 3.20222222,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "London Paddington Railway Station, United Kingdom (QQP)",
+        "2": "rail",
+        "3": "QQP",
+        "4": "LON",
+        "5": "London",
+        "6": -0.1777778,
+        "7": 51.5172222,
+        "10": "Europe/London"
+      },
+      {
+        "1": "London Euston Railway Station, United Kingdom (QQU)",
+        "2": "rail",
+        "3": "QQU",
+        "4": "LON",
+        "5": "London",
+        "6": -0.1347222,
+        "7": 51.5291667,
+        "10": "Europe/London"
+      },
+      {
+        "1": "London St Pancras International RailSt, United Kingdom (QQS)",
+        "2": "rail",
+        "3": "QQS",
+        "4": "LON",
+        "5": "London",
+        "6": -0.1263889,
+        "7": 51.5316667,
+        "10": "Europe/London"
+      },
+      {
+        "1": "London Ebbsfleet International Railway St, United Kingdom (XQE)",
+        "2": "rail",
+        "3": "XQE",
+        "4": "LON",
+        "5": "London",
+        "6": 0.32111111,
+        "7": 51.4430556,
+        "10": "Europe/London"
+      },
+      {
+        "1": "London Railway Station, ON, Canada (XDQ)",
+        "2": "rail",
+        "3": "XDQ",
+        "4": "YXU",
+        "5": "London",
+        "6": -81.152778,
+        "7": 43.0361111,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "London Liverpool St Railway Station, United Kingdom (ZLS)",
+        "2": "rail",
+        "3": "ZLS",
+        "4": "LON",
+        "5": "London",
+        "6": -0.0827778,
+        "7": 51.5180556,
+        "10": "Europe/London"
+      },
+      {
+        "1": "London Kings Cross Railway Station, United Kingdom (QQK)",
+        "2": "rail",
+        "3": "QQK",
+        "4": "LON",
+        "5": "London",
+        "6": -0.1166667,
+        "7": 51.5333333,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tangier Ibn Batouta, Morocco (TNG)",
+        "2": "airport",
+        "3": "TNG",
+        "4": "TNG",
+        "5": "Tangier",
+        "6": -5.9169444,
+        "7": 35.7269444,
+        "10": "Africa/Casablanca"
+      },
+      {
+        "1": "Tangshan Sannuhe, China (TVS)",
+        "2": "airport",
+        "3": "TVS",
+        "4": "TVS",
+        "5": "Tangshan",
+        "6": 117.993333,
+        "7": 39.7194444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Tanana Ralph M. Calhoun Mem., AK (TAL)",
+        "2": "airport",
+        "3": "TAL",
+        "4": "TAL",
+        "5": "Tanana",
+        "6": -152.10667,
+        "7": 65.1747222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Tanna Island Whitegrass, Vanuatu (TAH)",
+        "2": "airport",
+        "3": "TAH",
+        "4": "TAH",
+        "5": "Tanna",
+        "6": 169.223889,
+        "7": -19.455,
+        "10": "Pacific/Efate"
+      },
+      {
+        "1": "Tanjung Redeb Kalimarau, Indonesia (BEJ)",
+        "2": "airport",
+        "3": "BEJ",
+        "4": "BEJ",
+        "5": "Berau",
+        "6": 117.432778,
+        "7": 2.15527778,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Tanjung Pinang Raja Haji Fisabilillah, Indonesia (TNJ)",
+        "2": "airport",
+        "3": "TNJ",
+        "4": "TNJ",
+        "5": "Tanjung Pinang",
+        "6": 104.533056,
+        "7": 0.92388889,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Tanga, Tanzania (TGT)",
+        "2": "airport",
+        "3": "TGT",
+        "4": "TGT",
+        "5": "Tanga",
+        "6": 39.0716667,
+        "7": -5.0925,
+        "10": "Africa/Dar_es_Salaam"
+      },
+      {
+        "1": "Tanjung Pandan H.A.S. Hanandjoeddin, Indonesia (TJQ)",
+        "2": "airport",
+        "3": "TJQ",
+        "4": "TJQ",
+        "5": "Tanjung Pandan",
+        "6": 107.755,
+        "7": -2.7458333,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Tan-Tan Plage Blanche, Morocco (TTA)",
+        "2": "airport",
+        "3": "TTA",
+        "4": "TTA",
+        "5": "Tan Tan",
+        "6": -11.161389,
+        "7": 28.4483333,
+        "10": "Africa/Casablanca"
+      },
+      {
+        "1": "Tanahmerah, Indonesia (TMH)",
+        "2": "airport",
+        "3": "TMH",
+        "4": "TMH",
+        "5": "Tanahmerah",
+        "6": 140.303056,
+        "7": -6.0975,
+        "10": "Asia/Jayapura"
+      },
+      {
+        "1": "Tanegashima, Japan (TNE)",
+        "2": "airport",
+        "3": "TNE",
+        "4": "TNE",
+        "5": "Tanegashima",
+        "6": 130.951667,
+        "7": 30.5452778,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Tandag, Philippines (TDG)",
+        "2": "airport",
+        "3": "TDG",
+        "4": "TDG",
+        "5": "Tandag",
+        "6": 126.171389,
+        "7": 9.07222222,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Tanjung Manis, Malaysia (TGC)",
+        "2": "airport",
+        "3": "TGC",
+        "4": "TGC",
+        "5": "Tanjung Manis",
+        "6": 111.201944,
+        "7": 2.17777778,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Tanjung Selor Tanjung Harapan, Indonesia (TJS)",
+        "2": "airport",
+        "3": "TJS",
+        "4": "TJS",
+        "5": "Tanjung Selor",
+        "6": 117.373611,
+        "7": 2.83638889,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Ho Chi Minh City Tan Son Nhat International, Viet Nam (SGN)",
+        "2": "airport",
+        "3": "SGN",
+        "4": "SGN",
+        "5": "Ho Chi Minh City",
+        "6": 106.651944,
+        "7": 10.8188889,
+        "10": "Asia/Ho_Chi_Minh"
+      },
+      {
+        "1": "Belo Horizonte Tancredo Neves, Brazil (CNF)",
+        "2": "airport",
+        "3": "CNF",
+        "4": "BHZ",
+        "5": "Belo Horizonte",
+        "6": -43.968889,
+        "7": -19.633889,
+        "10": "America/Sao_Paulo"
+      }
+    ]
+  }
+}

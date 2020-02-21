@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Talara Victor Monteas Arias, Peru (TYL)",
+        "2": "airport",
+        "3": "TYL",
+        "4": "TYL",
+        "5": "Talara",
+        "6": -81.254167,
+        "7": -4.5766667,
+        "10": "America/Lima"
+      },
+      {
+        "1": "Tyler Pounds Regional, TX (TYR)",
+        "2": "airport",
+        "3": "TYR",
+        "4": "TYR",
+        "5": "Tyler",
+        "6": -95.4025,
+        "7": 32.3541667,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kythira Alexandros A. Onassis, Greece (KIT)",
+        "2": "airport",
+        "3": "KIT",
+        "4": "KIT",
+        "5": "Kithira",
+        "6": 23.0169444,
+        "7": 36.2741667,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Kittila, Finland (KTT)",
+        "2": "airport",
+        "3": "KTT",
+        "4": "KTT",
+        "5": "Kittila",
+        "6": 24.8469444,
+        "7": 67.7011111,
+        "10": "Europe/Helsinki"
+      },
+      {
+        "1": "Kitakyushu, Japan (KKJ)",
+        "2": "airport",
+        "3": "KKJ",
+        "4": "KKJ",
+        "5": "Kita Kyushu",
+        "6": 131.034722,
+        "7": 33.8458333,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Kitoi Bay Sea Plane Base, AK (KKB)",
+        "2": "airport",
+        "3": "KKB",
+        "4": "KKB",
+        "5": "Kitoi Bay",
+        "6": -152.36778,
+        "7": 58.1905556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Kitchener-Waterloo Regional Airport, ON, Canada (YKF)",
+        "2": "airport",
+        "3": "YKF",
+        "4": "YTO",
+        "5": "Toronto",
+        "6": -80.378611,
+        "7": 43.4608333,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Kitale, Kenya (KTL)",
+        "2": "airport",
+        "3": "KTL",
+        "4": "KTL",
+        "5": "Kitale",
+        "6": 34.9597222,
+        "7": 0.97333333,
+        "10": "Africa/Nairobi"
+      }
+    ]
+  }
+}

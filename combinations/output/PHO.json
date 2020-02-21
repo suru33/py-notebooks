@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Point Hope, AK (PHO)",
+        "2": "airport",
+        "3": "PHO",
+        "4": "PHO",
+        "5": "Point Hope",
+        "6": -166.79944,
+        "7": 68.3488889,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Phoenix, AZ - All airports",
+        "2": "city",
+        "3": "PHX",
+        "4": "PHX",
+        "5": "Phoenix",
+        "6": -111.90118566506048,
+        "7": 33.39549369441509,
+        "10": "America/Phoenix"
+      },
+      {
+        "1": "Phoenix Sky Harbor International, AZ (PHX)",
+        "2": "airport",
+        "3": "PHX",
+        "4": "PHX",
+        "5": "Phoenix",
+        "6": -112.01167,
+        "7": 33.4341667,
+        "10": "America/Phoenix"
+      },
+      {
+        "1": "Phoenix Mesa Gateway, AZ (AZA)",
+        "2": "airport",
+        "3": "AZA",
+        "4": "PHX",
+        "5": "Phoenix",
+        "6": -111.65694,
+        "7": 33.31,
+        "10": "America/Phoenix"
+      },
+      {
+        "1": "Phonsavan Xieng Khouang, Laos (XKH)",
+        "2": "airport",
+        "3": "XKH",
+        "4": "XKH",
+        "5": "Xieng Khouang",
+        "6": 103.158333,
+        "7": 19.45,
+        "10": "Asia/Vientiane"
+      },
+      {
+        "1": "Phongsaly Boun Neua, Laos (PCQ)",
+        "2": "airport",
+        "3": "PCQ",
+        "4": "PCQ",
+        "5": "Phongsaly",
+        "6": 101.9,
+        "7": 21.6463889,
+        "10": "Asia/Vientiane"
+      }
+    ]
+  }
+}

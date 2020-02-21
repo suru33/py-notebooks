@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Memphis International, TN (MEM)",
+        "2": "airport",
+        "3": "MEM",
+        "4": "MEM",
+        "5": "Memphis",
+        "6": -89.976667,
+        "7": 35.0425,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Memmingen Allgaeu, Germany (FMM)",
+        "2": "airport",
+        "3": "FMM",
+        "4": "FMM",
+        "5": "Memmingen",
+        "6": 10.2375,
+        "7": 47.9880556,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Memanbetsu, Japan (MMB)",
+        "2": "airport",
+        "3": "MMB",
+        "4": "MMB",
+        "5": "Memambetsu",
+        "6": 144.164167,
+        "7": 43.8805556,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Cincinnati Municipal (Lunken Field), OH (LUK)",
+        "2": "airport",
+        "3": "LUK",
+        "4": "CVG",
+        "5": "Cincinnati",
+        "6": -84.416667,
+        "7": 39.1,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Lukla Tenzing-Hillary, Nepal (LUA)",
+        "2": "airport",
+        "3": "LUA",
+        "4": "LUA",
+        "5": "Lukla",
+        "6": 86.7294444,
+        "7": 27.6866667,
+        "10": "Asia/Katmandu"
+      }
+    ]
+  }
+}

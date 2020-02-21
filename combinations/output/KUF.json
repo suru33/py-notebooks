@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Samara Kurumoch International, Russia (KUF)",
+        "2": "airport",
+        "3": "KUF",
+        "4": "KUF",
+        "5": "Samara",
+        "6": 50.1516667,
+        "7": 53.5038889,
+        "10": "Europe/Samara"
+      },
+      {
+        "1": "Kufra, Libya (AKF)",
+        "2": "airport",
+        "3": "AKF",
+        "4": "AKF",
+        "5": "Kufrah",
+        "6": 23.3138889,
+        "7": 24.1786111,
+        "10": "Africa/Tripoli"
+      }
+    ]
+  }
+}

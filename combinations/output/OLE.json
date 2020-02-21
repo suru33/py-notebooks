@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Olekminsk, Russia (OLZ)",
+        "2": "airport",
+        "3": "OLZ",
+        "4": "OLZ",
+        "5": "Olekminsk",
+        "6": 120.470833,
+        "7": 60.4008333,
+        "10": "Asia/Yakutsk"
+      },
+      {
+        "1": "Olenek, Russia (ONK)",
+        "2": "airport",
+        "3": "ONK",
+        "4": "ONK",
+        "5": "Olenek",
+        "6": 112.48,
+        "7": 68.5147222,
+        "10": "Asia/Yakutsk"
+      }
+    ]
+  }
+}

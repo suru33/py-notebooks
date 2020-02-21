@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Noatak, AK (WTK)",
+        "2": "airport",
+        "3": "WTK",
+        "4": "WTK",
+        "5": "Noatak",
+        "6": -162.97472,
+        "7": 67.5661111,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Pamplona, Spain (PNA)",
+        "2": "airport",
+        "3": "PNA",
+        "4": "PNA",
+        "5": "Pamplona",
+        "6": -1.6463889,
+        "7": 42.77,
+        "10": "Europe/Madrid"
+      }
+    ]
+  }
+}

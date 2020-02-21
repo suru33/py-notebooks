@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lugano Agno, Switzerland (LUG)",
+        "2": "airport",
+        "3": "LUG",
+        "4": "LUG",
+        "5": "Lugano",
+        "6": 8.91055556,
+        "7": 46.0041667,
+        "10": "Europe/Zurich"
+      },
+      {
+        "1": "Luganville Santo-Pekoa International, Vanuatu (SON)",
+        "2": "airport",
+        "3": "SON",
+        "4": "SON",
+        "5": "Espiritu Santo",
+        "6": 167.219722,
+        "7": -15.505,
+        "10": "Pacific/Efate"
+      }
+    ]
+  }
+}

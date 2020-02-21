@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Amsterdam Schiphol Airport, Netherlands (AMS)",
+        "2": "airport",
+        "3": "AMS",
+        "4": "AMS",
+        "5": "Amsterdam",
+        "6": 4.76416667,
+        "7": 52.3080556,
+        "10": "Europe/Amsterdam"
+      },
+      {
+        "1": "Amsterdam Centraal Railway Station, Netherlands (ZYA)",
+        "2": "rail",
+        "3": "ZYA",
+        "4": "AMS",
+        "5": "Amsterdam",
+        "6": 4.90055556,
+        "7": 52.3788889,
+        "10": "Europe/Amsterdam"
+      }
+    ]
+  }
+}

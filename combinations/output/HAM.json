@@ -1,0 +1,116 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Hamburg, Germany - All airports",
+        "2": "city",
+        "3": "HAM",
+        "4": "HAM",
+        "5": "Hamburg",
+        "6": 9.982359184528406,
+        "7": 53.60959971991415,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Hamburg Airport, Germany (HAM)",
+        "2": "airport",
+        "3": "HAM",
+        "4": "HAM",
+        "5": "Hamburg",
+        "6": 9.98833333,
+        "7": 53.6302778,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Hami, China (HMI)",
+        "2": "airport",
+        "3": "HMI",
+        "4": "HMI",
+        "5": "Hami",
+        "6": 93.6708333,
+        "7": 42.8408333,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Hammerfest, Norway (HFT)",
+        "2": "airport",
+        "3": "HFT",
+        "4": "HFT",
+        "5": "Hammerfest",
+        "6": 23.6661111,
+        "7": 70.6791667,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Hambantota Mattala Rajapaksa International, Sri Lanka (HRI)",
+        "2": "airport",
+        "3": "HRI",
+        "4": "HRI",
+        "5": "Hambantota",
+        "6": 81.1238889,
+        "7": 6.28388889,
+        "10": "Asia/Colombo"
+      },
+      {
+        "1": "Hamilton Island Great Barrier Reef, Australia (HTI)",
+        "2": "airport",
+        "3": "HTI",
+        "4": "HTI",
+        "5": "Hamilton Island",
+        "6": 148.951667,
+        "7": -20.358056,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Hamilton International, New Zealand (HLZ)",
+        "2": "airport",
+        "3": "HLZ",
+        "4": "HLZ",
+        "5": "Hamilton",
+        "6": 175.331944,
+        "7": -37.866667,
+        "10": "Pacific/Auckland"
+      },
+      {
+        "1": "Hamburg Finkenwerder, Germany (XFW)",
+        "2": "airport",
+        "3": "XFW",
+        "4": "HAM",
+        "5": "Hamburg",
+        "6": 9.83694444,
+        "7": 53.5358333,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Hamadan, Iran (HDM)",
+        "2": "airport",
+        "3": "HDM",
+        "4": "HDM",
+        "5": "Hamadan",
+        "6": 48.5563889,
+        "7": 34.8675,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Hamburg Hbf Railway Station, Germany (ZMB)",
+        "2": "rail",
+        "3": "ZMB",
+        "4": "HAM",
+        "5": "Hamburg",
+        "6": 10.0066667,
+        "7": 53.5530556,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Toronto John C. Munro Hamilton, ON, Canada (YHM)",
+        "2": "airport",
+        "3": "YHM",
+        "4": "YTO",
+        "5": "Toronto",
+        "6": -79.928056,
+        "7": 43.1619444,
+        "10": "America/Montreal"
+      }
+    ]
+  }
+}

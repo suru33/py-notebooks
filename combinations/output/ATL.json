@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Atlanta, GA - All airports",
+        "2": "city",
+        "3": "ATL",
+        "4": "ATL",
+        "5": "Atlanta",
+        "6": -84.42065134927181,
+        "7": 33.65092983502928,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Atlanta Hartsfield-Jackson International, GA (ATL)",
+        "2": "airport",
+        "3": "ATL",
+        "4": "ATL",
+        "5": "Atlanta",
+        "6": -84.428056,
+        "7": 33.6366667,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Atlantic City International, NJ (ACY)",
+        "2": "airport",
+        "3": "ACY",
+        "4": "AIY",
+        "5": "Atlantic City",
+        "6": -74.577222,
+        "7": 39.4575,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Atlanta DeKalb-Peachtree, GA (PDK)",
+        "2": "airport",
+        "3": "PDK",
+        "4": "ATL",
+        "5": "Atlanta",
+        "6": -84.3,
+        "7": 33.8833333,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Nantes Atlantique, France (NTE)",
+        "2": "airport",
+        "3": "NTE",
+        "4": "NTE",
+        "5": "Nantes",
+        "6": -1.6077778,
+        "7": 47.1569444,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

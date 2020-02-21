@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Matamoros Servando Canales International, Mexico (MAM)",
+        "2": "airport",
+        "3": "MAM",
+        "4": "MAM",
+        "5": "Matamoros",
+        "6": -97.525278,
+        "7": 25.77,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Mammoth Lakes Mammoth Yosemite, CA (MMH)",
+        "2": "airport",
+        "3": "MMH",
+        "4": "MMH",
+        "5": "Mammoth Lakes",
+        "6": -118.84056,
+        "7": 37.6244444,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Mamuju Tampa Padang, Indonesia (MJU)",
+        "2": "airport",
+        "3": "MJU",
+        "4": "MJU",
+        "5": "Mamuju",
+        "6": 119.027778,
+        "7": -2.5883333,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Camiguin Island Mambajao, Philippines (CGM)",
+        "2": "airport",
+        "3": "CGM",
+        "4": "CGM",
+        "5": "Camiguin",
+        "6": 124.706944,
+        "7": 9.25361111,
+        "10": "Asia/Manila"
+      }
+    ]
+  }
+}

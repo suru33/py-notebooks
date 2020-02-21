@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Little Rock B. & H. Clinton Natl, AR (LIT)",
+        "2": "airport",
+        "3": "LIT",
+        "4": "LIT",
+        "5": "Little Rock",
+        "6": -92.224444,
+        "7": 34.7294444,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Little Cayman Edward Bodden, Cayman Islands (LYB)",
+        "2": "airport",
+        "3": "LYB",
+        "4": "LYB",
+        "5": "Little Cayman",
+        "6": -80.083333,
+        "7": 19.6666667,
+        "10": "America/Cayman"
+      }
+    ]
+  }
+}

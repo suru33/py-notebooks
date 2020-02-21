@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Yakushima, Japan (KUM)",
+        "2": "airport",
+        "3": "KUM",
+        "4": "KUM",
+        "5": "Yakushima",
+        "6": 130.659444,
+        "7": 30.3855556,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Kumamoto, Japan (KMJ)",
+        "2": "airport",
+        "3": "KMJ",
+        "4": "KMJ",
+        "5": "Kumamoto",
+        "6": 130.855,
+        "7": 32.8372222,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Kumejima, Japan (UEO)",
+        "2": "airport",
+        "3": "UEO",
+        "4": "UEO",
+        "5": "Kume Jima",
+        "6": 126.716389,
+        "7": 26.3652778,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Kumasi, Ghana (KMS)",
+        "2": "airport",
+        "3": "KMS",
+        "4": "KMS",
+        "5": "Kumasi",
+        "6": -1.5908333,
+        "7": 6.71444444,
+        "10": "Africa/Accra"
+      },
+      {
+        "1": "Silchar Kumbhirgram, India (IXS)",
+        "2": "airport",
+        "3": "IXS",
+        "4": "IXS",
+        "5": "Silchar",
+        "6": 92.9786111,
+        "7": 24.9130556,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

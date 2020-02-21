@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Jackson Medgar W. Evers International, MS (JAN)",
+        "2": "airport",
+        "3": "JAN",
+        "4": "JAN",
+        "5": "Jackson",
+        "6": -90.075833,
+        "7": 32.3111111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Janakpur, Nepal (JKR)",
+        "2": "airport",
+        "3": "JKR",
+        "4": "JKR",
+        "5": "Janakpur",
+        "6": 85.9241667,
+        "7": 26.7088889,
+        "10": "Asia/Katmandu"
+      }
+    ]
+  }
+}

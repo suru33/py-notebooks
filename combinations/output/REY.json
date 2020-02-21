@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Reykjavik, Iceland - All airports",
+        "2": "city",
+        "3": "REK",
+        "4": "REK",
+        "5": "Reykjavik",
+        "6": -22.430478818900774,
+        "7": 64.02317472369832,
+        "10": "Atlantic/Reykjavik"
+      },
+      {
+        "1": "Reykjavik Keflavik International, Iceland (KEF)",
+        "2": "airport",
+        "3": "KEF",
+        "4": "REK",
+        "5": "Reykjavik",
+        "6": -22.605556,
+        "7": 63.985,
+        "10": "Atlantic/Reykjavik"
+      },
+      {
+        "1": "Reykjavik Domestic, Iceland (RKV)",
+        "2": "airport",
+        "3": "RKV",
+        "4": "REK",
+        "5": "Reykjavik",
+        "6": -21.940556,
+        "7": 64.13,
+        "10": "Atlantic/Reykjavik"
+      },
+      {
+        "1": "Reynosa Lucio Blanco International, Mexico (REX)",
+        "2": "airport",
+        "3": "REX",
+        "4": "REX",
+        "5": "Reynosa",
+        "6": -98.228611,
+        "7": 26.0088889,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

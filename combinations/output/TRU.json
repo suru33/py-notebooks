@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Trujillo C.Martinez de Pinillos, Peru (TRU)",
+        "2": "airport",
+        "3": "TRU",
+        "4": "TRU",
+        "5": "Trujillo",
+        "6": -79.109444,
+        "7": -8.0847222,
+        "10": "America/Lima"
+      },
+      {
+        "1": "Montreal Pierre E.Trudeau International, QC, Canada (YUL)",
+        "2": "airport",
+        "3": "YUL",
+        "4": "YMQ",
+        "5": "Montreal",
+        "6": -73.740833,
+        "7": 45.4705556,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Madison Dane County Regional, WI (MSN)",
+        "2": "airport",
+        "3": "MSN",
+        "4": "MSN",
+        "5": "Madison",
+        "6": -89.3375,
+        "7": 43.1397222,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

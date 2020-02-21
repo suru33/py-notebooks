@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Cagliari Elmas, Italy (CAG)",
+        "2": "airport",
+        "3": "CAG",
+        "4": "CAG",
+        "5": "Cagliari",
+        "6": 9.05777778,
+        "7": 39.2513889,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Cagayan de Oro Laguindingan International, Philippines (CGY)",
+        "2": "airport",
+        "3": "CGY",
+        "4": "CGY",
+        "5": "Cagayan de Oro",
+        "6": 124.456944,
+        "7": 8.6125,
+        "10": "Asia/Manila"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bulawayo Joshua M. Nkomo International, Zimbabwe (BUQ)",
+        "2": "airport",
+        "3": "BUQ",
+        "4": "BUQ",
+        "5": "Bulawayo",
+        "6": 28.6177778,
+        "7": -20.0175,
+        "10": "Africa/Harare"
+      },
+      {
+        "1": "Tanjung Pandan H.A.S. Hanandjoeddin, Indonesia (TJQ)",
+        "2": "airport",
+        "3": "TJQ",
+        "4": "TJQ",
+        "5": "Tanjung Pandan",
+        "6": 107.755,
+        "7": -2.7458333,
+        "10": "Asia/Jakarta"
+      }
+    ]
+  }
+}

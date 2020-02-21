@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Legazpi, Philippines (LGP)",
+        "2": "airport",
+        "3": "LGP",
+        "4": "LGP",
+        "5": "Legaspi",
+        "6": 123.734444,
+        "7": 13.1572222,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Trieste Ronchi dei Legionari, Italy (TRS)",
+        "2": "airport",
+        "3": "TRS",
+        "4": "TRS",
+        "5": "Trieste",
+        "6": 13.4722222,
+        "7": 45.8275,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Bechar Boudghene B. Ali Lotfi, Algeria (CBH)",
+        "2": "airport",
+        "3": "CBH",
+        "4": "CBH",
+        "5": "Bechar",
+        "6": -2.2788889,
+        "7": 31.6461111,
+        "10": "Africa/Algiers"
+      }
+    ]
+  }
+}

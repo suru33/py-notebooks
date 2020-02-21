@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Palu Mutiara, Indonesia (PLW)",
+        "2": "airport",
+        "3": "PLW",
+        "4": "PLW",
+        "5": "Palu",
+        "6": 119.909722,
+        "7": -0.9186111,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Labuan Bajo Komodo, Indonesia (LBJ)",
+        "2": "airport",
+        "3": "LBJ",
+        "4": "LBJ",
+        "5": "Labuan Bajo",
+        "6": 119.889167,
+        "7": -8.4866667,
+        "10": "Asia/Makassar"
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Qionghai Bo'ao, China (BAR)",
+        "2": "airport",
+        "3": "BAR",
+        "4": "BAR",
+        "5": "Qionghai",
+        "6": 110.453611,
+        "7": 19.1391667,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Barcelona, Spain (BCN)",
+        "2": "airport",
+        "3": "BCN",
+        "4": "BCN",
+        "5": "Barcelona",
+        "6": 2.07833333,
+        "7": 41.2969444,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Bari Palese, Italy (BRI)",
+        "2": "airport",
+        "3": "BRI",
+        "4": "BRI",
+        "5": "Bari",
+        "6": 16.765,
+        "7": 41.1380556,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Barrow Wiley Post/Will Roger Mem'l, AK (BRW)",
+        "2": "airport",
+        "3": "BRW",
+        "4": "BRW",
+        "5": "Barrow",
+        "6": -156.76611,
+        "7": 71.2855556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Barnaul, Russia (BAX)",
+        "2": "airport",
+        "3": "BAX",
+        "4": "BAX",
+        "5": "Barnaul",
+        "6": 83.5472222,
+        "7": 53.3630556,
+        "10": "Asia/Krasnoyarsk"
+      },
+      {
+        "1": "Barranquilla Ernesto Cortissoz International, Colombia (BAQ)",
+        "2": "airport",
+        "3": "BAQ",
+        "4": "BAQ",
+        "5": "Barranquilla",
+        "6": -74.780833,
+        "7": 10.8897222,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Barreiras, Brazil (BRA)",
+        "2": "airport",
+        "3": "BRA",
+        "4": "BRA",
+        "5": "Barreiras",
+        "6": -45.009444,
+        "7": -12.079167,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Barcelona J.A. Anzoategui International, Venezuela (BLA)",
+        "2": "airport",
+        "3": "BLA",
+        "4": "BLA",
+        "5": "Barcelona",
+        "6": -64.689167,
+        "7": 10.1072222,
+        "10": "America/Caracas"
+      },
+      {
+        "1": "Bario, Malaysia (BBN)",
+        "2": "airport",
+        "3": "BBN",
+        "4": "BBN",
+        "5": "Bario",
+        "6": 115.478333,
+        "7": 3.73472222,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Barter Island, AK (BTI)",
+        "2": "airport",
+        "3": "BTI",
+        "4": "BTI",
+        "5": "Barter Island",
+        "6": -143.58194,
+        "7": 70.1338889,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Barimunya, Australia (BYP)",
+        "2": "airport",
+        "3": "BYP",
+        "4": "BYP",
+        "5": "Barimunya",
+        "6": 119.165833,
+        "7": -22.6725,
+        "10": "Australia/Perth"
+      },
+      {
+        "1": "Madrid Adolfo Suarez-Barajas, Spain (MAD)",
+        "2": "airport",
+        "3": "MAD",
+        "4": "MAD",
+        "5": "Madrid",
+        "6": -3.5666667,
+        "7": 40.4936111,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Barquisimeto Jacinto Lara International, Venezuela (BRM)",
+        "2": "airport",
+        "3": "BRM",
+        "4": "BRM",
+        "5": "Barquisimeto",
+        "6": -69.358611,
+        "7": 10.0427778,
+        "10": "America/Caracas"
+      },
+      {
+        "1": "Barra do Garcas, Brazil (BPG)",
+        "2": "airport",
+        "3": "BPG",
+        "4": "BPG",
+        "5": "Barra do Garcas",
+        "6": -52.390278,
+        "7": -15.8625,
+        "10": "America/Cuiaba"
+      },
+      {
+        "1": "Bar Harbor Hancock County, ME (BHB)",
+        "2": "airport",
+        "3": "BHB",
+        "4": "BHB",
+        "5": "Bar Harbor",
+        "6": -68.361389,
+        "7": 44.4466667,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Barcaldine, Australia (BCI)",
+        "2": "airport",
+        "3": "BCI",
+        "4": "BCI",
+        "5": "Barcaldine",
+        "6": 145.304167,
+        "7": -23.560833,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Bareilly, India (BEK)",
+        "2": "airport",
+        "3": "BEK",
+        "4": "BEK",
+        "5": "Rae Bareli",
+        "6": 79.4508333,
+        "7": 28.4222222,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Baracoa Gustavo Rizo, Cuba (BCA)",
+        "2": "airport",
+        "3": "BCA",
+        "4": "BCA",
+        "5": "Baracoa",
+        "6": -74.506111,
+        "7": 20.3652778,
+        "10": "America/Havana"
+      },
+      {
+        "1": "Bardufoss, Norway (BDU)",
+        "2": "airport",
+        "3": "BDU",
+        "4": "BDU",
+        "5": "Bardufoss",
+        "6": 18.5402778,
+        "7": 69.0558333,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Barinas, Venezuela (BNS)",
+        "2": "airport",
+        "3": "BNS",
+        "4": "BNS",
+        "5": "Barinas",
+        "6": -70.220833,
+        "7": 8.61944444,
+        "10": "America/Caracas"
+      },
+      {
+        "1": "Barisal, Bangladesh (BZL)",
+        "2": "airport",
+        "3": "BZL",
+        "4": "BZL",
+        "5": "Barisal",
+        "6": 90.3011111,
+        "7": 22.8011111,
+        "10": "Asia/Dhaka"
+      },
+      {
+        "1": "Barra, United Kingdom (BRR)",
+        "2": "airport",
+        "3": "BRR",
+        "4": "BRR",
+        "5": "Barra",
+        "6": -7.4497222,
+        "7": 57.0255556,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Barrancabermeja Yariguies, Colombia (EJA)",
+        "2": "airport",
+        "3": "EJA",
+        "4": "EJA",
+        "5": "Barrancabermeja",
+        "6": -73.806667,
+        "7": 7.02444444,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Barcelona Sants Railway Station, Spain (YJB)",
+        "2": "rail",
+        "3": "YJB",
+        "4": "BCN",
+        "5": "Barcelona",
+        "6": 2.14,
+        "7": 41.3791667,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Bari Central Railway Station, Italy (BAU)",
+        "2": "rail",
+        "3": "BAU",
+        "4": "BRI",
+        "5": "Bari",
+        "6": 16.8694444,
+        "7": 41.1177778,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Hyannis Barnstable Municipal, MA (HYA)",
+        "2": "airport",
+        "3": "HYA",
+        "4": "HYA",
+        "5": "Hyannis",
+        "6": -70.281389,
+        "7": 41.6655556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Kosice, Slovakia (KSC)",
+        "2": "airport",
+        "3": "KSC",
+        "4": "KSC",
+        "5": "Kosice",
+        "6": 21.2411111,
+        "7": 48.6630556,
+        "10": "Europe/Bratislava"
+      },
+      {
+        "1": "Paducah Barkley Regional, KY (PAH)",
+        "2": "airport",
+        "3": "PAH",
+        "4": "PAH",
+        "5": "Paducah",
+        "6": -88.773056,
+        "7": 37.0602778,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Shillong Barapani, India (SHL)",
+        "2": "airport",
+        "3": "SHL",
+        "4": "SHL",
+        "5": "Shillong",
+        "6": 91.9775,
+        "7": 25.7036111,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

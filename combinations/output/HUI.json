@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Hue Phu Bai International, Viet Nam (HUI)",
+        "2": "airport",
+        "3": "HUI",
+        "4": "HUI",
+        "5": "Hue",
+        "6": 107.703056,
+        "7": 16.4008333,
+        "10": "Asia/Ho_Chi_Minh"
+      },
+      {
+        "1": "Huizhou, China (HUZ)",
+        "2": "airport",
+        "3": "HUZ",
+        "4": "HUZ",
+        "5": "Huizhou",
+        "6": 114.600278,
+        "7": 23.0488889,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

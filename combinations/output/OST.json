@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Oostende/Brugge, Belgium (OST)",
+        "2": "airport",
+        "3": "OST",
+        "4": "OST",
+        "5": "Ostend",
+        "6": 2.87527778,
+        "7": 51.1997222,
+        "10": "Europe/Brussels"
+      },
+      {
+        "1": "Ostrava Leos Janacek, Czech Republic (OSR)",
+        "2": "airport",
+        "3": "OSR",
+        "4": "OSR",
+        "5": "Ostrava",
+        "6": 18.1111111,
+        "7": 49.6961111,
+        "10": "Europe/Prague"
+      },
+      {
+        "1": "Are/Ostersund, Sweden (OSD)",
+        "2": "airport",
+        "3": "OSD",
+        "4": "OSD",
+        "5": "Ostersund",
+        "6": 14.5002778,
+        "7": 63.1944444,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Ostrava Main Railway Station, Czech Republic (XJV)",
+        "2": "rail",
+        "3": "XJV",
+        "4": "OSR",
+        "5": "Ostrava",
+        "6": 18.2675,
+        "7": 49.8508333,
+        "10": "Europe/Prague"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Honiara International, Solomon Islands (HIR)",
+        "2": "airport",
+        "3": "HIR",
+        "4": "HIR",
+        "5": "Honiara",
+        "6": 160.051111,
+        "7": -9.4294444,
+        "10": "Pacific/Guadalcanal"
+      },
+      {
+        "1": "Hiroshima Airport, Japan (HIJ)",
+        "2": "airport",
+        "3": "HIJ",
+        "4": "HIJ",
+        "5": "Hiroshima",
+        "6": 132.919444,
+        "7": 34.4361111,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Almeria Railway Station, Spain (AMR)",
+        "2": "rail",
+        "3": "AMR",
+        "4": "LEI",
+        "5": "Almeria",
+        "6": -2.4563889,
+        "7": 36.8347222,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Amritsar Sri Guru Ram Dass Jee, India (ATQ)",
+        "2": "airport",
+        "3": "ATQ",
+        "4": "ATQ",
+        "5": "Amritsar",
+        "6": 74.7972222,
+        "7": 31.7097222,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

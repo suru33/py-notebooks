@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Asturias, Spain (OVD)",
+        "2": "airport",
+        "3": "OVD",
+        "4": "OVD",
+        "5": "Asturias",
+        "6": -6.0347222,
+        "7": 43.5636111,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Ovda, Israel (VDA)",
+        "2": "airport",
+        "3": "VDA",
+        "4": "VDA",
+        "5": "Ovda",
+        "6": 34.9358333,
+        "7": 29.9402778,
+        "10": "Asia/Jerusalem"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dili Pres. Nicolau Lobato, Timor Leste (DIL)",
+        "2": "airport",
+        "3": "DIL",
+        "4": "DIL",
+        "5": "Dili",
+        "6": 125.524722,
+        "7": -8.5466667,
+        "10": "Asia/Dili"
+      },
+      {
+        "1": "Dillingham, AK (DLG)",
+        "2": "airport",
+        "3": "DLG",
+        "4": "DLG",
+        "5": "Dillingham",
+        "6": -158.50556,
+        "7": 59.0447222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Dillon's Bay, Vanuatu (DLY)",
+        "2": "airport",
+        "3": "DLY",
+        "4": "DLY",
+        "5": "Dillons Bay",
+        "6": 169.003889,
+        "7": -18.770556,
+        "10": "Pacific/Efate"
+      }
+    ]
+  }
+}

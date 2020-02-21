@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Venice, Italy - All airports",
+        "2": "city",
+        "3": "VCE",
+        "4": "VCE",
+        "5": "Venice",
+        "6": 12.294196073108008,
+        "7": 45.523624532902836,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Venice Marco Polo, Italy (VCE)",
+        "2": "airport",
+        "3": "VCE",
+        "4": "VCE",
+        "5": "Venice",
+        "6": 12.3519444,
+        "7": 45.5052778,
+        "10": "Europe/Rome"
+      }
+    ]
+  }
+}

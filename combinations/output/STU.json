@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Stuttgart, Germany (STR)",
+        "2": "airport",
+        "3": "STR",
+        "4": "STR",
+        "5": "Stuttgart",
+        "6": 9.22194444,
+        "7": 48.69,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Stuttgart Hbf Railway Station, Germany (ZWS)",
+        "2": "rail",
+        "3": "ZWS",
+        "4": "STR",
+        "5": "Stuttgart",
+        "6": 9.18138889,
+        "7": 48.7836111,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Malmo, Sweden (MMX)",
+        "2": "airport",
+        "3": "MMX",
+        "4": "MMA",
+        "5": "Malmo",
+        "6": 13.375,
+        "7": 55.5425,
+        "10": "Europe/Stockholm"
+      }
+    ]
+  }
+}

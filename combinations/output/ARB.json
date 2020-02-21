@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Ann Arbor Municipal, MI (ARB)",
+        "2": "airport",
+        "3": "ARB",
+        "4": "ARB",
+        "5": "Ann Arbor",
+        "6": -83.745833,
+        "7": 42.2236111,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Arba Minch, Ethiopia (AMH)",
+        "2": "airport",
+        "3": "AMH",
+        "4": "AMH",
+        "5": "Arba Mintch",
+        "6": 37.5905556,
+        "7": 6.03944444,
+        "10": "Africa/Addis_Ababa"
+      }
+    ]
+  }
+}

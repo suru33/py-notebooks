@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Rosario Islas Malvinas, Argentina (ROS)",
+        "2": "airport",
+        "3": "ROS",
+        "4": "ROS",
+        "5": "Rosario",
+        "6": -60.784444,
+        "7": -32.903611,
+        "10": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "1": "Chignik Airport, AK (KCG)",
+        "2": "airport",
+        "3": "KCG",
+        "4": "KCL",
+        "5": "Chignik",
+        "6": -158.37472,
+        "7": 56.3105556,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

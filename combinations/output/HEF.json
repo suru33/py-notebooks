@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Hefei Xinqiao International, China (HFE)",
+        "2": "airport",
+        "3": "HFE",
+        "4": "HFE",
+        "5": "Hefei",
+        "6": 116.989167,
+        "7": 31.9911111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Hefei Railway Station, China (KFI)",
+        "2": "rail",
+        "3": "KFI",
+        "4": "HFE",
+        "5": "Hefei",
+        "6": 117.311944,
+        "7": 31.8869444,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Angeles/Mabalacat Clark International, Philippines (CRK)",
+        "2": "airport",
+        "3": "CRK",
+        "4": "CRK",
+        "5": "Angeles/Mabalacat",
+        "6": 120.560278,
+        "7": 15.1861111,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Angelholm/Helsingborg, Sweden (AGH)",
+        "2": "airport",
+        "3": "AGH",
+        "4": "AGH",
+        "5": "Helsingborg",
+        "6": 12.8472222,
+        "7": 56.2961111,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Angoon Sea Plane Base, AK (AGN)",
+        "2": "airport",
+        "3": "AGN",
+        "4": "AGN",
+        "5": "Angoon",
+        "6": -134.56722,
+        "7": 57.495,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Anguilla Clayton J. Lloyd International, Anguilla (AXA)",
+        "2": "airport",
+        "3": "AXA",
+        "4": "AXA",
+        "5": "Anguilla",
+        "6": -63.055,
+        "7": 18.2047222,
+        "10": "America/Anguilla"
+      },
+      {
+        "1": "Anglesey Valley, United Kingdom (VLY)",
+        "2": "airport",
+        "3": "VLY",
+        "4": "VLY",
+        "5": "Anglesey",
+        "6": -4.5352778,
+        "7": 53.2483333,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Angers Marce, France (ANE)",
+        "2": "airport",
+        "3": "ANE",
+        "4": "ANE",
+        "5": "Angers",
+        "6": -0.3122222,
+        "7": 47.5602778,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Angers Railway Station, France (QXG)",
+        "2": "bus",
+        "3": "QXG",
+        "4": "ANE",
+        "5": "Angers",
+        "6": -0.5569444,
+        "7": 47.4647222,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Oujda Angads, Morocco (OUD)",
+        "2": "airport",
+        "3": "OUD",
+        "4": "OUD",
+        "5": "Oujda",
+        "6": -1.9238889,
+        "7": 34.7872222,
+        "10": "Africa/Casablanca"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Andenes Andoya, Norway (ANX)",
+        "2": "airport",
+        "3": "ANX",
+        "4": "ANX",
+        "5": "Andenes",
+        "6": 16.1441667,
+        "7": 69.2925,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Andahuaylas, Peru (ANS)",
+        "2": "airport",
+        "3": "ANS",
+        "4": "ANS",
+        "5": "Andahuaylas",
+        "6": -73.350278,
+        "7": -13.706389,
+        "10": "America/Lima"
+      }
+    ]
+  }
+}

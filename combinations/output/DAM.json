@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Damascus International, Syria (DAM)",
+        "2": "airport",
+        "3": "DAM",
+        "4": "DAM",
+        "5": "Damascus",
+        "6": 36.5141667,
+        "7": 33.4105556,
+        "10": "Asia/Damascus"
+      },
+      {
+        "1": "Dammam King Fahd International, Saudi Arabia (DMM)",
+        "2": "airport",
+        "3": "DMM",
+        "4": "DMM",
+        "5": "Dammam",
+        "6": 49.7977778,
+        "7": 26.4711111,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "Damazin, Sudan (RSS)",
+        "2": "airport",
+        "3": "RSS",
+        "4": "RSS",
+        "5": "Roseires",
+        "6": 34.3366667,
+        "7": 11.7852778,
+        "10": "Africa/Khartoum"
+      },
+      {
+        "1": "Dammam SABTCO Bus Station, Saudi Arabia (DMS)",
+        "2": "bus",
+        "3": "DMS",
+        "4": "DMM",
+        "5": "Dammam",
+        "6": 50.1069444,
+        "7": 26.4513889,
+        "10": "Asia/Riyadh"
+      }
+    ]
+  }
+}

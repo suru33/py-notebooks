@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dickinson T.Roosevelt Regional, ND (DIK)",
+        "2": "airport",
+        "3": "DIK",
+        "4": "DIK",
+        "5": "Dickinson",
+        "6": -102.8,
+        "7": 46.8,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Dikwella Mawella Lagoon SPB, Sri Lanka (DIW)",
+        "2": "airport",
+        "3": "DIW",
+        "4": "DIW",
+        "5": "Dickwella",
+        "6": 80.7333333,
+        "7": 5.99083333,
+        "10": "Asia/Colombo"
+      }
+    ]
+  }
+}

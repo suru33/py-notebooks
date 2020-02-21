@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Rouyn-Noranda, QC, Canada (YUY)",
+        "2": "airport",
+        "3": "YUY",
+        "4": "YUY",
+        "5": "Rouyn",
+        "6": -78.835556,
+        "7": 48.2061111,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Round Lake Weagamow Lake, ON, Canada (ZRJ)",
+        "2": "airport",
+        "3": "ZRJ",
+        "4": "ZRJ",
+        "5": "Round Lake",
+        "6": -91.302222,
+        "7": 52.935,
+        "10": "America/Rainy_River"
+      },
+      {
+        "1": "Rouen Vallee de Seine, France (URO)",
+        "2": "airport",
+        "3": "URO",
+        "4": "URO",
+        "5": "Rouen",
+        "6": 1.18388889,
+        "7": 49.3908333,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Bergerac Roumaniere, France (EGC)",
+        "2": "airport",
+        "3": "EGC",
+        "4": "EGC",
+        "5": "Bergerac",
+        "6": 0.52055556,
+        "7": 44.8244444,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dortmund, Germany (DTM)",
+        "2": "airport",
+        "3": "DTM",
+        "4": "DTM",
+        "5": "Dortmund",
+        "6": 7.61222222,
+        "7": 51.5183333,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Dortmund Hbf Railway Station, Germany (DTZ)",
+        "2": "rail",
+        "3": "DTZ",
+        "4": "DTM",
+        "5": "Dortmund",
+        "6": 7.45916667,
+        "7": 51.5177778,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Montreal Dorval Railway Station, QC, Canada (XAX)",
+        "2": "rail",
+        "3": "XAX",
+        "4": "YMQ",
+        "5": "Montreal",
+        "6": -73.741389,
+        "7": 45.4488889,
+        "10": "America/Montreal"
+      }
+    ]
+  }
+}

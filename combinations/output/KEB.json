@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Nanwalek, AK (KEB)",
+        "2": "airport",
+        "3": "KEB",
+        "4": "KEB",
+        "5": "English Bay",
+        "6": -151.925,
+        "7": 59.3522222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Kebri Dehar, Ethiopia (ABK)",
+        "2": "airport",
+        "3": "ABK",
+        "4": "ABK",
+        "5": "Kabri Dar",
+        "6": 44.2552778,
+        "7": 6.73388889,
+        "10": "Africa/Addis_Ababa"
+      }
+    ]
+  }
+}

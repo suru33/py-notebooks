@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sihanoukville International, Cambodia (KOS)",
+        "2": "airport",
+        "3": "KOS",
+        "4": "KOS",
+        "5": "Sihanoukville",
+        "6": 103.636944,
+        "7": 10.5797222,
+        "10": "Asia/Phnom_Penh"
+      },
+      {
+        "1": "Kos Ippokratis, Greece (KGS)",
+        "2": "airport",
+        "3": "KGS",
+        "4": "KGS",
+        "5": "Kos",
+        "6": 27.0916667,
+        "7": 36.7933333,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Kosice, Slovakia (KSC)",
+        "2": "airport",
+        "3": "KSC",
+        "4": "KSC",
+        "5": "Kosice",
+        "6": 21.2411111,
+        "7": 48.6630556,
+        "10": "Europe/Bratislava"
+      },
+      {
+        "1": "Ko Samui, Thailand (USM)",
+        "2": "airport",
+        "3": "USM",
+        "4": "USM",
+        "5": "Koh Samui",
+        "6": 100.0625,
+        "7": 9.55027778,
+        "10": "Asia/Bangkok"
+      },
+      {
+        "1": "Kosrae International, Micronesia (KSA)",
+        "2": "airport",
+        "3": "KSA",
+        "4": "KSA",
+        "5": "Kosrae",
+        "6": 162.958333,
+        "7": 5.35694444,
+        "10": "Pacific/Kosrae"
+      },
+      {
+        "1": "Kostanay, Kazakhstan (KSN)",
+        "2": "airport",
+        "3": "KSN",
+        "4": "KSN",
+        "5": "Kostanay",
+        "6": 63.5502778,
+        "7": 53.2069444,
+        "10": "Asia/Almaty"
+      }
+    ]
+  }
+}

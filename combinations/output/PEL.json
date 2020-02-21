@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Pellston Regional (Emmet County), MI (PLN)",
+        "2": "airport",
+        "3": "PLN",
+        "4": "PLN",
+        "5": "Pellston",
+        "6": -84.796667,
+        "7": 45.5708333,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Pelican Sea Plane Base, AK (PEC)",
+        "2": "airport",
+        "3": "PEC",
+        "4": "PEC",
+        "5": "Pelican",
+        "6": -136.23056,
+        "7": 57.9577778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Pelotas International, Brazil (PET)",
+        "2": "airport",
+        "3": "PET",
+        "4": "PET",
+        "5": "Pelotas",
+        "6": -52.329722,
+        "7": -31.718333,
+        "10": "America/Sao_Paulo"
+      }
+    ]
+  }
+}

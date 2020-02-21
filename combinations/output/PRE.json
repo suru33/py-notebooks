@@ -1,0 +1,106 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Presque Isle Northern Maine Regional, ME (PQI)",
+        "2": "airport",
+        "3": "PQI",
+        "4": "PQI",
+        "5": "Presque Isle",
+        "6": -68.044722,
+        "7": 46.6888889,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Preveza/Lefkada Aktion, Greece (PVK)",
+        "2": "airport",
+        "3": "PVK",
+        "4": "PVK",
+        "5": "Preveza/Lefkas",
+        "6": 20.7652778,
+        "7": 38.9255556,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Prescott Ernest A. Love Field, AZ (PRC)",
+        "2": "airport",
+        "3": "PRC",
+        "4": "PRC",
+        "5": "Prescott",
+        "6": -112.41972,
+        "7": 34.6544444,
+        "10": "America/Phoenix"
+      },
+      {
+        "1": "Presidente Prudente, Brazil (PPB)",
+        "2": "airport",
+        "3": "PPB",
+        "4": "PPB",
+        "5": "President Prudente",
+        "6": -51.424722,
+        "7": -22.175,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Preobrazheniye, Russia (RZH)",
+        "2": "airport",
+        "3": "RZH",
+        "4": "RZH",
+        "5": "Preobrazheniye",
+        "6": 133.904444,
+        "7": 42.9216667,
+        "10": "Asia/Vladivostok"
+      },
+      {
+        "1": "Preston Railway Station, United Kingdom (XPT)",
+        "2": "rail",
+        "3": "XPT",
+        "4": "XPT",
+        "5": "Preston Rail Station",
+        "6": -2.7072222,
+        "7": 53.7555556,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Lubbock Preston Smith International, TX (LBB)",
+        "2": "airport",
+        "3": "LBB",
+        "4": "LBB",
+        "5": "Lubbock",
+        "6": -101.82278,
+        "7": 33.6636111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Glasgow Prestwick, United Kingdom (PIK)",
+        "2": "airport",
+        "3": "PIK",
+        "4": "GLA",
+        "5": "Glasgow",
+        "6": -4.5866667,
+        "7": 55.5094444,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Sao Nicolau Island Preguica, Cape Verde (SNE)",
+        "2": "airport",
+        "3": "SNE",
+        "4": "SNE",
+        "5": "Sao Nicolau",
+        "6": -24.284167,
+        "7": 16.5886111,
+        "10": "Atlantic/Cape_Verde"
+      },
+      {
+        "1": "Lynchburg Regional-P. Glenn Field, VA (LYH)",
+        "2": "airport",
+        "3": "LYH",
+        "4": "LYH",
+        "5": "Lynchburg",
+        "6": -79.200556,
+        "7": 37.3266667,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

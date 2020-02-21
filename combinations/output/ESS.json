@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Essaouira Mogador, Morocco (ESU)",
+        "2": "airport",
+        "3": "ESU",
+        "4": "ESU",
+        "5": "Essaouira",
+        "6": -9.6816667,
+        "7": 31.3975,
+        "10": "Africa/Casablanca"
+      },
+      {
+        "1": "Oran Ahmed Ben Bella, Algeria (ORN)",
+        "2": "airport",
+        "3": "ORN",
+        "4": "ORN",
+        "5": "Oran",
+        "6": -0.6211111,
+        "7": 35.6238889,
+        "10": "Africa/Algiers"
+      }
+    ]
+  }
+}

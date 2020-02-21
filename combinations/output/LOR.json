@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Loreto International, Mexico (LTO)",
+        "2": "airport",
+        "3": "LTO",
+        "4": "LTO",
+        "5": "Loreto",
+        "6": -111.34833,
+        "7": 25.9891667,
+        "10": "America/Mazatlan"
+      },
+      {
+        "1": "Lorient Lann Bihoue, France (LRT)",
+        "2": "airport",
+        "3": "LRT",
+        "4": "LRT",
+        "5": "Lorient",
+        "6": -3.44,
+        "7": 47.7605556,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Lord Howe Island, Australia (LDH)",
+        "2": "airport",
+        "3": "LDH",
+        "4": "LDH",
+        "5": "Lord Howe Island",
+        "6": 159.076111,
+        "7": -31.538611,
+        "10": "Australia/Lord_Howe"
+      },
+      {
+        "1": "Lorca Bus Station, Spain (XJR)",
+        "2": "bus",
+        "3": "XJR",
+        "4": "XJR",
+        "5": "Lorca",
+        "6": -1.6966667,
+        "7": 37.6711111,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Metz/Nancy Lorraine, France (ETZ)",
+        "2": "airport",
+        "3": "ETZ",
+        "4": "ETZ",
+        "5": "Metz/Nancy",
+        "6": 6.24666667,
+        "7": 48.9783333,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

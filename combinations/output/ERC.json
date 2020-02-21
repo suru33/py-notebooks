@@ -1,0 +1,25 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Erzincan, Turkey (ERC)",
+        "2": "airport",
+        "3": "ERC",
+        "4": "ERC",
+        "5": "Erzincan",
+        "6": 39.5269444,
+        "7": 39.7102778,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Ercan, Cyprus (ECN)",
+        "2": "airport",
+        "3": "ECN",
+        "4": "ECN",
+        "5": "Ercan",
+        "6": 33.4883333,
+        "7": 35.1597222
+      }
+    ]
+  }
+}

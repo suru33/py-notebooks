@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Adana Sakirpasa, Turkey (ADA)",
+        "2": "airport",
+        "3": "ADA",
+        "4": "ADA",
+        "5": "Adana",
+        "6": 35.2802778,
+        "7": 36.9822222,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Adak Island, AK (ADK)",
+        "2": "airport",
+        "3": "ADK",
+        "4": "ADK",
+        "5": "Adak Island",
+        "6": -176.64833,
+        "7": 51.8811111,
+        "10": "America/Adak"
+      },
+      {
+        "1": "Adado, Somalia (AAD)",
+        "2": "airport",
+        "3": "AAD",
+        "4": "AAD",
+        "5": "Adado",
+        "6": 46.6375,
+        "7": 6.09611111,
+        "10": "Africa/Mogadishu"
+      },
+      {
+        "1": "Adampur, India (AIP)",
+        "2": "airport",
+        "3": "AIP",
+        "4": "AIP",
+        "5": "Adampur",
+        "6": 75.7588889,
+        "7": 31.4327778,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Bridgetown Grantley Adams International, Barbados (BGI)",
+        "2": "airport",
+        "3": "BGI",
+        "4": "BGI",
+        "5": "Barbados",
+        "6": -59.4925,
+        "7": 13.0747222,
+        "10": "America/Barbados"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Maturin Jose T. Monagas International, Venezuela (MUN)",
+        "2": "airport",
+        "3": "MUN",
+        "4": "MUN",
+        "5": "Maturin",
+        "6": -63.153333,
+        "7": 9.74916667,
+        "10": "America/Caracas"
+      },
+      {
+        "1": "Munich, Germany - All airports",
+        "2": "city",
+        "3": "MUC",
+        "4": "MUC",
+        "5": "Munich",
+        "6": 11.696473578934645,
+        "7": 48.308854484786636,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Munich Franz Joseph Strauss Int'l, Germany (MUC)",
+        "2": "airport",
+        "3": "MUC",
+        "4": "MUC",
+        "5": "Munich",
+        "6": 11.7861111,
+        "7": 48.3538889,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Munda, Solomon Islands (MUA)",
+        "2": "airport",
+        "3": "MUA",
+        "4": "MUA",
+        "5": "Munda",
+        "6": 157.261667,
+        "7": -8.3272222,
+        "10": "Pacific/Guadalcanal"
+      },
+      {
+        "1": "Muna Sugimanuru, Indonesia (RAQ)",
+        "2": "airport",
+        "3": "RAQ",
+        "4": "RAQ",
+        "5": "Raha",
+        "6": 122.569956,
+        "7": -4.761853,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Munich Hbf Railway Station, Germany (ZMU)",
+        "2": "rail",
+        "3": "ZMU",
+        "4": "MUC",
+        "5": "Munich",
+        "6": 11.5544444,
+        "7": 48.1411111,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Munich Muehlhausen, Germany (AGB)",
+        "2": "airport",
+        "3": "AGB",
+        "4": "MUC",
+        "5": "Munich",
+        "6": 10.8833333,
+        "7": 48.3833333,
+        "10": "Europe/Berlin"
+      }
+    ]
+  }
+}

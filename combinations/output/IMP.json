@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Imperatriz Renato Moreira, Brazil (IMP)",
+        "2": "airport",
+        "3": "IMP",
+        "4": "IMP",
+        "5": "Imperatriz",
+        "6": -47.46,
+        "7": -5.5313889,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Imphal, India (IMF)",
+        "2": "airport",
+        "3": "IMF",
+        "4": "IMF",
+        "5": "Imphal",
+        "6": 93.8966667,
+        "7": 24.76,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Imperial/El Centro Imperial County, CA (IPL)",
+        "2": "airport",
+        "3": "IPL",
+        "4": "IPL",
+        "5": "Imperial",
+        "6": -115.57472,
+        "7": 32.835,
+        "10": "America/Los_Angeles"
+      }
+    ]
+  }
+}

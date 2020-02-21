@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Liverpool John Lennon, United Kingdom (LPL)",
+        "2": "airport",
+        "3": "LPL",
+        "4": "LPL",
+        "5": "Liverpool",
+        "6": -2.8497222,
+        "7": 53.3336111,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Livingstone, Zambia (LVI)",
+        "2": "airport",
+        "3": "LVI",
+        "4": "LVI",
+        "5": "Livingstone",
+        "6": 25.8227778,
+        "7": -17.821667,
+        "10": "Africa/Lusaka"
+      },
+      {
+        "1": "Liverpool Central Railway Stn., United Kingdom (LXC)",
+        "2": "rail",
+        "3": "LXC",
+        "4": "LPL",
+        "5": "Liverpool",
+        "6": -2.98,
+        "7": 53.4047222,
+        "10": "Europe/London"
+      },
+      {
+        "1": "London Liverpool St Railway Station, United Kingdom (ZLS)",
+        "2": "rail",
+        "3": "ZLS",
+        "4": "LON",
+        "5": "London",
+        "6": -0.0827778,
+        "7": 51.5180556,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

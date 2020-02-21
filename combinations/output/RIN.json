@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Ringwood Bus Station, United Kingdom (RNW)",
+        "2": "bus",
+        "3": "RNW",
+        "4": "RNW",
+        "5": "Ringwood",
+        "6": -1.7913889,
+        "7": 50.8469444,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Tirana Nene Tereza International, Albania (TIA)",
+        "2": "airport",
+        "3": "TIA",
+        "4": "TIA",
+        "5": "Tirana",
+        "6": 19.7208333,
+        "7": 41.415,
+        "10": "Europe/Tirane"
+      }
+    ]
+  }
+}

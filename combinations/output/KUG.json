@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kubin, Australia (KUG)",
+        "2": "airport",
+        "3": "KUG",
+        "4": "KUG",
+        "5": "Kubin Island",
+        "6": 142.219722,
+        "7": -10.226667,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Kugluktuk, NU, Canada (YCO)",
+        "2": "airport",
+        "3": "YCO",
+        "4": "YCO",
+        "5": "Kuglutuk Coppermine",
+        "6": -115.14389,
+        "7": 67.8166667,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "Kugaaruk, NU, Canada (YBB)",
+        "2": "airport",
+        "3": "YBB",
+        "4": "YBB",
+        "5": "Pelly Bay",
+        "6": -89.808056,
+        "7": 68.5344444,
+        "10": "America/Edmonton"
+      }
+    ]
+  }
+}

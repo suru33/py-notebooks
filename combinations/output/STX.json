@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "St Croix Island, VI - All airports",
+        "2": "city",
+        "3": "STX",
+        "4": "STX",
+        "5": "St Croix Island",
+        "6": -64.7781342014124,
+        "7": 17.712030062246896,
+        "10": "America/St_Thomas"
+      },
+      {
+        "1": "St Croix Island Henry E. Rohlsen, VI (STX)",
+        "2": "airport",
+        "3": "STX",
+        "4": "STX",
+        "5": "St Croix Island",
+        "6": -64.798611,
+        "7": 17.7019444,
+        "10": "America/St_Thomas"
+      }
+    ]
+  }
+}

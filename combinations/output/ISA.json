@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Mount Isa, Australia (ISA)",
+        "2": "airport",
+        "3": "ISA",
+        "4": "ISA",
+        "5": "Mount Isa",
+        "6": 139.488611,
+        "7": -20.663889,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Isafjordur, Iceland (IFJ)",
+        "2": "airport",
+        "3": "IFJ",
+        "4": "IFJ",
+        "5": "Isafjordur",
+        "6": -23.135278,
+        "7": 66.0580556,
+        "10": "Atlantic/Reykjavik"
+      },
+      {
+        "1": "Malabo International, Equatorial Guinea (SSG)",
+        "2": "airport",
+        "3": "SSG",
+        "4": "SSG",
+        "5": "Malabo",
+        "6": 8.70861111,
+        "7": 3.75527778,
+        "10": "Africa/Malabo"
+      }
+    ]
+  }
+}

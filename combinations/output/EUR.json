@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Vitoria E. de Aguiar Salles, Brazil (VIX)",
+        "2": "airport",
+        "3": "VIX",
+        "4": "VIX",
+        "5": "Vitoria",
+        "6": -40.286389,
+        "7": -20.258056,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Mulhouse/Basel EuroAirport French  FR, France (MLH)",
+        "2": "airport",
+        "3": "MLH",
+        "4": "MLH",
+        "5": "Mulhouse",
+        "6": 7.52916667,
+        "7": 47.6008333,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Verona, Italy - All airports",
+        "2": "city",
+        "3": "VRN",
+        "4": "VRN",
+        "5": "Verona",
+        "6": 10.881442589565419,
+        "7": 45.41442835020068,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Verona Villafranca, Italy (VRN)",
+        "2": "airport",
+        "3": "VRN",
+        "4": "VRN",
+        "5": "Verona",
+        "6": 10.8880556,
+        "7": 45.3963889,
+        "10": "Europe/Rome"
+      }
+    ]
+  }
+}

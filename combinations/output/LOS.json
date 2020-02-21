@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lagos Murtala Muhammed International, Nigeria (LOS)",
+        "2": "airport",
+        "3": "LOS",
+        "4": "LOS",
+        "5": "Lagos",
+        "6": 3.32111111,
+        "7": 6.5775,
+        "10": "Africa/Lagos"
+      },
+      {
+        "1": "Los Angeles International, CA (LAX)",
+        "2": "airport",
+        "3": "LAX",
+        "4": "LAX",
+        "5": "Los Angeles",
+        "6": -118.40806,
+        "7": 33.9425,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Los Mochis Fed. Valle del Fuerte, Mexico (LMM)",
+        "2": "airport",
+        "3": "LMM",
+        "4": "LMM",
+        "5": "Los Mochis",
+        "6": -109.08083,
+        "7": 25.6852778,
+        "10": "America/Mazatlan"
+      },
+      {
+        "1": "Kiriwina Island Losuia, Papua New Guinea (LSA)",
+        "2": "airport",
+        "3": "LSA",
+        "4": "LSA",
+        "5": "Losuia",
+        "6": 151.081111,
+        "7": -8.5063889,
+        "10": "Pacific/Port_Moresby"
+      },
+      {
+        "1": "Guantanamo Mariana Grajales, Cuba (GAO)",
+        "2": "airport",
+        "3": "GAO",
+        "4": "GAO",
+        "5": "Guantanamo",
+        "6": -75.158333,
+        "7": 20.0852778,
+        "10": "America/Havana"
+      }
+    ]
+  }
+}

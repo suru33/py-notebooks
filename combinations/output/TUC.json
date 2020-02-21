@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tucuman Benjamin Matienzo, Argentina (TUC)",
+        "2": "airport",
+        "3": "TUC",
+        "4": "TUC",
+        "5": "Tucuman",
+        "6": -65.104722,
+        "7": -26.840833,
+        "10": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "1": "Tucson International, AZ (TUS)",
+        "2": "airport",
+        "3": "TUS",
+        "4": "TUS",
+        "5": "Tucson",
+        "6": -110.94111,
+        "7": 32.1161111,
+        "10": "America/Phoenix"
+      },
+      {
+        "1": "Tucupita San Rafael, Venezuela (TUV)",
+        "2": "airport",
+        "3": "TUV",
+        "4": "TUV",
+        "5": "Tucupita",
+        "6": -62.094722,
+        "7": 9.08916667,
+        "10": "America/Caracas"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Guantanamo, Cuba - All airports",
+        "2": "city",
+        "3": "GAO",
+        "4": "GAO",
+        "5": "Guantanamo",
+        "6": -75.18231112326579,
+        "7": 19.99404851099297,
+        "10": "America/Havana"
+      },
+      {
+        "1": "Guantanamo Mariana Grajales, Cuba (GAO)",
+        "2": "airport",
+        "3": "GAO",
+        "4": "GAO",
+        "5": "Guantanamo",
+        "6": -75.158333,
+        "7": 20.0852778,
+        "10": "America/Havana"
+      }
+    ]
+  }
+}

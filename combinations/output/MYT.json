@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Myitkyina, Myanmar (MYT)",
+        "2": "airport",
+        "3": "MYT",
+        "4": "MYT",
+        "5": "Myitkyina",
+        "6": 97.3538889,
+        "7": 25.3841667,
+        "10": "Asia/Rangoon"
+      },
+      {
+        "1": "Mytilini Odysseas Elytis, Greece (MJT)",
+        "2": "airport",
+        "3": "MJT",
+        "4": "MJT",
+        "5": "Mytilene",
+        "6": 26.6022222,
+        "7": 39.0533333,
+        "10": "Europe/Athens"
+      }
+    ]
+  }
+}

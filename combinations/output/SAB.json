@@ -1,0 +1,45 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Saba Juancho E. Yrausquin, Bonaire, Saint Eustatius and Saba (SAB)",
+        "2": "airport",
+        "3": "SAB",
+        "4": "SAB",
+        "5": "Saba",
+        "6": -63.220556,
+        "7": 17.6455556
+      },
+      {
+        "1": "Sabetta International, Russia (SBT)",
+        "2": "airport",
+        "3": "SBT",
+        "4": "SBT",
+        "5": "Sabetta",
+        "6": 72.1016667,
+        "7": 71.2511111,
+        "10": "Asia/Yekaterinburg"
+      },
+      {
+        "1": "Sabzevar, Iran (AFZ)",
+        "2": "airport",
+        "3": "AFZ",
+        "4": "AFZ",
+        "5": "Sabzevar",
+        "6": 57.5963889,
+        "7": 36.1686111,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Istanbul Sabiha Gokcen, Turkey (SAW)",
+        "2": "airport",
+        "3": "SAW",
+        "4": "IST",
+        "5": "Istanbul",
+        "6": 29.3091667,
+        "7": 40.8986111,
+        "10": "Europe/Istanbul"
+      }
+    ]
+  }
+}

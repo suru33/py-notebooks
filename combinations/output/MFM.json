@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Macau, Macao - All airports",
+        "2": "city",
+        "3": "MFM",
+        "4": "MFM",
+        "5": "Macau",
+        "6": 113.58146656622463,
+        "7": 22.163552969423815,
+        "10": "Asia/Macau"
+      },
+      {
+        "1": "Macau International, Macao (MFM)",
+        "2": "airport",
+        "3": "MFM",
+        "4": "MFM",
+        "5": "Macau",
+        "6": 113.591667,
+        "7": 22.1494444,
+        "10": "Asia/Macau"
+      }
+    ]
+  }
+}

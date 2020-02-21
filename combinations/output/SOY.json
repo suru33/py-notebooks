@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Stronsay, United Kingdom (SOY)",
+        "2": "airport",
+        "3": "SOY",
+        "4": "SOY",
+        "5": "Stronsay",
+        "6": -2.6419444,
+        "7": 59.1552778,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Soyo Do Zaire, Angola (SZA)",
+        "2": "airport",
+        "3": "SZA",
+        "4": "SZA",
+        "5": "Soyo",
+        "6": 12.3725,
+        "7": -6.1411111,
+        "10": "Africa/Luanda"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Edna Bay Sea Plane Base, AK (EDA)",
+        "2": "airport",
+        "3": "EDA",
+        "4": "EDA",
+        "5": "Edna Bay",
+        "6": -133.66667,
+        "7": 55.95,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Eday, United Kingdom (EOI)",
+        "2": "airport",
+        "3": "EOI",
+        "4": "EOI",
+        "5": "Eday",
+        "6": -2.7722222,
+        "7": 59.1905556,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

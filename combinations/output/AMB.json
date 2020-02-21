@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Ambon Pattimura, Indonesia (AMQ)",
+        "2": "airport",
+        "3": "AMQ",
+        "4": "AMQ",
+        "5": "Ambon",
+        "6": 128.089167,
+        "7": -3.7102778,
+        "10": "Asia/Jayapura"
+      },
+      {
+        "1": "Ambler, AK (ABL)",
+        "2": "airport",
+        "3": "ABL",
+        "4": "ABL",
+        "5": "Ambler",
+        "6": -157.85333,
+        "7": 67.1072222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Amboseli, Kenya (ASV)",
+        "2": "airport",
+        "3": "ASV",
+        "4": "ASV",
+        "5": "Amboseli",
+        "6": 37.2527778,
+        "7": -2.645,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Djibouti Ambouli International, Djibouti (JIB)",
+        "2": "airport",
+        "3": "JIB",
+        "4": "JIB",
+        "5": "Djibouti",
+        "6": 43.1594444,
+        "7": 11.5472222,
+        "10": "Africa/Djibouti"
+      },
+      {
+        "1": "Mahajanga Philibert Tsiranana, Madagascar (MJN)",
+        "2": "airport",
+        "3": "MJN",
+        "4": "MJN",
+        "5": "Majunga",
+        "6": 46.3519444,
+        "7": -15.667222,
+        "10": "Indian/Antananarivo"
+      }
+    ]
+  }
+}

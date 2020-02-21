@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Marudi, Malaysia (MUR)",
+        "2": "airport",
+        "3": "MUR",
+        "4": "MUR",
+        "5": "Marudi",
+        "6": 114.3275,
+        "7": 4.17944444,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Murmansk, Russia (MMK)",
+        "2": "airport",
+        "3": "MMK",
+        "4": "MMK",
+        "5": "Murmansk",
+        "6": 32.7508333,
+        "7": 68.7816667,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Murray Island, Australia (MYI)",
+        "2": "airport",
+        "3": "MYI",
+        "4": "MYI",
+        "5": "Murray Island",
+        "6": 144.054722,
+        "7": -9.9152778,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Murcia Railway Station, Spain (XUT)",
+        "2": "rail",
+        "3": "XUT",
+        "4": "MJV",
+        "5": "Murcia",
+        "6": -1.1316667,
+        "7": 37.975,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Murcia Bus Station, Spain (EMU)",
+        "2": "bus",
+        "3": "EMU",
+        "4": "MJV",
+        "5": "Murcia",
+        "6": -1.1397222,
+        "7": 37.9855556,
+        "10": "Europe/Madrid"
+      }
+    ]
+  }
+}

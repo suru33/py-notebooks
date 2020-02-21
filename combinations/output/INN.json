@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Innsbruck Kranebitten, Austria (INN)",
+        "2": "airport",
+        "3": "INN",
+        "4": "INN",
+        "5": "Innsbruck",
+        "6": 11.3438889,
+        "7": 47.2602778,
+        "10": "Europe/Vienna"
+      },
+      {
+        "1": "Innsbruck Railway Station, Austria (IOB)",
+        "2": "rail",
+        "3": "IOB",
+        "4": "INN",
+        "5": "Innsbruck",
+        "6": 11.4011111,
+        "7": 47.2627778,
+        "10": "Europe/Vienna"
+      },
+      {
+        "1": "Innarsuit Heliport, Greenland (IUI)",
+        "2": "helipad",
+        "3": "IUI",
+        "4": "IUI",
+        "5": "Innarsuit",
+        "6": -56.013611,
+        "7": 73.2016667,
+        "10": "America/Godthab"
+      }
+    ]
+  }
+}

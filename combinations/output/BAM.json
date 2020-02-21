@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bamako Senou International, Mali (BKO)",
+        "2": "airport",
+        "3": "BKO",
+        "4": "BKO",
+        "5": "Bamako",
+        "6": -7.95,
+        "7": 12.5336111,
+        "10": "Africa/Bamako"
+      },
+      {
+        "1": "Bamaga Northern Peninsula, Australia (ABM)",
+        "2": "airport",
+        "3": "ABM",
+        "4": "ABM",
+        "5": "Bamaga",
+        "6": 142.459444,
+        "7": -10.950833,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Bamenda, Cameroon (BPC)",
+        "2": "airport",
+        "3": "BPC",
+        "4": "BPC",
+        "5": "Bamenda",
+        "6": 10.1230556,
+        "7": 6.03833333,
+        "10": "Africa/Douala"
+      },
+      {
+        "1": "Bam, Iran (BXR)",
+        "2": "airport",
+        "3": "BXR",
+        "4": "BXR",
+        "5": "Bam",
+        "6": 58.4497222,
+        "7": 29.0841667,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Allahabad, India (IXD)",
+        "2": "airport",
+        "3": "IXD",
+        "4": "IXD",
+        "5": "Allahabad",
+        "6": 81.7338889,
+        "7": 25.44,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

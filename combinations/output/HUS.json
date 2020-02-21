@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Hughes, AK (HUS)",
+        "2": "airport",
+        "3": "HUS",
+        "4": "HUS",
+        "5": "Hughes",
+        "6": -154.26111,
+        "7": 66.0430556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Huslia, AK (HSL)",
+        "2": "airport",
+        "3": "HSL",
+        "4": "HSL",
+        "5": "Huslia",
+        "6": -156.35139,
+        "7": 65.6977778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Bandung Husein Sastranegara, Indonesia (BDO)",
+        "2": "airport",
+        "3": "BDO",
+        "4": "BDO",
+        "5": "Bandung",
+        "6": 107.576389,
+        "7": -6.9005556,
+        "10": "Asia/Jakarta"
+      }
+    ]
+  }
+}

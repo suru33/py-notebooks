@@ -1,0 +1,146 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bordeaux Merignac, France (BOD)",
+        "2": "airport",
+        "3": "BOD",
+        "4": "BOD",
+        "5": "Bordeaux",
+        "6": -0.7152778,
+        "7": 44.8286111,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Bora Bora Motu Mute, French Polynesia (BOB)",
+        "2": "airport",
+        "3": "BOB",
+        "4": "BOB",
+        "5": "Bora Bora",
+        "6": -151.75139,
+        "7": -16.444444,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Bornholm Ronne, Denmark (RNN)",
+        "2": "airport",
+        "3": "RNN",
+        "4": "RNN",
+        "5": "Bornholm",
+        "6": 14.7602778,
+        "7": 55.0633333,
+        "10": "Europe/Copenhagen"
+      },
+      {
+        "1": "Bordj Mokhtar, Algeria (BMW)",
+        "2": "airport",
+        "3": "BMW",
+        "4": "BMW",
+        "5": "Bordj Badji Mokhtar",
+        "6": 0.92361111,
+        "7": 21.3775,
+        "10": "Africa/Algiers"
+      },
+      {
+        "1": "Borlange/Falun Dala, Sweden (BLE)",
+        "2": "airport",
+        "3": "BLE",
+        "4": "BLE",
+        "5": "Borlange",
+        "6": 15.5152778,
+        "7": 60.4219444,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Bor Podkamennaya Tunguska, Russia (TGP)",
+        "2": "airport",
+        "3": "TGP",
+        "4": "TGP",
+        "5": "Bor",
+        "6": 90.0025,
+        "7": 61.5930556,
+        "10": "Asia/Krasnoyarsk"
+      },
+      {
+        "1": "Bordeaux St-Jean Railway Station, France (ZFQ)",
+        "2": "rail",
+        "3": "ZFQ",
+        "4": "BOD",
+        "5": "Bordeaux",
+        "6": -0.5616667,
+        "7": 44.8177778,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Borlange/Falun Borlange C Railway Station, Sweden (XYB)",
+        "2": "rail",
+        "3": "XYB",
+        "4": "BLE",
+        "5": "Borlange",
+        "6": 15.4263889,
+        "7": 60.4830556,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Borlange/Falun Falun C Railway Station, Sweden (XWF)",
+        "2": "rail",
+        "3": "XWF",
+        "4": "BLE",
+        "5": "Borlange",
+        "6": 15.6422222,
+        "7": 60.6036111,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Kiev Boryspil International, Ukraine (KBP)",
+        "2": "airport",
+        "3": "KBP",
+        "4": "IEV",
+        "5": "Kiev",
+        "6": 30.8947222,
+        "7": 50.345,
+        "10": "Europe/Kiev"
+      },
+      {
+        "1": "Aguadilla Rafael Hernandez, PR (BQN)",
+        "2": "airport",
+        "3": "BQN",
+        "4": "BQN",
+        "5": "Aguadilla",
+        "6": -67.129444,
+        "7": 18.495,
+        "10": "America/St_Thomas"
+      },
+      {
+        "1": "Alexandria Borg el Arab, Egypt (HBE)",
+        "2": "airport",
+        "3": "HBE",
+        "4": "ALY",
+        "5": "Alexandria",
+        "6": 29.6963889,
+        "7": 30.9177778,
+        "10": "Africa/Cairo"
+      },
+      {
+        "1": "Wewak, Papua New Guinea (WWK)",
+        "2": "airport",
+        "3": "WWK",
+        "4": "WWK",
+        "5": "Wewak",
+        "6": 143.669167,
+        "7": -3.5838889,
+        "10": "Pacific/Port_Moresby"
+      },
+      {
+        "1": "Bobo Dioulasso, Burkina Faso (BOY)",
+        "2": "airport",
+        "3": "BOY",
+        "4": "BOY",
+        "5": "Bobo Dioulasso",
+        "6": -4.3308333,
+        "7": 11.16,
+        "10": "Africa/Ouagadougou"
+      }
+    ]
+  }
+}

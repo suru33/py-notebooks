@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tel Aviv, Israel - All airports",
+        "2": "city",
+        "3": "TLV",
+        "4": "TLV",
+        "5": "Tel Aviv",
+        "6": 34.86370039059851,
+        "7": 32.02564864524302,
+        "10": "Asia/Jerusalem"
+      },
+      {
+        "1": "Tel Aviv-Yafo Ben Gurion International, Israel (TLV)",
+        "2": "airport",
+        "3": "TLV",
+        "4": "TLV",
+        "5": "Tel Aviv",
+        "6": 34.8805556,
+        "7": 32.0072222,
+        "10": "Asia/Jerusalem"
+      },
+      {
+        "1": "Teller, AK (TLA)",
+        "2": "airport",
+        "3": "TLA",
+        "4": "TLA",
+        "5": "Teller",
+        "6": -166.33778,
+        "7": 65.2402778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Teller/Brevig Mission, AK (KTS)",
+        "2": "airport",
+        "3": "KTS",
+        "4": "KTS",
+        "5": "Teller Mission",
+        "6": -166.4675,
+        "7": 65.3322222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Tel Aviv-Yafo Sde Dov, Israel (SDV)",
+        "2": "airport",
+        "3": "SDV",
+        "4": "TLV",
+        "5": "Tel Aviv",
+        "6": 34.7822222,
+        "7": 32.1147222,
+        "10": "Asia/Jerusalem"
+      },
+      {
+        "1": "Telluride Regional, CO (TEX)",
+        "2": "airport",
+        "3": "TEX",
+        "4": "TEX",
+        "5": "Telluride",
+        "6": -107.9025,
+        "7": 37.9527778,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

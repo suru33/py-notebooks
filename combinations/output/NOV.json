@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Huambo Albano Machado, Angola (NOV)",
+        "2": "airport",
+        "3": "NOV",
+        "4": "NOV",
+        "5": "Huambo",
+        "6": 15.7608333,
+        "7": -12.809167,
+        "10": "Africa/Luanda"
+      },
+      {
+        "1": "Novosibirsk Tolmachevo, Russia (OVB)",
+        "2": "airport",
+        "3": "OVB",
+        "4": "OVB",
+        "5": "Novosibirsk",
+        "6": 82.6505556,
+        "7": 55.0125,
+        "10": "Asia/Krasnoyarsk"
+      },
+      {
+        "1": "Novy Urengoy, Russia (NUX)",
+        "2": "airport",
+        "3": "NUX",
+        "4": "NUX",
+        "5": "Novyj Urengoj",
+        "6": 76.5205556,
+        "7": 66.0702778,
+        "10": "Asia/Yekaterinburg"
+      },
+      {
+        "1": "Novokuznetsk Spichenkovo, Russia (NOZ)",
+        "2": "airport",
+        "3": "NOZ",
+        "4": "NOZ",
+        "5": "Novokuznetsk",
+        "6": 86.8711111,
+        "7": 53.8063889,
+        "10": "Asia/Krasnoyarsk"
+      },
+      {
+        "1": "Khabarovsk Novy, Russia (KHV)",
+        "2": "airport",
+        "3": "KHV",
+        "4": "KHV",
+        "5": "Khabarovsk",
+        "6": 135.188333,
+        "7": 48.5280556,
+        "10": "Asia/Vladivostok"
+      }
+    ]
+  }
+}

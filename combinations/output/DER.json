@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Derry Eglinton, United Kingdom (LDY)",
+        "2": "airport",
+        "3": "LDY",
+        "4": "LDY",
+        "5": "Londonderry",
+        "6": -7.1611111,
+        "7": 55.0427778,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Dera Ghazi Khan International, Pakistan (DEA)",
+        "2": "airport",
+        "3": "DEA",
+        "4": "DEA",
+        "5": "Dera Ghazi Khan",
+        "6": 70.4852778,
+        "7": 29.9605556,
+        "10": "Asia/Karachi"
+      }
+    ]
+  }
+}

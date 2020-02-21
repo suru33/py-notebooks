@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "St John's International, NL, Canada (YYT)",
+        "2": "airport",
+        "3": "YYT",
+        "4": "YYT",
+        "5": "St Johns",
+        "6": -52.751944,
+        "7": 47.6186111,
+        "10": "America/St_Johns"
+      },
+      {
+        "1": "Rennes St Jacques, France (RNS)",
+        "2": "airport",
+        "3": "RNS",
+        "4": "RNS",
+        "5": "Rennes",
+        "6": -1.7322222,
+        "7": 48.0719444,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Saint John, NB, Canada (YSJ)",
+        "2": "airport",
+        "3": "YSJ",
+        "4": "YSJ",
+        "5": "St John",
+        "6": -65.882222,
+        "7": 45.3205556,
+        "10": "America/Halifax"
+      }
+    ]
+  }
+}

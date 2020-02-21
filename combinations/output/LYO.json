@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lyon, France - All airports",
+        "2": "city",
+        "3": "LYS",
+        "4": "LYS",
+        "5": "Lyon",
+        "6": 5.123321312721986,
+        "7": 45.64101719208697,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Lyon St-Exupery, France (LYS)",
+        "2": "airport",
+        "3": "LYS",
+        "4": "LYS",
+        "5": "Lyon",
+        "6": 5.08111111,
+        "7": 45.7255556,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Lyon Grenoble-Isere, France (GNB)",
+        "2": "airport",
+        "3": "GNB",
+        "4": "LYS",
+        "5": "Lyon",
+        "6": 5.33277778,
+        "7": 45.3630556,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Lyon Part-Dieu Railway Station, France (XYD)",
+        "2": "rail",
+        "3": "XYD",
+        "4": "LYS",
+        "5": "Lyon",
+        "6": 4.85944444,
+        "7": 45.7605556,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

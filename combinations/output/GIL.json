@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Gilgit, Pakistan (GIL)",
+        "2": "airport",
+        "3": "GIL",
+        "4": "GIL",
+        "5": "Gilgit",
+        "6": 74.3336111,
+        "7": 35.9188889,
+        "10": "Asia/Karachi"
+      },
+      {
+        "1": "Gillam, MB, Canada (YGX)",
+        "2": "airport",
+        "3": "YGX",
+        "4": "YGX",
+        "5": "Gillam",
+        "6": -94.710833,
+        "7": 56.3572222,
+        "10": "America/Rainy_River"
+      },
+      {
+        "1": "Gillette Campbell County, WY (GCC)",
+        "2": "airport",
+        "3": "GCC",
+        "4": "GCC",
+        "5": "Gillette",
+        "6": -105.54167,
+        "7": 44.3475,
+        "10": "America/Denver"
+      },
+      {
+        "1": "St-Denis Roland Garros, Reunion (RUN)",
+        "2": "airport",
+        "3": "RUN",
+        "4": "RUN",
+        "5": "St Denis de la Reunion",
+        "6": 55.5102778,
+        "7": -20.887222,
+        "10": "Indian/Reunion"
+      }
+    ]
+  }
+}

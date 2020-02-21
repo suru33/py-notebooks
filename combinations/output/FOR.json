@@ -1,0 +1,236 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Fortaleza Pinto Martins International, Brazil (FOR)",
+        "2": "airport",
+        "3": "FOR",
+        "4": "FOR",
+        "5": "Fortaleza",
+        "6": -38.5325,
+        "7": -3.7763889,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Fort Lauderdale International, FL (FLL)",
+        "2": "airport",
+        "3": "FLL",
+        "4": "FLL",
+        "5": "Fort Lauderdale",
+        "6": -80.152778,
+        "7": 26.0725,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Fort Myers Southwest Florida International, FL (RSW)",
+        "2": "airport",
+        "3": "RSW",
+        "4": "FMY",
+        "5": "Fort Myers",
+        "6": -81.755278,
+        "7": 26.5361111,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Fort Wayne International, IN (FWA)",
+        "2": "airport",
+        "3": "FWA",
+        "4": "FWA",
+        "5": "Fort Wayne",
+        "6": -85.189722,
+        "7": 40.9830556,
+        "10": "America/Indiana/Indianapolis"
+      },
+      {
+        "1": "Fort Yukon, AK (FYU)",
+        "2": "airport",
+        "3": "FYU",
+        "4": "FYU",
+        "5": "Fort Yukon",
+        "6": -145.25056,
+        "7": 66.5713889,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Fort-de-France Martinique A. Cesaire, Martinique (FDF)",
+        "2": "airport",
+        "3": "FDF",
+        "4": "FDF",
+        "5": "Fort de France",
+        "6": -61.003056,
+        "7": 14.5911111,
+        "10": "America/Martinique"
+      },
+      {
+        "1": "Fort Smith, NT, Canada (YSM)",
+        "2": "airport",
+        "3": "YSM",
+        "4": "YSM",
+        "5": "Fort Smith",
+        "6": -111.96194,
+        "7": 60.0202778,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "Fort Albany, ON, Canada (YFA)",
+        "2": "airport",
+        "3": "YFA",
+        "4": "YFA",
+        "5": "Fort Albany",
+        "6": -81.695,
+        "7": 52.2036111,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Fort Good Hope, NT, Canada (YGH)",
+        "2": "airport",
+        "3": "YGH",
+        "4": "YGH",
+        "5": "Fort Good Hope",
+        "6": -128.65083,
+        "7": 66.2408333,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "Fort McMurray Apt, AB, Canada (YMM)",
+        "2": "airport",
+        "3": "YMM",
+        "4": "YMM",
+        "5": "Fort McMurray",
+        "6": -111.22194,
+        "7": 56.6533333,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "Fort Frances Municipal, ON, Canada (YAG)",
+        "2": "airport",
+        "3": "YAG",
+        "4": "YAG",
+        "5": "Fort Frances",
+        "6": -93.439722,
+        "7": 48.6541667,
+        "10": "America/Rainy_River"
+      },
+      {
+        "1": "Fort St John North Peace, BC, Canada (YXJ)",
+        "2": "airport",
+        "3": "YXJ",
+        "4": "YXJ",
+        "5": "Fort Saint John",
+        "6": -120.74028,
+        "7": 56.2380556,
+        "10": "America/Dawson_Creek"
+      },
+      {
+        "1": "Fort Dodge Regional, IA (FOD)",
+        "2": "airport",
+        "3": "FOD",
+        "4": "FOD",
+        "5": "Fort Dodge",
+        "6": -94.191944,
+        "7": 42.5511111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Fortuna Arenal, Costa Rica (FON)",
+        "2": "airport",
+        "3": "FON",
+        "4": "FON",
+        "5": "Fortuna",
+        "6": -84.578889,
+        "7": 10.4697222,
+        "10": "America/Costa_Rica"
+      },
+      {
+        "1": "Fort Chipewyan, AB, Canada (YPY)",
+        "2": "airport",
+        "3": "YPY",
+        "4": "YPY",
+        "5": "Fort Chipewyan",
+        "6": -111.11583,
+        "7": 58.7683333,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "Fort MacKay Firebag, AB, Canada (YFI)",
+        "2": "airport",
+        "3": "YFI",
+        "4": "HZP",
+        "5": "Fort MacKay",
+        "6": -110.97667,
+        "7": 57.2258333,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "Fort Smith Regional, AR (FSM)",
+        "2": "airport",
+        "3": "FSM",
+        "4": "FSM",
+        "5": "Fort Smith",
+        "6": -94.3675,
+        "7": 35.3366667,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Forde Bringeland, Norway (FDE)",
+        "2": "airport",
+        "3": "FDE",
+        "4": "FDE",
+        "5": "Forde",
+        "6": 5.76055556,
+        "7": 61.3919444,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Fort McPherson, NT, Canada (ZFM)",
+        "2": "airport",
+        "3": "ZFM",
+        "4": "ZFM",
+        "5": "Fort McPherson",
+        "6": -134.86056,
+        "7": 67.4075,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "Fort Nelson Northern Rockies Regional, BC, Canada (YYE)",
+        "2": "airport",
+        "3": "YYE",
+        "4": "YYE",
+        "5": "Fort Nelson",
+        "6": -122.59778,
+        "7": 58.8377778,
+        "10": "America/Dawson_Creek"
+      },
+      {
+        "1": "Fort Simpson, NT, Canada (YFS)",
+        "2": "airport",
+        "3": "YFS",
+        "4": "YFS",
+        "5": "Fort Simpson",
+        "6": -121.23639,
+        "7": 61.7602778,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "Formosa, Argentina (FMA)",
+        "2": "airport",
+        "3": "FMA",
+        "4": "FMA",
+        "5": "Formosa",
+        "6": -58.228056,
+        "7": -26.212778,
+        "10": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "1": "Iron Mountain/Kingsfd. Ford, MI (IMT)",
+        "2": "airport",
+        "3": "IMT",
+        "4": "IMT",
+        "5": "Iron Mountain",
+        "6": -88.116667,
+        "7": 45.8166667,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

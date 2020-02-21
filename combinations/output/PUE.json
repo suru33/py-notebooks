@@ -1,0 +1,224 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Puerto Obaldia, Panama (PUE)",
+        "2": "airport",
+        "3": "PUE",
+        "4": "PUE",
+        "5": "Puerto Obaldia",
+        "6": -77.418611,
+        "7": 8.66722222,
+        "10": "America/Panama"
+      },
+      {
+        "1": "Puerto Vallarta G.Diaz Ordaz International, Mexico (PVR)",
+        "2": "airport",
+        "3": "PVR",
+        "4": "PVR",
+        "5": "Puerto Vallarta",
+        "6": -105.25417,
+        "7": 20.68,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Puebla Hermanos Serdan International, Mexico (PBC)",
+        "2": "airport",
+        "3": "PBC",
+        "4": "PBC",
+        "5": "Puebla",
+        "6": -98.371389,
+        "7": 19.1580556,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Puerto Plata Gregorio Luperon International, Dominican Republic (POP)",
+        "2": "airport",
+        "3": "POP",
+        "4": "POP",
+        "5": "Puerto Plata",
+        "6": -70.57,
+        "7": 19.7577778,
+        "10": "America/Santo_Domingo"
+      },
+      {
+        "1": "Puerto Princesa International, Philippines (PPS)",
+        "2": "airport",
+        "3": "PPS",
+        "4": "PPS",
+        "5": "Puerto Princesa",
+        "6": 118.758611,
+        "7": 9.74222222,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Puerto Asis Tres de Mayo, Colombia (PUU)",
+        "2": "airport",
+        "3": "PUU",
+        "4": "PUU",
+        "5": "Puerto Asis",
+        "6": -76.500833,
+        "7": 0.50527778,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Pueblo Memorial, CO (PUB)",
+        "2": "airport",
+        "3": "PUB",
+        "4": "PUB",
+        "5": "Pueblo",
+        "6": -104.49667,
+        "7": 38.2891667,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Puerto Escondido International, Mexico (PXM)",
+        "2": "airport",
+        "3": "PXM",
+        "4": "PXM",
+        "5": "Puerto Escondido",
+        "6": -97.089167,
+        "7": 15.8769444,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Puerto Montt El Tepual, Chile (PMC)",
+        "2": "airport",
+        "3": "PMC",
+        "4": "PMC",
+        "5": "Puerto Montt",
+        "6": -73.093889,
+        "7": -41.438889,
+        "10": "America/Santiago"
+      },
+      {
+        "1": "Puerto Ordaz Manuel Carlos Piar, Venezuela (PZO)",
+        "2": "airport",
+        "3": "PZO",
+        "4": "PZO",
+        "5": "Puerto Ordaz",
+        "6": -62.760278,
+        "7": 8.28861111,
+        "10": "America/Caracas"
+      },
+      {
+        "1": "Puerto Leguizamo Caucaya, Colombia (LQM)",
+        "2": "airport",
+        "3": "LQM",
+        "4": "LQM",
+        "5": "Puerto Leguizamo",
+        "6": -74.770833,
+        "7": -0.1822222,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Puerto Jimenez, Costa Rica (PJM)",
+        "2": "airport",
+        "3": "PJM",
+        "4": "PJM",
+        "5": "Puerto Jimenez",
+        "6": -83.301389,
+        "7": 8.53611111,
+        "10": "America/Costa_Rica"
+      },
+      {
+        "1": "Puerto Madryn El Tehuelche, Argentina (PMY)",
+        "2": "airport",
+        "3": "PMY",
+        "4": "PMY",
+        "5": "Puerto Madryn",
+        "6": -65.102778,
+        "7": -42.759167,
+        "10": "America/Argentina/Mendoza"
+      },
+      {
+        "1": "Puerto Natales Teniente J. Gallardo, Chile (PNT)",
+        "2": "airport",
+        "3": "PNT",
+        "4": "PNT",
+        "5": "Puerto Natales",
+        "6": -72.528333,
+        "7": -51.671111
+      },
+      {
+        "1": "Puerto Carreno German Olano, Colombia (PCR)",
+        "2": "airport",
+        "3": "PCR",
+        "4": "PCR",
+        "5": "Puerto Carreno",
+        "6": -67.493056,
+        "7": 6.18472222,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Puerto Inirida Obando, Colombia (PDA)",
+        "2": "airport",
+        "3": "PDA",
+        "4": "PDA",
+        "5": "Puerto Inirida",
+        "6": -67.906111,
+        "7": 3.85361111,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Puerto Maldonado Padre Aldamiz International, Peru (PEM)",
+        "2": "airport",
+        "3": "PEM",
+        "4": "PEM",
+        "5": "Puerto Maldonado",
+        "6": -69.229167,
+        "7": -12.616389,
+        "10": "America/Lima"
+      },
+      {
+        "1": "Puerto Williams Guardiamarina Zanartu, Chile (WPU)",
+        "2": "airport",
+        "3": "WPU",
+        "4": "WPU",
+        "5": "Puerto Williams",
+        "6": -67.626667,
+        "7": -54.931111
+      },
+      {
+        "1": "Puerto Ayacucho Cacique Aramare, Venezuela (PYH)",
+        "2": "airport",
+        "3": "PYH",
+        "4": "PYH",
+        "5": "Puerto Ayacucho",
+        "6": -67.606111,
+        "7": 5.62,
+        "10": "America/Caracas"
+      },
+      {
+        "1": "Puerto Barrios, Guatemala (PBR)",
+        "2": "airport",
+        "3": "PBR",
+        "4": "PBR",
+        "5": "Puerto Barrios",
+        "6": -88.5,
+        "7": 15.7319444,
+        "10": "America/Guatemala"
+      },
+      {
+        "1": "Puerto Cabello Bartolome Salom International, Venezuela (PBL)",
+        "2": "airport",
+        "3": "PBL",
+        "4": "PBL",
+        "5": "Puerto Cabello",
+        "6": -68.0725,
+        "7": 10.4805556,
+        "10": "America/Caracas"
+      },
+      {
+        "1": "Puerto Lempira, Honduras (PEU)",
+        "2": "airport",
+        "3": "PEU",
+        "4": "PEU",
+        "5": "Puerto Lempira",
+        "6": -83.784444,
+        "7": 15.2622222,
+        "10": "America/Tegucigalpa"
+      }
+    ]
+  }
+}

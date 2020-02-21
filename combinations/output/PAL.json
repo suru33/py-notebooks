@@ -1,0 +1,186 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Palma de Mallorca, Spain (PMI)",
+        "2": "airport",
+        "3": "PMI",
+        "4": "PMI",
+        "5": "Palma Mallorca",
+        "6": 2.73888889,
+        "7": 39.5516667,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Palm Beach International, FL (PBI)",
+        "2": "airport",
+        "3": "PBI",
+        "4": "PBI",
+        "5": "West Palm Beach",
+        "6": -80.095556,
+        "7": 26.6830556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Palermo Punta Raisi, Italy (PMO)",
+        "2": "airport",
+        "3": "PMO",
+        "4": "PMO",
+        "5": "Palermo",
+        "6": 13.0994444,
+        "7": 38.1819444,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Palm Springs International, CA (PSP)",
+        "2": "airport",
+        "3": "PSP",
+        "4": "PSP",
+        "5": "Palm Springs",
+        "6": -116.50667,
+        "7": 33.8297222,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Palembang S M Badaruddin II, Indonesia (PLM)",
+        "2": "airport",
+        "3": "PLM",
+        "4": "PLM",
+        "5": "Palembang",
+        "6": 104.7,
+        "7": -2.8983333,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Palu Mutiara, Indonesia (PLW)",
+        "2": "airport",
+        "3": "PLW",
+        "4": "PLW",
+        "5": "Palu",
+        "6": 119.909722,
+        "7": -0.9186111,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Klaipeda/Palanga Palanga International, Lithuania (PLQ)",
+        "2": "airport",
+        "3": "PLQ",
+        "4": "PLQ",
+        "5": "Palanga",
+        "6": 21.0938889,
+        "7": 55.9733333,
+        "10": "Europe/Vilnius"
+      },
+      {
+        "1": "Palmas Lysias Rodrigues, Brazil (PMW)",
+        "2": "airport",
+        "3": "PMW",
+        "4": "PMW",
+        "5": "Palmas",
+        "6": -48.356944,
+        "7": -10.291389,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Palangkaraya Tjilik Riwut, Indonesia (PKY)",
+        "2": "airport",
+        "3": "PKY",
+        "4": "PKY",
+        "5": "Palangkaraya",
+        "6": 113.942778,
+        "7": -2.225,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Palmerston North, New Zealand (PMR)",
+        "2": "airport",
+        "3": "PMR",
+        "4": "PMR",
+        "5": "Palmerston North",
+        "6": 175.613611,
+        "7": -40.32,
+        "10": "Pacific/Auckland"
+      },
+      {
+        "1": "Palenque International, Mexico (PQM)",
+        "2": "airport",
+        "3": "PQM",
+        "4": "PQM",
+        "5": "Palenque",
+        "6": -91.984722,
+        "7": 17.5338889,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Palm Island, Australia (PMK)",
+        "2": "airport",
+        "3": "PMK",
+        "4": "PMK",
+        "5": "Palm Island",
+        "6": 146.581389,
+        "7": -18.755278,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Palmar Sur, Costa Rica (PMZ)",
+        "2": "airport",
+        "3": "PMZ",
+        "4": "PMZ",
+        "5": "Palmar",
+        "6": -83.468611,
+        "7": 8.95083333,
+        "10": "America/Costa_Rica"
+      },
+      {
+        "1": "Palopo Lagaligo, Indonesia (LLO)",
+        "2": "airport",
+        "3": "LLO",
+        "4": "LLO",
+        "5": "Palopo",
+        "6": 120.245,
+        "7": -3.0825,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Palencia Railway Station, Spain (PCI)",
+        "2": "rail",
+        "3": "PCI",
+        "4": "PCI",
+        "5": "Palencia",
+        "6": 42.0155556,
+        "7": -4.5336111,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Bari Palese, Italy (BRI)",
+        "2": "airport",
+        "3": "BRI",
+        "4": "BRI",
+        "5": "Bari",
+        "6": 16.765,
+        "7": 41.1380556,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Maceio Zumbi dos Palmares International, Brazil (MCZ)",
+        "2": "airport",
+        "3": "MCZ",
+        "4": "MCZ",
+        "5": "Maceio",
+        "6": -35.791667,
+        "7": -9.5108333,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Bucaramanga Palonegro International, Colombia (BGA)",
+        "2": "airport",
+        "3": "BGA",
+        "4": "BGA",
+        "5": "Bucaramanga",
+        "6": -73.184722,
+        "7": 7.12638889,
+        "10": "America/Bogota"
+      }
+    ]
+  }
+}

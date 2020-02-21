@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sumenep Trunojoyo, Indonesia (SUP)",
+        "2": "airport",
+        "3": "SUP",
+        "4": "SUP",
+        "5": "Sumenep",
+        "6": 113.888611,
+        "7": -7.0230556,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Sumbawa Island Brang Bidji, Indonesia (SWQ)",
+        "2": "airport",
+        "3": "SWQ",
+        "4": "SWQ",
+        "5": "Sumbawa",
+        "6": 117.411389,
+        "7": -8.4880556,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Surakarta (Solo) Adi Sumarmo, Indonesia (SOC)",
+        "2": "airport",
+        "3": "SOC",
+        "4": "SOC",
+        "5": "Solo City",
+        "6": 110.756944,
+        "7": -7.5161111,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Shetland Islands Sumburgh, United Kingdom (LSI)",
+        "2": "airport",
+        "3": "LSI",
+        "4": "SDZ",
+        "5": "Shetland Islands",
+        "6": -1.2955556,
+        "7": 59.8788889,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

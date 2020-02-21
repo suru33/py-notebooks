@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kyzyl, Russia (KYZ)",
+        "2": "airport",
+        "3": "KYZ",
+        "4": "KYZ",
+        "5": "Kyzyl",
+        "6": 94.4080556,
+        "7": 51.6733333,
+        "10": "Asia/Krasnoyarsk"
+      },
+      {
+        "1": "Kyzylorda, Kazakhstan (KZO)",
+        "2": "airport",
+        "3": "KZO",
+        "4": "KZO",
+        "5": "Kyzylorda",
+        "6": 65.5922222,
+        "7": 44.7075,
+        "10": "Asia/Aqtau"
+      }
+    ]
+  }
+}

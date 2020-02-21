@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Almaty International, Kazakhstan (ALA)",
+        "2": "airport",
+        "3": "ALA",
+        "4": "ALA",
+        "5": "Almaty",
+        "6": 77.0422222,
+        "7": 43.3533333,
+        "10": "Asia/Almaty"
+      },
+      {
+        "1": "Alakanuk, AK (AUK)",
+        "2": "airport",
+        "3": "AUK",
+        "4": "AUK",
+        "5": "Alakanuk",
+        "6": -164.65083,
+        "7": 62.6788889,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Al Ain International, United Arab Emirates (AAN)",
+        "2": "airport",
+        "3": "AAN",
+        "4": "AAN",
+        "5": "Al Ain",
+        "6": 55.6091667,
+        "7": 24.2616667,
+        "10": "Asia/Dubai"
+      },
+      {
+        "1": "Alamosa San Luis Valley Regional, CO (ALS)",
+        "2": "airport",
+        "3": "ALS",
+        "4": "ALS",
+        "5": "Alamosa",
+        "6": -105.86639,
+        "7": 37.4375,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Al Ain EK Bus Station, United Arab Emirates (ZVH)",
+        "2": "bus",
+        "3": "ZVH",
+        "4": "AAN",
+        "5": "Al Ain",
+        "6": 55.76,
+        "7": 24.22,
+        "10": "Asia/Dubai"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Nevis Vance W. Amory International, Saint Kitts and Nevis (NEV)",
+        "2": "airport",
+        "3": "NEV",
+        "4": "NEV",
+        "5": "Nevis",
+        "6": -62.59,
+        "7": 17.2055556,
+        "10": "America/St_Kitts"
+      },
+      {
+        "1": "Nevsehir Kapadokya, Turkey (NAV)",
+        "2": "airport",
+        "3": "NAV",
+        "4": "NAV",
+        "5": "Nevsehir",
+        "6": 34.5344444,
+        "7": 38.7719444,
+        "10": "Europe/Istanbul"
+      }
+    ]
+  }
+}

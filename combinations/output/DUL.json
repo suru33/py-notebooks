@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Washington Dulles International, DC (IAD)",
+        "2": "airport",
+        "3": "IAD",
+        "4": "WAS",
+        "5": "Washington",
+        "6": -77.455833,
+        "7": 38.9444444,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Duluth International, MN (DLH)",
+        "2": "airport",
+        "3": "DLH",
+        "4": "DLH",
+        "5": "Duluth/Superior",
+        "6": -92.193611,
+        "7": 46.8422222,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

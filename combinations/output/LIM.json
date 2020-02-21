@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lima Jorge Chavez International, Peru (LIM)",
+        "2": "airport",
+        "3": "LIM",
+        "4": "LIM",
+        "5": "Lima",
+        "6": -77.114444,
+        "7": -12.021944,
+        "10": "America/Lima"
+      },
+      {
+        "1": "Limoges Bellegarde, France (LIG)",
+        "2": "airport",
+        "3": "LIG",
+        "4": "LIG",
+        "5": "Limoges",
+        "6": 1.18027778,
+        "7": 45.8608333,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Limnos, Greece (LXS)",
+        "2": "airport",
+        "3": "LXS",
+        "4": "LXS",
+        "5": "Lemnos",
+        "6": 25.2363889,
+        "7": 39.9169444,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Limbang, Malaysia (LMN)",
+        "2": "airport",
+        "3": "LMN",
+        "4": "LMN",
+        "5": "Limbang",
+        "6": 115.010278,
+        "7": 4.80805556,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Limon International, Costa Rica (LIO)",
+        "2": "airport",
+        "3": "LIO",
+        "4": "LIO",
+        "5": "Limon",
+        "6": -83.026944,
+        "7": 9.96194444,
+        "10": "America/Costa_Rica"
+      }
+    ]
+  }
+}

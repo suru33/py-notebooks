@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Hopedale, NL, Canada (YHO)",
+        "2": "airport",
+        "3": "YHO",
+        "4": "YHO",
+        "5": "Hopedale",
+        "6": -60.229722,
+        "7": 55.4483333,
+        "10": "America/Halifax"
+      },
+      {
+        "1": "Cleveland Hopkins International, OH (CLE)",
+        "2": "airport",
+        "3": "CLE",
+        "4": "CLE",
+        "5": "Cleveland",
+        "6": -81.849722,
+        "7": 41.4116667,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

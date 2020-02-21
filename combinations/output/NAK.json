@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Nakchivan, Azerbaijan (NAJ)",
+        "2": "airport",
+        "3": "NAJ",
+        "4": "NAJ",
+        "5": "Nakhichevan",
+        "6": 45.4583333,
+        "7": 39.1888889,
+        "10": "Asia/Baku"
+      },
+      {
+        "1": "Nakashibetsu, Japan (SHB)",
+        "2": "airport",
+        "3": "SHB",
+        "4": "SHB",
+        "5": "Nakashibetsu",
+        "6": 144.96,
+        "7": 43.5775,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Nakhon Si Thammarat, Thailand (NST)",
+        "2": "airport",
+        "3": "NST",
+        "4": "NST",
+        "5": "Nakhon Si Thammarat",
+        "6": 99.9447222,
+        "7": 8.53972222,
+        "10": "Asia/Bangkok"
+      },
+      {
+        "1": "Nakhon Phanom, Thailand (KOP)",
+        "2": "airport",
+        "3": "KOP",
+        "4": "KOP",
+        "5": "Nakhon Phanom",
+        "6": 104.641944,
+        "7": 17.3852778,
+        "10": "Asia/Bangkok"
+      }
+    ]
+  }
+}

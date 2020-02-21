@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Seoul, South Korea - All airports",
+        "2": "city",
+        "3": "SEL",
+        "4": "SEL",
+        "5": "Seoul",
+        "6": 126.52941405885484,
+        "7": 37.48984759703143,
+        "10": "Asia/Seoul"
+      },
+      {
+        "1": "Seoul Incheon International, South Korea (ICN)",
+        "2": "airport",
+        "3": "ICN",
+        "4": "SEL",
+        "5": "Seoul",
+        "6": 126.450556,
+        "7": 37.4691667,
+        "10": "Asia/Seoul"
+      },
+      {
+        "1": "Seoul Gimpo International, South Korea (GMP)",
+        "2": "airport",
+        "3": "GMP",
+        "4": "SEL",
+        "5": "Seoul",
+        "6": 126.790556,
+        "7": 37.5583333,
+        "10": "Asia/Seoul"
+      }
+    ]
+  }
+}

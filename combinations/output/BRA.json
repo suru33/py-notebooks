@@ -1,0 +1,176 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Barreiras, Brazil (BRA)",
+        "2": "airport",
+        "3": "BRA",
+        "4": "BRA",
+        "5": "Barreiras",
+        "6": -45.009444,
+        "7": -12.079167,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Brasilia J. Kubitschek International, Brazil (BSB)",
+        "2": "airport",
+        "3": "BSB",
+        "4": "BSB",
+        "5": "Brasilia",
+        "6": -47.918611,
+        "7": -15.871111,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Bratislava M.R. Stefanik, Slovakia (BTS)",
+        "2": "airport",
+        "3": "BTS",
+        "4": "BTS",
+        "5": "Bratislava",
+        "6": 17.2127778,
+        "7": 48.1702778,
+        "10": "Europe/Bratislava"
+      },
+      {
+        "1": "Brazzaville Maya-Maya, Congo (BZV)",
+        "2": "airport",
+        "3": "BZV",
+        "4": "BZV",
+        "5": "Brazzaville",
+        "6": 15.2530556,
+        "7": -4.2516667,
+        "10": "Africa/Brazzaville"
+      },
+      {
+        "1": "Branson Apt, MO (BKG)",
+        "2": "airport",
+        "3": "BKG",
+        "4": "BKG",
+        "5": "Branson",
+        "6": -93.199722,
+        "7": 36.5316667,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Bratsk, Russia (BTK)",
+        "2": "airport",
+        "3": "BTK",
+        "4": "BTK",
+        "5": "Bratsk",
+        "6": 101.698333,
+        "7": 56.3705556,
+        "10": "Asia/Irkutsk"
+      },
+      {
+        "1": "Bradford Regional, PA (BFD)",
+        "2": "airport",
+        "3": "BFD",
+        "4": "BFD",
+        "5": "Bradford",
+        "6": -78.64,
+        "7": 41.8030556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Brainerd Lakes Regional, MN (BRD)",
+        "2": "airport",
+        "3": "BRD",
+        "4": "BRD",
+        "5": "Brainerd",
+        "6": -94.129722,
+        "7": 46.4033333,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Braunschweig/Wolfsburg, Germany (BWE)",
+        "2": "airport",
+        "3": "BWE",
+        "4": "BWE",
+        "5": "Braunschweig",
+        "6": 10.5561111,
+        "7": 52.3191667,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Brandon Municipal, MB, Canada (YBR)",
+        "2": "airport",
+        "3": "YBR",
+        "4": "YBR",
+        "5": "Brandon",
+        "6": -99.950833,
+        "7": 49.9077778,
+        "10": "America/Rainy_River"
+      },
+      {
+        "1": "Brac Bol, Croatia (BWK)",
+        "2": "airport",
+        "3": "BWK",
+        "4": "BWK",
+        "5": "Bol",
+        "6": 16.6797222,
+        "7": 43.2858333,
+        "10": "Europe/Zagreb"
+      },
+      {
+        "1": "Hartford/Springfield Bradley Int'l, CT (BDL)",
+        "2": "airport",
+        "3": "BDL",
+        "4": "HFD",
+        "5": "Hartford",
+        "6": -72.683333,
+        "7": 41.9388889,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Brasov Bus Station, Romania (XHV)",
+        "2": "bus",
+        "3": "XHV",
+        "4": "XHV",
+        "5": "Brasov Bus Station",
+        "6": 25.6294444,
+        "7": 45.6636111,
+        "10": "Europe/Bucharest"
+      },
+      {
+        "1": "Sarasota/Bradenton International, FL (SRQ)",
+        "2": "airport",
+        "3": "SRQ",
+        "4": "SRQ",
+        "5": "Sarasota/Bradenton",
+        "6": -82.554444,
+        "7": 27.3955556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Springfield Branson Reg'l, MO (SGF)",
+        "2": "airport",
+        "3": "SGF",
+        "4": "SGF",
+        "5": "Springfield",
+        "6": -93.388611,
+        "7": 37.2455556,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Bandar Lampung Radin Inten II, Indonesia (TKG)",
+        "2": "airport",
+        "3": "TKG",
+        "4": "TKG",
+        "5": "Bandar Lampung",
+        "6": 105.178889,
+        "7": -5.2422222,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Sumbawa Island Brang Bidji, Indonesia (SWQ)",
+        "2": "airport",
+        "3": "SWQ",
+        "4": "SWQ",
+        "5": "Sumbawa",
+        "6": 117.411389,
+        "7": -8.4880556,
+        "10": "Asia/Makassar"
+      }
+    ]
+  }
+}

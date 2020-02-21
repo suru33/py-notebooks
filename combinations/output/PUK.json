@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Pukarua, French Polynesia (PUK)",
+        "2": "airport",
+        "3": "PUK",
+        "4": "PUK",
+        "5": "Pukarua",
+        "6": -137.01583,
+        "7": -18.296111,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Puka Puka, French Polynesia (PKP)",
+        "2": "airport",
+        "3": "PKP",
+        "4": "PKP",
+        "5": "Puka Puka",
+        "6": -138.81278,
+        "7": -14.809444,
+        "10": "Pacific/Tahiti"
+      }
+    ]
+  }
+}

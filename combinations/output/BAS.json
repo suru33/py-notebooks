@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Balalae, Solomon Islands (BAS)",
+        "2": "airport",
+        "3": "BAS",
+        "4": "BAS",
+        "5": "Balalae",
+        "6": 155.885833,
+        "7": -6.9911111,
+        "10": "Pacific/Guadalcanal"
+      },
+      {
+        "1": "Basel/Mulhouse EuroAirport Swiss, Switzerland (BSL)",
+        "2": "airport",
+        "3": "BSL",
+        "4": "BSL",
+        "5": "Basel",
+        "6": 7.52166667,
+        "7": 47.6011111,
+        "10": "Europe/Zurich"
+      },
+      {
+        "1": "Bastia Poretta, France (BIA)",
+        "2": "airport",
+        "3": "BIA",
+        "4": "BIA",
+        "5": "Bastia",
+        "6": 9.48472222,
+        "7": 42.55,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Basrah International, Iraq (BSR)",
+        "2": "airport",
+        "3": "BSR",
+        "4": "BSR",
+        "5": "Basra",
+        "6": 47.6622222,
+        "7": 30.5491667,
+        "10": "Asia/Baghdad"
+      },
+      {
+        "1": "Basco, Philippines (BSO)",
+        "2": "airport",
+        "3": "BSO",
+        "4": "BSO",
+        "5": "Basco",
+        "6": 121.98,
+        "7": 20.4513889,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Basel/Mulhouse SBB Railway Station, Switzerland (ZDH)",
+        "2": "rail",
+        "3": "ZDH",
+        "4": "EAP",
+        "5": "Basel/Mulhouse",
+        "6": 7.58972222,
+        "7": 47.5477778,
+        "10": "Europe/Zurich"
+      },
+      {
+        "1": "Santa Maria, Brazil (RIA)",
+        "2": "airport",
+        "3": "RIA",
+        "4": "RIA",
+        "5": "Santa Maria",
+        "6": -53.688056,
+        "7": -29.711389,
+        "10": "America/Sao_Paulo"
+      }
+    ]
+  }
+}

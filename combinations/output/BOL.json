@@ -1,0 +1,96 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bologna Guglielmo Marconi, Italy (BLQ)",
+        "2": "airport",
+        "3": "BLQ",
+        "4": "BLQ",
+        "5": "Bologna",
+        "6": 11.2969444,
+        "7": 44.5308333,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Bole Alashankou, China (BPL)",
+        "2": "airport",
+        "3": "BPL",
+        "4": "BPL",
+        "5": "Bole",
+        "6": 82.3,
+        "7": 44.8958333,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Bologna Central Railway Station, Italy (IBT)",
+        "2": "rail",
+        "3": "IBT",
+        "4": "BLQ",
+        "5": "Bologna",
+        "6": 11.3433333,
+        "7": 44.5061111,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Brac Bol, Croatia (BWK)",
+        "2": "airport",
+        "3": "BWK",
+        "4": "BWK",
+        "5": "Bol",
+        "6": 16.6797222,
+        "7": 43.2858333,
+        "10": "Europe/Zagreb"
+      },
+      {
+        "1": "Bolzano/Bozen Railway Station, Italy (BZQ)",
+        "2": "rail",
+        "3": "BZQ",
+        "4": "BZO",
+        "5": "Bolzano",
+        "6": 11.3583333,
+        "7": 46.4963889,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Addis Ababa Bole International, Ethiopia (ADD)",
+        "2": "airport",
+        "3": "ADD",
+        "4": "ADD",
+        "5": "Addis Ababa",
+        "6": 38.7994444,
+        "7": 8.97777778,
+        "10": "Africa/Addis_Ababa"
+      },
+      {
+        "1": "Caracas Simon Bolivar International, Venezuela (CCS)",
+        "2": "airport",
+        "3": "CCS",
+        "4": "CCS",
+        "5": "Caracas",
+        "6": -66.990556,
+        "7": 10.6030556,
+        "10": "America/Caracas"
+      },
+      {
+        "1": "Guayaquil Jose Joaquin de Olmedo, Ecuador (GYE)",
+        "2": "airport",
+        "3": "GYE",
+        "4": "GYE",
+        "5": "Guayaquil",
+        "6": -79.883611,
+        "7": -2.1575,
+        "10": "America/Guayaquil"
+      },
+      {
+        "1": "Santa Marta Simon Bolivar International, Colombia (SMR)",
+        "2": "airport",
+        "3": "SMR",
+        "4": "SMR",
+        "5": "Santa Marta",
+        "6": -74.230556,
+        "7": 11.1197222,
+        "10": "America/Bogota"
+      }
+    ]
+  }
+}

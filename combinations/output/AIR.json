@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Koror Palau International, Palau (ROR)",
+        "2": "airport",
+        "3": "ROR",
+        "4": "ROR",
+        "5": "Koror",
+        "6": 134.544167,
+        "7": 7.36722222,
+        "10": "Pacific/Palau"
+      },
+      {
+        "1": "Suavanao, Solomon Islands (VAO)",
+        "2": "airport",
+        "3": "VAO",
+        "4": "VAO",
+        "5": "Suavanao",
+        "6": 158.730833,
+        "7": -7.5852778,
+        "10": "Pacific/Guadalcanal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Ceduna, Australia (CED)",
+        "2": "airport",
+        "3": "CED",
+        "4": "CED",
+        "5": "Ceduna",
+        "6": 133.709722,
+        "7": -32.130556,
+        "10": "Australia/Adelaide"
+      },
+      {
+        "1": "Cedar Rapids The Eastern Iowa, IA (CID)",
+        "2": "airport",
+        "3": "CID",
+        "4": "CID",
+        "5": "Cedar Rapids",
+        "6": -91.710833,
+        "7": 41.8847222,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Cedar City Regional, UT (CDC)",
+        "2": "airport",
+        "3": "CDC",
+        "4": "CDC",
+        "5": "Cedar City",
+        "6": -113.09889,
+        "7": 37.7008333,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

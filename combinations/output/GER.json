@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Nueva Gerona Rafael Cabrera, Cuba (GER)",
+        "2": "airport",
+        "3": "GER",
+        "4": "GER",
+        "5": "Nueva Gerona",
+        "6": -82.783889,
+        "7": 21.8347222,
+        "10": "America/Havana"
+      },
+      {
+        "1": "Geraldton, Australia (GET)",
+        "2": "airport",
+        "3": "GET",
+        "4": "GET",
+        "5": "Geraldton",
+        "6": 114.706389,
+        "7": -28.796667,
+        "10": "Australia/Perth"
+      },
+      {
+        "1": "Grand Rapids Gerald R. Ford International, MI (GRR)",
+        "2": "airport",
+        "3": "GRR",
+        "4": "GRR",
+        "5": "Grand Rapids",
+        "6": -85.522778,
+        "7": 42.8808333,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Cayman Brac C. Kirkconnell International, Cayman Islands (CYB)",
+        "2": "airport",
+        "3": "CYB",
+        "4": "CYB",
+        "5": "Cayman Brac",
+        "6": -79.882778,
+        "7": 19.6869444,
+        "10": "America/Cayman"
+      },
+      {
+        "1": "Montserrat John A. Osborne, Montserrat (MNI)",
+        "2": "airport",
+        "3": "MNI",
+        "4": "MNI",
+        "5": "Montserrat",
+        "6": -62.194167,
+        "7": 16.7913889,
+        "10": "America/Montserrat"
+      }
+    ]
+  }
+}

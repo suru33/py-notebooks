@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Santo Domingo, Dominican Republic - All airports",
+        "2": "city",
+        "3": "SDQ",
+        "4": "SDQ",
+        "5": "Santo Domingo",
+        "6": -69.7888055566273,
+        "7": 18.48368459367977,
+        "10": "America/Santo_Domingo"
+      },
+      {
+        "1": "Santo Domingo Las Americas International, Dominican Republic (SDQ)",
+        "2": "airport",
+        "3": "SDQ",
+        "4": "SDQ",
+        "5": "Santo Domingo",
+        "6": -69.668889,
+        "7": 18.4297222,
+        "10": "America/Santo_Domingo"
+      }
+    ]
+  }
+}

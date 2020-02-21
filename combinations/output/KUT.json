@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kutaisi International, Georgia (KUT)",
+        "2": "airport",
+        "3": "KUT",
+        "4": "KUT",
+        "5": "Kutaisi",
+        "6": 42.4825,
+        "7": 42.1766667,
+        "10": "Asia/Tbilisi"
+      },
+      {
+        "1": "Kutahya Zafer, Turkey (KZR)",
+        "2": "airport",
+        "3": "KZR",
+        "4": "KZR",
+        "5": "Kutahya",
+        "6": 30.1286111,
+        "7": 39.1127778,
+        "10": "Europe/Istanbul"
+      }
+    ]
+  }
+}

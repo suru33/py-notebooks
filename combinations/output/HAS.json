@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Hail, Saudi Arabia (HAS)",
+        "2": "airport",
+        "3": "HAS",
+        "4": "HAS",
+        "5": "Hail",
+        "6": 41.6863889,
+        "7": 27.4380556,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "Hasvik, Norway (HAA)",
+        "2": "airport",
+        "3": "HAA",
+        "4": "HAA",
+        "5": "Hasvik",
+        "6": 22.1397222,
+        "7": 70.4866667,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Hassi Messaoud Oued Irara, Algeria (HME)",
+        "2": "airport",
+        "3": "HME",
+        "4": "HME",
+        "5": "Hassi Messaoud",
+        "6": 6.14055556,
+        "7": 31.6730556,
+        "10": "Africa/Algiers"
+      },
+      {
+        "1": "Makassar Sultan Hasanuddin, Indonesia (UPG)",
+        "2": "airport",
+        "3": "UPG",
+        "4": "UPG",
+        "5": "Ujung Pandang",
+        "6": 119.554167,
+        "7": -5.0616667,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Laayoune Hassan I, Morocco (EUN)",
+        "2": "airport",
+        "3": "EUN",
+        "4": "EUN",
+        "5": "Laayoune",
+        "6": -13.219167,
+        "7": 27.1516667,
+        "10": "Africa/Casablanca"
+      }
+    ]
+  }
+}

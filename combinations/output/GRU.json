@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sao Paulo Guarulhos International, Brazil (GRU)",
+        "2": "airport",
+        "3": "GRU",
+        "4": "SAO",
+        "5": "Sao Paulo",
+        "6": -46.469444,
+        "7": -23.431944,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Grumeti Kirawira B, Tanzania (GTZ)",
+        "2": "airport",
+        "3": "GTZ",
+        "4": "GTZ",
+        "5": "Grumeti",
+        "6": 34.225,
+        "7": -2.1608333,
+        "10": "Africa/Dar_es_Salaam"
+      }
+    ]
+  }
+}

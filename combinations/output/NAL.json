@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Nalchik, Russia (NAL)",
+        "2": "airport",
+        "3": "NAL",
+        "4": "NAL",
+        "5": "Nalchik",
+        "6": 43.6366667,
+        "7": 43.5127778,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Xinyuan Nalati, China (NLT)",
+        "2": "airport",
+        "3": "NLT",
+        "4": "NLT",
+        "5": "Xinyuan City",
+        "6": 83.3822222,
+        "7": 43.4322222,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

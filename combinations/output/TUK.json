@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Turbat International, Pakistan (TUK)",
+        "2": "airport",
+        "3": "TUK",
+        "4": "TUK",
+        "5": "Turbat",
+        "6": 63.0302778,
+        "7": 25.9863889,
+        "10": "Asia/Karachi"
+      },
+      {
+        "1": "Tuktoyaktuk James Gruben, NT, Canada (YUB)",
+        "2": "airport",
+        "3": "YUB",
+        "4": "YUB",
+        "5": "Tuktoyaktuk",
+        "6": -133.02639,
+        "7": 69.4333333,
+        "10": "America/Edmonton"
+      }
+    ]
+  }
+}

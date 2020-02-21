@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lihue, HI (LIH)",
+        "2": "airport",
+        "3": "LIH",
+        "4": "LIH",
+        "5": "Kauai Island",
+        "6": -159.33611,
+        "7": 21.9763889,
+        "10": "Pacific/Honolulu"
+      },
+      {
+        "1": "Lihir Island Kunaye, Papua New Guinea (LNV)",
+        "2": "airport",
+        "3": "LNV",
+        "4": "LNV",
+        "5": "Lihir Island",
+        "6": 152.627778,
+        "7": -3.0425,
+        "10": "Pacific/Port_Moresby"
+      }
+    ]
+  }
+}

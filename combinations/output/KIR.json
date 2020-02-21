@@ -1,0 +1,116 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kerry, Ireland (KIR)",
+        "2": "airport",
+        "3": "KIR",
+        "4": "KIR",
+        "5": "Kerry County",
+        "6": -9.5238889,
+        "7": 52.1808333,
+        "10": "Europe/Dublin"
+      },
+      {
+        "1": "Kirkwall, United Kingdom (KOI)",
+        "2": "airport",
+        "3": "KOI",
+        "4": "KOI",
+        "5": "Kirkwall",
+        "6": -2.9052778,
+        "7": 58.9577778,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Kirkenes Hoybuktmoen, Norway (KKN)",
+        "2": "airport",
+        "3": "KKN",
+        "4": "KKN",
+        "5": "Kirkenes",
+        "6": 29.8913889,
+        "7": 69.7258333,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Kirov Pobedilovo, Russia (KVX)",
+        "2": "airport",
+        "3": "KVX",
+        "4": "KVX",
+        "5": "Kirov",
+        "6": 49.3422222,
+        "7": 58.5008333,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Kirakira, Solomon Islands (IRA)",
+        "2": "airport",
+        "3": "IRA",
+        "4": "IRA",
+        "5": "Kirakira",
+        "6": 161.898611,
+        "7": -10.449167,
+        "10": "Pacific/Guadalcanal"
+      },
+      {
+        "1": "Kirovsk/Apatity Khibiny, Russia (KVK)",
+        "2": "airport",
+        "3": "KVK",
+        "4": "KVK",
+        "5": "Kirovsk",
+        "6": 33.5802778,
+        "7": 67.5763889,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Kirksville Regional, MO (IRK)",
+        "2": "airport",
+        "3": "IRK",
+        "4": "IRK",
+        "5": "Kirksville",
+        "6": -92.544444,
+        "7": 40.0936111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Kiriwina Island Losuia, Papua New Guinea (LSA)",
+        "2": "airport",
+        "3": "LSA",
+        "4": "LSA",
+        "5": "Losuia",
+        "6": 151.081111,
+        "7": -8.5063889,
+        "10": "Pacific/Port_Moresby"
+      },
+      {
+        "1": "Kiruna, Sweden (KRN)",
+        "2": "airport",
+        "3": "KRN",
+        "4": "KRN",
+        "5": "Kiruna",
+        "6": 20.3366667,
+        "7": 67.8219444,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Kiritimati Cassidy International, Kiribati (CXI)",
+        "2": "airport",
+        "3": "CXI",
+        "4": "CXI",
+        "5": "Christmas Island",
+        "6": -157.35417,
+        "7": 1.98638889,
+        "10": "Pacific/Kiritimati"
+      },
+      {
+        "1": "Kirensk, Russia (KCK)",
+        "2": "airport",
+        "3": "KCK",
+        "4": "KCK",
+        "5": "Kirensk",
+        "6": 108.058611,
+        "7": 57.7727778,
+        "10": "Asia/Irkutsk"
+      }
+    ]
+  }
+}

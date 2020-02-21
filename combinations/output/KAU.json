@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kaunas International, Lithuania (KUN)",
+        "2": "airport",
+        "3": "KUN",
+        "4": "KUN",
+        "5": "Kaunas",
+        "6": 24.0847222,
+        "7": 54.9638889,
+        "10": "Europe/Vilnius"
+      },
+      {
+        "1": "Kauehi, French Polynesia (KHZ)",
+        "2": "airport",
+        "3": "KHZ",
+        "4": "KHZ",
+        "5": "Kauehi",
+        "6": -145.12417,
+        "7": -15.780833,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Kaukura, French Polynesia (KKR)",
+        "2": "airport",
+        "3": "KKR",
+        "4": "KKR",
+        "5": "Kaukura Atoll",
+        "6": -146.88472,
+        "7": -15.663333,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Kaubang, Indonesia (KAZ)",
+        "2": "airport",
+        "3": "KAZ",
+        "4": "KAZ",
+        "5": "Kau",
+        "6": 127.896111,
+        "7": 1.18472222,
+        "10": "Asia/Jayapura"
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Berlin, Germany - All airports",
+        "2": "city",
+        "3": "BER",
+        "4": "BER",
+        "5": "Berlin",
+        "6": 13.401088241152276,
+        "7": 52.47385114319103,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Berlin Brandenburg, Germany (BER)",
+        "2": "airport",
+        "3": "BER",
+        "4": "BER",
+        "5": "Berlin",
+        "6": 13.5033333,
+        "7": 52.3666667,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Berlin Tegel, Germany (TXL)",
+        "2": "airport",
+        "3": "TXL",
+        "4": "BER",
+        "5": "Berlin",
+        "6": 13.2877778,
+        "7": 52.5597222,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Berlin Schoenefeld, Germany (SXF)",
+        "2": "airport",
+        "3": "SXF",
+        "4": "BER",
+        "5": "Berlin",
+        "6": 13.5205556,
+        "7": 52.3786111,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Bergen Flesland, Norway (BGO)",
+        "2": "airport",
+        "3": "BGO",
+        "4": "BGO",
+        "5": "Bergen",
+        "6": 5.21805556,
+        "7": 60.2933333,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Bergerac Roumaniere, France (EGC)",
+        "2": "airport",
+        "3": "EGC",
+        "4": "EGC",
+        "5": "Bergerac",
+        "6": 0.52055556,
+        "7": 44.8244444,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Bermuda L.F Wade International, Bermuda (BDA)",
+        "2": "airport",
+        "3": "BDA",
+        "4": "BDA",
+        "5": "Bermuda",
+        "6": -64.678611,
+        "7": 32.3641667,
+        "10": "Atlantic/Bermuda"
+      },
+      {
+        "1": "Berlevag, Norway (BVG)",
+        "2": "airport",
+        "3": "BVG",
+        "4": "BVG",
+        "5": "Berlevag",
+        "6": 29.0288889,
+        "7": 70.8711111,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Berezovo, Russia (EZV)",
+        "2": "airport",
+        "3": "EZV",
+        "4": "EZV",
+        "5": "Berezovo",
+        "6": 65.0305556,
+        "7": 63.9211111,
+        "10": "Asia/Yekaterinburg"
+      },
+      {
+        "1": "Austin-Bergstrom International, TX (AUS)",
+        "2": "airport",
+        "3": "AUS",
+        "4": "AUS",
+        "5": "Austin",
+        "6": -97.67,
+        "7": 30.1944444,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Bern Belp, Switzerland (BRN)",
+        "2": "airport",
+        "3": "BRN",
+        "4": "BRN",
+        "5": "Berne",
+        "6": 7.49722222,
+        "7": 46.9141667,
+        "10": "Europe/Zurich"
+      },
+      {
+        "1": "Berlin Hbf Railway Station, Germany (QPP)",
+        "2": "rail",
+        "3": "QPP",
+        "4": "BER",
+        "5": "Berlin",
+        "6": 13.3694444,
+        "7": 52.525,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Uruguaiana Rubem Berta International, Brazil (URG)",
+        "2": "airport",
+        "3": "URG",
+        "4": "URG",
+        "5": "Uruguaiana",
+        "6": -57.0375,
+        "7": -29.782222,
+        "10": "America/Sao_Paulo"
+      }
+    ]
+  }
+}

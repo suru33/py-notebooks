@@ -1,0 +1,206 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bangkok, Thailand - All airports",
+        "2": "city",
+        "3": "BKK",
+        "4": "BKK",
+        "5": "Bangkok",
+        "6": 100.69169906155643,
+        "7": 13.776979920214934,
+        "10": "Asia/Bangkok"
+      },
+      {
+        "1": "Bangkok Suvarnabhumi International, Thailand (BKK)",
+        "2": "airport",
+        "3": "BKK",
+        "4": "BKK",
+        "5": "Bangkok",
+        "6": 100.748889,
+        "7": 13.6858333,
+        "10": "Asia/Bangkok"
+      },
+      {
+        "1": "Bangkok Don Mueang International, Thailand (DMK)",
+        "2": "airport",
+        "3": "DMK",
+        "4": "BKK",
+        "5": "Bangkok",
+        "6": 100.606667,
+        "7": 13.9125,
+        "10": "Asia/Bangkok"
+      },
+      {
+        "1": "Bangor International, ME (BGR)",
+        "2": "airport",
+        "3": "BGR",
+        "4": "BGR",
+        "5": "Bangor",
+        "6": -68.828056,
+        "7": 44.8075,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Bandar Seri Begawan Brunei, Brunei Darussalam (BWN)",
+        "2": "airport",
+        "3": "BWN",
+        "4": "BWN",
+        "5": "Bandar Seri Begawan",
+        "6": 114.928333,
+        "7": 4.94416667,
+        "10": "Asia/Brunei"
+      },
+      {
+        "1": "Banjul International, Gambia (BJL)",
+        "2": "airport",
+        "3": "BJL",
+        "4": "BJL",
+        "5": "Banjul",
+        "6": -16.652222,
+        "7": 13.3380556,
+        "10": "Africa/Banjul"
+      },
+      {
+        "1": "Bandung Husein Sastranegara, Indonesia (BDO)",
+        "2": "airport",
+        "3": "BDO",
+        "4": "BDO",
+        "5": "Bandung",
+        "6": 107.576389,
+        "7": -6.9005556,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Bandar Abbas International, Iran (BND)",
+        "2": "airport",
+        "3": "BND",
+        "4": "BND",
+        "5": "Bandar Abbas",
+        "6": 56.3777778,
+        "7": 27.2186111,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Banjarmasin Syamsudin Noor, Indonesia (BDJ)",
+        "2": "airport",
+        "3": "BDJ",
+        "4": "BDJ",
+        "5": "Banjarmasin",
+        "6": 114.7625,
+        "7": -3.4422222,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Bandar Lampung Radin Inten II, Indonesia (TKG)",
+        "2": "airport",
+        "3": "TKG",
+        "4": "TKG",
+        "5": "Bandar Lampung",
+        "6": 105.178889,
+        "7": -5.2422222,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Banda Aceh Sultan Iskandar Muda, Indonesia (BTJ)",
+        "2": "airport",
+        "3": "BTJ",
+        "4": "BTJ",
+        "5": "Banda Aceh",
+        "6": 95.4202778,
+        "7": 5.52361111,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Bangui Mpoko International, Central African Republic (BGF)",
+        "2": "airport",
+        "3": "BGF",
+        "4": "BGF",
+        "5": "Bangui",
+        "6": 18.52,
+        "7": 4.39777778,
+        "10": "Africa/Bangui"
+      },
+      {
+        "1": "Banja Luka International, Bosnia-Herzegovina (BNX)",
+        "2": "airport",
+        "3": "BNX",
+        "4": "BNX",
+        "5": "Banja Luka",
+        "6": 17.2975,
+        "7": 44.9413889,
+        "10": "Europe/Sarajevo"
+      },
+      {
+        "1": "Qamdo/Changdu Bamda/Bangda, China (BPX)",
+        "2": "airport",
+        "3": "BPX",
+        "4": "BPX",
+        "5": "Bangda",
+        "6": 97.1105556,
+        "7": 30.5511111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Bandar Mahshahr, Iran (MRX)",
+        "2": "airport",
+        "3": "MRX",
+        "4": "MRX",
+        "5": "Bandar Mahshahr",
+        "6": 49.1558333,
+        "7": 30.5522222,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Banyuwangi Blimbingsari, Indonesia (BWX)",
+        "2": "airport",
+        "3": "BWX",
+        "4": "BWX",
+        "5": "Banyuwangi",
+        "6": 114.34,
+        "7": -8.3102778,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Bandar Lengeh, Iran (BDH)",
+        "2": "airport",
+        "3": "BDH",
+        "4": "BDH",
+        "5": "Bandar Lengeh",
+        "6": 54.8275,
+        "7": 26.5313889,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Colombo Bandaranaike International, Sri Lanka (CMB)",
+        "2": "airport",
+        "3": "CMB",
+        "4": "CMB",
+        "5": "Colombo",
+        "6": 79.8852778,
+        "7": 7.18027778,
+        "10": "Asia/Colombo"
+      },
+      {
+        "1": "Lubango Mukanka, Angola (SDD)",
+        "2": "airport",
+        "3": "SDD",
+        "4": "SDD",
+        "5": "Lubango",
+        "6": 13.575,
+        "7": -14.924722,
+        "10": "Africa/Luanda"
+      },
+      {
+        "1": "Lakselv Banak, Norway (LKL)",
+        "2": "airport",
+        "3": "LKL",
+        "4": "LKL",
+        "5": "Lakselv",
+        "6": 24.9736111,
+        "7": 70.0688889,
+        "10": "Europe/Oslo"
+      }
+    ]
+  }
+}

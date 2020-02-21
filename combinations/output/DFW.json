@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dallas/Fort Worth, TX - All airports",
+        "2": "city",
+        "3": "DFW",
+        "4": "DFW",
+        "5": "Dallas/Fort Worth",
+        "6": -96.97058100183683,
+        "7": 32.878944382007155,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Dallas/Fort Worth International, TX (DFW)",
+        "2": "airport",
+        "3": "DFW",
+        "4": "DFW",
+        "5": "Dallas/Fort Worth",
+        "6": -97.038056,
+        "7": 32.8969444,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

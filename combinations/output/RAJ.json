@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Rajkot, India (RAJ)",
+        "2": "airport",
+        "3": "RAJ",
+        "4": "RAJ",
+        "5": "Rajkot",
+        "6": 70.7794444,
+        "7": 22.3091667,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Rajahmundry, India (RJA)",
+        "2": "airport",
+        "3": "RJA",
+        "4": "RJA",
+        "5": "Rajahmundry",
+        "6": 81.8194444,
+        "7": 17.11,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Rajbiraj, Nepal (RJB)",
+        "2": "airport",
+        "3": "RJB",
+        "4": "RJB",
+        "5": "Rajbiraj",
+        "6": 86.7347222,
+        "7": 26.51,
+        "10": "Asia/Katmandu"
+      },
+      {
+        "1": "Rajshahi Shah Makhdum, Bangladesh (RJH)",
+        "2": "airport",
+        "3": "RJH",
+        "4": "RJH",
+        "5": "Rajshahi",
+        "6": 88.6163889,
+        "7": 24.4372222,
+        "10": "Asia/Dhaka"
+      },
+      {
+        "1": "Amritsar Sri Guru Ram Dass Jee, India (ATQ)",
+        "2": "airport",
+        "3": "ATQ",
+        "4": "ATQ",
+        "5": "Amritsar",
+        "6": 74.7972222,
+        "7": 31.7097222,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

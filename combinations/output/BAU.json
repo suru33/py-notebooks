@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bari Central Railway Station, Italy (BAU)",
+        "2": "rail",
+        "3": "BAU",
+        "4": "BRI",
+        "5": "Bari",
+        "6": 16.8694444,
+        "7": 41.1177778,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Bauru Moussa Nakhl Tobias, Brazil (JTC)",
+        "2": "airport",
+        "3": "JTC",
+        "4": "JTC",
+        "5": "Bauru",
+        "6": -49.069167,
+        "7": -22.163611,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Baubau Betoambari, Indonesia (BUW)",
+        "2": "airport",
+        "3": "BUW",
+        "4": "BUW",
+        "5": "Baubau",
+        "6": 122.568889,
+        "7": -5.4875,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Bauchi, Nigeria (BCU)",
+        "2": "airport",
+        "3": "BCU",
+        "4": "BCU",
+        "5": "Bauchi",
+        "6": 9.81722222,
+        "7": 10.2925,
+        "10": "Africa/Lagos"
+      },
+      {
+        "1": "Port Vila Bauerfield International, Vanuatu (VLI)",
+        "2": "airport",
+        "3": "VLI",
+        "4": "VLI",
+        "5": "Port Vila",
+        "6": 168.319722,
+        "7": -17.699444,
+        "10": "Pacific/Efate"
+      }
+    ]
+  }
+}

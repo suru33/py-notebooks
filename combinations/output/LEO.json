@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Leon/Guanajuato Del Bajio International, Mexico (BJX)",
+        "2": "airport",
+        "3": "BJX",
+        "4": "BJX",
+        "5": "Leon/Guanajuato",
+        "6": -101.48083,
+        "7": 20.9933333,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Leon, Spain (LEN)",
+        "2": "airport",
+        "3": "LEN",
+        "4": "LEN",
+        "5": "Leon",
+        "6": -5.6555556,
+        "7": 42.5888889,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Rome Fiumicino, Italy (FCO)",
+        "2": "airport",
+        "3": "FCO",
+        "4": "ROM",
+        "5": "Rome",
+        "6": 12.2388889,
+        "7": 41.8002778,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Leonora, Australia (LNO)",
+        "2": "airport",
+        "3": "LNO",
+        "4": "LNO",
+        "5": "Leonora",
+        "6": 121.3125,
+        "7": -28.881944,
+        "10": "Australia/Perth"
+      },
+      {
+        "1": "Leon Railway Station, Spain (EEU)",
+        "2": "rail",
+        "3": "EEU",
+        "4": "LEN",
+        "5": "Leon",
+        "6": -5.5827778,
+        "7": 42.5961111,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Leon Bus Station, Spain (LZB)",
+        "2": "bus",
+        "3": "LZB",
+        "4": "LEN",
+        "5": "Leon",
+        "6": -5.5783333,
+        "7": 42.5919444,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Libreville Leon M'ba International, Gabon (LBV)",
+        "2": "airport",
+        "3": "LBV",
+        "4": "LBV",
+        "5": "Libreville",
+        "6": 9.41222222,
+        "7": 0.45861111,
+        "10": "Africa/Libreville"
+      },
+      {
+        "1": "La Paz Manuel Marquez de Leon, Mexico (LAP)",
+        "2": "airport",
+        "3": "LAP",
+        "4": "LAP",
+        "5": "La Paz",
+        "6": -110.3625,
+        "7": 24.0727778,
+        "10": "America/Mazatlan"
+      }
+    ]
+  }
+}

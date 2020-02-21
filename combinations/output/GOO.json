@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Goose Bay, NL, Canada (YYR)",
+        "2": "airport",
+        "3": "YYR",
+        "4": "YYR",
+        "5": "Goose Bay",
+        "6": -60.410556,
+        "7": 53.3194444,
+        "10": "America/Halifax"
+      },
+      {
+        "1": "Goodnews Bay, AK (GNU)",
+        "2": "airport",
+        "3": "GNU",
+        "4": "GNU",
+        "5": "Goodnews Bay",
+        "6": -161.57611,
+        "7": 59.1177778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "El Dorado South Arkansas Regional, AR (ELD)",
+        "2": "airport",
+        "3": "ELD",
+        "4": "ELD",
+        "5": "El Dorado",
+        "6": -92.813333,
+        "7": 33.2211111,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Watertown Regional, SD (ATY)",
+        "2": "airport",
+        "3": "ATY",
+        "4": "ATY",
+        "5": "Watertown",
+        "6": -97.151111,
+        "7": 44.9136111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Atyrau, Kazakhstan (GUW)",
+        "2": "airport",
+        "3": "GUW",
+        "4": "GUW",
+        "5": "Atyrau",
+        "6": 51.8213889,
+        "7": 47.1219444,
+        "10": "Asia/Aqtau"
+      }
+    ]
+  }
+}

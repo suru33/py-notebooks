@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Yining, China (YIN)",
+        "2": "airport",
+        "3": "YIN",
+        "4": "YIN",
+        "5": "Yining",
+        "6": 81.3288889,
+        "7": 43.9552778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Yinchuan Hedong, China (INC)",
+        "2": "airport",
+        "3": "INC",
+        "4": "INC",
+        "5": "Yinchuan",
+        "6": 106.011944,
+        "7": 38.4933333,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Yingkou, China (YKH)",
+        "2": "airport",
+        "3": "YKH",
+        "4": "YKH",
+        "5": "Yingkou",
+        "6": 122.3575,
+        "7": 40.5419444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Yingkoudong Railway St, China (YDD)",
+        "2": "rail",
+        "3": "YDD",
+        "4": "YKH",
+        "5": "Yingkou",
+        "6": 122.424722,
+        "7": 40.6261111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Yingkou Bayuquan Railway St, China (JYQ)",
+        "2": "rail",
+        "3": "JYQ",
+        "4": "YKH",
+        "5": "Yingkou",
+        "6": 122.094722,
+        "7": 40.1877778,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

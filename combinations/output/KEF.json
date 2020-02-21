@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Reykjavik Keflavik International, Iceland (KEF)",
+        "2": "airport",
+        "3": "KEF",
+        "4": "REK",
+        "5": "Reykjavik",
+        "6": -22.605556,
+        "7": 63.985,
+        "10": "Atlantic/Reykjavik"
+      },
+      {
+        "1": "Kefallinia, Greece (EFL)",
+        "2": "airport",
+        "3": "EFL",
+        "4": "EFL",
+        "5": "Kefallinia",
+        "6": 20.5005556,
+        "7": 38.12,
+        "10": "Europe/Athens"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Jammu Satwari, India (IXJ)",
+        "2": "airport",
+        "3": "IXJ",
+        "4": "IXJ",
+        "5": "Jammu",
+        "6": 74.8375,
+        "7": 32.6891667,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Jambi Sultan Thaha, Indonesia (DJB)",
+        "2": "airport",
+        "3": "DJB",
+        "4": "DJB",
+        "5": "Jambi",
+        "6": 103.644444,
+        "7": -1.6380556,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Jamestown Regional, ND (JMS)",
+        "2": "airport",
+        "3": "JMS",
+        "4": "JMS",
+        "5": "Jamestown",
+        "6": -98.678333,
+        "7": 46.9297222,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Jamestown Saint Helena, Saint Helena (Ascension Island) (HLE)",
+        "2": "airport",
+        "3": "HLE",
+        "4": "HLE",
+        "5": "Jamestown",
+        "6": -5.645,
+        "7": -15.958056,
+        "10": "Atlantic/St_Helena"
+      },
+      {
+        "1": "Jamnagar Govardhanpur, India (JGA)",
+        "2": "airport",
+        "3": "JGA",
+        "4": "JGA",
+        "5": "Jamnagar",
+        "6": 70.0125,
+        "7": 22.4655556,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

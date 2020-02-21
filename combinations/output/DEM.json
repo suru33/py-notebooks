@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dembi Dolo, Ethiopia (DEM)",
+        "2": "airport",
+        "3": "DEM",
+        "4": "DEM",
+        "5": "Dembidollo",
+        "6": 34.8575,
+        "7": 8.55472222,
+        "10": "Africa/Addis_Ababa"
+      },
+      {
+        "1": "Maringa Silvio Name Jr., Brazil (MGF)",
+        "2": "airport",
+        "3": "MGF",
+        "4": "MGF",
+        "5": "Maringa",
+        "6": -52.015833,
+        "7": -23.476111,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Alexandroupolis Dimokritos, Greece (AXD)",
+        "2": "airport",
+        "3": "AXD",
+        "4": "AXD",
+        "5": "Alexandroupolis",
+        "6": 25.9563889,
+        "7": 40.8558333,
+        "10": "Europe/Athens"
+      }
+    ]
+  }
+}

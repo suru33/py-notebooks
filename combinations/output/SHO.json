@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Manzini King Mswati III International, Swaziland (SHO)",
+        "2": "airport",
+        "3": "SHO",
+        "4": "MTS",
+        "5": "Manzini",
+        "6": 31.7172222,
+        "7": -26.356944,
+        "10": "Africa/Mbabane"
+      },
+      {
+        "1": "Show Low Regional, AZ (SOW)",
+        "2": "airport",
+        "3": "SOW",
+        "4": "SOW",
+        "5": "Show Low",
+        "6": -110.0,
+        "7": 34.2666667,
+        "10": "America/Phoenix"
+      },
+      {
+        "1": "Shonai, Japan (SYO)",
+        "2": "airport",
+        "3": "SYO",
+        "4": "SYO",
+        "5": "Shonai",
+        "6": 139.787222,
+        "7": 38.8122222,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

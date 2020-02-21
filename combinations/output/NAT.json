@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Natal International, Brazil (NAT)",
+        "2": "airport",
+        "3": "NAT",
+        "4": "NAT",
+        "5": "Natal",
+        "6": -35.376111,
+        "7": -5.7680556,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Washington Ronald Reagan National, DC (DCA)",
+        "2": "airport",
+        "3": "DCA",
+        "4": "WAS",
+        "5": "Washington",
+        "6": -77.037778,
+        "7": 38.8522222,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Natashquan, QC, Canada (YNA)",
+        "2": "airport",
+        "3": "YNA",
+        "4": "YNA",
+        "5": "Natashquan",
+        "6": -61.789167,
+        "7": 50.19,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Natuashish, NL, Canada (YNP)",
+        "2": "airport",
+        "3": "YNP",
+        "4": "YNP",
+        "5": "Natuashish",
+        "6": -61.184444,
+        "7": 55.9138889,
+        "10": "America/Halifax"
+      },
+      {
+        "1": "Natuna Ranai, Indonesia (NTX)",
+        "2": "airport",
+        "3": "NTX",
+        "4": "NTX",
+        "5": "Natuna",
+        "6": 108.387778,
+        "7": 3.90611111,
+        "10": "Asia/Jakarta"
+      }
+    ]
+  }
+}

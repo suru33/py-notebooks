@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Cairo International, Egypt (CAI)",
+        "2": "airport",
+        "3": "CAI",
+        "4": "CAI",
+        "5": "Cairo",
+        "6": 31.4055556,
+        "7": 30.1219444,
+        "10": "Africa/Cairo"
+      },
+      {
+        "1": "Cairns International, Australia (CNS)",
+        "2": "airport",
+        "3": "CNS",
+        "4": "CNS",
+        "5": "Cairns",
+        "6": 145.748889,
+        "7": -16.878056,
+        "10": "Australia/Brisbane"
+      }
+    ]
+  }
+}

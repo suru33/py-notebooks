@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Alice Springs, Australia (ASP)",
+        "2": "airport",
+        "3": "ASP",
+        "4": "ASP",
+        "5": "Alice Springs",
+        "6": 133.902222,
+        "7": -23.806667,
+        "10": "Australia/Darwin"
+      },
+      {
+        "1": "Aspen Pitkin County, CO (ASE)",
+        "2": "airport",
+        "3": "ASE",
+        "4": "ASE",
+        "5": "Aspen",
+        "6": -106.86722,
+        "7": 39.2191667,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

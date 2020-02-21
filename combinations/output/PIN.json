@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Pingxiang Railway Station, China (PXG)",
+        "2": "rail",
+        "3": "PXG",
+        "4": "PXG",
+        "5": "Pingxiang",
+        "6": 113.841944,
+        "7": 27.6463889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Joao Pessoa Castro Pinto International, Brazil (JPA)",
+        "2": "airport",
+        "3": "JPA",
+        "4": "JPA",
+        "5": "Joao Pessoa",
+        "6": -34.950556,
+        "7": -7.1483333,
+        "10": "America/Belem"
+      }
+    ]
+  }
+}

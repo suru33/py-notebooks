@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Munich, Germany - All airports",
+        "2": "city",
+        "3": "MUC",
+        "4": "MUC",
+        "5": "Munich",
+        "6": 11.696473578934645,
+        "7": 48.308854484786636,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Munich Franz Joseph Strauss Int'l, Germany (MUC)",
+        "2": "airport",
+        "3": "MUC",
+        "4": "MUC",
+        "5": "Munich",
+        "6": 11.7861111,
+        "7": 48.3538889,
+        "10": "Europe/Berlin"
+      }
+    ]
+  }
+}

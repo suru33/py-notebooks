@@ -1,0 +1,176 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kaltag, AK (KAL)",
+        "2": "airport",
+        "3": "KAL",
+        "4": "KAL",
+        "5": "Kaltag",
+        "6": -158.74306,
+        "7": 64.3180556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Kalispell Glacier Park International, MT (FCA)",
+        "2": "airport",
+        "3": "FCA",
+        "4": "FCA",
+        "5": "Kalispell",
+        "6": -114.25611,
+        "7": 48.3105556,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Kalamazoo/Battle Creek International, MI (AZO)",
+        "2": "airport",
+        "3": "AZO",
+        "4": "AZO",
+        "5": "Kalamazoo",
+        "6": -85.551944,
+        "7": 42.235,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Kalamata, Greece (KLX)",
+        "2": "airport",
+        "3": "KLX",
+        "4": "KLX",
+        "5": "Kalamata",
+        "6": 22.0255556,
+        "7": 37.0683333,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Kaliningrad Khrabrovo, Russia (KGD)",
+        "2": "airport",
+        "3": "KGD",
+        "4": "KGD",
+        "5": "Kaliningrad",
+        "6": 20.5925,
+        "7": 54.89,
+        "10": "Europe/Kaliningrad"
+      },
+      {
+        "1": "Kalibo International, Philippines (KLO)",
+        "2": "airport",
+        "3": "KLO",
+        "4": "KLO",
+        "5": "Kalibo",
+        "6": 122.381111,
+        "7": 11.6844444,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Kaluga Grabtsevo, Russia (KLF)",
+        "2": "airport",
+        "3": "KLF",
+        "4": "KLF",
+        "5": "Kaluga",
+        "6": 36.3716667,
+        "7": 54.5486111,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Kalymnos Island, Greece (JKL)",
+        "2": "airport",
+        "3": "JKL",
+        "4": "JKL",
+        "5": "Kalymnos Island",
+        "6": 26.9411111,
+        "7": 36.9633333,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Kalskag, AK (KLG)",
+        "2": "airport",
+        "3": "KLG",
+        "4": "KLG",
+        "5": "Kalskag",
+        "6": -160.34778,
+        "7": 61.5358333,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Kalaupapa, HI (LUP)",
+        "2": "airport",
+        "3": "LUP",
+        "4": "LUP",
+        "5": "Kalaupapa",
+        "6": -156.97556,
+        "7": 21.2102778,
+        "10": "Pacific/Honolulu"
+      },
+      {
+        "1": "Kalemyo, Myanmar (KMV)",
+        "2": "airport",
+        "3": "KMV",
+        "4": "KMV",
+        "5": "Kalemyo",
+        "6": 94.0519444,
+        "7": 23.1888889,
+        "10": "Asia/Rangoon"
+      },
+      {
+        "1": "Kalemie, Congo (Zaire) (FMI)",
+        "2": "airport",
+        "3": "FMI",
+        "4": "FMI",
+        "5": "Kalemie",
+        "6": 29.2461111,
+        "7": -5.8777778,
+        "10": "Africa/Lubumbashi"
+      },
+      {
+        "1": "Kalmar, Sweden (KLR)",
+        "2": "airport",
+        "3": "KLR",
+        "4": "KLR",
+        "5": "Kalmar",
+        "6": 16.2875,
+        "7": 56.6855556,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Kalgoorlie-Boulder, Australia (KGI)",
+        "2": "airport",
+        "3": "KGI",
+        "4": "KGI",
+        "5": "Kalgoorlie",
+        "6": 121.463611,
+        "7": -30.791389,
+        "10": "Australia/Perth"
+      },
+      {
+        "1": "Kalabo, Zambia (KLB)",
+        "2": "airport",
+        "3": "KLB",
+        "4": "KLB",
+        "5": "Kalabo",
+        "6": 22.6483333,
+        "7": -14.998889,
+        "10": "Africa/Lusaka"
+      },
+      {
+        "1": "Lulea Kallax, Sweden (LLA)",
+        "2": "airport",
+        "3": "LLA",
+        "4": "LLA",
+        "5": "Lulea",
+        "6": 22.1219444,
+        "7": 65.5438889,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Ronneby/Karlskrona Kallinge, Sweden (RNB)",
+        "2": "airport",
+        "3": "RNB",
+        "4": "RNB",
+        "5": "Ronneby",
+        "6": 15.265,
+        "7": 56.2666667,
+        "10": "Europe/Stockholm"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Des Moines International, IA (DSM)",
+        "2": "airport",
+        "3": "DSM",
+        "4": "DSM",
+        "5": "Des Moines",
+        "6": -93.657778,
+        "7": 41.5341667,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Destin-Ft Walton Beach, FL (VPS)",
+        "2": "airport",
+        "3": "VPS",
+        "4": "VPS",
+        "5": "Valparaiso",
+        "6": -86.52,
+        "7": 30.4866667,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Dessie Kombolcha, Ethiopia (DSE)",
+        "2": "airport",
+        "3": "DSE",
+        "4": "DSE",
+        "5": "Dessie",
+        "6": 39.7166667,
+        "7": 11.0833333,
+        "10": "Africa/Addis_Ababa"
+      },
+      {
+        "1": "Copiapo Desierto de Atacama, Chile (CPO)",
+        "2": "airport",
+        "3": "CPO",
+        "4": "CPO",
+        "5": "Copiapo",
+        "6": -70.779167,
+        "7": -27.261667,
+        "10": "America/Santiago"
+      }
+    ]
+  }
+}

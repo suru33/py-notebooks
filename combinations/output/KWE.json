@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Guiyang Longdongbao International, China (KWE)",
+        "2": "airport",
+        "3": "KWE",
+        "4": "KWE",
+        "5": "Guiyang",
+        "6": 106.800833,
+        "7": 26.5386111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Kwethluk, AK (KWT)",
+        "2": "airport",
+        "3": "KWT",
+        "4": "KWT",
+        "5": "Kwethluk",
+        "6": -161.44194,
+        "7": 60.7936111,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

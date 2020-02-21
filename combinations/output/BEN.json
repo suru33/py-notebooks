@@ -1,0 +1,96 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Benghazi Benina International, Libya (BEN)",
+        "2": "airport",
+        "3": "BEN",
+        "4": "BEN",
+        "5": "Benghazi",
+        "6": 20.2694444,
+        "7": 32.0966667,
+        "10": "Africa/Tripoli"
+      },
+      {
+        "1": "Bengaluru Kempegowda International, India (BLR)",
+        "2": "airport",
+        "3": "BLR",
+        "4": "BLR",
+        "5": "Bangalore",
+        "6": 77.7055556,
+        "7": 13.1988889,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Bengkulu Fatmawati Soekarno, Indonesia (BKS)",
+        "2": "airport",
+        "3": "BKS",
+        "4": "BKS",
+        "5": "Bengkulu",
+        "6": 102.339167,
+        "7": -3.8636111,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Benbecula, United Kingdom (BEB)",
+        "2": "airport",
+        "3": "BEB",
+        "4": "BEB",
+        "5": "Benbecula",
+        "6": -7.3663889,
+        "7": 57.4775,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Beni Mavivi, Congo (Zaire) (BNC)",
+        "2": "airport",
+        "3": "BNC",
+        "4": "BNC",
+        "5": "Beni",
+        "6": 29.4688889,
+        "7": 0.57777778,
+        "10": "Africa/Lubumbashi"
+      },
+      {
+        "1": "Beni Mellal National, Morocco (BEM)",
+        "2": "airport",
+        "3": "BEM",
+        "4": "BEM",
+        "5": "Beni Mellal",
+        "6": -6.3172222,
+        "7": 32.4,
+        "10": "Africa/Casablanca"
+      },
+      {
+        "1": "Benin City, Nigeria (BNI)",
+        "2": "airport",
+        "3": "BNI",
+        "4": "BNI",
+        "5": "Benin City",
+        "6": 5.59944444,
+        "7": 6.31694444,
+        "10": "Africa/Lagos"
+      },
+      {
+        "1": "Bendigo, Australia (BXG)",
+        "2": "airport",
+        "3": "BXG",
+        "4": "BXG",
+        "5": "Bendigo",
+        "6": 144.318611,
+        "7": -36.734722,
+        "10": "Australia/Sydney"
+      },
+      {
+        "1": "Clarksburg North Central W.V., WV (CKB)",
+        "2": "airport",
+        "3": "CKB",
+        "4": "CKB",
+        "5": "Clarksburg",
+        "6": -80.228056,
+        "7": 39.2966667,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

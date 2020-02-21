@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kudat, Malaysia (KUD)",
+        "2": "airport",
+        "3": "KUD",
+        "4": "KUD",
+        "5": "Kudat",
+        "6": 116.837222,
+        "7": 6.92333333,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Kudahuvadhoo Dhaalu Atoll, Maldives (DDD)",
+        "2": "airport",
+        "3": "DDD",
+        "4": "DDD",
+        "5": "Kudahuvadhoo",
+        "6": 72.8902778,
+        "7": 2.66527778,
+        "10": "Indian/Maldives"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bagan/Nyaung-u, Myanmar (NYU)",
+        "2": "airport",
+        "3": "NYU",
+        "4": "NYU",
+        "5": "Nyaung-U",
+        "6": 94.9305556,
+        "7": 21.1775,
+        "10": "Asia/Rangoon"
+      },
+      {
+        "1": "Nyurba, Russia (NYR)",
+        "2": "airport",
+        "3": "NYR",
+        "4": "NYR",
+        "5": "Nyurba",
+        "6": 118.340833,
+        "7": 63.2961111,
+        "10": "Asia/Yakutsk"
+      }
+    ]
+  }
+}

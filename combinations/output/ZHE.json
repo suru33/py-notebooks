@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Zhengzhou Xinzheng International, China (CGO)",
+        "2": "airport",
+        "3": "CGO",
+        "4": "CGO",
+        "5": "Zhengzhou",
+        "6": 113.841111,
+        "7": 34.5194444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Zhezkazgan, Kazakhstan (DZN)",
+        "2": "airport",
+        "3": "DZN",
+        "4": "DZN",
+        "5": "Zhezkazgan",
+        "6": 67.7402778,
+        "7": 47.71,
+        "10": "Asia/Almaty"
+      },
+      {
+        "1": "Zhenjiang Railway Station, China (ZUJ)",
+        "2": "rail",
+        "3": "ZUJ",
+        "4": "ZUJ",
+        "5": "Zhenjiang",
+        "6": 119.4275,
+        "7": 32.1988889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Zhengzhou Railway Station, China (TTZ)",
+        "2": "rail",
+        "3": "TTZ",
+        "4": "CGO",
+        "5": "Zhengzhou",
+        "6": 113.66,
+        "7": 34.7472222,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

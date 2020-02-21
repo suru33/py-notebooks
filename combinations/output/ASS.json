@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Arathusa Safari Lodge, South Africa (ASS)",
+        "2": "airport",
+        "3": "ASS",
+        "4": "ASS",
+        "5": "Arathusa Safari Lodge",
+        "6": 31.5183333,
+        "7": -24.741111,
+        "10": "Africa/Johannesburg"
+      },
+      {
+        "1": "Assab International, Eritrea (ASA)",
+        "2": "airport",
+        "3": "ASA",
+        "4": "ASA",
+        "5": "Assab",
+        "6": 42.645,
+        "7": 13.0716667,
+        "10": "Africa/Asmara"
+      }
+    ]
+  }
+}

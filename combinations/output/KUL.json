@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kuala Lumpur, Malaysia - All airports",
+        "2": "city",
+        "3": "KUL",
+        "4": "KUL",
+        "5": "Kuala Lumpur",
+        "6": 101.67707899011417,
+        "7": 2.833889294086395,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Kuala Lumpur International, Malaysia (KUL)",
+        "2": "airport",
+        "3": "KUL",
+        "4": "KUL",
+        "5": "Kuala Lumpur",
+        "6": 101.714722,
+        "7": 2.74555556,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Kulusuk, Greenland (KUS)",
+        "2": "airport",
+        "3": "KUS",
+        "4": "KUS",
+        "5": "Kulusuk Island",
+        "6": -37.134167,
+        "7": 65.5733333,
+        "10": "America/Godthab"
+      },
+      {
+        "1": "Kulob, Tajikistan (TJU)",
+        "2": "airport",
+        "3": "TJU",
+        "4": "TJU",
+        "5": "Kulyab",
+        "6": 69.8052778,
+        "7": 37.9883333,
+        "10": "Asia/Dushanbe"
+      },
+      {
+        "1": "Kullu Bhuntar, India (KUU)",
+        "2": "airport",
+        "3": "KUU",
+        "4": "KUU",
+        "5": "Kulu",
+        "6": 77.1544444,
+        "7": 31.8766667,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Kullorsuaq Heliport, Greenland (KHQ)",
+        "2": "helipad",
+        "3": "KHQ",
+        "4": "KHQ",
+        "5": "Kullorsuaq",
+        "6": -57.235556,
+        "7": 74.5794444,
+        "10": "America/Godthab"
+      }
+    ]
+  }
+}

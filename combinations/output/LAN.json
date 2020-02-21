@@ -1,0 +1,156 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lansing Capital Region International, MI (LAN)",
+        "2": "airport",
+        "3": "LAN",
+        "4": "LAN",
+        "5": "Lansing",
+        "6": -84.587222,
+        "7": 42.7786111,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Lanzhou, China - All airports",
+        "2": "city",
+        "3": "LHW",
+        "4": "LHW",
+        "5": "Lanzhou",
+        "6": 103.62872899006818,
+        "7": 36.471685409214736,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Lanzhou Zhongchuan, China (LHW)",
+        "2": "airport",
+        "3": "LHW",
+        "4": "LHW",
+        "5": "Lanzhou",
+        "6": 103.616667,
+        "7": 36.5166667,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Lanzarote, Spain (ACE)",
+        "2": "airport",
+        "3": "ACE",
+        "4": "ACE",
+        "5": "Lanzarote",
+        "6": -13.605278,
+        "7": 28.9455556,
+        "10": "Atlantic/Canary"
+      },
+      {
+        "1": "Langkawi International, Malaysia (LGK)",
+        "2": "airport",
+        "3": "LGK",
+        "4": "LGK",
+        "5": "Langkawi",
+        "6": 99.7322222,
+        "7": 6.33861111,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Langgur Dumatubun, Indonesia (LUV)",
+        "2": "airport",
+        "3": "LUV",
+        "4": "LUV",
+        "5": "Langgur",
+        "6": 132.731389,
+        "7": -5.6616667,
+        "10": "Asia/Jayapura"
+      },
+      {
+        "1": "Lancaster, PA (LNS)",
+        "2": "airport",
+        "3": "LNS",
+        "4": "LNS",
+        "5": "Lancaster",
+        "6": -76.296111,
+        "7": 40.1216667,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Lanai City, HI (LNY)",
+        "2": "airport",
+        "3": "LNY",
+        "4": "LNY",
+        "5": "Lanai City",
+        "6": -156.95139,
+        "7": 20.7855556,
+        "10": "Pacific/Honolulu"
+      },
+      {
+        "1": "Lankaran, Azerbaijan (LLK)",
+        "2": "airport",
+        "3": "LLK",
+        "4": "LLK",
+        "5": "Lankaran",
+        "6": 48.8063889,
+        "7": 38.7588889,
+        "10": "Asia/Baku"
+      },
+      {
+        "1": "Lancang Jingmai, China (JMJ)",
+        "2": "airport",
+        "3": "JMJ",
+        "4": "JMJ",
+        "5": "Lancang",
+        "6": 99.7841667,
+        "7": 22.4175,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Lancaster Railway Station, United Kingdom (XQL)",
+        "2": "rail",
+        "3": "XQL",
+        "4": "XQL",
+        "5": "Lancaster Rail Station",
+        "6": -2.8077778,
+        "7": 54.0488889,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Goteborg Landvetter, Sweden (GOT)",
+        "2": "airport",
+        "3": "GOT",
+        "4": "GOT",
+        "5": "Gothenburg",
+        "6": 12.2797222,
+        "7": 57.6627778,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Tromso Langnes, Norway (TOS)",
+        "2": "airport",
+        "3": "TOS",
+        "4": "TOS",
+        "5": "Tromso",
+        "6": 18.9188889,
+        "7": 69.6833333,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Lorient Lann Bihoue, France (LRT)",
+        "2": "airport",
+        "3": "LRT",
+        "4": "LRT",
+        "5": "Lorient",
+        "6": -3.44,
+        "7": 47.7605556,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Johannesburg Lanseria International, South Africa (HLA)",
+        "2": "airport",
+        "3": "HLA",
+        "4": "JNB",
+        "5": "Johannesburg",
+        "6": 27.9261111,
+        "7": -25.938611,
+        "10": "Africa/Johannesburg"
+      }
+    ]
+  }
+}

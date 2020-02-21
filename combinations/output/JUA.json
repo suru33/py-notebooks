@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Juazeiro do Norte O. Bezerra de Menezes, Brazil (JDO)",
+        "2": "airport",
+        "3": "JDO",
+        "4": "JDO",
+        "5": "Juazeiro do Norte",
+        "6": -39.271389,
+        "7": -7.2186111,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Mexico City Benito Juarez International, Mexico (MEX)",
+        "2": "airport",
+        "3": "MEX",
+        "4": "MEX",
+        "5": "Mexico City",
+        "6": -99.072222,
+        "7": 19.4363889,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "San Jose Juan Santamaria International, Costa Rica (SJO)",
+        "2": "airport",
+        "3": "SJO",
+        "4": "SJO",
+        "5": "San Jose",
+        "6": -84.208889,
+        "7": 9.99388889,
+        "10": "America/Costa_Rica"
+      },
+      {
+        "1": "Surabaya Juanda, Indonesia (SUB)",
+        "2": "airport",
+        "3": "SUB",
+        "4": "SUB",
+        "5": "Surabaya",
+        "6": 112.786944,
+        "7": -7.3797222,
+        "10": "Asia/Jakarta"
+      }
+    ]
+  }
+}

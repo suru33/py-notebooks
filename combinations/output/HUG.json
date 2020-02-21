@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Hughes, AK (HUS)",
+        "2": "airport",
+        "3": "HUS",
+        "4": "HUS",
+        "5": "Hughes",
+        "6": -154.26111,
+        "7": 66.0430556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Hughenden, Australia (HGD)",
+        "2": "airport",
+        "3": "HGD",
+        "4": "HGD",
+        "5": "Hughenden",
+        "6": 144.225278,
+        "7": -20.813056,
+        "10": "Australia/Brisbane"
+      }
+    ]
+  }
+}

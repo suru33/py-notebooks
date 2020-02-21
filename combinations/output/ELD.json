@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "El Dorado South Arkansas Regional, AR (ELD)",
+        "2": "airport",
+        "3": "ELD",
+        "4": "ELD",
+        "5": "El Dorado",
+        "6": -92.813333,
+        "7": 33.2211111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Eldoret International, Kenya (EDL)",
+        "2": "airport",
+        "3": "EDL",
+        "4": "EDL",
+        "5": "Eldoret",
+        "6": 35.2388889,
+        "7": 0.40472222,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Bogota El Dorado International, Colombia (BOG)",
+        "2": "airport",
+        "3": "BOG",
+        "4": "BOG",
+        "5": "Bogota",
+        "6": -74.146944,
+        "7": 4.70166667,
+        "10": "America/Bogota"
+      }
+    ]
+  }
+}

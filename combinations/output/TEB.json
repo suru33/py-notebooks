@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Teterboro, NJ (TEB)",
+        "2": "airport",
+        "3": "TEB",
+        "4": "TEB",
+        "5": "Teterboro",
+        "6": -74.060833,
+        "7": 40.85,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Tebessa Cheikh Larbi Tebessi, Algeria (TEE)",
+        "2": "airport",
+        "3": "TEE",
+        "4": "TEE",
+        "5": "Tbessa",
+        "6": 8.12083333,
+        "7": 35.4316667,
+        "10": "Africa/Algiers"
+      }
+    ]
+  }
+}

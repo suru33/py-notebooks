@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "London Gatwick, United Kingdom (LGW)",
+        "2": "airport",
+        "3": "LGW",
+        "4": "LON",
+        "5": "London",
+        "6": -0.1902778,
+        "7": 51.1480556,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Sioux City Sioux Gateway, IA (SUX)",
+        "2": "airport",
+        "3": "SUX",
+        "4": "SUX",
+        "5": "Sioux City",
+        "6": -96.384444,
+        "7": 42.4025,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

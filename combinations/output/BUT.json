@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Jakar Bathpalathang, Bhutan (BUT)",
+        "2": "airport",
+        "3": "BUT",
+        "4": "BUT",
+        "5": "Jakar",
+        "6": 90.7466667,
+        "7": 27.5630556,
+        "10": "Asia/Thimphu"
+      },
+      {
+        "1": "Butte Bert Mooney, MT (BTM)",
+        "2": "airport",
+        "3": "BTM",
+        "4": "BTM",
+        "5": "Butte",
+        "6": -112.4975,
+        "7": 45.9547222,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Butuan Bancasi, Philippines (BXU)",
+        "2": "airport",
+        "3": "BXU",
+        "4": "BXU",
+        "5": "Butuan",
+        "6": 125.481389,
+        "7": 8.95055556,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Sarajevo International, Bosnia-Herzegovina (SJJ)",
+        "2": "airport",
+        "3": "SJJ",
+        "4": "SJJ",
+        "5": "Sarajevo",
+        "6": 18.3313889,
+        "7": 43.8247222,
+        "10": "Europe/Sarajevo"
+      }
+    ]
+  }
+}

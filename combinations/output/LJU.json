@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Ljubljana Joze Pucnik, Slovenia (LJU)",
+        "2": "airport",
+        "3": "LJU",
+        "4": "LJU",
+        "5": "Ljubljana",
+        "6": 14.4575,
+        "7": 46.2236111,
+        "10": "Europe/Ljubljana"
+      },
+      {
+        "1": "Ljubljana Railway Station, Slovenia (LJR)",
+        "2": "rail",
+        "3": "LJR",
+        "4": "LJU",
+        "5": "Ljubljana",
+        "6": 14.5130556,
+        "7": 46.0588889,
+        "10": "Europe/Ljubljana"
+      }
+    ]
+  }
+}

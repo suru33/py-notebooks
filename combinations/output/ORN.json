@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Oran Ahmed Ben Bella, Algeria (ORN)",
+        "2": "airport",
+        "3": "ORN",
+        "4": "ORN",
+        "5": "Oran",
+        "6": -0.6211111,
+        "7": 35.6238889,
+        "10": "Africa/Algiers"
+      },
+      {
+        "1": "Ornskoldsvik, Sweden (OER)",
+        "2": "airport",
+        "3": "OER",
+        "4": "OER",
+        "5": "Ornskoldsvik",
+        "6": 18.99,
+        "7": 63.4083333,
+        "10": "Europe/Stockholm"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Victoria, BC, Canada - All airports",
+        "2": "city",
+        "3": "YYJ",
+        "4": "YYJ",
+        "5": "Victoria",
+        "6": -123.4118966245344,
+        "7": 48.588048890597605,
+        "10": "America/Vancouver"
+      },
+      {
+        "1": "Victoria International, BC, Canada (YYJ)",
+        "2": "airport",
+        "3": "YYJ",
+        "4": "YYJ",
+        "5": "Victoria",
+        "6": -123.42583,
+        "7": 48.6469444,
+        "10": "America/Vancouver"
+      },
+      {
+        "1": "Victoria Falls International, Zimbabwe (VFA)",
+        "2": "airport",
+        "3": "VFA",
+        "4": "VFA",
+        "5": "Victoria Falls",
+        "6": 25.8388889,
+        "7": -18.095833,
+        "10": "Africa/Harare"
+      },
+      {
+        "1": "Victoria Regional, TX (VCT)",
+        "2": "airport",
+        "3": "VCT",
+        "4": "VCT",
+        "5": "Victoria",
+        "6": -96.918611,
+        "7": 28.8525,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Victoria Inner Harbour SPB, BC, Canada (YWH)",
+        "2": "airport",
+        "3": "YWH",
+        "4": "YYJ",
+        "5": "Victoria",
+        "6": -123.37306,
+        "7": 48.4238889,
+        "10": "America/Vancouver"
+      },
+      {
+        "1": "Vicenza Railway Station, Italy (VNZ)",
+        "2": "rail",
+        "3": "VNZ",
+        "4": "VIC",
+        "5": "Vicenza",
+        "6": 11.5386111,
+        "7": 45.5411111,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Durango Guadalupe Victoria International, Mexico (DGO)",
+        "2": "airport",
+        "3": "DGO",
+        "4": "DGO",
+        "5": "Durango",
+        "6": -104.52806,
+        "7": 24.1241667,
+        "10": "America/Cancun"
+      }
+    ]
+  }
+}

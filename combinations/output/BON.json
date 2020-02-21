@@ -1,0 +1,65 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bonaire Flamingo International, Bonaire, Saint Eustatius and Saba (BON)",
+        "2": "airport",
+        "3": "BON",
+        "4": "BON",
+        "5": "Bonaire",
+        "6": -68.268611,
+        "7": 12.1311111
+      },
+      {
+        "1": "Bonaventure, QC, Canada (YVB)",
+        "2": "airport",
+        "3": "YVB",
+        "4": "YVB",
+        "5": "Bonaventure",
+        "6": -65.458889,
+        "7": 48.0708333,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Bonito, Brazil (BYO)",
+        "2": "airport",
+        "3": "BYO",
+        "4": "BYO",
+        "5": "Bonito",
+        "6": -56.4525,
+        "7": -21.247222,
+        "10": "America/Cuiaba"
+      },
+      {
+        "1": "Cologne/Bonn, Germany (CGN)",
+        "2": "airport",
+        "3": "CGN",
+        "4": "CGN",
+        "5": "Cologne",
+        "6": 7.14277778,
+        "7": 50.8658333,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Tarawa Bonriki International, Kiribati (TRW)",
+        "2": "airport",
+        "3": "TRW",
+        "4": "TRW",
+        "5": "Tarawa",
+        "6": 173.146667,
+        "7": 1.38,
+        "10": "Pacific/Tarawa"
+      },
+      {
+        "1": "Cologne/Bonn Cologne Hbf Railway Station, Germany (QKL)",
+        "2": "rail",
+        "3": "QKL",
+        "4": "CGN",
+        "5": "Cologne",
+        "6": 6.95833333,
+        "7": 50.9433333,
+        "10": "Europe/Berlin"
+      }
+    ]
+  }
+}

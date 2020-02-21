@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tepic Amado Nervo, Mexico (TPQ)",
+        "2": "airport",
+        "3": "TPQ",
+        "4": "TPQ",
+        "5": "Tepic",
+        "6": -104.8425,
+        "7": 21.4194444,
+        "10": "America/Mazatlan"
+      },
+      {
+        "1": "Puerto Montt El Tepual, Chile (PMC)",
+        "2": "airport",
+        "3": "PMC",
+        "4": "PMC",
+        "5": "Puerto Montt",
+        "6": -73.093889,
+        "7": -41.438889,
+        "10": "America/Santiago"
+      }
+    ]
+  }
+}

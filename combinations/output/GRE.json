@@ -1,0 +1,136 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Greater Rochester International, NY (ROC)",
+        "2": "airport",
+        "3": "ROC",
+        "4": "ROC",
+        "5": "Rochester",
+        "6": -77.6725,
+        "7": 43.1188889,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Greenville/Spartanburg International, SC (GSP)",
+        "2": "airport",
+        "3": "GSP",
+        "4": "GSP",
+        "5": "Greenville",
+        "6": -82.218889,
+        "7": 34.8955556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Greensboro/High Point P.T. Int'l, NC (GSO)",
+        "2": "airport",
+        "3": "GSO",
+        "4": "GSO",
+        "5": "Greensboro/High Point",
+        "6": -79.937222,
+        "7": 36.0977778,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Green Bay Austin Straubel International, WI (GRB)",
+        "2": "airport",
+        "3": "GRB",
+        "4": "GRB",
+        "5": "Green Bay",
+        "6": -88.133889,
+        "7": 44.4855556,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Great Falls International, MT (GTF)",
+        "2": "airport",
+        "3": "GTF",
+        "4": "GTF",
+        "5": "Great Falls",
+        "6": -111.37056,
+        "7": 47.4819444,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Grenada Maurice Bishop International, Grenada (GND)",
+        "2": "airport",
+        "3": "GND",
+        "4": "GND",
+        "5": "Grenada",
+        "6": -61.786111,
+        "7": 12.0041667,
+        "10": "America/Grenada"
+      },
+      {
+        "1": "Greater Moncton International, NB, Canada (YQM)",
+        "2": "airport",
+        "3": "YQM",
+        "4": "YQM",
+        "5": "Moncton",
+        "6": -64.6925,
+        "7": 46.1069444,
+        "10": "America/Halifax"
+      },
+      {
+        "1": "Greenville Mid-Delta, MS (GLH)",
+        "2": "airport",
+        "3": "GLH",
+        "4": "GLH",
+        "5": "Greenville",
+        "6": -90.985,
+        "7": 33.4772222,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Greater Binghamton, NY (BGM)",
+        "2": "airport",
+        "3": "BGM",
+        "4": "BGM",
+        "5": "Binghamton",
+        "6": -75.979722,
+        "7": 42.2086111,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Peoria General Downing International, IL (PIA)",
+        "2": "airport",
+        "3": "PIA",
+        "4": "PIA",
+        "5": "Peoria",
+        "6": -89.693333,
+        "7": 40.6641667,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Lyon Grenoble-Isere, France (GNB)",
+        "2": "airport",
+        "3": "GNB",
+        "4": "LYS",
+        "5": "Lyon",
+        "6": 5.33277778,
+        "7": 45.3630556,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Lewisburg Greenbrier Valley, WV (LWB)",
+        "2": "airport",
+        "3": "LWB",
+        "4": "LWB",
+        "5": "Lewisburg",
+        "6": -80.401944,
+        "7": 37.8561111,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Longview East Texas Regional, TX (GGG)",
+        "2": "airport",
+        "3": "GGG",
+        "4": "GGG",
+        "5": "Longview",
+        "6": -94.711389,
+        "7": 32.3838889,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

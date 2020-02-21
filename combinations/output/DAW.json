@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dawson City, YT, Canada (YDA)",
+        "2": "airport",
+        "3": "YDA",
+        "4": "YDA",
+        "5": "Dawson City",
+        "6": -139.12778,
+        "7": 64.0430556,
+        "10": "America/Vancouver"
+      },
+      {
+        "1": "Dawson Creek, BC, Canada (YDQ)",
+        "2": "airport",
+        "3": "YDQ",
+        "4": "YDQ",
+        "5": "Dawson Creek",
+        "6": -120.18306,
+        "7": 55.7422222,
+        "10": "America/Dawson_Creek"
+      },
+      {
+        "1": "Dawei, Myanmar (TVY)",
+        "2": "airport",
+        "3": "TVY",
+        "4": "TVY",
+        "5": "Dawe",
+        "6": 98.2052778,
+        "7": 14.0983333,
+        "10": "Asia/Rangoon"
+      },
+      {
+        "1": "Dawadmi King Salman Abdulaziz, Saudi Arabia (DWD)",
+        "2": "airport",
+        "3": "DWD",
+        "4": "DWD",
+        "5": "Dawadmi",
+        "6": 44.1211111,
+        "7": 24.45,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "Glendive Dawson Community, MT (GDV)",
+        "2": "airport",
+        "3": "GDV",
+        "4": "GDV",
+        "5": "Glendive",
+        "6": -104.80944,
+        "7": 47.1405556,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

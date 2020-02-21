@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Vail/Eagle Eagle County Regional, CO (EGE)",
+        "2": "airport",
+        "3": "EGE",
+        "4": "EGE",
+        "5": "Vail",
+        "6": -106.91778,
+        "7": 39.6425,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Egegik, AK (EGX)",
+        "2": "airport",
+        "3": "EGX",
+        "4": "EGX",
+        "5": "Egegik",
+        "6": -157.37556,
+        "7": 58.1855556,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

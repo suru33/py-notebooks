@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Plattsburgh International, NY (PBG)",
+        "2": "airport",
+        "3": "PBG",
+        "4": "PBG",
+        "5": "Plattsburgh",
+        "6": -73.468889,
+        "7": 44.6525,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Placencia, Belize (PLJ)",
+        "2": "airport",
+        "3": "PLJ",
+        "4": "PLJ",
+        "5": "Placencia",
+        "6": -88.361111,
+        "7": 16.5372222,
+        "10": "America/Belize"
+      },
+      {
+        "1": "Platinum, AK (PTU)",
+        "2": "airport",
+        "3": "PTU",
+        "4": "PTU",
+        "5": "Platinum",
+        "6": -161.82389,
+        "7": 59.0163889,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Playon Chico, Panama (PYC)",
+        "2": "airport",
+        "3": "PYC",
+        "4": "PYC",
+        "5": "Playon Chico",
+        "6": -78.233611,
+        "7": 9.30972222,
+        "10": "America/Panama"
+      },
+      {
+        "1": "Plastun, Russia (TLY)",
+        "2": "airport",
+        "3": "TLY",
+        "4": "TLY",
+        "5": "Plastun",
+        "6": 136.291667,
+        "7": 44.8147222,
+        "10": "Asia/Vladivostok"
+      }
+    ]
+  }
+}

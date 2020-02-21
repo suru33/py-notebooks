@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Houston, TX - All airports",
+        "2": "city",
+        "3": "HOU",
+        "4": "HOU",
+        "5": "Houston",
+        "6": -95.31540069598427,
+        "7": 29.843530077409056,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Houston William P. Hobby, TX (HOU)",
+        "2": "airport",
+        "3": "HOU",
+        "4": "HOU",
+        "5": "Houston",
+        "6": -95.278889,
+        "7": 29.6455556,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Houston George Bush Intercont., TX (IAH)",
+        "2": "airport",
+        "3": "IAH",
+        "4": "HOU",
+        "5": "Houston",
+        "6": -95.341389,
+        "7": 29.9844444,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Houeisay, Laos (HOE)",
+        "2": "airport",
+        "3": "HOE",
+        "4": "HOE",
+        "5": "Houeisay",
+        "6": 100.437222,
+        "7": 20.2580556,
+        "10": "Asia/Vientiane"
+      },
+      {
+        "1": "Algiers Houari Boumediene, Algeria (ALG)",
+        "2": "airport",
+        "3": "ALG",
+        "4": "ALG",
+        "5": "Algiers",
+        "6": 3.21472222,
+        "7": 36.6941667,
+        "10": "Africa/Algiers"
+      },
+      {
+        "1": "Hancock Houghton County Mem., MI (CMX)",
+        "2": "airport",
+        "3": "CMX",
+        "4": "CMX",
+        "5": "Hancock",
+        "6": -88.489167,
+        "7": 47.1683333,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

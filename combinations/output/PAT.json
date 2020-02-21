@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Patna Jayaprakash Narayan, India (PAT)",
+        "2": "airport",
+        "3": "PAT",
+        "4": "PAT",
+        "5": "Patna",
+        "6": 85.0880556,
+        "7": 25.5913889,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Patrai Araxos, Greece (GPA)",
+        "2": "airport",
+        "3": "GPA",
+        "4": "GPA",
+        "5": "Patras",
+        "6": 21.4255556,
+        "7": 38.1511111,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Pato Branco J.Loureiro Cardoso, Brazil (PTO)",
+        "2": "airport",
+        "3": "PTO",
+        "4": "PTO",
+        "5": "Pato Branco",
+        "6": -52.694444,
+        "7": -26.217222,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Pathankot, India (IXP)",
+        "2": "airport",
+        "3": "IXP",
+        "4": "IXP",
+        "5": "Pathankot",
+        "6": 75.6347222,
+        "7": 32.2338889,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Ambon Pattimura, Indonesia (AMQ)",
+        "2": "airport",
+        "3": "AMQ",
+        "4": "AMQ",
+        "5": "Ambon",
+        "6": 128.089167,
+        "7": -3.7102778,
+        "10": "Asia/Jayapura"
+      },
+      {
+        "1": "Chittagong Shah Amanat International, Bangladesh (CGP)",
+        "2": "airport",
+        "3": "CGP",
+        "4": "CGP",
+        "5": "Chittagong",
+        "6": 91.8133333,
+        "7": 22.2497222,
+        "10": "Asia/Dhaka"
+      }
+    ]
+  }
+}

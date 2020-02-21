@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Yuzhno-Sakhalinsk Khomutovo, Russia (UUS)",
+        "2": "airport",
+        "3": "UUS",
+        "4": "UUS",
+        "5": "Yuzhno-Sakhalinsk",
+        "6": 142.7175,
+        "7": 46.8886111,
+        "10": "Asia/Magadan"
+      },
+      {
+        "1": "Yuzhno-Kurilsk Mendeleyevo, Russia (DEE)",
+        "2": "airport",
+        "3": "DEE",
+        "4": "DEE",
+        "5": "Yuzhno-Kurilsk",
+        "6": 145.685556,
+        "7": 43.9613889,
+        "10": "Asia/Magadan"
+      }
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Shenyang Taoxian International, China (SHE)",
+        "2": "airport",
+        "3": "SHE",
+        "4": "SHE",
+        "5": "Shenyang",
+        "6": 123.483333,
+        "7": 41.6397222,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Shenzhen, China - All airports",
+        "2": "city",
+        "3": "SZX",
+        "4": "SZX",
+        "5": "Shenzhen",
+        "6": 113.82318902623125,
+        "7": 22.651799742829382,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Shenzhen Bao'an International, China (SZX)",
+        "2": "airport",
+        "3": "SZX",
+        "4": "SZX",
+        "5": "Shenzhen",
+        "6": 113.810556,
+        "7": 22.6391667,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Nunam Iqua Sheldon Point, AK (SXP)",
+        "2": "airport",
+        "3": "SXP",
+        "4": "SXP",
+        "5": "Sheldon Point",
+        "6": -164.84667,
+        "7": 62.5216667,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Shetland Islands Sumburgh, United Kingdom (LSI)",
+        "2": "airport",
+        "3": "LSI",
+        "4": "SDZ",
+        "5": "Shetland Islands",
+        "6": -1.2955556,
+        "7": 59.8788889,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Sheridan County, WY (SHR)",
+        "2": "airport",
+        "3": "SHR",
+        "4": "SHR",
+        "5": "Sheridan",
+        "6": -106.98028,
+        "7": 44.7691667,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Moscow Sheremetyevo, Russia (SVO)",
+        "2": "airport",
+        "3": "SVO",
+        "4": "MOW",
+        "5": "Moscow",
+        "6": 37.4147222,
+        "7": 55.9727778,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Shennongjia Hongping, China (HPG)",
+        "2": "airport",
+        "3": "HPG",
+        "4": "HPG",
+        "5": "Shennongjia",
+        "6": 110.337778,
+        "7": 31.6333333,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Shekou Ferry Port, China (ZYK)",
+        "2": "airport",
+        "3": "ZYK",
+        "4": "ZYK",
+        "5": "Shekou",
+        "6": 113.913611,
+        "7": 22.4777778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Shenzhen Fuyong Ferry Port, China (FYG)",
+        "2": "airport",
+        "3": "FYG",
+        "4": "SZX",
+        "5": "Shenzhen",
+        "6": 113.612778,
+        "7": 22.7780556,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Shenyangbei Railway St, China (VWA)",
+        "2": "rail",
+        "3": "VWA",
+        "4": "SHE",
+        "5": "Shenyang",
+        "6": 123.428056,
+        "7": 41.8169444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Shenzhen CZ Bus Station, China (HNZ)",
+        "2": "bus",
+        "3": "HNZ",
+        "4": "SZX",
+        "5": "Shenzhen",
+        "6": 114.236667,
+        "7": 22.7286111,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

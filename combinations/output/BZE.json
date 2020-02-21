@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Belize City, Belize - All airports",
+        "2": "city",
+        "3": "BZE",
+        "4": "BZE",
+        "5": "Belize City",
+        "6": -88.25941076160794,
+        "7": 17.529285776038137,
+        "10": "America/Belize"
+      },
+      {
+        "1": "Belize City Philip S.W.Goldson International, Belize (BZE)",
+        "2": "airport",
+        "3": "BZE",
+        "4": "BZE",
+        "5": "Belize City",
+        "6": -88.308333,
+        "7": 17.5391667,
+        "10": "America/Belize"
+      }
+    ]
+  }
+}

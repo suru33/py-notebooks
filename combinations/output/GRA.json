@@ -1,0 +1,256 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Grand Rapids Gerald R. Ford International, MI (GRR)",
+        "2": "airport",
+        "3": "GRR",
+        "4": "GRR",
+        "5": "Grand Rapids",
+        "6": -85.522778,
+        "7": 42.8808333,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Gran Canaria, Spain (LPA)",
+        "2": "airport",
+        "3": "LPA",
+        "4": "LPA",
+        "5": "Las Palmas",
+        "6": -15.386667,
+        "7": 27.9319444,
+        "10": "Atlantic/Canary"
+      },
+      {
+        "1": "Grand Canyon, AZ - All airports",
+        "2": "city",
+        "3": "GCN",
+        "4": "GCN",
+        "5": "Grand Canyon",
+        "6": -112.19962199021478,
+        "7": 35.661781811180106,
+        "10": "America/Phoenix"
+      },
+      {
+        "1": "Grants Pass, OR (GTP)",
+        "2": "airport",
+        "3": "GTP",
+        "4": "GTP",
+        "5": "Grants Pass",
+        "6": -123.38778,
+        "7": 42.51,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Grand Junction Regional, CO (GJT)",
+        "2": "airport",
+        "3": "GJT",
+        "4": "GJT",
+        "5": "Grand Junction",
+        "6": -108.52583,
+        "7": 39.1233333,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Grand Cayman Owen Roberts International, Cayman Islands (GCM)",
+        "2": "airport",
+        "3": "GCM",
+        "4": "GCM",
+        "5": "Grand Cayman Island",
+        "6": -81.357778,
+        "7": 19.2927778,
+        "10": "America/Cayman"
+      },
+      {
+        "1": "Granada Federico Garcia Lorca, Spain (GRX)",
+        "2": "airport",
+        "3": "GRX",
+        "4": "GRX",
+        "5": "Granada",
+        "6": -3.7772222,
+        "7": 37.1886111,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Grand Forks International, ND (GFK)",
+        "2": "airport",
+        "3": "GFK",
+        "4": "GFK",
+        "5": "Grand Forks",
+        "6": -97.176111,
+        "7": 47.9491667,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Graz, Austria (GRZ)",
+        "2": "airport",
+        "3": "GRZ",
+        "4": "GRZ",
+        "5": "Graz",
+        "6": 15.44,
+        "7": 46.9936111,
+        "10": "Europe/Vienna"
+      },
+      {
+        "1": "Grayling, AK (KGX)",
+        "2": "airport",
+        "3": "KGX",
+        "4": "KGX",
+        "5": "Grayling",
+        "6": -160.06722,
+        "7": 62.8977778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Grande Prairie, AB, Canada (YQU)",
+        "2": "airport",
+        "3": "YQU",
+        "4": "YQU",
+        "5": "Grande Prairie",
+        "6": -118.885,
+        "7": 55.1797222,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "Grand Island Central Nebraska Regional, NE (GRI)",
+        "2": "airport",
+        "3": "GRI",
+        "4": "GRI",
+        "5": "Grand Island",
+        "6": -98.309722,
+        "7": 40.9675,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Grand Canyon Flagstaff Pulliam, AZ (FLG)",
+        "2": "airport",
+        "3": "FLG",
+        "4": "GCN",
+        "5": "Grand Canyon",
+        "6": -111.67111,
+        "7": 35.1383333,
+        "10": "America/Phoenix"
+      },
+      {
+        "1": "Grand Canyon National Park, AZ (GCN)",
+        "2": "airport",
+        "3": "GCN",
+        "4": "GCN",
+        "5": "Grand Canyon",
+        "6": -112.14694,
+        "7": 35.9525,
+        "10": "America/Phoenix"
+      },
+      {
+        "1": "Grand Turk J.A.G.S. McCartney International, Turks and Caicos Islands (GDT)",
+        "2": "airport",
+        "3": "GDT",
+        "4": "GDT",
+        "5": "Grand Turk",
+        "6": -71.145278,
+        "7": 21.4452778,
+        "10": "America/Grand_Turk"
+      },
+      {
+        "1": "Grand Canyon Bar Ten Ranch, AZ (GCT)",
+        "2": "airport",
+        "3": "GCT",
+        "4": "GCN",
+        "5": "Grand Canyon",
+        "6": -113.23111,
+        "7": 36.2580556,
+        "10": "America/Phoenix"
+      },
+      {
+        "1": "Grand Canyon West, AZ (GCW)",
+        "2": "airport",
+        "3": "GCW",
+        "4": "GCW",
+        "5": "Grand Canyon West",
+        "6": -113.81639,
+        "7": 35.9902778,
+        "10": "America/Phoenix"
+      },
+      {
+        "1": "Graciosa Island, Portugal (GRW)",
+        "2": "airport",
+        "3": "GRW",
+        "4": "GRW",
+        "5": "Graciosa Island",
+        "6": -28.029722,
+        "7": 39.0922222,
+        "10": "Atlantic/Azores"
+      },
+      {
+        "1": "Grafton Clarence Valley, Australia (GFN)",
+        "2": "airport",
+        "3": "GFN",
+        "4": "GFN",
+        "5": "Grafton",
+        "6": 153.03,
+        "7": -29.759444,
+        "10": "Australia/Sydney"
+      },
+      {
+        "1": "The Granites, Australia (GTS)",
+        "2": "airport",
+        "3": "GTS",
+        "4": "GTS",
+        "5": "Granites",
+        "6": 133.606944,
+        "7": -26.948056,
+        "10": "Australia/Darwin"
+      },
+      {
+        "1": "Graz Railway Station, Austria (GGZ)",
+        "2": "rail",
+        "3": "GGZ",
+        "4": "GRZ",
+        "5": "Graz",
+        "6": 15.4161111,
+        "7": 47.0730556,
+        "10": "Europe/Vienna"
+      },
+      {
+        "1": "Granada Railway Station, Spain (YJG)",
+        "2": "rail",
+        "3": "YJG",
+        "4": "GRX",
+        "5": "Granada",
+        "6": -3.6091667,
+        "7": 37.1841667,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Killeen/Fort Hood Regional/R.Gray AAF, TX (GRK)",
+        "2": "airport",
+        "3": "GRK",
+        "4": "ILE",
+        "5": "Killeen",
+        "6": -97.828889,
+        "7": 31.0672222,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Freeport Grand Bahama International, Bahamas (FPO)",
+        "2": "airport",
+        "3": "FPO",
+        "4": "FPO",
+        "5": "Freeport",
+        "6": -78.695556,
+        "7": 26.5586111,
+        "10": "America/Nassau"
+      },
+      {
+        "1": "Silver City Grant County, NM (SVC)",
+        "2": "airport",
+        "3": "SVC",
+        "4": "SVC",
+        "5": "Silver City",
+        "6": -108.15639,
+        "7": 32.6325,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

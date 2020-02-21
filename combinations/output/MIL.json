@@ -1,0 +1,166 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Milan, Italy - All airports",
+        "2": "city",
+        "3": "MIL",
+        "4": "MIL",
+        "5": "Milan",
+        "6": 9.227382936984275,
+        "7": 45.553089628446386,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Milwaukee General Mitchell International, WI (MKE)",
+        "2": "airport",
+        "3": "MKE",
+        "4": "MKE",
+        "5": "Milwaukee",
+        "6": -87.896667,
+        "7": 42.9472222,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Milan Malpensa, Italy (MXP)",
+        "2": "airport",
+        "3": "MXP",
+        "4": "MIL",
+        "5": "Milan",
+        "6": 8.72305556,
+        "7": 45.63,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Milan Bergamo/Orio al Serio, Italy (BGY)",
+        "2": "airport",
+        "3": "BGY",
+        "4": "MIL",
+        "5": "Milan",
+        "6": 9.70027778,
+        "7": 45.6688889,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Milan Linate, Italy (LIN)",
+        "2": "airport",
+        "3": "LIN",
+        "4": "MIL",
+        "5": "Milan",
+        "6": 9.27833333,
+        "7": 45.4494444,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Mildura, Australia (MQL)",
+        "2": "airport",
+        "3": "MQL",
+        "4": "MQL",
+        "5": "Mildura",
+        "6": 142.085556,
+        "7": -34.229167,
+        "10": "Australia/Sydney"
+      },
+      {
+        "1": "Milan Parma, Italy (PMF)",
+        "2": "airport",
+        "3": "PMF",
+        "4": "MIL",
+        "5": "Milan",
+        "6": 10.2952778,
+        "7": 44.8222222,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Milingimbi Island, Australia (MGT)",
+        "2": "airport",
+        "3": "MGT",
+        "4": "MGT",
+        "5": "Milingimbi",
+        "6": 134.893611,
+        "7": -12.094444,
+        "10": "Australia/Darwin"
+      },
+      {
+        "1": "Milos, Greece (MLO)",
+        "2": "airport",
+        "3": "MLO",
+        "4": "MLO",
+        "5": "Milos",
+        "6": 24.4727778,
+        "7": 36.6966667,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Milan Centrale Railway Station, Italy (XIK)",
+        "2": "rail",
+        "3": "XIK",
+        "4": "MIL",
+        "5": "Milan",
+        "6": 9.20444444,
+        "7": 45.4858333,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Milan Rogoredo Railway Station, Italy (IMR)",
+        "2": "rail",
+        "3": "IMR",
+        "4": "MIL",
+        "5": "Milan",
+        "6": 9.23833333,
+        "7": 45.4333333,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Milton Keynes Central Railway Station, United Kingdom (KYN)",
+        "2": "rail",
+        "3": "KYN",
+        "4": "KYN",
+        "5": "Milton Keynes",
+        "6": -0.7744444,
+        "7": 52.0341667,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Milan Porta Garibaldi Station, Italy (IPR)",
+        "2": "rail",
+        "3": "IPR",
+        "4": "MIL",
+        "5": "Milan",
+        "6": 9.18777778,
+        "7": 45.4847222,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "McAllen/Mission Miller International, TX (MFE)",
+        "2": "airport",
+        "3": "MFE",
+        "4": "MFE",
+        "5": "McAllen",
+        "6": -98.238611,
+        "7": 26.1758333,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Bodrum Milas, Turkey (BJV)",
+        "2": "airport",
+        "3": "BJV",
+        "4": "BJV",
+        "5": "Bodrum",
+        "6": 27.6644444,
+        "7": 37.2505556,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Cordova Merle K (Mudhole)Smith, AK (CDV)",
+        "2": "airport",
+        "3": "CDV",
+        "4": "CDV",
+        "5": "Cordova",
+        "6": -145.4775,
+        "7": 60.4916667,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kona Keahole, HI (KOA)",
+        "2": "airport",
+        "3": "KOA",
+        "4": "KOA",
+        "5": "Kona",
+        "6": -156.04556,
+        "7": 19.7388889,
+        "10": "Pacific/Honolulu"
+      },
+      {
+        "1": "Konya, Turkey (KYA)",
+        "2": "airport",
+        "3": "KYA",
+        "4": "KYA",
+        "5": "Konya",
+        "6": 32.5619444,
+        "7": 37.9788889,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Kongiganak, AK (KKH)",
+        "2": "airport",
+        "3": "KKH",
+        "4": "KKH",
+        "5": "Kongiganak",
+        "6": -162.88139,
+        "7": 59.9602778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Kone, New Caledonia (KNQ)",
+        "2": "airport",
+        "3": "KNQ",
+        "4": "KNQ",
+        "5": "Kone",
+        "6": 164.838889,
+        "7": -21.053889,
+        "10": "Pacific/Noumea"
+      }
+    ]
+  }
+}

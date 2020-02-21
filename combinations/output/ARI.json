@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Arica Chacalluta, Chile (ARI)",
+        "2": "airport",
+        "3": "ARI",
+        "4": "ARI",
+        "5": "Arica",
+        "6": -70.338611,
+        "7": -18.348611,
+        "10": "America/Santiago"
+      },
+      {
+        "1": "Aristarchos of Samos, Greece (SMI)",
+        "2": "airport",
+        "3": "SMI",
+        "4": "SMI",
+        "5": "Samos",
+        "6": 26.9116667,
+        "7": 37.69,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Kastoria Aristotelis, Greece (KSO)",
+        "2": "airport",
+        "3": "KSO",
+        "4": "KSO",
+        "5": "Kastoria",
+        "6": 21.2822222,
+        "7": 40.4463889,
+        "10": "Europe/Athens"
+      }
+    ]
+  }
+}

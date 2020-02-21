@@ -1,0 +1,45 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Simferopol International, Ukraine (SIP)",
+        "2": "airport",
+        "3": "SIP",
+        "4": "SIP",
+        "5": "Simferopol",
+        "6": 33.9738889,
+        "7": 45.0522222
+      },
+      {
+        "1": "Simao, China (SYM)",
+        "2": "airport",
+        "3": "SYM",
+        "4": "SYM",
+        "5": "Simao",
+        "6": 100.959167,
+        "7": 22.7947222,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Simara, Nepal (SIF)",
+        "2": "airport",
+        "3": "SIF",
+        "4": "SIF",
+        "5": "Simra",
+        "6": 84.98,
+        "7": 27.1594444,
+        "10": "Asia/Katmandu"
+      },
+      {
+        "1": "Pekanbaru Sultan Syarif Kasim II, Indonesia (PKU)",
+        "2": "airport",
+        "3": "PKU",
+        "4": "PKU",
+        "5": "Pekanbaru",
+        "6": 101.444444,
+        "7": 0.46083333,
+        "10": "Asia/Jakarta"
+      }
+    ]
+  }
+}

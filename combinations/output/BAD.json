@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Badajoz, Spain (BJZ)",
+        "2": "airport",
+        "3": "BJZ",
+        "4": "BJZ",
+        "5": "Badajoz",
+        "6": -6.8213889,
+        "7": 38.8913889,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Badu Island, Australia (BDD)",
+        "2": "airport",
+        "3": "BDD",
+        "4": "BDD",
+        "5": "Badu Island",
+        "6": 142.174167,
+        "7": -10.15,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Palembang S M Badaruddin II, Indonesia (PLM)",
+        "2": "airport",
+        "3": "PLM",
+        "4": "PLM",
+        "5": "Palembang",
+        "6": 104.7,
+        "7": -2.8983333,
+        "10": "Asia/Jakarta"
+      }
+    ]
+  }
+}

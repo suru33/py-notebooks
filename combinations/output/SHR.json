@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sheridan County, WY (SHR)",
+        "2": "airport",
+        "3": "SHR",
+        "4": "SHR",
+        "5": "Sheridan",
+        "6": -106.98028,
+        "7": 44.7691667,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Shreveport Regional, LA (SHV)",
+        "2": "airport",
+        "3": "SHV",
+        "4": "SHV",
+        "5": "Shreveport",
+        "6": -93.828889,
+        "7": 32.4472222,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

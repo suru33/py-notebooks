@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Mukah, Malaysia (MKM)",
+        "2": "airport",
+        "3": "MKM",
+        "4": "MKM",
+        "5": "Mukah",
+        "6": 112.075,
+        "7": 2.90694444,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Mukhaizna, Oman (UKH)",
+        "2": "airport",
+        "3": "UKH",
+        "4": "UKH",
+        "5": "Mukhaizna",
+        "6": 56.4,
+        "7": 19.3877778,
+        "10": "Asia/Muscat"
+      }
+    ]
+  }
+}

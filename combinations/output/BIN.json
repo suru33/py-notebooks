@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bintulu Airport, Malaysia (BTU)",
+        "2": "airport",
+        "3": "BTU",
+        "4": "BTU",
+        "5": "Bintulu",
+        "6": 113.019722,
+        "7": 3.12416667,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Bingol, Turkey (BGG)",
+        "2": "airport",
+        "3": "BGG",
+        "4": "BGG",
+        "5": "Bingol",
+        "6": 40.5925,
+        "7": 38.8613889,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Greater Binghamton, NY (BGM)",
+        "2": "airport",
+        "3": "BGM",
+        "4": "BGM",
+        "5": "Binghamton",
+        "6": -75.979722,
+        "7": 42.2086111,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

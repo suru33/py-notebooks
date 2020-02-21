@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Khon Kaen, Thailand (KKC)",
+        "2": "airport",
+        "3": "KKC",
+        "4": "KKC",
+        "5": "Khon Kaen",
+        "6": 102.782222,
+        "7": 16.4644444,
+        "10": "Asia/Bangkok"
+      },
+      {
+        "1": "Khovd, Mongolia (HVD)",
+        "2": "airport",
+        "3": "HVD",
+        "4": "HVD",
+        "5": "Khovd",
+        "6": 91.6280556,
+        "7": 47.9541667,
+        "10": "Asia/Ulaanbaatar"
+      },
+      {
+        "1": "Khonu Moma, Russia (MQJ)",
+        "2": "airport",
+        "3": "MQJ",
+        "4": "MQJ",
+        "5": "Khonu",
+        "6": 143.261389,
+        "7": 66.4508333,
+        "10": "Asia/Magadan"
+      },
+      {
+        "1": "Khorramabad, Iran (KHD)",
+        "2": "airport",
+        "3": "KHD",
+        "4": "KHD",
+        "5": "Khorramabad",
+        "6": 48.2808333,
+        "7": 33.4386111,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Khoy, Iran (KHY)",
+        "2": "airport",
+        "3": "KHY",
+        "4": "KHY",
+        "5": "Khoy",
+        "6": 44.9766667,
+        "7": 38.4222222,
+        "10": "Asia/Tehran"
+      }
+    ]
+  }
+}

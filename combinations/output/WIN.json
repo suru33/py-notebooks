@@ -1,0 +1,116 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Winton, Australia (WIN)",
+        "2": "airport",
+        "3": "WIN",
+        "4": "WIN",
+        "5": "Winton",
+        "6": 143.085556,
+        "7": -22.363611,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Windhoek, Namibia - All airports",
+        "2": "city",
+        "3": "WDH",
+        "4": "WDH",
+        "5": "Windhoek",
+        "6": 17.297589184670954,
+        "7": -22.538693293050144,
+        "10": "Africa/Windhoek"
+      },
+      {
+        "1": "Winnipeg J.A. Richardson International, MB, Canada (YWG)",
+        "2": "airport",
+        "3": "YWG",
+        "4": "YWG",
+        "5": "Winnipeg",
+        "6": -97.24,
+        "7": 49.91,
+        "10": "America/Rainy_River"
+      },
+      {
+        "1": "Windhoek Hosea Kutako International, Namibia (WDH)",
+        "2": "airport",
+        "3": "WDH",
+        "4": "WDH",
+        "5": "Windhoek",
+        "6": 17.4708333,
+        "7": -22.48,
+        "10": "Africa/Windhoek"
+      },
+      {
+        "1": "Windsor, ON, Canada (YQG)",
+        "2": "airport",
+        "3": "YQG",
+        "4": "YQG",
+        "5": "Windsor",
+        "6": -82.961944,
+        "7": 42.2705556,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Windorah, Australia (WNR)",
+        "2": "airport",
+        "3": "WNR",
+        "4": "WNR",
+        "5": "Windorah",
+        "6": 142.669167,
+        "7": -25.410556,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Windhoek Eros, Namibia (ERS)",
+        "2": "airport",
+        "3": "ERS",
+        "4": "WDH",
+        "5": "Windhoek",
+        "6": 17.0805556,
+        "7": -22.612222,
+        "10": "Africa/Windhoek"
+      },
+      {
+        "1": "Winnipeg Union Railway Station, MB, Canada (XEF)",
+        "2": "rail",
+        "3": "XEF",
+        "4": "YWG",
+        "5": "Winnipeg",
+        "6": -97.134444,
+        "7": 49.8891667,
+        "10": "America/Rainy_River"
+      },
+      {
+        "1": "Windsor Railway Station, ON, Canada (XEC)",
+        "2": "rail",
+        "3": "XEC",
+        "4": "YQG",
+        "5": "Windsor",
+        "6": -83.008333,
+        "7": 42.3252778,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Winchester Bus Station, United Kingdom (WNC)",
+        "2": "bus",
+        "3": "WNC",
+        "4": "WNC",
+        "5": "Winchester",
+        "6": -1.31,
+        "7": 51.0611111,
+        "10": "Europe/London"
+      },
+      {
+        "1": "La Crosse Regional, WI (LSE)",
+        "2": "airport",
+        "3": "LSE",
+        "4": "LSE",
+        "5": "La Crosse",
+        "6": -91.256667,
+        "7": 43.8788889,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

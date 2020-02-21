@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Harstad/Narvik Evenes, Norway (EVE)",
+        "2": "airport",
+        "3": "EVE",
+        "4": "EVE",
+        "5": "Harstad-Narvik",
+        "6": 16.6780556,
+        "7": 68.4913889,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Everett Snohomish County, WA (PAE)",
+        "2": "airport",
+        "3": "PAE",
+        "4": "PAE",
+        "5": "Everett",
+        "6": -122.28361,
+        "7": 47.9194444,
+        "10": "America/Los_Angeles"
+      }
+    ]
+  }
+}

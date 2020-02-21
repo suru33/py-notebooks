@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kiel Holtenau, Germany (KEL)",
+        "2": "airport",
+        "3": "KEL",
+        "4": "KEL",
+        "5": "Kiel",
+        "6": 10.145,
+        "7": 54.3797222,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Kelowna International, BC, Canada (YLW)",
+        "2": "airport",
+        "3": "YLW",
+        "4": "YLW",
+        "5": "Kelowna",
+        "6": -119.37778,
+        "7": 49.9561111,
+        "10": "America/Vancouver"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Le Havre Octeville, France (LEH)",
+        "2": "airport",
+        "3": "LEH",
+        "4": "LEH",
+        "5": "Le Havre",
+        "6": 0.08805556,
+        "7": 49.5338889,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Leh Kushok Bakula Rimpoche, India (IXL)",
+        "2": "airport",
+        "3": "IXL",
+        "4": "IXL",
+        "5": "Leh",
+        "6": 77.5463889,
+        "7": 34.1358333,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Allentown Lehigh Valley International, PA (ABE)",
+        "2": "airport",
+        "3": "ABE",
+        "4": "ABE",
+        "5": "Allentown/Bethlehem",
+        "6": -75.440833,
+        "7": 40.6522222,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

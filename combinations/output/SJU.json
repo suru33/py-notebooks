@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "San Juan, PR - All airports",
+        "2": "city",
+        "3": "SJU",
+        "4": "SJU",
+        "5": "San Juan",
+        "6": -66.00988148288451,
+        "7": 18.440889650858157,
+        "10": "America/St_Thomas"
+      },
+      {
+        "1": "San Juan Luis Munoz Marin International, PR (SJU)",
+        "2": "airport",
+        "3": "SJU",
+        "4": "SJU",
+        "5": "San Juan",
+        "6": -66.001944,
+        "7": 18.4394444,
+        "10": "America/St_Thomas"
+      }
+    ]
+  }
+}

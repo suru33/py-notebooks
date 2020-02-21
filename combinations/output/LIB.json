@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Newark Liberty International, NJ (EWR)",
+        "2": "airport",
+        "3": "EWR",
+        "4": "EWR",
+        "5": "Newark",
+        "6": -74.168611,
+        "7": 40.6925,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Liberia D. Oduber Quiros International, Costa Rica (LIR)",
+        "2": "airport",
+        "3": "LIR",
+        "4": "LIR",
+        "5": "Liberia",
+        "6": -85.544444,
+        "7": 10.5933333,
+        "10": "America/Costa_Rica"
+      },
+      {
+        "1": "Libreville Leon M'ba International, Gabon (LBV)",
+        "2": "airport",
+        "3": "LBV",
+        "4": "LBV",
+        "5": "Libreville",
+        "6": 9.41222222,
+        "7": 0.45861111,
+        "10": "Africa/Libreville"
+      },
+      {
+        "1": "Libo, China (LLB)",
+        "2": "airport",
+        "3": "LLB",
+        "4": "LLB",
+        "5": "Libo City",
+        "6": 107.960833,
+        "7": 25.4483333,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Liberal Mid-America Regional, KS (LBL)",
+        "2": "airport",
+        "3": "LBL",
+        "4": "LBL",
+        "5": "Liberal",
+        "6": -100.96,
+        "7": 37.0441667,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Pescara Abruzzo, Italy (PSR)",
+        "2": "airport",
+        "3": "PSR",
+        "4": "PSR",
+        "5": "Pescara",
+        "6": 14.1866667,
+        "7": 42.4316667,
+        "10": "Europe/Rome"
+      }
+    ]
+  }
+}

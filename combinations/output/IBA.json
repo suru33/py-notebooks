@@ -1,0 +1,45 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Ibadan, Nigeria (IBA)",
+        "2": "airport",
+        "3": "IBA",
+        "4": "IBA",
+        "5": "Ibadan",
+        "6": 3.97833333,
+        "7": 7.3625,
+        "10": "Africa/Lagos"
+      },
+      {
+        "1": "Ibaraki, Japan (IBR)",
+        "2": "airport",
+        "3": "IBR",
+        "4": "IBR",
+        "5": "Ibaraki",
+        "6": 140.418056,
+        "7": 36.1783333,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Ibague Perales, Colombia (IBE)",
+        "2": "airport",
+        "3": "IBE",
+        "4": "IBE",
+        "5": "Ibague",
+        "6": -75.133611,
+        "7": 4.42111111,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Punta Arenas C.Ibanez del Campo, Chile (PUQ)",
+        "2": "airport",
+        "3": "PUQ",
+        "4": "PUQ",
+        "5": "Punta Arenas",
+        "6": -70.854722,
+        "7": -53.002778
+      }
+    ]
+  }
+}

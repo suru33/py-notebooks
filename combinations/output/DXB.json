@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dubai, United Arab Emirates - All airports",
+        "2": "city",
+        "3": "DXB",
+        "4": "DXB",
+        "5": "Dubai",
+        "6": 55.29998508759596,
+        "7": 25.14133589592772,
+        "10": "Asia/Dubai"
+      },
+      {
+        "1": "Dubai International, United Arab Emirates (DXB)",
+        "2": "airport",
+        "3": "DXB",
+        "4": "DXB",
+        "5": "Dubai",
+        "6": 55.3644444,
+        "7": 25.2527778,
+        "10": "Asia/Dubai"
+      }
+    ]
+  }
+}

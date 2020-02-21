@@ -1,0 +1,85 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Santarem Maestro Wilson Fonseca, Brazil (STM)",
+        "2": "airport",
+        "3": "STM",
+        "4": "STM",
+        "5": "Santarem",
+        "6": -54.792778,
+        "7": -2.4225,
+        "10": "America/Belem"
+      },
+      {
+        "1": "St Martin, Saint Martin - All airports",
+        "2": "city",
+        "3": "SFG",
+        "4": "SFG",
+        "5": "St Martin",
+        "6": -63.06122997484177,
+        "7": 18.092725361530324,
+        "10": "America/Marigot"
+      },
+      {
+        "1": "St Mary's, AK (KSM)",
+        "2": "airport",
+        "3": "KSM",
+        "4": "KSM",
+        "5": "St Marys",
+        "6": -163.30083,
+        "7": 62.0605556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "St Maarten Princess Juliana International, Sint Maarten (SXM)",
+        "2": "airport",
+        "3": "SXM",
+        "4": "SXM",
+        "5": "St Maarten",
+        "6": -63.108889,
+        "7": 18.0408333
+      },
+      {
+        "1": "St Michael, AK (SMK)",
+        "2": "airport",
+        "3": "SMK",
+        "4": "SMK",
+        "5": "St Michael",
+        "6": -162.03083,
+        "7": 63.4811111,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "St Martin Grand-Case L'Esperance, Saint Martin (SFG)",
+        "2": "airport",
+        "3": "SFG",
+        "4": "SFG",
+        "5": "St Martin",
+        "6": -63.049167,
+        "7": 18.1008333,
+        "10": "America/Marigot"
+      },
+      {
+        "1": "St Martin Marigot SPB, Saint Martin (MSB)",
+        "2": "airport",
+        "3": "MSB",
+        "4": "SFG",
+        "5": "St Martin",
+        "6": -63.1,
+        "7": 18.0666667,
+        "10": "America/Marigot"
+      },
+      {
+        "1": "Sainte-Marie, Madagascar (SMS)",
+        "2": "airport",
+        "3": "SMS",
+        "4": "SMS",
+        "5": "Ste Marie",
+        "6": 49.8158333,
+        "7": -17.093889,
+        "10": "Indian/Antananarivo"
+      }
+    ]
+  }
+}

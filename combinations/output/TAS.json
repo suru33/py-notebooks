@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tashkent International, Uzbekistan (TAS)",
+        "2": "airport",
+        "3": "TAS",
+        "4": "TAS",
+        "5": "Tashkent",
+        "6": 69.2811111,
+        "7": 41.2577778,
+        "10": "Asia/Samarkand"
+      },
+      {
+        "1": "Tasiujaq, QC, Canada (YTQ)",
+        "2": "airport",
+        "3": "YTQ",
+        "4": "YTQ",
+        "5": "Tasiujuaq",
+        "6": -69.955833,
+        "7": 58.6675,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Tasikmalaya Wiriadinata, Indonesia (TSY)",
+        "2": "airport",
+        "3": "TSY",
+        "4": "TSY",
+        "5": "Tasikmalaya",
+        "6": 108.246389,
+        "7": -7.3472222,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Tasiilaq Ammassalik Heliport, Greenland (AGM)",
+        "2": "helipad",
+        "3": "AGM",
+        "4": "AGM",
+        "5": "Tasiilaq",
+        "6": -37.618611,
+        "7": 65.6125,
+        "10": "America/Godthab"
+      },
+      {
+        "1": "Tasiusaq (Upernavik) Heliport, Greenland (TQA)",
+        "2": "helipad",
+        "3": "TQA",
+        "4": "TQA",
+        "5": "Tasiusaq (Upernavik)",
+        "6": -56.060278,
+        "7": 73.3730556,
+        "10": "America/Godthab"
+      }
+    ]
+  }
+}

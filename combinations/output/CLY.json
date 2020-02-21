@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Calvi Ste Catherine, France (CLY)",
+        "2": "airport",
+        "3": "CLY",
+        "4": "CLY",
+        "5": "Calvi",
+        "6": 8.79305556,
+        "7": 42.5202778,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Clyde River, NU, Canada (YCY)",
+        "2": "airport",
+        "3": "YCY",
+        "4": "YCY",
+        "5": "Clyde River",
+        "6": -68.516667,
+        "7": 70.4861111,
+        "10": "America/Montreal"
+      }
+    ]
+  }
+}

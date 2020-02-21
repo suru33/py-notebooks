@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Nhulunbuy Gove, Australia (GOV)",
+        "2": "airport",
+        "3": "GOV",
+        "4": "GOV",
+        "5": "Gove",
+        "6": 136.818333,
+        "7": -12.269444,
+        "10": "Australia/Darwin"
+      },
+      {
+        "1": "Governor's Harbour, Bahamas (GHB)",
+        "2": "airport",
+        "3": "GHB",
+        "4": "GHB",
+        "5": "Governors Harbour",
+        "6": -76.331111,
+        "7": 25.2847222,
+        "10": "America/Nassau"
+      },
+      {
+        "1": "Governador Valadares A.Machado Oliveira, Brazil (GVR)",
+        "2": "airport",
+        "3": "GVR",
+        "4": "GVR",
+        "5": "Governador Valadares",
+        "6": -41.982222,
+        "7": -18.895278,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Jamnagar Govardhanpur, India (JGA)",
+        "2": "airport",
+        "3": "JGA",
+        "4": "JGA",
+        "5": "Jamnagar",
+        "6": 70.0125,
+        "7": 22.4655556,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

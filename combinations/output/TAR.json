@@ -1,0 +1,106 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tarakan Juwata, Indonesia (TRK)",
+        "2": "airport",
+        "3": "TRK",
+        "4": "TRK",
+        "5": "Tarakan",
+        "6": 117.566667,
+        "7": 3.32666667,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Tarawa Bonriki International, Kiribati (TRW)",
+        "2": "airport",
+        "3": "TRW",
+        "4": "TRW",
+        "5": "Tarawa",
+        "6": 173.146667,
+        "7": 1.38,
+        "10": "Pacific/Tarawa"
+      },
+      {
+        "1": "Targu-Mures Transilvania, Romania (TGM)",
+        "2": "airport",
+        "3": "TGM",
+        "4": "TGM",
+        "5": "Tirgu Mures",
+        "6": 24.4125,
+        "7": 46.4677778,
+        "10": "Europe/Bucharest"
+      },
+      {
+        "1": "Tarija Cap. Oriel Lea Plaza, Bolivia (TJA)",
+        "2": "airport",
+        "3": "TJA",
+        "4": "TJA",
+        "5": "Tarija",
+        "6": -64.708333,
+        "7": -21.551111,
+        "10": "America/La_Paz"
+      },
+      {
+        "1": "Tarapoto G.del Castillo Paredes, Peru (TPP)",
+        "2": "airport",
+        "3": "TPP",
+        "4": "TPP",
+        "5": "Tarapoto",
+        "6": -76.373333,
+        "7": -6.5086111,
+        "10": "America/Lima"
+      },
+      {
+        "1": "Taree, Australia (TRO)",
+        "2": "airport",
+        "3": "TRO",
+        "4": "TRO",
+        "5": "Taree",
+        "6": 152.513889,
+        "7": -31.888611,
+        "10": "Australia/Sydney"
+      },
+      {
+        "1": "Taraz, Kazakhstan (DMB)",
+        "2": "airport",
+        "3": "DMB",
+        "4": "DMB",
+        "5": "Zhambyl",
+        "6": 71.3036111,
+        "7": 42.8536111,
+        "10": "Asia/Almaty"
+      },
+      {
+        "1": "Tarin Kot Tereen, Afghanistan (TII)",
+        "2": "airport",
+        "3": "TII",
+        "4": "TII",
+        "5": "Tirinkot",
+        "6": 65.8633333,
+        "7": 32.6072222,
+        "10": "Asia/Kabul"
+      },
+      {
+        "1": "Tartu Ulenurme, Estonia (TAY)",
+        "2": "airport",
+        "3": "TAY",
+        "4": "TAY",
+        "5": "Tartu",
+        "6": 26.6905556,
+        "7": 58.3075,
+        "10": "Europe/Tallinn"
+      },
+      {
+        "1": "Tarragona Camp Railway Station, Spain (QGN)",
+        "2": "rail",
+        "3": "QGN",
+        "4": "QGN",
+        "5": "Tarragona Off-Line Pt",
+        "6": 1.27277778,
+        "7": 41.1919444,
+        "10": "Europe/Madrid"
+      }
+    ]
+  }
+}

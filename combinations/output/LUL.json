@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Luliang, China (LLV)",
+        "2": "airport",
+        "3": "LLV",
+        "4": "LLV",
+        "5": "Luliang",
+        "6": 111.1425,
+        "7": 37.6813889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Lulea Kallax, Sweden (LLA)",
+        "2": "airport",
+        "3": "LLA",
+        "4": "LLA",
+        "5": "Lulea",
+        "6": 22.1219444,
+        "7": 65.5438889,
+        "10": "Europe/Stockholm"
+      }
+    ]
+  }
+}

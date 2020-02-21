@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sault Ste Marie Chippewa County International, MI (CIU)",
+        "2": "airport",
+        "3": "CIU",
+        "4": "SSM",
+        "5": "Sault Sainte Marie",
+        "6": -84.4725,
+        "7": 46.2508333,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Ciudad Juarez Abraham Gonzalez International, Mexico (CJS)",
+        "2": "airport",
+        "3": "CJS",
+        "4": "CJS",
+        "5": "Ciudad Juarez",
+        "6": -106.42861,
+        "7": 31.6361111,
+        "10": "America/Mexico_City"
+      },
+      {
+        "1": "Ciudad Obregon International, Mexico (CEN)",
+        "2": "airport",
+        "3": "CEN",
+        "4": "CEN",
+        "5": "Ciudad Obregon",
+        "6": -109.83306,
+        "7": 27.3927778,
+        "10": "America/Chihuahua"
+      },
+      {
+        "1": "Ciudad del Carmen International, Mexico (CME)",
+        "2": "airport",
+        "3": "CME",
+        "4": "CME",
+        "5": "Ciudad del Carmen",
+        "6": -91.801111,
+        "7": 18.6533333,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Ciudad Bolivar Tomas de Heres, Venezuela (CBL)",
+        "2": "airport",
+        "3": "CBL",
+        "4": "CBL",
+        "5": "Ciudad Bolivar",
+        "6": -63.537222,
+        "7": 8.12194444,
+        "10": "America/Caracas"
+      },
+      {
+        "1": "Ciudad Victoria Pedro J. Mendez International, Mexico (CVM)",
+        "2": "airport",
+        "3": "CVM",
+        "4": "CVM",
+        "5": "Ciudad Victoria",
+        "6": -98.956389,
+        "7": 23.7033333,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Ciudad del Este Guarani International, Paraguay (AGT)",
+        "2": "airport",
+        "3": "AGT",
+        "4": "AGT",
+        "5": "Ciudad del Este",
+        "6": -54.843611,
+        "7": -25.455556,
+        "10": "America/Asuncion"
+      },
+      {
+        "1": "Ciudad Real Railway Station, Spain (XJI)",
+        "2": "rail",
+        "3": "XJI",
+        "4": "CQM",
+        "5": "Ciudad Real",
+        "6": -3.9133333,
+        "7": 38.985,
+        "10": "Europe/Madrid"
+      }
+    ]
+  }
+}

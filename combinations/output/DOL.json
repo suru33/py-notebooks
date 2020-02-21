@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Deauville St Gatien, France (DOL)",
+        "2": "airport",
+        "3": "DOL",
+        "4": "DOL",
+        "5": "Deauville",
+        "6": 0.16,
+        "7": 49.3633333,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Dole Tavaux, France (DLE)",
+        "2": "airport",
+        "3": "DLE",
+        "4": "DLE",
+        "5": "Dole",
+        "6": 5.435,
+        "7": 47.0427778,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

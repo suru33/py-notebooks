@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "St-Augustin/Pakuashipi, QC, Canada (YIF)",
+        "2": "airport",
+        "3": "YIF",
+        "4": "YIF",
+        "5": "Pakuashipi",
+        "6": -58.6575,
+        "7": 51.21,
+        "10": "America/Blanc-Sablon"
+      },
+      {
+        "1": "Pakse International, Laos (PKZ)",
+        "2": "airport",
+        "3": "PKZ",
+        "4": "PKZ",
+        "5": "Pakse",
+        "6": 105.781389,
+        "7": 15.1319444,
+        "10": "Asia/Vientiane"
+      },
+      {
+        "1": "Pakuba, Uganda (PAF)",
+        "2": "airport",
+        "3": "PAF",
+        "4": "PAF",
+        "5": "Pakuba",
+        "6": 31.5516667,
+        "7": 2.20083333,
+        "10": "Africa/Kampala"
+      }
+    ]
+  }
+}

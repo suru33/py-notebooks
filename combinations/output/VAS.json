@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sivas, Turkey (VAS)",
+        "2": "airport",
+        "3": "VAS",
+        "4": "VAS",
+        "5": "Sivas",
+        "6": 36.9036111,
+        "7": 39.8138889,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Stockholm Vasteras, Sweden (VST)",
+        "2": "airport",
+        "3": "VST",
+        "4": "STO",
+        "5": "Stockholm",
+        "6": 16.6336111,
+        "7": 59.5894444,
+        "10": "Europe/Stockholm"
+      }
+    ]
+  }
+}

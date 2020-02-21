@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "San Pedro, Belize (SPR)",
+        "2": "airport",
+        "3": "SPR",
+        "4": "SPR",
+        "5": "San Pedro",
+        "6": -87.966667,
+        "7": 17.9166667,
+        "10": "America/Belize"
+      },
+      {
+        "1": "Springfield Branson Reg'l, MO (SGF)",
+        "2": "airport",
+        "3": "SGF",
+        "4": "SGF",
+        "5": "Springfield",
+        "6": -93.388611,
+        "7": 37.2455556,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Springfield A.Lincoln Capital, IL (SPI)",
+        "2": "airport",
+        "3": "SPI",
+        "4": "SPI",
+        "5": "Springfield",
+        "6": -89.677778,
+        "7": 39.8441667,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Spring Point, Bahamas (AXP)",
+        "2": "airport",
+        "3": "AXP",
+        "4": "AXP",
+        "5": "Spring Point",
+        "6": -73.970833,
+        "7": 22.4419444,
+        "10": "America/Nassau"
+      },
+      {
+        "1": "Orange, Australia (OAG)",
+        "2": "airport",
+        "3": "OAG",
+        "4": "OAG",
+        "5": "Orange",
+        "6": 149.131389,
+        "7": -33.382222,
+        "10": "Australia/Sydney"
+      }
+    ]
+  }
+}

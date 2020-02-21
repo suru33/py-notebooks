@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Boston Edward L. Logan International, MA (BOS)",
+        "2": "airport",
+        "3": "BOS",
+        "4": "BOS",
+        "5": "Boston",
+        "6": -71.005278,
+        "7": 42.3644444,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Logrono Agoncillo, Spain (RJL)",
+        "2": "airport",
+        "3": "RJL",
+        "4": "RJL",
+        "5": "Logrono",
+        "6": -2.3205556,
+        "7": 42.4605556,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Billings Logan International, MT (BIL)",
+        "2": "airport",
+        "3": "BIL",
+        "4": "BIL",
+        "5": "Billings",
+        "6": -108.54278,
+        "7": 45.8077778,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

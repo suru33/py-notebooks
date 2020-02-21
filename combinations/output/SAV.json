@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Savannah Hilton Head International, GA (SAV)",
+        "2": "airport",
+        "3": "SAV",
+        "4": "SAV",
+        "5": "Savannah",
+        "6": -81.202222,
+        "7": 32.1275,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Savannakhet, Laos (ZVK)",
+        "2": "airport",
+        "3": "ZVK",
+        "4": "ZVK",
+        "5": "Savannakhet",
+        "6": 104.763889,
+        "7": 16.5608333,
+        "10": "Asia/Vientiane"
+      },
+      {
+        "1": "Savoonga, AK (SVA)",
+        "2": "airport",
+        "3": "SVA",
+        "4": "SVA",
+        "5": "Savoonga",
+        "6": -170.4925,
+        "7": 63.6863889,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Savusavu, Fiji (SVU)",
+        "2": "airport",
+        "3": "SVU",
+        "4": "SVU",
+        "5": "Savusavu",
+        "6": 179.338889,
+        "7": -16.799167,
+        "10": "Pacific/Fiji"
+      },
+      {
+        "1": "Savonlinna, Finland (SVL)",
+        "2": "airport",
+        "3": "SVL",
+        "4": "SVL",
+        "5": "Savonlinna",
+        "6": 28.945,
+        "7": 61.9430556,
+        "10": "Europe/Helsinki"
+      },
+      {
+        "1": "Savissivik Heliport, Greenland (SVR)",
+        "2": "helipad",
+        "3": "SVR",
+        "4": "SVR",
+        "5": "Savissivik",
+        "6": -65.098056,
+        "7": 76.0188889,
+        "10": "America/Godthab"
+      }
+    ]
+  }
+}

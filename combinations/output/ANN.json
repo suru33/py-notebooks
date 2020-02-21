@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Annaba Rabah Bitat, Algeria (AAE)",
+        "2": "airport",
+        "3": "AAE",
+        "4": "AAE",
+        "5": "Annaba",
+        "6": 7.80916667,
+        "7": 36.8222222,
+        "10": "Africa/Algiers"
+      },
+      {
+        "1": "Ann Arbor Municipal, MI (ARB)",
+        "2": "airport",
+        "3": "ARB",
+        "4": "ARB",
+        "5": "Ann Arbor",
+        "6": -83.745833,
+        "7": 42.2236111,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Ann, Myanmar (VBA)",
+        "2": "airport",
+        "3": "VBA",
+        "4": "VBA",
+        "5": "Ann",
+        "6": 94.0261111,
+        "7": 19.77,
+        "10": "Asia/Rangoon"
+      },
+      {
+        "1": "Annobon, Equatorial Guinea (NBN)",
+        "2": "airport",
+        "3": "NBN",
+        "4": "NBN",
+        "5": "Annobon",
+        "6": 5.62194444,
+        "7": -1.4094444,
+        "10": "Africa/Malabo"
+      },
+      {
+        "1": "Mandalay International, Myanmar (MDL)",
+        "2": "airport",
+        "3": "MDL",
+        "4": "MDL",
+        "5": "Mandalay",
+        "6": 95.9780556,
+        "7": 21.7022222,
+        "10": "Asia/Rangoon"
+      }
+    ]
+  }
+}

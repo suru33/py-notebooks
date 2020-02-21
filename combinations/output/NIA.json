@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Niagara Falls International, NY (IAG)",
+        "2": "airport",
+        "3": "IAG",
+        "4": "IAG",
+        "5": "Niagara Falls",
+        "6": -78.946111,
+        "7": 43.1072222,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Niamey Diori Hamani International, Niger (NIM)",
+        "2": "airport",
+        "3": "NIM",
+        "4": "NIM",
+        "5": "Niamey",
+        "6": 2.17666667,
+        "7": 13.4811111,
+        "10": "Africa/Niamey"
+      },
+      {
+        "1": "Niau, French Polynesia (NIU)",
+        "2": "airport",
+        "3": "NIU",
+        "4": "NIU",
+        "5": "Niau",
+        "6": -146.37361,
+        "7": -16.120833,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Buffalo Niagara International, NY (BUF)",
+        "2": "airport",
+        "3": "BUF",
+        "4": "BUF",
+        "5": "Buffalo",
+        "6": -78.732222,
+        "7": 42.9405556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Niagara Falls Railway Station, ON, Canada (XLV)",
+        "2": "rail",
+        "3": "XLV",
+        "4": "XLV",
+        "5": "Niagara Falls Rail Station",
+        "6": -79.063611,
+        "7": 43.1088889,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Niaqornat Heliport, Greenland (NIQ)",
+        "2": "helipad",
+        "3": "NIQ",
+        "4": "NIQ",
+        "5": "Niaqornat",
+        "6": -53.663056,
+        "7": 70.7894444,
+        "10": "America/Godthab"
+      }
+    ]
+  }
+}

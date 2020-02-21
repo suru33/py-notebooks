@@ -1,0 +1,116 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Khabarovsk Novy, Russia (KHV)",
+        "2": "airport",
+        "3": "KHV",
+        "4": "KHV",
+        "5": "Khabarovsk",
+        "6": 135.188333,
+        "7": 48.5280556,
+        "10": "Asia/Vladivostok"
+      },
+      {
+        "1": "Khartoum International, Sudan (KRT)",
+        "2": "airport",
+        "3": "KRT",
+        "4": "KRT",
+        "5": "Khartoum",
+        "6": 32.5530556,
+        "7": 15.5894444,
+        "10": "Africa/Khartoum"
+      },
+      {
+        "1": "Kharkiv Osnova International, Ukraine (HRK)",
+        "2": "airport",
+        "3": "HRK",
+        "4": "HRK",
+        "5": "Kharkov",
+        "6": 36.2836111,
+        "7": 49.9261111,
+        "10": "Europe/Kiev"
+      },
+      {
+        "1": "Khanty-Mansiysk, Russia (HMA)",
+        "2": "airport",
+        "3": "HMA",
+        "4": "HMA",
+        "5": "Khanty-Mansiysk",
+        "6": 69.0861111,
+        "7": 61.0286111,
+        "10": "Asia/Yekaterinburg"
+      },
+      {
+        "1": "Khark Island, Iran (KHK)",
+        "2": "airport",
+        "3": "KHK",
+        "4": "KHK",
+        "5": "Khark Island",
+        "6": 50.3222222,
+        "7": 29.2605556,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Khajuraho, India (HJR)",
+        "2": "airport",
+        "3": "HJR",
+        "4": "HJR",
+        "5": "Khajuraho",
+        "6": 79.9186111,
+        "7": 24.8172222,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Khamti, Myanmar (KHM)",
+        "2": "airport",
+        "3": "KHM",
+        "4": "KHM",
+        "5": "Khamti",
+        "6": 95.6741667,
+        "7": 25.9877778,
+        "10": "Asia/Rangoon"
+      },
+      {
+        "1": "Khasab, Oman (KHS)",
+        "2": "airport",
+        "3": "KHS",
+        "4": "KHS",
+        "5": "Khasab",
+        "6": 56.2405556,
+        "7": 26.1711111,
+        "10": "Asia/Muscat"
+      },
+      {
+        "1": "Khatanga, Russia (HTG)",
+        "2": "airport",
+        "3": "HTG",
+        "4": "HTG",
+        "5": "Hatanga",
+        "6": 102.4925,
+        "7": 71.9780556,
+        "10": "Asia/Krasnoyarsk"
+      },
+      {
+        "1": "Riyadh King Khalid International, Saudi Arabia (RUH)",
+        "2": "airport",
+        "3": "RUH",
+        "4": "RUH",
+        "5": "Riyadh",
+        "6": 46.6988889,
+        "7": 24.9577778,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "Gaborone S. Khama Int'l, Botswana (GBE)",
+        "2": "airport",
+        "3": "GBE",
+        "4": "GBE",
+        "5": "Gaborone",
+        "6": 25.9183333,
+        "7": -24.555278,
+        "10": "Africa/Lusaka"
+      }
+    ]
+  }
+}

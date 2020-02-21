@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Holguin Frank Pais International, Cuba (HOG)",
+        "2": "airport",
+        "3": "HOG",
+        "4": "HOG",
+        "5": "Holguin",
+        "6": -76.315,
+        "7": 20.7855556,
+        "10": "America/Havana"
+      },
+      {
+        "1": "Holy Cross, AK (HCR)",
+        "2": "airport",
+        "3": "HCR",
+        "4": "HCR",
+        "5": "Holy Cross",
+        "6": -159.7725,
+        "7": 62.1902778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Hollis Clark Bay SPB, AK (HYL)",
+        "2": "airport",
+        "3": "HYL",
+        "4": "HYL",
+        "5": "Hollis",
+        "6": -132.65194,
+        "7": 55.4808333,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

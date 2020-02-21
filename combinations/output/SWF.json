@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Newburgh Stewart, NY (SWF)",
+        "2": "airport",
+        "3": "SWF",
+        "4": "SWF",
+        "5": "Newburgh",
+        "6": -74.104722,
+        "7": 41.5041667,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Fort Myers Southwest Florida International, FL (RSW)",
+        "2": "airport",
+        "3": "RSW",
+        "4": "FMY",
+        "5": "Fort Myers",
+        "6": -81.755278,
+        "7": 26.5361111,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

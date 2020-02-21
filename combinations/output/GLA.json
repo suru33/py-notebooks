@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Glasgow, United Kingdom - All airports",
+        "2": "city",
+        "3": "GLA",
+        "4": "GLA",
+        "5": "Glasgow",
+        "6": -4.435704951323314,
+        "7": 55.777053482867494,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Glasgow International, United Kingdom (GLA)",
+        "2": "airport",
+        "3": "GLA",
+        "4": "GLA",
+        "5": "Glasgow",
+        "6": -4.4333333,
+        "7": 55.8719444,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Glasgow Prestwick, United Kingdom (PIK)",
+        "2": "airport",
+        "3": "PIK",
+        "4": "GLA",
+        "5": "Glasgow",
+        "6": -4.5866667,
+        "7": 55.5094444,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Glasgow International, MT (GGW)",
+        "2": "airport",
+        "3": "GGW",
+        "4": "GGW",
+        "5": "Glasgow",
+        "6": -106.61472,
+        "7": 48.2125,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Gladstone, Australia (GLT)",
+        "2": "airport",
+        "3": "GLT",
+        "4": "GLT",
+        "5": "Gladstone",
+        "6": 151.222778,
+        "7": -23.869722,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Glasgow Central Railway Station, United Kingdom (ZGG)",
+        "2": "rail",
+        "3": "ZGG",
+        "4": "GLA",
+        "5": "Glasgow",
+        "6": -4.2580556,
+        "7": 55.8594444,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Kalispell Glacier Park International, MT (FCA)",
+        "2": "airport",
+        "3": "FCA",
+        "4": "FCA",
+        "5": "Kalispell",
+        "6": -114.25611,
+        "7": 48.3105556,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

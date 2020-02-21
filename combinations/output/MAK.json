@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Makassar Sultan Hasanuddin, Indonesia (UPG)",
+        "2": "airport",
+        "3": "UPG",
+        "4": "UPG",
+        "5": "Ujung Pandang",
+        "6": 119.554167,
+        "7": -5.0616667,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Makemo, French Polynesia (MKP)",
+        "2": "airport",
+        "3": "MKP",
+        "4": "MKP",
+        "5": "Makemo",
+        "6": -143.65833,
+        "7": -16.583889,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Makhachkala Uytash, Russia (MCX)",
+        "2": "airport",
+        "3": "MCX",
+        "4": "MCX",
+        "5": "Makhachkala",
+        "6": 47.6522222,
+        "7": 42.8169444,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Makkovik, NL, Canada (YMN)",
+        "2": "airport",
+        "3": "YMN",
+        "4": "YMN",
+        "5": "Makkovik",
+        "6": -59.188056,
+        "7": 55.0775,
+        "10": "America/Halifax"
+      },
+      {
+        "1": "Thessaloniki Makedonia, Greece (SKG)",
+        "2": "airport",
+        "3": "SKG",
+        "4": "SKG",
+        "5": "Thessaloniki",
+        "6": 22.9708333,
+        "7": 40.5197222,
+        "10": "Europe/Athens"
+      }
+    ]
+  }
+}

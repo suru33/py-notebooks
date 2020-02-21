@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Liege, Belgium (LGG)",
+        "2": "airport",
+        "3": "LGG",
+        "4": "LGG",
+        "5": "Liege",
+        "6": 5.44333333,
+        "7": 50.6375,
+        "10": "Europe/Brussels"
+      },
+      {
+        "1": "Liepaja International, Latvia (LPX)",
+        "2": "airport",
+        "3": "LPX",
+        "4": "LPX",
+        "5": "Liepaya",
+        "6": 21.0969444,
+        "7": 56.5175,
+        "10": "Europe/Riga"
+      },
+      {
+        "1": "Liege Guillemins Railway St, Belgium (XHN)",
+        "2": "rail",
+        "3": "XHN",
+        "4": "LGG",
+        "5": "Liege",
+        "6": 5.56666667,
+        "7": 50.6244444,
+        "10": "Europe/Brussels"
+      },
+      {
+        "1": "Da Lat Lien Khuong, Viet Nam (DLI)",
+        "2": "airport",
+        "3": "DLI",
+        "4": "DLI",
+        "5": "Dalat",
+        "6": 108.366667,
+        "7": 11.75,
+        "10": "Asia/Ho_Chi_Minh"
+      }
+    ]
+  }
+}

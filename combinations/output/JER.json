@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Jersey, United Kingdom (JER)",
+        "2": "airport",
+        "3": "JER",
+        "4": "JER",
+        "5": "Jersey",
+        "6": -2.1952778,
+        "7": 49.2077778,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Jerez, Spain (XRY)",
+        "2": "airport",
+        "3": "XRY",
+        "4": "XRY",
+        "5": "Jerez de la Frontera",
+        "6": -6.06,
+        "7": 36.7447222,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Jerez Railway Station, Spain (YJW)",
+        "2": "rail",
+        "3": "YJW",
+        "4": "XRY",
+        "5": "Jerez de la Frontera",
+        "6": -6.1263889,
+        "7": 36.68,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Monteria Los Garzones, Colombia (MTR)",
+        "2": "airport",
+        "3": "MTR",
+        "4": "MTR",
+        "5": "Monteria",
+        "6": -75.825833,
+        "7": 8.82361111,
+        "10": "America/Bogota"
+      }
+    ]
+  }
+}

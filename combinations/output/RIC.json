@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Richmond International, VA (RIC)",
+        "2": "airport",
+        "3": "RIC",
+        "4": "RIC",
+        "5": "Richmond",
+        "6": -77.319722,
+        "7": 37.5052778,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Richmond, Australia (RCM)",
+        "2": "airport",
+        "3": "RCM",
+        "4": "RCM",
+        "5": "Richmond",
+        "6": 143.114167,
+        "7": -20.701389,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Richards Bay, South Africa (RCB)",
+        "2": "airport",
+        "3": "RCB",
+        "4": "RCB",
+        "5": "Richards Bay",
+        "6": 32.0922222,
+        "7": -28.741111,
+        "10": "Africa/Johannesburg"
+      },
+      {
+        "1": "Winnipeg J.A. Richardson International, MB, Canada (YWG)",
+        "2": "airport",
+        "3": "YWG",
+        "4": "YWG",
+        "5": "Winnipeg",
+        "6": -97.24,
+        "7": 49.91,
+        "10": "America/Rainy_River"
+      },
+      {
+        "1": "Columbus Rickenbacker International, OH (LCK)",
+        "2": "airport",
+        "3": "LCK",
+        "4": "CMH",
+        "5": "Columbus",
+        "6": -82.927778,
+        "7": 39.8138889,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Massena International, NY (MSS)",
+        "2": "airport",
+        "3": "MSS",
+        "4": "MSS",
+        "5": "Massena",
+        "6": -74.845556,
+        "7": 44.9358333,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Sidney Richland Municipal, MT (SDY)",
+        "2": "airport",
+        "3": "SDY",
+        "4": "SDY",
+        "5": "Sidney",
+        "6": -104.19639,
+        "7": 47.705,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

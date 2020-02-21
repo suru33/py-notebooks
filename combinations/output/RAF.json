@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Rafha, Saudi Arabia (RAH)",
+        "2": "airport",
+        "3": "RAH",
+        "4": "RAH",
+        "5": "Rafha",
+        "6": 43.4905556,
+        "7": 29.6263889,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "Rafsanjan, Iran (RJN)",
+        "2": "airport",
+        "3": "RJN",
+        "4": "RJN",
+        "5": "Rafsanjan",
+        "6": 56.0508333,
+        "7": 30.2975,
+        "10": "Asia/Tehran"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Mountain Village, AK (MOU)",
+        "2": "airport",
+        "3": "MOU",
+        "4": "MOU",
+        "5": "Mountain Village",
+        "6": -163.68222,
+        "7": 62.0952778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Mount Isa, Australia (ISA)",
+        "2": "airport",
+        "3": "ISA",
+        "4": "ISA",
+        "5": "Mount Isa",
+        "6": 139.488611,
+        "7": -20.663889,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Mount Hagen Kagamuga, Papua New Guinea (HGU)",
+        "2": "airport",
+        "3": "HGU",
+        "4": "HGU",
+        "5": "Mount Hagen",
+        "6": 144.295833,
+        "7": -5.8266667,
+        "10": "Pacific/Port_Moresby"
+      },
+      {
+        "1": "Mount Magnet, Australia (MMG)",
+        "2": "airport",
+        "3": "MMG",
+        "4": "MMG",
+        "5": "Mount Magnet",
+        "6": 117.841667,
+        "7": -28.116111,
+        "10": "Australia/Perth"
+      },
+      {
+        "1": "Mount Pleasant RAF Station, Falkland Islands (MPN)",
+        "2": "airport",
+        "3": "MPN",
+        "4": "MPN",
+        "5": "Mount Pleasant",
+        "6": -58.445556,
+        "7": -51.822778,
+        "10": "Atlantic/Stanley"
+      },
+      {
+        "1": "Moundou, Chad (MQQ)",
+        "2": "airport",
+        "3": "MQQ",
+        "4": "MQQ",
+        "5": "Moundou",
+        "6": 16.0725,
+        "7": 8.62638889,
+        "10": "Africa/Ndjamena"
+      },
+      {
+        "1": "Mount Gambier, Australia (MGB)",
+        "2": "airport",
+        "3": "MGB",
+        "4": "MGB",
+        "5": "Mount Gambier",
+        "6": 140.785278,
+        "7": -37.745556,
+        "10": "Australia/Adelaide"
+      },
+      {
+        "1": "Mount Gordon Mine, Australia (GPD)",
+        "2": "airport",
+        "3": "GPD",
+        "4": "GPD",
+        "5": "Mount Gordon Mine",
+        "6": 139.917778,
+        "7": -19.999444,
+        "10": "Australia/Brisbane"
+      }
+    ]
+  }
+}

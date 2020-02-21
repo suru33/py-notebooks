@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Syracuse Hancock International, NY (SYR)",
+        "2": "airport",
+        "3": "SYR",
+        "4": "SYR",
+        "5": "Syracuse",
+        "6": -76.106389,
+        "7": 43.1111111,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Syros Island Dimitrios Vikelas, Greece (JSY)",
+        "2": "airport",
+        "3": "JSY",
+        "4": "JSY",
+        "5": "Syros Island",
+        "6": 24.95,
+        "7": 37.4227778,
+        "10": "Europe/Athens"
+      }
+    ]
+  }
+}

@@ -1,0 +1,506 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "San Diego, CA - All airports",
+        "2": "city",
+        "3": "SAN",
+        "4": "SAN",
+        "5": "San Diego",
+        "6": -117.20557973430824,
+        "7": 32.80295302753178,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "San Diego International, CA (SAN)",
+        "2": "airport",
+        "3": "SAN",
+        "4": "SAN",
+        "5": "San Diego",
+        "6": -117.18972,
+        "7": 32.7336111,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "San Francisco International, CA (SFO)",
+        "2": "airport",
+        "3": "SFO",
+        "4": "SFO",
+        "5": "San Francisco",
+        "6": -122.39167,
+        "7": 37.6188889,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "San Juan, PR - All airports",
+        "2": "city",
+        "3": "SJU",
+        "4": "SJU",
+        "5": "San Juan",
+        "6": -66.00988148288451,
+        "7": 18.440889650858157,
+        "10": "America/St_Thomas"
+      },
+      {
+        "1": "San Jose Norman Y. Mineta International, CA (SJC)",
+        "2": "airport",
+        "3": "SJC",
+        "4": "SJC",
+        "5": "San Jose",
+        "6": -121.92889,
+        "7": 37.3625,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "San Juan Luis Munoz Marin International, PR (SJU)",
+        "2": "airport",
+        "3": "SJU",
+        "4": "SJU",
+        "5": "San Juan",
+        "6": -66.001944,
+        "7": 18.4394444,
+        "10": "America/St_Thomas"
+      },
+      {
+        "1": "San Antonio International, TX (SAT)",
+        "2": "airport",
+        "3": "SAT",
+        "4": "SAT",
+        "5": "San Antonio",
+        "6": -98.469722,
+        "7": 29.5336111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Santa Ana John Wayne, CA (SNA)",
+        "2": "airport",
+        "3": "SNA",
+        "4": "SNA",
+        "5": "Santa Ana",
+        "6": -117.86833,
+        "7": 33.6755556,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Santo Domingo, Dominican Republic - All airports",
+        "2": "city",
+        "3": "SDQ",
+        "4": "SDQ",
+        "5": "Santo Domingo",
+        "6": -69.7888055566273,
+        "7": 18.48368459367977,
+        "10": "America/Santo_Domingo"
+      },
+      {
+        "1": "Sanya Phoenix International, China (SYX)",
+        "2": "airport",
+        "3": "SYX",
+        "4": "SYX",
+        "5": "Sanya",
+        "6": 109.412222,
+        "7": 18.3027778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Santiago Arturo Merino Benitez, Chile (SCL)",
+        "2": "airport",
+        "3": "SCL",
+        "4": "SCL",
+        "5": "Santiago",
+        "6": -70.785833,
+        "7": -33.393056,
+        "10": "America/Santiago"
+      },
+      {
+        "1": "Santa Barbara Municipal, CA (SBA)",
+        "2": "airport",
+        "3": "SBA",
+        "4": "SBA",
+        "5": "Santa Barbara",
+        "6": -119.84028,
+        "7": 34.4261111,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "San Jose Juan Santamaria International, Costa Rica (SJO)",
+        "2": "airport",
+        "3": "SJO",
+        "4": "SJO",
+        "5": "San Jose",
+        "6": -84.208889,
+        "7": 9.99388889,
+        "10": "America/Costa_Rica"
+      },
+      {
+        "1": "San Jose del Cabo Los Cabos International, Mexico (SJD)",
+        "2": "airport",
+        "3": "SJD",
+        "4": "SJD",
+        "5": "San Jose del Cabo/Cabo San Lucas",
+        "6": -109.72111,
+        "7": 23.1519444,
+        "10": "America/Mazatlan"
+      },
+      {
+        "1": "Santa Rosa Charles M. Schulz, CA (STS)",
+        "2": "airport",
+        "3": "STS",
+        "4": "STS",
+        "5": "Santa Rosa",
+        "6": -122.81028,
+        "7": 38.5105556,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Santo Domingo Las Americas International, Dominican Republic (SDQ)",
+        "2": "airport",
+        "3": "SDQ",
+        "4": "SDQ",
+        "5": "Santo Domingo",
+        "6": -69.668889,
+        "7": 18.4297222,
+        "10": "America/Santo_Domingo"
+      },
+      {
+        "1": "San Luis Obispo San Luis County Regional, CA (SBP)",
+        "2": "airport",
+        "3": "SBP",
+        "4": "SBP",
+        "5": "San Luis Obispo",
+        "6": -120.64194,
+        "7": 35.2369444,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Santa Fe Municipal, NM (SAF)",
+        "2": "airport",
+        "3": "SAF",
+        "4": "SAF",
+        "5": "Santa Fe",
+        "6": -106.08333,
+        "7": 35.6166667,
+        "10": "America/Denver"
+      },
+      {
+        "1": "San Salvador El Salvador International, El Salvador (SAL)",
+        "2": "airport",
+        "3": "SAL",
+        "4": "SAL",
+        "5": "San Salvador",
+        "6": -89.055833,
+        "7": 13.4408333,
+        "10": "America/El_Salvador"
+      },
+      {
+        "1": "Sandefjord Torp, Norway (TRF)",
+        "2": "airport",
+        "3": "TRF",
+        "4": "OSL",
+        "5": "Oslo",
+        "6": 10.2586111,
+        "7": 59.1866667,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Santiago de Compostela, Spain (SCQ)",
+        "2": "airport",
+        "3": "SCQ",
+        "4": "SCQ",
+        "5": "Santiago de Compostela",
+        "6": -8.4152778,
+        "7": 42.8963889,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Santa Cruz Viru Viru International, Bolivia (VVI)",
+        "2": "airport",
+        "3": "VVI",
+        "4": "SRZ",
+        "5": "Santa Cruz",
+        "6": -63.135278,
+        "7": -17.644722,
+        "10": "America/La_Paz"
+      },
+      {
+        "1": "Santa Clara Abel Santamaria, Cuba (SNU)",
+        "2": "airport",
+        "3": "SNU",
+        "4": "SNU",
+        "5": "Santa Clara",
+        "6": -79.943611,
+        "7": 22.4922222,
+        "10": "America/Havana"
+      },
+      {
+        "1": "Santa Cruz de la Palma, Spain (SPC)",
+        "2": "airport",
+        "3": "SPC",
+        "4": "SPC",
+        "5": "Santa Cruz de la Palma",
+        "6": -17.755556,
+        "7": 28.6263889,
+        "10": "Atlantic/Canary"
+      },
+      {
+        "1": "Santander, Spain (SDR)",
+        "2": "airport",
+        "3": "SDR",
+        "4": "SDR",
+        "5": "Santander",
+        "6": -3.82,
+        "7": 43.4269444,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "San Pedro Sula Ramon V. Morales International, Honduras (SAP)",
+        "2": "airport",
+        "3": "SAP",
+        "4": "SAP",
+        "5": "San Pedro Sula",
+        "6": -87.923611,
+        "7": 15.4527778,
+        "10": "America/Tegucigalpa"
+      },
+      {
+        "1": "Santiago de Cuba Antonio Maceo International, Cuba (SCU)",
+        "2": "airport",
+        "3": "SCU",
+        "4": "SCU",
+        "5": "Santiago",
+        "6": -75.835278,
+        "7": 19.9697222,
+        "10": "America/Havana"
+      },
+      {
+        "1": "San Carlos Bariloche, Argentina (BRC)",
+        "2": "airport",
+        "3": "BRC",
+        "4": "BRC",
+        "5": "San Carlos de Bariloche",
+        "6": -71.157778,
+        "7": -41.151111,
+        "10": "America/Argentina/Mendoza"
+      },
+      {
+        "1": "San Luis Potosi Ponciano Arriaga International, Mexico (SLP)",
+        "2": "airport",
+        "3": "SLP",
+        "4": "SLP",
+        "5": "San Luis Potosi",
+        "6": -100.93083,
+        "7": 22.2541667,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Sanikiluaq, NU, Canada (YSK)",
+        "2": "airport",
+        "3": "YSK",
+        "4": "YSK",
+        "5": "Sanikiluaq",
+        "6": -79.25,
+        "7": 56.5369444,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Santiago Cibao International, Dominican Republic (STI)",
+        "2": "airport",
+        "3": "STI",
+        "4": "STI",
+        "5": "Santiago",
+        "6": -70.604722,
+        "7": 19.4061111,
+        "10": "America/Santo_Domingo"
+      },
+      {
+        "1": "San Pedro, Belize (SPR)",
+        "2": "airport",
+        "3": "SPR",
+        "4": "SPR",
+        "5": "San Pedro",
+        "6": -87.966667,
+        "7": 17.9166667,
+        "10": "America/Belize"
+      },
+      {
+        "1": "San Andres Island Gustavo R. Pinilla International, Colombia (ADZ)",
+        "2": "airport",
+        "3": "ADZ",
+        "4": "ADZ",
+        "5": "San Andres Island",
+        "6": -81.711111,
+        "7": 12.5836111,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "San Diego McClellan-Palomar, CA (CLD)",
+        "2": "airport",
+        "3": "CLD",
+        "4": "SAN",
+        "5": "San Diego",
+        "6": -117.28,
+        "7": 33.1283333,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Sanming Shaxian, China (SQJ)",
+        "2": "airport",
+        "3": "SQJ",
+        "4": "SQJ",
+        "5": "Sanming",
+        "6": 117.833333,
+        "7": 26.4261111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Santa Marta Simon Bolivar International, Colombia (SMR)",
+        "2": "airport",
+        "3": "SMR",
+        "4": "SMR",
+        "5": "Santa Marta",
+        "6": -74.230556,
+        "7": 11.1197222,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Sanliurfa Guney Anadolu Projesi, Turkey (GNY)",
+        "2": "airport",
+        "3": "GNY",
+        "4": "SFQ",
+        "5": "Sanliurfa",
+        "6": 38.8469444,
+        "7": 37.0944444,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "San Juan (Uganik) SPB, AK (UGI)",
+        "2": "airport",
+        "3": "UGI",
+        "4": "UGI",
+        "5": "Uganik",
+        "6": -153.33028,
+        "7": 57.8402778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Santo Domingo Dr.Joaquin Balaguer, Dominican Republic (JBQ)",
+        "2": "airport",
+        "3": "JBQ",
+        "4": "SDQ",
+        "5": "Santo Domingo",
+        "6": -69.985556,
+        "7": 18.5722222,
+        "10": "America/Santo_Domingo"
+      },
+      {
+        "1": "San Salvador Cockburn Town, Bahamas (ZSA)",
+        "2": "airport",
+        "3": "ZSA",
+        "4": "ZSA",
+        "5": "San Salvador",
+        "6": -74.523889,
+        "7": 24.0633333,
+        "10": "America/Nassau"
+      },
+      {
+        "1": "Santarem Maestro Wilson Fonseca, Brazil (STM)",
+        "2": "airport",
+        "3": "STM",
+        "4": "STM",
+        "5": "Santarem",
+        "6": -54.792778,
+        "7": -2.4225,
+        "10": "America/Belem"
+      },
+      {
+        "1": "San Ignacio Town Airstrip, Belize (CYD)",
+        "2": "airport",
+        "3": "CYD",
+        "4": "SQS",
+        "5": "San Ignacia",
+        "6": -89.106944,
+        "7": 17.105,
+        "10": "America/Belize"
+      },
+      {
+        "1": "Sandakan, Malaysia (SDK)",
+        "2": "airport",
+        "3": "SDK",
+        "4": "SDK",
+        "5": "Sandakan",
+        "6": 118.061111,
+        "7": 5.90138889,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Sandnessjoen Stokka, Norway (SSJ)",
+        "2": "airport",
+        "3": "SSJ",
+        "4": "SSJ",
+        "5": "Sandnessjoen",
+        "6": 12.4688889,
+        "7": 65.9569444,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Sandane Anda, Norway (SDN)",
+        "2": "airport",
+        "3": "SDN",
+        "4": "SDN",
+        "5": "Sandane",
+        "6": 6.1075,
+        "7": 61.83,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Sand Point, AK (SDP)",
+        "2": "airport",
+        "3": "SDP",
+        "4": "SDP",
+        "5": "Sand Point",
+        "6": -160.52278,
+        "7": 55.315,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Sanday, United Kingdom (NDY)",
+        "2": "airport",
+        "3": "NDY",
+        "4": "NDY",
+        "5": "Sanday",
+        "6": -2.575,
+        "7": 59.2502778,
+        "10": "Europe/London"
+      },
+      {
+        "1": "San Martin los Andes Aviador Carlos Campos, Argentina (CPC)",
+        "2": "airport",
+        "3": "CPC",
+        "4": "CPC",
+        "5": "San Martin de los Andes",
+        "6": -71.137222,
+        "7": -40.075278,
+        "10": "America/Argentina/Mendoza"
+      },
+      {
+        "1": "Sandy Lake, ON, Canada (ZSJ)",
+        "2": "airport",
+        "3": "ZSJ",
+        "4": "ZSJ",
+        "5": "Sandy Lake",
+        "6": -93.346389,
+        "7": 53.0644444,
+        "10": "America/Rainy_River"
+      },
+      {
+        "1": "San Angelo Regional (Mathis Field), TX (SJT)",
+        "2": "airport",
+        "3": "SJT",
+        "4": "SJT",
+        "5": "San Angelo",
+        "6": -100.49639,
+        "7": 31.3577778,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

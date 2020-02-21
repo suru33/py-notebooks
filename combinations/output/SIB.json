@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sibiu, Romania (SBZ)",
+        "2": "airport",
+        "3": "SBZ",
+        "4": "SBZ",
+        "5": "Sibiu",
+        "6": 24.0913889,
+        "7": 45.7855556,
+        "10": "Europe/Bucharest"
+      },
+      {
+        "1": "Sibu, Malaysia (SBW)",
+        "2": "airport",
+        "3": "SBW",
+        "4": "SBW",
+        "5": "Sibu",
+        "6": 111.9825,
+        "7": 2.26416667,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Siborong-Borong Silangit, Indonesia (DTB)",
+        "2": "airport",
+        "3": "DTB",
+        "4": "DTB",
+        "5": "Siborong-Borong",
+        "6": 98.9875,
+        "7": 2.25972222,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Sibolga Ferdinand LumbanTobing, Indonesia (FLZ)",
+        "2": "airport",
+        "3": "FLZ",
+        "4": "FLZ",
+        "5": "Sibolga",
+        "6": 98.8888889,
+        "7": 1.55583333,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Sibiu Bus Station, Romania (SEI)",
+        "2": "bus",
+        "3": "SEI",
+        "4": "SEI",
+        "5": "Sibiu",
+        "6": 24.1619444,
+        "7": 45.7997222,
+        "10": "Europe/Bucharest"
+      }
+    ]
+  }
+}

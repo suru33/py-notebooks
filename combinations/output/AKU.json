@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Aksu, China (AKU)",
+        "2": "airport",
+        "3": "AKU",
+        "4": "AKU",
+        "5": "Aksu",
+        "6": 80.2919444,
+        "7": 41.2627778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Akulivik, NT, Canada (AKV)",
+        "2": "airport",
+        "3": "AKV",
+        "4": "AKV",
+        "5": "Akulivik",
+        "6": -78.148611,
+        "7": 60.8186111,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Akutan, AK (KQA)",
+        "2": "airport",
+        "3": "KQA",
+        "4": "KQA",
+        "5": "Akutan",
+        "6": -165.78083,
+        "7": 54.1330556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Akureyri, Iceland (AEY)",
+        "2": "airport",
+        "3": "AEY",
+        "4": "AEY",
+        "5": "Akureyri",
+        "6": -18.072222,
+        "7": 65.6586111,
+        "10": "Atlantic/Reykjavik"
+      },
+      {
+        "1": "Akure, Nigeria (AKR)",
+        "2": "airport",
+        "3": "AKR",
+        "4": "AKR",
+        "5": "Akure",
+        "6": 5.30194444,
+        "7": 7.24861111,
+        "10": "Africa/Lagos"
+      }
+    ]
+  }
+}

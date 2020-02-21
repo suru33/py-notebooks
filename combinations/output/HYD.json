@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Hyderabad Rajiv Gandhi International, India (HYD)",
+        "2": "airport",
+        "3": "HYD",
+        "4": "HYD",
+        "5": "Hyderabad",
+        "6": 78.4313889,
+        "7": 17.2311111,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Hydaburg Sea Plane Base, AK (HYG)",
+        "2": "airport",
+        "3": "HYG",
+        "4": "HYG",
+        "5": "Hydaburg",
+        "6": -132.82806,
+        "7": 55.2052778,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

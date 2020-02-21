@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Mulhouse/Basel EuroAirport French  FR, France (MLH)",
+        "2": "airport",
+        "3": "MLH",
+        "4": "MLH",
+        "5": "Mulhouse",
+        "6": 7.52916667,
+        "7": 47.6008333,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Multan International, Pakistan (MUX)",
+        "2": "airport",
+        "3": "MUX",
+        "4": "MUX",
+        "5": "Multan",
+        "6": 71.4191667,
+        "7": 30.2033333,
+        "10": "Asia/Karachi"
+      },
+      {
+        "1": "Mulu, Malaysia (MZV)",
+        "2": "airport",
+        "3": "MZV",
+        "4": "MZV",
+        "5": "Mulu",
+        "6": 114.809167,
+        "7": 4.05055556,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Mulatupo, Panama (MPP)",
+        "2": "airport",
+        "3": "MPP",
+        "4": "MPP",
+        "5": "Mulatupo",
+        "6": -77.750833,
+        "7": 8.94638889,
+        "10": "America/Panama"
+      },
+      {
+        "1": "Basel/Mulhouse EuroAirport Swiss, Switzerland (BSL)",
+        "2": "airport",
+        "3": "BSL",
+        "4": "BSL",
+        "5": "Basel",
+        "6": 7.52166667,
+        "7": 47.6011111,
+        "10": "Europe/Zurich"
+      }
+    ]
+  }
+}

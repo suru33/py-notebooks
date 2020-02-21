@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Learmonth, Australia (LEA)",
+        "2": "airport",
+        "3": "LEA",
+        "4": "LEA",
+        "5": "Learmonth",
+        "6": 114.088611,
+        "7": -22.235556,
+        "10": "Australia/Perth"
+      },
+      {
+        "1": "Hobbs Lea County Regional, NM (HOB)",
+        "2": "airport",
+        "3": "HOB",
+        "4": "HOB",
+        "5": "Hobbs",
+        "6": -103.215,
+        "7": 32.6883333,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Athens Eleftherios Venizelos, Greece (ATH)",
+        "2": "airport",
+        "3": "ATH",
+        "4": "ATH",
+        "5": "Athens",
+        "6": 23.9444444,
+        "7": 37.9363889,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Armenia El Eden International, Colombia (AXM)",
+        "2": "airport",
+        "3": "AXM",
+        "4": "AXM",
+        "5": "Armenia",
+        "6": -75.766389,
+        "7": 4.45277778,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Rock Sound International, Bahamas (RSD)",
+        "2": "airport",
+        "3": "RSD",
+        "4": "RSD",
+        "5": "Rock Sound",
+        "6": -76.177778,
+        "7": 24.8916667,
+        "10": "America/Nassau"
+      }
+    ]
+  }
+}

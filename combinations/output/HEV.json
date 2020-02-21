@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Huelva Railway Station, Spain (HEV)",
+        "2": "rail",
+        "3": "HEV",
+        "4": "HEV",
+        "5": "Huelva",
+        "6": -6.9511111,
+        "7": 37.2530556,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Heviz Balaton, Hungary (SOB)",
+        "2": "airport",
+        "3": "SOB",
+        "4": "SOB",
+        "5": "Saarmelleek",
+        "6": 17.1591667,
+        "7": 46.6863889,
+        "10": "Europe/Budapest"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Girona Costa Brava, Spain (GRO)",
+        "2": "airport",
+        "3": "GRO",
+        "4": "GRO",
+        "5": "Gerona",
+        "6": 2.76055556,
+        "7": 41.9008333,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Grozny, Russia (GRV)",
+        "2": "airport",
+        "3": "GRV",
+        "4": "GRV",
+        "5": "Groznyj",
+        "6": 45.7,
+        "7": 43.3883333,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Groningen Eelde, Netherlands (GRQ)",
+        "2": "airport",
+        "3": "GRQ",
+        "4": "GRQ",
+        "5": "Groningen",
+        "6": 6.58333333,
+        "7": 53.125,
+        "10": "Europe/Amsterdam"
+      },
+      {
+        "1": "Groote Eylandt, Australia (GTE)",
+        "2": "airport",
+        "3": "GTE",
+        "4": "GTE",
+        "5": "Groote Eylandt",
+        "6": 136.458611,
+        "7": -13.9725,
+        "10": "Australia/Darwin"
+      }
+    ]
+  }
+}

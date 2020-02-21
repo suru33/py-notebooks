@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Georgetown, Guyana - All airports",
+        "2": "city",
+        "3": "GEO",
+        "4": "GEO",
+        "5": "Georgetown",
+        "6": -58.18725451919432,
+        "7": 6.63848465593479,
+        "10": "America/Guyana"
+      },
+      {
+        "1": "Georgetown Cheddi Jagan International, Guyana (GEO)",
+        "2": "airport",
+        "3": "GEO",
+        "4": "GEO",
+        "5": "Georgetown",
+        "6": -58.254167,
+        "7": 6.49861111,
+        "10": "America/Guyana"
+      },
+      {
+        "1": "Houston George Bush Intercont., TX (IAH)",
+        "2": "airport",
+        "3": "IAH",
+        "4": "HOU",
+        "5": "Houston",
+        "6": -95.341389,
+        "7": 29.9844444,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "George Town Exuma International, Bahamas (GGT)",
+        "2": "airport",
+        "3": "GGT",
+        "4": "GGT",
+        "5": "George Town",
+        "6": -75.878056,
+        "7": 23.5625,
+        "10": "America/Nassau"
+      },
+      {
+        "1": "George, South Africa (GRJ)",
+        "2": "airport",
+        "3": "GRJ",
+        "4": "GRJ",
+        "5": "George",
+        "6": 22.3788889,
+        "7": -34.005556,
+        "10": "Africa/Johannesburg"
+      },
+      {
+        "1": "Georgetown Ogle, Guyana (OGL)",
+        "2": "airport",
+        "3": "OGL",
+        "4": "GEO",
+        "5": "Georgetown",
+        "6": -58.106667,
+        "7": 6.80694444,
+        "10": "America/Guyana"
+      },
+      {
+        "1": "Belfast George Best City Apt, United Kingdom (BHD)",
+        "2": "airport",
+        "3": "BHD",
+        "4": "BFS",
+        "5": "Belfast",
+        "6": -5.8725,
+        "7": 54.6180556,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

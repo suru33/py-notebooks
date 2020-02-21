@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Beaver, AK (WBQ)",
+        "2": "airport",
+        "3": "WBQ",
+        "4": "WBQ",
+        "5": "Beaver",
+        "6": -147.40944,
+        "7": 66.3619444,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Beaumont/Port Arthur Jack Brooks Regional, TX (BPT)",
+        "2": "airport",
+        "3": "BPT",
+        "4": "BPT",
+        "5": "Beaumont",
+        "6": -94.020833,
+        "7": 29.9508333,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Paris Beauvais-Tille, France (BVA)",
+        "2": "airport",
+        "3": "BVA",
+        "4": "PAR",
+        "5": "Paris",
+        "6": 2.11277778,
+        "7": 49.4544444,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

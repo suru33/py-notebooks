@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bhavnagar, India (BHU)",
+        "2": "airport",
+        "3": "BHU",
+        "4": "BHU",
+        "5": "Bhavnagar",
+        "6": 72.1852778,
+        "7": 21.7522222,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Bhubaneshwar Biju Patnaik, India (BBI)",
+        "2": "airport",
+        "3": "BBI",
+        "4": "BBI",
+        "5": "Bhubaneswar",
+        "6": 85.8177778,
+        "7": 20.2444444,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Bhuj Shyamji Krishna Verma, India (BHJ)",
+        "2": "airport",
+        "3": "BHJ",
+        "4": "BHJ",
+        "5": "Bhuj",
+        "6": 69.6702778,
+        "7": 23.2877778,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Aguascalientes Jesus Teran Peredo International, Mexico (AGU)",
+        "2": "airport",
+        "3": "AGU",
+        "4": "AGU",
+        "5": "Aguascalientes",
+        "6": -102.31778,
+        "7": 21.7055556,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Aguadilla Rafael Hernandez, PR (BQN)",
+        "2": "airport",
+        "3": "BQN",
+        "4": "BQN",
+        "5": "Aguadilla",
+        "6": -67.129444,
+        "7": 18.495,
+        "10": "America/St_Thomas"
+      },
+      {
+        "1": "Tamanrasset Aguenar, Algeria (TMR)",
+        "2": "airport",
+        "3": "TMR",
+        "4": "TMR",
+        "5": "Tamanrasset",
+        "6": 5.45111111,
+        "7": 22.8113889,
+        "10": "Africa/Algiers"
+      }
+    ]
+  }
+}

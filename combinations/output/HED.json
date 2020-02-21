@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Hedemora Railway Station, Sweden (XXU)",
+        "2": "rail",
+        "3": "XXU",
+        "4": "XXU",
+        "5": "Hedemora Rail Station",
+        "6": 15.9805556,
+        "7": 60.2741667,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Lycksele, Sweden (LYC)",
+        "2": "airport",
+        "3": "LYC",
+        "4": "LYC",
+        "5": "Lycksele",
+        "6": 18.7161111,
+        "7": 64.5483333,
+        "10": "Europe/Stockholm"
+      }
+    ]
+  }
+}

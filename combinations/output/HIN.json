@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Jinju Sacheon, South Korea (HIN)",
+        "2": "airport",
+        "3": "HIN",
+        "4": "HIN",
+        "5": "Chinju",
+        "6": 128.070278,
+        "7": 35.0886111,
+        "10": "Asia/Seoul"
+      },
+      {
+        "1": "Bengaluru Kempegowda International, India (BLR)",
+        "2": "airport",
+        "3": "BLR",
+        "4": "BLR",
+        "5": "Bangalore",
+        "6": 77.7055556,
+        "7": 13.1988889,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

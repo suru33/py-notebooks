@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Cruz Jericoacoara, Brazil (JJD)",
+        "2": "airport",
+        "3": "JJD",
+        "4": "JJD",
+        "5": "Cruz",
+        "6": -40.358056,
+        "7": -2.9066667,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Cruzeiro do Sul International, Brazil (CZS)",
+        "2": "airport",
+        "3": "CZS",
+        "4": "CZS",
+        "5": "Cruzeiro do Sul",
+        "6": -72.769444,
+        "7": -7.6,
+        "10": "America/Rio_Branco"
+      }
+    ]
+  }
+}

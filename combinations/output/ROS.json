@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Rosario Islas Malvinas, Argentina (ROS)",
+        "2": "airport",
+        "3": "ROS",
+        "4": "ROS",
+        "5": "Rosario",
+        "6": -60.784444,
+        "7": -32.903611,
+        "10": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "1": "Rostov Platov, Russia (ROV)",
+        "2": "airport",
+        "3": "ROV",
+        "4": "ROV",
+        "5": "Rostov",
+        "6": 39.9238889,
+        "7": 47.4936111,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Rostock Laage, Germany (RLG)",
+        "2": "airport",
+        "3": "RLG",
+        "4": "RLG",
+        "5": "Rostock-Laage",
+        "6": 12.2783333,
+        "7": 53.9180556,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Roswell International Air Center, NM (ROW)",
+        "2": "airport",
+        "3": "ROW",
+        "4": "ROW",
+        "5": "Roswell",
+        "6": -104.53056,
+        "7": 33.3016667,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Rost, Norway (RET)",
+        "2": "airport",
+        "3": "RET",
+        "4": "RET",
+        "5": "Rost",
+        "6": 12.1030556,
+        "7": 67.5275,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Mo i Rana Rossvoll, Norway (MQN)",
+        "2": "airport",
+        "3": "MQN",
+        "4": "MQN",
+        "5": "Mo I Rana",
+        "6": 14.3,
+        "7": 66.3666667,
+        "10": "Europe/Oslo"
+      }
+    ]
+  }
+}

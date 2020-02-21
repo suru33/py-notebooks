@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Arctic Village, AK (ARC)",
+        "2": "airport",
+        "3": "ARC",
+        "4": "ARC",
+        "5": "Arctic Village",
+        "6": -145.57944,
+        "7": 68.1147222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Arcata/Eureka Arcata Apt, CA (ACV)",
+        "2": "airport",
+        "3": "ACV",
+        "4": "ACV",
+        "5": "Arcata/Eureka",
+        "6": -124.10861,
+        "7": 40.9780556,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Arctic Bay, NU, Canada (YAB)",
+        "2": "airport",
+        "3": "YAB",
+        "4": "YAB",
+        "5": "Arctic Bay",
+        "6": -85.032778,
+        "7": 73.0061111,
+        "10": "America/Rankin_Inlet"
+      }
+    ]
+  }
+}

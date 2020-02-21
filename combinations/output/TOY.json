@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Toyama, Japan (TOY)",
+        "2": "airport",
+        "3": "TOY",
+        "4": "TOY",
+        "5": "Toyama",
+        "6": 137.1875,
+        "7": 36.6483333,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Toyooka Tajima, Japan (TJH)",
+        "2": "airport",
+        "3": "TJH",
+        "4": "TJH",
+        "5": "Toyooka",
+        "6": 134.787222,
+        "7": 35.5133333,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

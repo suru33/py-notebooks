@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Marau, Solomon Islands (RUS)",
+        "2": "airport",
+        "3": "RUS",
+        "4": "RUS",
+        "5": "Marau Island",
+        "6": 160.825556,
+        "7": -9.8616667,
+        "10": "Pacific/Guadalcanal"
+      },
+      {
+        "1": "Russian Mission, AK (RSH)",
+        "2": "airport",
+        "3": "RSH",
+        "4": "RSH",
+        "5": "Russian Mission",
+        "6": -161.31972,
+        "7": 61.7783333,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

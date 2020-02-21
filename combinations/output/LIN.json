@@ -1,0 +1,116 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Milan Linate, Italy (LIN)",
+        "2": "airport",
+        "3": "LIN",
+        "4": "MIL",
+        "5": "Milan",
+        "6": 9.27833333,
+        "7": 45.4494444,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Lincoln, NE (LNK)",
+        "2": "airport",
+        "3": "LNK",
+        "4": "LNK",
+        "5": "Lincoln",
+        "6": -96.759167,
+        "7": 40.8511111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Linyi Shubuling, China (LYI)",
+        "2": "airport",
+        "3": "LYI",
+        "4": "LYI",
+        "5": "Linyi",
+        "6": 118.411944,
+        "7": 35.0494444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Linfen Qiaoli, China (LFQ)",
+        "2": "airport",
+        "3": "LFQ",
+        "4": "LFQ",
+        "5": "Linfen",
+        "6": 111.491667,
+        "7": 36.0397222,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Linz Blue Danube Hoersching, Austria (LNZ)",
+        "2": "airport",
+        "3": "LNZ",
+        "4": "LNZ",
+        "5": "Linz",
+        "6": 14.1875,
+        "7": 48.2333333,
+        "10": "Europe/Vienna"
+      },
+      {
+        "1": "Yongzhou Lingling, China (LLF)",
+        "2": "airport",
+        "3": "LLF",
+        "4": "LLF",
+        "5": "Ling Ling",
+        "6": 111.608889,
+        "7": 26.3416667,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Nyingchi/Linzhi Mainling/Milin, China (LZY)",
+        "2": "airport",
+        "3": "LZY",
+        "4": "LZY",
+        "5": "Lin Zhi",
+        "6": 94.3386111,
+        "7": 29.3058333,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Linkoping City Airport, Sweden (LPI)",
+        "2": "airport",
+        "3": "LPI",
+        "4": "LPI",
+        "5": "Linkoping",
+        "6": 15.5255556,
+        "7": 58.4022222,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Lincang, China (LNJ)",
+        "2": "airport",
+        "3": "LNJ",
+        "4": "LNJ",
+        "5": "Lincang",
+        "6": 100.025,
+        "7": 23.7388889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Linz Hauptbahnhof Railway Station, Austria (LZS)",
+        "2": "rail",
+        "3": "LZS",
+        "4": "LNZ",
+        "5": "Linz",
+        "6": 14.2911111,
+        "7": 48.2905556,
+        "10": "Europe/Vienna"
+      },
+      {
+        "1": "Lingshui Railway Station, China (LQS)",
+        "2": "rail",
+        "3": "LQS",
+        "4": "LQS",
+        "5": "Lingshui",
+        "6": 110.029167,
+        "7": 18.5380556,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

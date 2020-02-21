@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Wajir, Kenya (WJR)",
+        "2": "airport",
+        "3": "WJR",
+        "4": "WJR",
+        "5": "Wajir",
+        "6": 39.9327778,
+        "7": 1.78472222,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Wajima Noto, Japan (NTQ)",
+        "2": "airport",
+        "3": "NTQ",
+        "4": "NTQ",
+        "5": "Wajima",
+        "6": 136.958889,
+        "7": 37.2925,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

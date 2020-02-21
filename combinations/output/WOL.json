@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Wollongong Illawarra, Australia (WOL)",
+        "2": "airport",
+        "3": "WOL",
+        "4": "WOL",
+        "5": "Wollongong",
+        "6": 150.786667,
+        "7": -34.557222,
+        "10": "Australia/Sydney"
+      },
+      {
+        "1": "Wolf Point L.M. Clayton, MT (OLF)",
+        "2": "airport",
+        "3": "OLF",
+        "4": "OLF",
+        "5": "Wolf Point",
+        "6": -105.57583,
+        "7": 48.0947222,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Zhoushan Putuoshan, China (HSN)",
+        "2": "airport",
+        "3": "HSN",
+        "4": "HSN",
+        "5": "Zhoushan",
+        "6": 122.361944,
+        "7": 29.9347222,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Zhongwei Xiangshan, China (ZHY)",
+        "2": "airport",
+        "3": "ZHY",
+        "4": "ZHY",
+        "5": "Zhongwei",
+        "6": 105.151389,
+        "7": 37.5727778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Zhob, Pakistan (PZH)",
+        "2": "airport",
+        "3": "PZH",
+        "4": "PZH",
+        "5": "Zhob",
+        "6": 69.4636111,
+        "7": 31.3583333,
+        "10": "Asia/Karachi"
+      },
+      {
+        "1": "Zhongshan Ferry Port, China (ZGN)",
+        "2": "airport",
+        "3": "ZGN",
+        "4": "ZGN",
+        "5": "Zhongshan Ferry Port",
+        "6": 113.473611,
+        "7": 22.5733333,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Zhongshan CZ Bus Station, China (HHS)",
+        "2": "bus",
+        "3": "HHS",
+        "4": "ZGN",
+        "5": "Zhongshan Ferry Port",
+        "6": 113.342778,
+        "7": 22.5213889,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sishen, South Africa (SIS)",
+        "2": "airport",
+        "3": "SIS",
+        "4": "SIS",
+        "5": "Sishen",
+        "6": 23.0,
+        "7": -27.65,
+        "10": "Africa/Johannesburg"
+      },
+      {
+        "1": "Sisimiut, Greenland (JHS)",
+        "2": "airport",
+        "3": "JHS",
+        "4": "JHS",
+        "5": "Sisimiut",
+        "6": -53.729444,
+        "7": 66.9513889,
+        "10": "America/Godthab"
+      }
+    ]
+  }
+}

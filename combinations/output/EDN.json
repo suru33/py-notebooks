@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Yedinka, Russia (EDN)",
+        "2": "airport",
+        "3": "EDN",
+        "4": "EDN",
+        "5": "Yedinka",
+        "6": 138.661111,
+        "7": 47.1766667,
+        "10": "Asia/Vladivostok"
+      },
+      {
+        "1": "Edna Bay Sea Plane Base, AK (EDA)",
+        "2": "airport",
+        "3": "EDA",
+        "4": "EDA",
+        "5": "Edna Bay",
+        "6": -133.66667,
+        "7": 55.95,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Napuka, French Polynesia (NAU)",
+        "2": "airport",
+        "3": "NAU",
+        "4": "NAU",
+        "5": "Napuka Island",
+        "6": -141.26722,
+        "7": -14.176944,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Naukiti Bay Sea Plane Base, AK (NKI)",
+        "2": "airport",
+        "3": "NKI",
+        "4": "NKI",
+        "5": "Naukiti",
+        "6": -133.18333,
+        "7": 55.8555556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Nauru Island International, Nauru (INU)",
+        "2": "airport",
+        "3": "INU",
+        "4": "INU",
+        "5": "Nauru Island",
+        "6": 166.916944,
+        "7": -0.5455556,
+        "10": "Pacific/Nauru"
+      },
+      {
+        "1": "Suva Nausori International, Fiji (SUV)",
+        "2": "airport",
+        "3": "SUV",
+        "4": "SUV",
+        "5": "Suva",
+        "6": 178.563056,
+        "7": -18.044722,
+        "10": "Pacific/Fiji"
+      }
+    ]
+  }
+}

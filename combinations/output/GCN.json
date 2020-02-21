@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Grand Canyon, AZ - All airports",
+        "2": "city",
+        "3": "GCN",
+        "4": "GCN",
+        "5": "Grand Canyon",
+        "6": -112.19962199021478,
+        "7": 35.661781811180106,
+        "10": "America/Phoenix"
+      },
+      {
+        "1": "Grand Canyon National Park, AZ (GCN)",
+        "2": "airport",
+        "3": "GCN",
+        "4": "GCN",
+        "5": "Grand Canyon",
+        "6": -112.14694,
+        "7": 35.9525,
+        "10": "America/Phoenix"
+      }
+    ]
+  }
+}

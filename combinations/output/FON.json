@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Fortuna Arenal, Costa Rica (FON)",
+        "2": "airport",
+        "3": "FON",
+        "4": "FON",
+        "5": "Fortuna",
+        "6": -84.578889,
+        "7": 10.4697222,
+        "10": "America/Costa_Rica"
+      },
+      {
+        "1": "Catania Fontanarossa, Italy (CTA)",
+        "2": "airport",
+        "3": "CTA",
+        "4": "CTA",
+        "5": "Catania",
+        "6": 15.0638889,
+        "7": 37.4666667,
+        "10": "Europe/Rome"
+      }
+    ]
+  }
+}

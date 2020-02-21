@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Warrnambool, Australia (WMB)",
+        "2": "airport",
+        "3": "WMB",
+        "4": "WMB",
+        "5": "Warrnambool",
+        "6": 142.446944,
+        "7": -38.294444,
+        "10": "Australia/Sydney"
+      },
+      {
+        "1": "Richmond International, VA (RIC)",
+        "2": "airport",
+        "3": "RIC",
+        "4": "RIC",
+        "5": "Richmond",
+        "6": -77.319722,
+        "7": 37.5052778,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

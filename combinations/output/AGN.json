@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Angoon Sea Plane Base, AK (AGN)",
+        "2": "airport",
+        "3": "AGN",
+        "4": "AGN",
+        "5": "Angoon",
+        "6": -134.56722,
+        "7": 57.495,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Lugano Agno, Switzerland (LUG)",
+        "2": "airport",
+        "3": "LUG",
+        "4": "LUG",
+        "5": "Lugano",
+        "6": 8.91055556,
+        "7": 46.0041667,
+        "10": "Europe/Zurich"
+      }
+    ]
+  }
+}

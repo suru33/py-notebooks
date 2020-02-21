@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Rankin Inlet, NU, Canada (YRT)",
+        "2": "airport",
+        "3": "YRT",
+        "4": "YRT",
+        "5": "Rankin Inlet",
+        "6": -92.115833,
+        "7": 62.8113889,
+        "10": "America/Rainy_River"
+      },
+      {
+        "1": "Rangiroa Island, French Polynesia (RGI)",
+        "2": "airport",
+        "3": "RGI",
+        "4": "RGI",
+        "5": "Rangiroa Island",
+        "6": -147.66083,
+        "7": -14.954167,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Ranchi Birsa Munda, India (IXR)",
+        "2": "airport",
+        "3": "IXR",
+        "4": "IXR",
+        "5": "Ranchi",
+        "6": 85.3216667,
+        "7": 23.3141667,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Ranong, Thailand (UNN)",
+        "2": "airport",
+        "3": "UNN",
+        "4": "UNN",
+        "5": "Ranong",
+        "6": 98.5855556,
+        "7": 9.7775,
+        "10": "Asia/Bangkok"
+      }
+    ]
+  }
+}

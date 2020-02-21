@@ -1,0 +1,55 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Hat Yai International, Thailand (HDY)",
+        "2": "airport",
+        "3": "HDY",
+        "4": "HDY",
+        "5": "Hat Yai",
+        "6": 100.395,
+        "7": 6.93277778,
+        "10": "Asia/Bangkok"
+      },
+      {
+        "1": "Hatay, Turkey (HTY)",
+        "2": "airport",
+        "3": "HTY",
+        "4": "HTY",
+        "5": "Hatay",
+        "6": 36.2847222,
+        "7": 36.3597222,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Hattiesburg/Laurel Regional, MS (PIB)",
+        "2": "airport",
+        "3": "PIB",
+        "4": "LUL",
+        "5": "Laurel",
+        "6": -89.336944,
+        "7": 31.4672222,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Hatton Castlereigh Resrvr SPB, Sri Lanka (NUF)",
+        "2": "airport",
+        "3": "NUF",
+        "4": "NUF",
+        "5": "Hatton",
+        "6": 80.5880556,
+        "7": 6.85722222,
+        "10": "Asia/Colombo"
+      },
+      {
+        "1": "Curacao Hato International, Curacao (CUR)",
+        "2": "airport",
+        "3": "CUR",
+        "4": "CUR",
+        "5": "Curacao",
+        "6": -68.959722,
+        "7": 12.1888889
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Arar, Saudi Arabia (RAE)",
+        "2": "airport",
+        "3": "RAE",
+        "4": "RAE",
+        "5": "Arar",
+        "6": 41.1383333,
+        "7": 30.9066667,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "Gameti Rae Lakes, NT, Canada (YRA)",
+        "2": "airport",
+        "3": "YRA",
+        "4": "YRA",
+        "5": "Rae Lakes",
+        "6": -117.30917,
+        "7": 64.1158333,
+        "10": "America/Edmonton"
+      }
+    ]
+  }
+}

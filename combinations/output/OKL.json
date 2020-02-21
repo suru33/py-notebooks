@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Oksibil Gunung Bintang, Indonesia (OKL)",
+        "2": "airport",
+        "3": "OKL",
+        "4": "OKL",
+        "5": "Oksibil",
+        "6": 140.630556,
+        "7": -4.9083333,
+        "10": "Asia/Jayapura"
+      },
+      {
+        "1": "Oklahoma City Will Rogers World, OK (OKC)",
+        "2": "airport",
+        "3": "OKC",
+        "4": "OKC",
+        "5": "Oklahoma City",
+        "6": -97.600833,
+        "7": 35.3930556,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Mudanjiang Hailang, China (MDG)",
+        "2": "airport",
+        "3": "MDG",
+        "4": "MDG",
+        "5": "Mudanjiang",
+        "6": 129.568889,
+        "7": 44.5241667,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Mudgee, Australia (DGE)",
+        "2": "airport",
+        "3": "DGE",
+        "4": "DGE",
+        "5": "Mudgee",
+        "6": 149.609444,
+        "7": -32.565,
+        "10": "Australia/Sydney"
+      }
+    ]
+  }
+}

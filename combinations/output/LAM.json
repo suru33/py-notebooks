@@ -1,0 +1,106 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lamezia Terme, Italy (SUF)",
+        "2": "airport",
+        "3": "SUF",
+        "4": "SUF",
+        "5": "Lamezia Terme",
+        "6": 16.2416667,
+        "7": 38.9083333,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Lampedusa, Italy (LMP)",
+        "2": "airport",
+        "3": "LMP",
+        "4": "LMP",
+        "5": "Lampedusa",
+        "6": 12.6183333,
+        "7": 35.4980556,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Lamu Manda, Kenya (LAU)",
+        "2": "airport",
+        "3": "LAU",
+        "4": "LAU",
+        "5": "Lamu",
+        "6": 40.9130556,
+        "7": -2.2525,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Lamap Malekoula, Vanuatu (LPM)",
+        "2": "airport",
+        "3": "LPM",
+        "4": "LPM",
+        "5": "Lamap",
+        "6": 167.828889,
+        "7": -16.457778,
+        "10": "Pacific/Efate"
+      },
+      {
+        "1": "Lampang, Thailand (LPT)",
+        "2": "airport",
+        "3": "LPT",
+        "4": "LPT",
+        "5": "Lampang",
+        "6": 99.5041667,
+        "7": 18.2722222,
+        "10": "Asia/Bangkok"
+      },
+      {
+        "1": "Lamen Bay, Vanuatu (LNB)",
+        "2": "airport",
+        "3": "LNB",
+        "4": "LNB",
+        "5": "Lamen Bay",
+        "6": 168.159722,
+        "7": -16.585,
+        "10": "Pacific/Efate"
+      },
+      {
+        "1": "Lamerd, Iran (LFM)",
+        "2": "airport",
+        "3": "LFM",
+        "4": "LFM",
+        "5": "Lamerd",
+        "6": 53.1880556,
+        "7": 27.3730556,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Lamezia Terme Central Railway Station, Italy (LTZ)",
+        "2": "rail",
+        "3": "LTZ",
+        "4": "SUF",
+        "5": "Lamezia Terme",
+        "6": 16.2552778,
+        "7": 38.9213889,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Fort-de-France Martinique A. Cesaire, Martinique (FDF)",
+        "2": "airport",
+        "3": "FDF",
+        "4": "FDF",
+        "5": "Fort de France",
+        "6": -61.003056,
+        "7": 14.5911111,
+        "10": "America/Martinique"
+      },
+      {
+        "1": "Neiva Benito Salas, Colombia (NVA)",
+        "2": "airport",
+        "3": "NVA",
+        "4": "NVA",
+        "5": "Neiva",
+        "6": -75.293889,
+        "7": 2.95027778,
+        "10": "America/Bogota"
+      }
+    ]
+  }
+}

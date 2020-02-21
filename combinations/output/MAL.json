@@ -1,0 +1,136 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Malaga, Spain (AGP)",
+        "2": "airport",
+        "3": "AGP",
+        "4": "AGP",
+        "5": "Malaga",
+        "6": -4.4991667,
+        "7": 36.675,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Malta Luqa International, Malta (MLA)",
+        "2": "airport",
+        "3": "MLA",
+        "4": "MLA",
+        "5": "Malta",
+        "6": 14.4775,
+        "7": 35.8575,
+        "10": "Europe/Malta"
+      },
+      {
+        "1": "Male Velana International, Maldives (MLE)",
+        "2": "airport",
+        "3": "MLE",
+        "4": "MLE",
+        "5": "Male",
+        "6": 73.5291667,
+        "7": 4.19166667,
+        "10": "Indian/Maldives"
+      },
+      {
+        "1": "Malmo, Sweden (MMX)",
+        "2": "airport",
+        "3": "MMX",
+        "4": "MMA",
+        "5": "Malmo",
+        "6": 13.375,
+        "7": 55.5425,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Malabo International, Equatorial Guinea (SSG)",
+        "2": "airport",
+        "3": "SSG",
+        "4": "SSG",
+        "5": "Malabo",
+        "6": 8.70861111,
+        "7": 3.75527778,
+        "10": "Africa/Malabo"
+      },
+      {
+        "1": "Mallam Aminu Kano International, Nigeria (KAN)",
+        "2": "airport",
+        "3": "KAN",
+        "4": "KAN",
+        "5": "Kano",
+        "6": 8.52472222,
+        "7": 12.0475,
+        "10": "Africa/Lagos"
+      },
+      {
+        "1": "Malatya Erhac, Turkey (MLX)",
+        "2": "airport",
+        "3": "MLX",
+        "4": "MLX",
+        "5": "Malatya",
+        "6": 38.0911111,
+        "7": 38.4352778,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Malacca, Malaysia (MKZ)",
+        "2": "airport",
+        "3": "MKZ",
+        "4": "MKZ",
+        "5": "Malacca",
+        "6": 102.251944,
+        "7": 2.26361111,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Malang Abdul Rachman Saleh, Indonesia (MLG)",
+        "2": "airport",
+        "3": "MLG",
+        "4": "MLG",
+        "5": "Malang",
+        "6": 112.714444,
+        "7": -7.9266667,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Malindi, Kenya (MYD)",
+        "2": "airport",
+        "3": "MYD",
+        "4": "MYD",
+        "5": "Malindi",
+        "6": 40.1016667,
+        "7": -3.2291667,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Milan Malpensa, Italy (MXP)",
+        "2": "airport",
+        "3": "MXP",
+        "4": "MIL",
+        "5": "Milan",
+        "6": 8.72305556,
+        "7": 45.63,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Malaga Railway Station, Spain (YJM)",
+        "2": "rail",
+        "3": "YJM",
+        "4": "AGP",
+        "5": "Malaga",
+        "6": -4.4327778,
+        "7": 36.7113889,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Caticlan Godofredo P. Ramos, Philippines (MPH)",
+        "2": "airport",
+        "3": "MPH",
+        "4": "MPH",
+        "5": "Caticlan",
+        "6": 121.954167,
+        "7": 11.9244444,
+        "10": "Asia/Manila"
+      }
+    ]
+  }
+}

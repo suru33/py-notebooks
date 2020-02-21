@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Orenburg Tsentralny, Russia (REN)",
+        "2": "airport",
+        "3": "REN",
+        "4": "REN",
+        "5": "Orenburg",
+        "6": 55.4566667,
+        "7": 51.7958333,
+        "10": "Asia/Yekaterinburg"
+      },
+      {
+        "1": "Reno/Tahoe International, NV (RNO)",
+        "2": "airport",
+        "3": "RNO",
+        "4": "RNO",
+        "5": "Reno",
+        "6": -119.76806,
+        "7": 39.4991667,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Rennes St Jacques, France (RNS)",
+        "2": "airport",
+        "3": "RNS",
+        "4": "RNS",
+        "5": "Rennes",
+        "6": -1.7322222,
+        "7": 48.0719444,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Rennell Island Tigoa, Solomon Islands (RNL)",
+        "2": "airport",
+        "3": "RNL",
+        "4": "RNL",
+        "5": "Rennell",
+        "6": 160.063889,
+        "7": -11.551111,
+        "10": "Pacific/Guadalcanal"
+      },
+      {
+        "1": "Rengat Japura, Indonesia (RGT)",
+        "2": "airport",
+        "3": "RGT",
+        "4": "RGT",
+        "5": "Rengat",
+        "6": 102.334722,
+        "7": -0.3527778,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Rennes Railway Station, France (ZFJ)",
+        "2": "rail",
+        "3": "ZFJ",
+        "4": "RNS",
+        "5": "Rennes",
+        "6": -1.6725,
+        "7": 48.1033333,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Manokwari Rendani, Indonesia (MKW)",
+        "2": "airport",
+        "3": "MKW",
+        "4": "MKW",
+        "5": "Manokwari",
+        "6": 134.049167,
+        "7": -0.8919444,
+        "10": "Asia/Jayapura"
+      }
+    ]
+  }
+}

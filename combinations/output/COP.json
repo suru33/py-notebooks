@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Copenhagen, Denmark - All airports",
+        "2": "city",
+        "3": "CPH",
+        "4": "CPH",
+        "5": "Copenhagen",
+        "6": 12.61864818840079,
+        "7": 55.61817706178455,
+        "10": "Europe/Copenhagen"
+      },
+      {
+        "1": "Copenhagen Kastrup, Denmark (CPH)",
+        "2": "airport",
+        "3": "CPH",
+        "4": "CPH",
+        "5": "Copenhagen",
+        "6": 12.6502778,
+        "7": 55.6202778,
+        "10": "Europe/Copenhagen"
+      },
+      {
+        "1": "Copiapo Desierto de Atacama, Chile (CPO)",
+        "2": "airport",
+        "3": "CPO",
+        "4": "CPO",
+        "5": "Copiapo",
+        "6": -70.779167,
+        "7": -27.261667,
+        "10": "America/Santiago"
+      },
+      {
+        "1": "Copenhagen Roskilde, Denmark (RKE)",
+        "2": "airport",
+        "3": "RKE",
+        "4": "CPH",
+        "5": "Copenhagen",
+        "6": 12.1316667,
+        "7": 55.5858333,
+        "10": "Europe/Copenhagen"
+      }
+    ]
+  }
+}

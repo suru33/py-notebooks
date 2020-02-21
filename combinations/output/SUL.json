@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sulaymaniyah International, Iraq (ISU)",
+        "2": "airport",
+        "3": "ISU",
+        "4": "ISU",
+        "5": "Sulaymaniyah",
+        "6": 45.3158333,
+        "7": 35.5625,
+        "10": "Asia/Baghdad"
+      },
+      {
+        "1": "Johor Bahru Senai International, Malaysia (JHB)",
+        "2": "airport",
+        "3": "JHB",
+        "4": "JHB",
+        "5": "Johor Bahru",
+        "6": 103.670278,
+        "7": 1.63888889,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Kuala Lumpur Sultan Abdul Aziz Shah, Malaysia (SZB)",
+        "2": "airport",
+        "3": "SZB",
+        "4": "KUL",
+        "5": "Kuala Lumpur",
+        "6": 101.554444,
+        "7": 3.12166667,
+        "10": "Asia/Kuching"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Asaba International, Nigeria (ABB)",
+        "2": "airport",
+        "3": "ABB",
+        "4": "ABB",
+        "5": "Asaba",
+        "6": 6.66722222,
+        "7": 6.20305556,
+        "10": "Africa/Lagos"
+      },
+      {
+        "1": "Abbotsford International, BC, Canada (YXX)",
+        "2": "airport",
+        "3": "YXX",
+        "4": "YXX",
+        "5": "Abbotsford",
+        "6": -122.36056,
+        "7": 49.0252778,
+        "10": "America/Vancouver"
+      }
+    ]
+  }
+}

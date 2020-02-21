@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Jijiga, Ethiopia (JIJ)",
+        "2": "airport",
+        "3": "JIJ",
+        "4": "JIJ",
+        "5": "Jijiga",
+        "6": 42.7897222,
+        "7": 9.36333333,
+        "10": "Africa/Addis_Ababa"
+      },
+      {
+        "1": "Jijel Ferhat Abbas, Algeria (GJL)",
+        "2": "airport",
+        "3": "GJL",
+        "4": "GJL",
+        "5": "Jijel",
+        "6": 5.87361111,
+        "7": 36.795,
+        "10": "Africa/Algiers"
+      }
+    ]
+  }
+}

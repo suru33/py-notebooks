@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Shirdi, India (SAG)",
+        "2": "airport",
+        "3": "SAG",
+        "4": "SAG",
+        "5": "Shirdi",
+        "6": 74.3772222,
+        "7": 19.6888889,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Saga, Japan (HSG)",
+        "2": "airport",
+        "3": "HSG",
+        "4": "HSG",
+        "5": "Saga",
+        "6": 130.302222,
+        "7": 33.1497222,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Saginaw/Midland/Bay C. MBS International, MI (MBS)",
+        "2": "airport",
+        "3": "MBS",
+        "4": "MBS",
+        "5": "Saginaw",
+        "6": -84.0825,
+        "7": 43.5319444,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Vilhelmina, Sweden (VHM)",
+        "2": "airport",
+        "3": "VHM",
+        "4": "VHM",
+        "5": "Vilhelmina",
+        "6": 16.8336111,
+        "7": 64.5791667,
+        "10": "Europe/Stockholm"
+      }
+    ]
+  }
+}

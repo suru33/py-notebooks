@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Ottawa, ON, Canada - All airports",
+        "2": "city",
+        "3": "YOW",
+        "4": "YOW",
+        "5": "Ottawa",
+        "6": -75.66694669669624,
+        "7": 45.33419925289591,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Ottawa Macdonald-Cartier International, ON, Canada (YOW)",
+        "2": "airport",
+        "3": "YOW",
+        "4": "YOW",
+        "5": "Ottawa",
+        "6": -75.669167,
+        "7": 45.3225,
+        "10": "America/Montreal"
+      }
+    ]
+  }
+}

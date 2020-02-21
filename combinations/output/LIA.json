@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lianyungang Baitabu, China (LYG)",
+        "2": "airport",
+        "3": "LYG",
+        "4": "LYG",
+        "5": "Lianyungang",
+        "6": 118.873889,
+        "7": 34.5719444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Lianhuashan Ferry Port, China (ZIY)",
+        "2": "airport",
+        "3": "ZIY",
+        "4": "ZIY",
+        "5": "Lianhuashan",
+        "6": 113.499722,
+        "7": 22.9691667,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Liaoyang Railway Station, China (LQQ)",
+        "2": "rail",
+        "3": "LQQ",
+        "4": "LQQ",
+        "5": "Liaoyang",
+        "6": 123.161944,
+        "7": 41.2794444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Longyan Guanzhishan, China (LCX)",
+        "2": "airport",
+        "3": "LCX",
+        "4": "LCX",
+        "5": "Longyan",
+        "6": 116.745556,
+        "7": 25.6755556,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

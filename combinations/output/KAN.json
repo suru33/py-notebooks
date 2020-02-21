@@ -1,0 +1,156 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Mallam Aminu Kano International, Nigeria (KAN)",
+        "2": "airport",
+        "3": "KAN",
+        "4": "KAN",
+        "5": "Kano",
+        "6": 8.52472222,
+        "7": 12.0475,
+        "10": "Africa/Lagos"
+      },
+      {
+        "1": "Kansas City International, MO (MCI)",
+        "2": "airport",
+        "3": "MCI",
+        "4": "MKC",
+        "5": "Kansas City",
+        "6": -94.713889,
+        "7": 39.2975,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Kannur International, India (CNN)",
+        "2": "airport",
+        "3": "CNN",
+        "4": "CNN",
+        "5": "Kannur",
+        "6": 75.5458333,
+        "7": 11.9158333,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Kangerlussuaq, Greenland (SFJ)",
+        "2": "airport",
+        "3": "SFJ",
+        "4": "SFJ",
+        "5": "Kangerlussuaq",
+        "6": -50.689444,
+        "7": 67.0169444,
+        "10": "America/Godthab"
+      },
+      {
+        "1": "Kangiqsujuaq Wakeham Bay, QC, Canada (YWB)",
+        "2": "airport",
+        "3": "YWB",
+        "4": "YWB",
+        "5": "Kangiqsujuaq",
+        "6": -71.926667,
+        "7": 61.5877778,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Kangirsuk, QC, Canada (YKG)",
+        "2": "airport",
+        "3": "YKG",
+        "4": "YKG",
+        "5": "Kangirsuk",
+        "6": -69.999722,
+        "7": 60.0272222,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Kandy Polgolla Reservoir SPB, Sri Lanka (KDZ)",
+        "2": "airport",
+        "3": "KDZ",
+        "4": "KDW",
+        "5": "Kandy",
+        "6": 80.6416667,
+        "7": 7.32666667,
+        "10": "Asia/Colombo"
+      },
+      {
+        "1": "Kandahar International, Afghanistan (KDH)",
+        "2": "airport",
+        "3": "KDH",
+        "4": "KDH",
+        "5": "Kandahar",
+        "6": 65.8477778,
+        "7": 31.5055556,
+        "10": "Asia/Kabul"
+      },
+      {
+        "1": "Kanpur, India (KNU)",
+        "2": "airport",
+        "3": "KNU",
+        "4": "KNU",
+        "5": "Kanpur",
+        "6": 80.3672222,
+        "7": 26.4405556,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Kangding, China (KGT)",
+        "2": "airport",
+        "3": "KGT",
+        "4": "KGT",
+        "5": "Kangding",
+        "6": 101.737778,
+        "7": 30.1447222,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Kananga, Congo (Zaire) (KGA)",
+        "2": "airport",
+        "3": "KGA",
+        "4": "KGA",
+        "5": "Kananga",
+        "6": 22.4691667,
+        "7": -5.9,
+        "10": "Africa/Lubumbashi"
+      },
+      {
+        "1": "Kangiqsualujjuaq Georges River, QC, Canada (XGR)",
+        "2": "airport",
+        "3": "XGR",
+        "4": "XGR",
+        "5": "Kangiqsualujjuaq",
+        "6": -65.991944,
+        "7": 58.7113889,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Kandla, India (IXY)",
+        "2": "airport",
+        "3": "IXY",
+        "4": "IXY",
+        "5": "Kandla",
+        "6": 70.1005556,
+        "7": 23.1127778,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Kangersuatsiaq Heliport, Greenland (KGQ)",
+        "2": "helipad",
+        "3": "KGQ",
+        "4": "KGQ",
+        "5": "Kangersuatsiaq",
+        "6": -55.536667,
+        "7": 72.3811111,
+        "10": "America/Godthab"
+      },
+      {
+        "1": "Osaka Kansai International, Japan (KIX)",
+        "2": "airport",
+        "3": "KIX",
+        "4": "OSA",
+        "5": "Osaka",
+        "6": 135.244167,
+        "7": 34.4272222,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

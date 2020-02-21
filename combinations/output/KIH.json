@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kish Island, Iran (KIH)",
+        "2": "airport",
+        "3": "KIH",
+        "4": "KIH",
+        "5": "Kish Island",
+        "6": 53.9791667,
+        "7": 26.5275,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Kihihi, Uganda (KHX)",
+        "2": "airport",
+        "3": "KHX",
+        "4": "KHX",
+        "5": "Kihihi",
+        "6": 29.7,
+        "7": -0.7194444,
+        "10": "Africa/Kampala"
+      }
+    ]
+  }
+}

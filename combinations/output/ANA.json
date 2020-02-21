@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Maasai Mara Angama, Kenya (ANA)",
+        "2": "airport",
+        "3": "ANA",
+        "4": "MRE",
+        "5": "Mara Lodges",
+        "6": 34.9552778,
+        "7": -1.2716667,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Anapa Vityazevo, Russia (AAQ)",
+        "2": "airport",
+        "3": "AAQ",
+        "4": "AAQ",
+        "5": "Anapa",
+        "6": 37.3472222,
+        "7": 45.0022222,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Anadyr Ugolny, Russia (DYR)",
+        "2": "airport",
+        "3": "DYR",
+        "4": "DYR",
+        "5": "Anadyr",
+        "6": 177.741389,
+        "7": 64.735,
+        "10": "Asia/Anadyr"
+      },
+      {
+        "1": "Anaktuvuk Pass, AK (AKP)",
+        "2": "airport",
+        "3": "AKP",
+        "4": "AKP",
+        "5": "Anaktuvuk Pass",
+        "6": -151.74333,
+        "7": 68.1336111,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Anaa, French Polynesia (AAA)",
+        "2": "airport",
+        "3": "AAA",
+        "4": "AAA",
+        "5": "Anaa",
+        "6": -145.51,
+        "7": -17.3525,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Anahim Lake, BC, Canada (YAA)",
+        "2": "airport",
+        "3": "YAA",
+        "4": "YAA",
+        "5": "Anahim Lake",
+        "6": -125.30806,
+        "7": 52.4552778,
+        "10": "America/Vancouver"
+      },
+      {
+        "1": "Anatom Island, Vanuatu (AUY)",
+        "2": "airport",
+        "3": "AUY",
+        "4": "AUY",
+        "5": "Aneityum",
+        "6": 169.770833,
+        "7": -20.249444,
+        "10": "Pacific/Efate"
+      }
+    ]
+  }
+}

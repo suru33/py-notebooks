@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Klawock, AK (KLW)",
+        "2": "airport",
+        "3": "KLW",
+        "4": "KLW",
+        "5": "Klawock",
+        "6": -133.07611,
+        "7": 55.5791667,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Klaipeda/Palanga Palanga International, Lithuania (PLQ)",
+        "2": "airport",
+        "3": "PLQ",
+        "4": "PLQ",
+        "5": "Palanga",
+        "6": 21.0938889,
+        "7": 55.9733333,
+        "10": "Europe/Vilnius"
+      },
+      {
+        "1": "Klagenfurt, Austria (KLU)",
+        "2": "airport",
+        "3": "KLU",
+        "4": "KLU",
+        "5": "Klagenfurt",
+        "6": 14.3377778,
+        "7": 46.6427778,
+        "10": "Europe/Vienna"
+      },
+      {
+        "1": "Klagenfurt Railway Station, Austria (KGV)",
+        "2": "rail",
+        "3": "KGV",
+        "4": "KLU",
+        "5": "Klagenfurt",
+        "6": 14.3133333,
+        "7": 46.6155556,
+        "10": "Europe/Vienna"
+      }
+    ]
+  }
+}

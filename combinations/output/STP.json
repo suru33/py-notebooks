@@ -1,0 +1,106 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "St Petersburg Pulkovo, Russia (LED)",
+        "2": "airport",
+        "3": "LED",
+        "4": "LED",
+        "5": "St Petersburg",
+        "6": 30.2625,
+        "7": 59.8002778,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Minneapolis/St Paul International, MN (MSP)",
+        "2": "airport",
+        "3": "MSP",
+        "4": "MSP",
+        "5": "Minneapolis/St Paul",
+        "6": -93.221667,
+        "7": 44.8819444,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Tampa International, FL (TPA)",
+        "2": "airport",
+        "3": "TPA",
+        "4": "TPA",
+        "5": "Tampa",
+        "6": -82.533333,
+        "7": 27.9755556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "St Paul Island, AK (SNP)",
+        "2": "airport",
+        "3": "SNP",
+        "4": "SNP",
+        "5": "St Paul Island",
+        "6": -170.22056,
+        "7": 57.1672222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "St Poelten Railway Station, Austria (POK)",
+        "2": "rail",
+        "3": "POK",
+        "4": "POK",
+        "5": "St Polten",
+        "6": 15.6244444,
+        "7": 48.2083333,
+        "10": "Europe/Vienna"
+      },
+      {
+        "1": "Tampa St.Pete-Clearwater International, FL (PIE)",
+        "2": "airport",
+        "3": "PIE",
+        "4": "TPA",
+        "5": "Tampa",
+        "6": -82.6875,
+        "7": 27.9102778,
+        "10": "America/New_York"
+      },
+      {
+        "1": "St-Pierre, Saint Pierre and Miquelon (FSP)",
+        "2": "airport",
+        "3": "FSP",
+        "4": "FSP",
+        "5": "St Pierre",
+        "6": -56.174444,
+        "7": 46.7633333,
+        "10": "America/Miquelon"
+      },
+      {
+        "1": "St-Pierre Pierrefonds, Reunion (ZSE)",
+        "2": "airport",
+        "3": "ZSE",
+        "4": "ZSE",
+        "5": "St Pierre de la Reunion",
+        "6": 55.425,
+        "7": -21.320833,
+        "10": "Indian/Reunion"
+      },
+      {
+        "1": "London St Pancras International RailSt, United Kingdom (QQS)",
+        "2": "rail",
+        "3": "QQS",
+        "4": "LON",
+        "5": "London",
+        "6": -0.1263889,
+        "7": 51.5316667,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Tours St-Pierre-Corps RailSt, France (XSH)",
+        "2": "rail",
+        "3": "XSH",
+        "4": "TUF",
+        "5": "Tours",
+        "6": 0.69388889,
+        "7": 47.3894444,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Eagle, AK (EAA)",
+        "2": "airport",
+        "3": "EAA",
+        "4": "EAA",
+        "5": "Eagle",
+        "6": -141.16056,
+        "7": 64.7783333,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Vail/Eagle Eagle County Regional, CO (EGE)",
+        "2": "airport",
+        "3": "EGE",
+        "4": "EGE",
+        "5": "Vail",
+        "6": -106.91778,
+        "7": 39.6425,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

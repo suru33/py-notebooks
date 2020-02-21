@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Steamboat Springs Hayden Yampa Valley, CO (HDN)",
+        "2": "airport",
+        "3": "HDN",
+        "4": "HDN",
+        "5": "Hayden",
+        "6": -107.22361,
+        "7": 40.4833333,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Hay River Merlyn Carter, NT, Canada (YHY)",
+        "2": "airport",
+        "3": "YHY",
+        "4": "YHY",
+        "5": "Hay River",
+        "6": -115.78278,
+        "7": 60.8397222,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "Hays Regional, KS (HYS)",
+        "2": "airport",
+        "3": "HYS",
+        "4": "HYS",
+        "5": "Hays",
+        "6": -99.275556,
+        "7": 38.8502778,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Hayman Island Heliport, Australia (HIS)",
+        "2": "helipad",
+        "3": "HIS",
+        "4": "HIS",
+        "5": "Hayman Island",
+        "6": 148.883611,
+        "7": -20.06,
+        "10": "Australia/Brisbane"
+      }
+    ]
+  }
+}

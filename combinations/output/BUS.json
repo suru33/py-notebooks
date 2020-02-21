@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Batumi, Georgia (BUS)",
+        "2": "airport",
+        "3": "BUS",
+        "4": "BUS",
+        "5": "Batumi",
+        "6": 41.5997222,
+        "7": 41.6102778,
+        "10": "Asia/Tbilisi"
+      },
+      {
+        "1": "Busan Gimhae International, South Korea (PUS)",
+        "2": "airport",
+        "3": "PUS",
+        "4": "PUS",
+        "5": "Pusan",
+        "6": 128.9425,
+        "7": 35.1766667,
+        "10": "Asia/Seoul"
+      },
+      {
+        "1": "Busselton, Australia (BQB)",
+        "2": "airport",
+        "3": "BQB",
+        "4": "BQB",
+        "5": "Bussellton",
+        "6": 115.402222,
+        "7": -33.6875,
+        "10": "Australia/Perth"
+      },
+      {
+        "1": "Busuanga Francisco B. Reyes, Philippines (USU)",
+        "2": "airport",
+        "3": "USU",
+        "4": "USU",
+        "5": "Busuanga",
+        "6": 120.1,
+        "7": 12.1213889,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Bushehr, Iran (BUZ)",
+        "2": "airport",
+        "3": "BUZ",
+        "4": "BUZ",
+        "5": "Bushehr",
+        "6": 50.8302778,
+        "7": 28.9494444,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Augusta Regional (Bush Field), GA (AGS)",
+        "2": "airport",
+        "3": "AGS",
+        "4": "AGS",
+        "5": "Augusta",
+        "6": -81.964444,
+        "7": 33.37,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

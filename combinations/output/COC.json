@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Cochabamba Jorge Wilstermann International, Bolivia (CBB)",
+        "2": "airport",
+        "3": "CBB",
+        "4": "CBB",
+        "5": "Cochabamba",
+        "6": -66.177222,
+        "7": -17.421111,
+        "10": "America/La_Paz"
+      },
+      {
+        "1": "Coconut Island, Australia (CNC)",
+        "2": "airport",
+        "3": "CNC",
+        "4": "CNC",
+        "5": "Coconut Island",
+        "6": 143.071667,
+        "7": -10.050278,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Cocos Islands, Cocos Islands (CCK)",
+        "2": "airport",
+        "3": "CCK",
+        "4": "CCK",
+        "5": "Cocos Islands",
+        "6": 96.8313889,
+        "7": -12.1875,
+        "10": "Indian/Cocos"
+      },
+      {
+        "1": "Coca Francisco de Orellana, Ecuador (OCC)",
+        "2": "airport",
+        "3": "OCC",
+        "4": "OCC",
+        "5": "Coca",
+        "6": -76.986944,
+        "7": -0.4627778,
+        "10": "America/Guayaquil"
+      }
+    ]
+  }
+}

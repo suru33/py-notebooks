@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Zaragoza, Spain (ZAZ)",
+        "2": "airport",
+        "3": "ZAZ",
+        "4": "ZAZ",
+        "5": "Zaragoza",
+        "6": -1.0416667,
+        "7": 41.6661111,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Zaranj, Afghanistan (ZAJ)",
+        "2": "airport",
+        "3": "ZAJ",
+        "4": "ZAJ",
+        "5": "Zaranj",
+        "6": 61.8663889,
+        "7": 30.9713889,
+        "10": "Asia/Kabul"
+      },
+      {
+        "1": "Zaragoza Delicias Railway Station, Spain (XZZ)",
+        "2": "rail",
+        "3": "XZZ",
+        "4": "ZAZ",
+        "5": "Zaragoza",
+        "6": -0.895,
+        "7": 41.6513889,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Zaragoza Bus Station, Spain (RZG)",
+        "2": "bus",
+        "3": "RZG",
+        "4": "ZAZ",
+        "5": "Zaragoza",
+        "6": -0.9111111,
+        "7": 41.6591667,
+        "10": "Europe/Madrid"
+      }
+    ]
+  }
+}

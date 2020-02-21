@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tirana Nene Tereza International, Albania (TIA)",
+        "2": "airport",
+        "3": "TIA",
+        "4": "TIA",
+        "5": "Tirana",
+        "6": 19.7208333,
+        "7": 41.415,
+        "10": "Europe/Tirane"
+      },
+      {
+        "1": "Tianjin Binhai International, China (TSN)",
+        "2": "airport",
+        "3": "TSN",
+        "4": "TSN",
+        "5": "Tianjin",
+        "6": 117.346111,
+        "7": 39.1244444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Tianshui Maijishan, China (THQ)",
+        "2": "airport",
+        "3": "THQ",
+        "4": "THQ",
+        "5": "Tianshui",
+        "6": 105.86,
+        "7": 34.5597222,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Tiaret Bou Chekif, Algeria (TID)",
+        "2": "airport",
+        "3": "TID",
+        "4": "TID",
+        "5": "Tiaret",
+        "6": 1.46694444,
+        "7": 35.3416667,
+        "10": "Africa/Algiers"
+      },
+      {
+        "1": "Tiakur Jos Orno Imsula, Indonesia (JIO)",
+        "2": "airport",
+        "3": "JIO",
+        "4": "JIO",
+        "5": "Tiakur",
+        "6": 127.903333,
+        "7": -8.1391667,
+        "10": "Asia/Jayapura"
+      },
+      {
+        "1": "Tianmen South Railway Station, China (TMV)",
+        "2": "rail",
+        "3": "TMV",
+        "4": "TMV",
+        "5": "Tianmen",
+        "6": 113.450278,
+        "7": 30.4311111,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

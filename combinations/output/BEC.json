@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Beckley Raleigh County Mem., WV (BKW)",
+        "2": "airport",
+        "3": "BKW",
+        "4": "BKW",
+        "5": "Beckley",
+        "6": -81.124167,
+        "7": 37.7872222,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Bechar Boudghene B. Ali Lotfi, Algeria (CBH)",
+        "2": "airport",
+        "3": "CBH",
+        "4": "CBH",
+        "5": "Bechar",
+        "6": -2.2788889,
+        "7": 31.6461111,
+        "10": "Africa/Algiers"
+      }
+    ]
+  }
+}

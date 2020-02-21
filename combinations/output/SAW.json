@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Istanbul Sabiha Gokcen, Turkey (SAW)",
+        "2": "airport",
+        "3": "SAW",
+        "4": "IST",
+        "5": "Istanbul",
+        "6": 29.3091667,
+        "7": 40.8986111,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Marquette Sawyer International, MI (MQT)",
+        "2": "airport",
+        "3": "MQT",
+        "4": "MQT",
+        "5": "Marquette",
+        "6": -87.395278,
+        "7": 46.3536111,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bordeaux Merignac, France (BOD)",
+        "2": "airport",
+        "3": "BOD",
+        "4": "BOD",
+        "5": "Bordeaux",
+        "6": -0.7152778,
+        "7": 44.8286111,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Bodrum Milas, Turkey (BJV)",
+        "2": "airport",
+        "3": "BJV",
+        "4": "BJV",
+        "5": "Bodrum",
+        "6": 27.6644444,
+        "7": 37.2505556,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Bodo, Norway (BOO)",
+        "2": "airport",
+        "3": "BOO",
+        "4": "BOO",
+        "5": "Bodo",
+        "6": 14.3652778,
+        "7": 67.2691667,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Bodaybo, Russia (ODO)",
+        "2": "airport",
+        "3": "ODO",
+        "4": "ODO",
+        "5": "Bodaybo",
+        "6": 114.242222,
+        "7": 57.8663889,
+        "10": "Asia/Irkutsk"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Toledo Luis dal Canalle Filho, Brazil (TOW)",
+        "2": "airport",
+        "3": "TOW",
+        "4": "TOW",
+        "5": "Toledo",
+        "6": -53.6975,
+        "7": -24.6875,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Townsville International, Australia (TSV)",
+        "2": "airport",
+        "3": "TSV",
+        "4": "TSV",
+        "5": "Townsville",
+        "6": 146.765278,
+        "7": -19.2525,
+        "10": "Australia/Brisbane"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lyon, France - All airports",
+        "2": "city",
+        "3": "LYS",
+        "4": "LYS",
+        "5": "Lyon",
+        "6": 5.123321312721986,
+        "7": 45.64101719208697,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Lyon St-Exupery, France (LYS)",
+        "2": "airport",
+        "3": "LYS",
+        "4": "LYS",
+        "5": "Lyon",
+        "6": 5.08111111,
+        "7": 45.7255556,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

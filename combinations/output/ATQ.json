@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Amritsar Sri Guru Ram Dass Jee, India (ATQ)",
+        "2": "airport",
+        "3": "ATQ",
+        "4": "ATQ",
+        "5": "Amritsar",
+        "6": 74.7972222,
+        "7": 31.7097222,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Atqasuk E.Burnell Sr Memorial, AK (ATK)",
+        "2": "airport",
+        "3": "ATK",
+        "4": "ATK",
+        "5": "Atqasuk",
+        "6": -157.43583,
+        "7": 70.4672222,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

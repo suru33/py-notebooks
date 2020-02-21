@@ -1,0 +1,146 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kashi, China (KHG)",
+        "2": "airport",
+        "3": "KHG",
+        "4": "KHG",
+        "5": "Kashi",
+        "6": 76.02,
+        "7": 39.5425,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Kashechewan, ON, Canada (ZKE)",
+        "2": "airport",
+        "3": "ZKE",
+        "4": "ZKE",
+        "5": "Kaschechewan",
+        "6": -81.678056,
+        "7": 52.2816667,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Kassel Calden, Germany (KSF)",
+        "2": "airport",
+        "3": "KSF",
+        "4": "KSF",
+        "5": "Kassel",
+        "6": 9.3775,
+        "7": 51.4083333,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Kasigluk, AK (KUK)",
+        "2": "airport",
+        "3": "KUK",
+        "4": "KUK",
+        "5": "Kasigluk",
+        "6": -162.52417,
+        "7": 60.8738889,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Kastamonu, Turkey (KFS)",
+        "2": "airport",
+        "3": "KFS",
+        "4": "KFS",
+        "5": "Kastamonu",
+        "6": 33.7961111,
+        "7": 41.315,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Kasese, Uganda (KSE)",
+        "2": "airport",
+        "3": "KSE",
+        "4": "KSE",
+        "5": "Kasese",
+        "6": 30.1019444,
+        "7": 0.185,
+        "10": "Africa/Kampala"
+      },
+      {
+        "1": "Kasane, Botswana (BBK)",
+        "2": "airport",
+        "3": "BBK",
+        "4": "BBK",
+        "5": "Kasane",
+        "6": 25.1625,
+        "7": -17.832778,
+        "10": "Africa/Lusaka"
+      },
+      {
+        "1": "Kasaan Sea Plane Base, AK (KXA)",
+        "2": "airport",
+        "3": "KXA",
+        "4": "KXA",
+        "5": "Kasaan",
+        "6": -132.40139,
+        "7": 55.5361111,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Kasos Island, Greece (KSJ)",
+        "2": "airport",
+        "3": "KSJ",
+        "4": "KSJ",
+        "5": "Kasos Island",
+        "6": 26.91,
+        "7": 35.4213889,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Kastoria Aristotelis, Greece (KSO)",
+        "2": "airport",
+        "3": "KSO",
+        "4": "KSO",
+        "5": "Kastoria",
+        "6": 21.2822222,
+        "7": 40.4463889,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Kasama, Zambia (KAA)",
+        "2": "airport",
+        "3": "KAA",
+        "4": "KAA",
+        "5": "Kasama",
+        "6": 31.1347222,
+        "7": -10.218056,
+        "10": "Africa/Lusaka"
+      },
+      {
+        "1": "Kashan, Iran (KKS)",
+        "2": "airport",
+        "3": "KKS",
+        "4": "KKS",
+        "5": "Kashan",
+        "6": 51.5769444,
+        "7": 33.8952778,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Kassala, Sudan (KSL)",
+        "2": "airport",
+        "3": "KSL",
+        "4": "KSL",
+        "5": "Kassala",
+        "6": 36.3288889,
+        "7": 15.3875,
+        "10": "Africa/Khartoum"
+      },
+      {
+        "1": "Kassel Wilhelmshoehe Railway Station, Germany (KWQ)",
+        "2": "rail",
+        "3": "KWQ",
+        "4": "KSF",
+        "5": "Kassel",
+        "6": 9.44666667,
+        "7": 51.3130556,
+        "10": "Europe/Berlin"
+      }
+    ]
+  }
+}

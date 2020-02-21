@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Port Alsworth, AK (PTA)",
+        "2": "airport",
+        "3": "PTA",
+        "4": "PTA",
+        "5": "Port Alsworth",
+        "6": -154.32333,
+        "7": 60.2025,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Beaumont/Port Arthur Jack Brooks Regional, TX (BPT)",
+        "2": "airport",
+        "3": "BPT",
+        "4": "BPT",
+        "5": "Beaumont",
+        "6": -94.020833,
+        "7": 29.9508333,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

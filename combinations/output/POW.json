@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Portoroz, Slovenia (POW)",
+        "2": "airport",
+        "3": "POW",
+        "4": "POW",
+        "5": "Portoroz",
+        "6": 13.615,
+        "7": 45.4733333,
+        "10": "Europe/Ljubljana"
+      },
+      {
+        "1": "Powell River, BC, Canada (YPW)",
+        "2": "airport",
+        "3": "YPW",
+        "4": "YPW",
+        "5": "Powell River",
+        "6": -124.5,
+        "7": 49.8341667,
+        "10": "America/Vancouver"
+      }
+    ]
+  }
+}

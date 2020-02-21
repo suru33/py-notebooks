@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sakkyryr, Russia (SUK)",
+        "2": "airport",
+        "3": "SUK",
+        "4": "SUK",
+        "5": "Sakkyryr",
+        "6": 130.3925,
+        "7": 67.7922222,
+        "10": "Asia/Yakutsk"
+      },
+      {
+        "1": "Sakon Nakhon, Thailand (SNO)",
+        "2": "airport",
+        "3": "SNO",
+        "4": "SNO",
+        "5": "Sakon Nakhon",
+        "6": 104.118611,
+        "7": 17.1952778,
+        "10": "Asia/Bangkok"
+      }
+    ]
+  }
+}

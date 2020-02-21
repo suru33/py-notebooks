@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Luoyang Beijiao, China (LYA)",
+        "2": "airport",
+        "3": "LYA",
+        "4": "LYA",
+        "5": "Luoyang",
+        "6": 112.389444,
+        "7": 34.7413889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Faisalabad International, Pakistan (LYP)",
+        "2": "airport",
+        "3": "LYP",
+        "4": "LYP",
+        "5": "Faisalabad",
+        "6": 72.9947222,
+        "7": 31.365,
+        "10": "Asia/Karachi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Garissa, Kenya (GAS)",
+        "2": "airport",
+        "3": "GAS",
+        "4": "GAS",
+        "5": "Garissa",
+        "6": 39.6483333,
+        "7": -0.4636111,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Gassim, Saudi Arabia (ELQ)",
+        "2": "airport",
+        "3": "ELQ",
+        "4": "ELQ",
+        "5": "Gassim",
+        "6": 43.7738889,
+        "7": 26.3027778,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "Gaspe Michel-Pouliot, QC, Canada (YGP)",
+        "2": "airport",
+        "3": "YGP",
+        "4": "YGP",
+        "5": "Gaspe",
+        "6": -64.478611,
+        "7": 48.7752778,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Jinghong Xishuangbanna Gasa International, China (JHG)",
+        "2": "airport",
+        "3": "JHG",
+        "4": "JHG",
+        "5": "Jinghong",
+        "6": 100.763056,
+        "7": 21.9730556,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

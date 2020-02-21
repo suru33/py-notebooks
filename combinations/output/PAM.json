@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Pamplona, Spain (PNA)",
+        "2": "airport",
+        "3": "PNA",
+        "4": "PNA",
+        "5": "Pamplona",
+        "6": -1.6463889,
+        "7": 42.77,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Pamplona Railway Station, Spain (EEP)",
+        "2": "rail",
+        "3": "EEP",
+        "4": "PNA",
+        "5": "Pamplona",
+        "6": -1.6616667,
+        "7": 42.8252778,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Belo Horizonte Pampulha, Brazil (PLU)",
+        "2": "airport",
+        "3": "PLU",
+        "4": "BHZ",
+        "5": "Belo Horizonte",
+        "6": -43.950556,
+        "7": -19.851111,
+        "10": "America/Sao_Paulo"
+      }
+    ]
+  }
+}

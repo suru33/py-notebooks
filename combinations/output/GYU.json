@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Guyuan Liupanshan, China (GYU)",
+        "2": "airport",
+        "3": "GYU",
+        "4": "GYU",
+        "5": "Guyuan Shi",
+        "6": 106.216389,
+        "7": 36.0788889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Gyumri Shirak, Armenia (LWN)",
+        "2": "airport",
+        "3": "LWN",
+        "4": "LWN",
+        "5": "Gyoumri",
+        "6": 43.8594444,
+        "7": 40.7502778,
+        "10": "Asia/Yerevan"
+      }
+    ]
+  }
+}

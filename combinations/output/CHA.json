@@ -1,0 +1,366 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Chattanooga Metropolitan Apt, TN (CHA)",
+        "2": "airport",
+        "3": "CHA",
+        "4": "CHA",
+        "5": "Chattanooga",
+        "6": -85.203889,
+        "7": 35.0352778,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Charlotte Douglas International, NC (CLT)",
+        "2": "airport",
+        "3": "CLT",
+        "4": "CLT",
+        "5": "Charlotte",
+        "6": -80.943056,
+        "7": 35.2138889,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Charleston International/AFB, SC (CHS)",
+        "2": "airport",
+        "3": "CHS",
+        "4": "CHS",
+        "5": "Charleston",
+        "6": -80.040556,
+        "7": 32.8986111,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Changsha Huanghua International, China (CSX)",
+        "2": "airport",
+        "3": "CSX",
+        "4": "CSX",
+        "5": "Changsha",
+        "6": 113.217778,
+        "7": 28.1936111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Changchun Longjia International, China (CGQ)",
+        "2": "airport",
+        "3": "CGQ",
+        "4": "CGQ",
+        "5": "Changchun",
+        "6": 125.685278,
+        "7": 43.9961111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Charlottesville Albemarle, VA (CHO)",
+        "2": "airport",
+        "3": "CHO",
+        "4": "CHO",
+        "5": "Charlottesville",
+        "6": -78.452778,
+        "7": 38.1386111,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Charleston Yeager, WV (CRW)",
+        "2": "airport",
+        "3": "CRW",
+        "4": "CRW",
+        "5": "Charleston",
+        "6": -81.593056,
+        "7": 38.3730556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Chania Ioannis Daskalogiannis, Greece (CHQ)",
+        "2": "airport",
+        "3": "CHQ",
+        "4": "CHQ",
+        "5": "Chania",
+        "6": 24.1497222,
+        "7": 35.5316667,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Changzhou Benniu, China (CZX)",
+        "2": "airport",
+        "3": "CZX",
+        "4": "CZX",
+        "5": "Changzhou",
+        "6": 119.778333,
+        "7": 31.9194444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Chandigarh, India (IXC)",
+        "2": "airport",
+        "3": "IXC",
+        "4": "IXC",
+        "5": "Chandigarh",
+        "6": 76.7886111,
+        "7": 30.6733333,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Changde Taohuayuan, China (CGD)",
+        "2": "airport",
+        "3": "CGD",
+        "4": "CGD",
+        "5": "Changde",
+        "6": 111.640833,
+        "7": 28.9186111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Changzhi Wangcun, China (CIH)",
+        "2": "airport",
+        "3": "CIH",
+        "4": "CIH",
+        "5": "Changzhi",
+        "6": 113.125833,
+        "7": 36.2475,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Chambery/Aix-les-Bains, France (CMF)",
+        "2": "airport",
+        "3": "CMF",
+        "4": "CMF",
+        "5": "Chambery",
+        "6": 5.88,
+        "7": 45.6391667,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Charleville, Australia (CTL)",
+        "2": "airport",
+        "3": "CTL",
+        "4": "CTL",
+        "5": "Charleville",
+        "6": 146.2625,
+        "7": -26.413333,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Chaoyang (Liaoning) Chaoyang, China (CHG)",
+        "2": "airport",
+        "3": "CHG",
+        "4": "CHG",
+        "5": "Chaoyang",
+        "6": 120.433889,
+        "7": 41.5413889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Chah Bahar Konarak, Iran (ZBR)",
+        "2": "airport",
+        "3": "ZBR",
+        "4": "ZBR",
+        "5": "Chah-Bahar",
+        "6": 60.3836111,
+        "7": 25.4444444,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Chapeco Serafin Enoss Bertaso, Brazil (XAP)",
+        "2": "airport",
+        "3": "XAP",
+        "4": "XAP",
+        "5": "Chapeco",
+        "6": -52.656667,
+        "7": -27.134167,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Charlottetown, PE, Canada (YYG)",
+        "2": "airport",
+        "3": "YYG",
+        "4": "YYG",
+        "5": "Charlottetown",
+        "6": -63.125556,
+        "7": 46.2891667,
+        "10": "America/Halifax"
+      },
+      {
+        "1": "Chalkyitsik, AK (CIK)",
+        "2": "airport",
+        "3": "CIK",
+        "4": "CIK",
+        "5": "Chalkyitsik",
+        "6": -143.74278,
+        "7": 66.6441667,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Champaign/Urbana University of Illinois, IL (CMI)",
+        "2": "airport",
+        "3": "CMI",
+        "4": "CMI",
+        "5": "Champaign",
+        "6": -88.278056,
+        "7": 40.0391667,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Charlo, NB, Canada (YCL)",
+        "2": "airport",
+        "3": "YCL",
+        "4": "YCL",
+        "5": "Charlo",
+        "6": -66.331389,
+        "7": 47.9913889,
+        "10": "America/Halifax"
+      },
+      {
+        "1": "Paris Charles de Gaulle, France (CDG)",
+        "2": "airport",
+        "3": "CDG",
+        "4": "PAR",
+        "5": "Paris",
+        "6": 2.54777778,
+        "7": 49.0097222,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Chatham Island Tuuta, New Zealand (CHT)",
+        "2": "airport",
+        "3": "CHT",
+        "4": "CHT",
+        "5": "Chatham Island",
+        "6": -176.465,
+        "7": -43.811944,
+        "10": "Pacific/Chatham"
+      },
+      {
+        "1": "Chadron Municipal, NE (CDR)",
+        "2": "airport",
+        "3": "CDR",
+        "4": "CDR",
+        "5": "Chadron",
+        "6": -103.09861,
+        "7": 42.835,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Singapore Changi, Singapore (SIN)",
+        "2": "airport",
+        "3": "SIN",
+        "4": "SIN",
+        "5": "Singapore",
+        "6": 103.989444,
+        "7": 1.35916667,
+        "10": "Asia/Singapore"
+      },
+      {
+        "1": "Chachapoyas, Peru (CHH)",
+        "2": "airport",
+        "3": "CHH",
+        "4": "CHH",
+        "5": "Chachapoyas",
+        "6": -77.856389,
+        "7": -6.2019444,
+        "10": "America/Lima"
+      },
+      {
+        "1": "Changuinola Manuel Nino International, Panama (CHX)",
+        "2": "airport",
+        "3": "CHX",
+        "4": "CHX",
+        "5": "Changuinola",
+        "6": -82.515278,
+        "7": 9.45888889,
+        "10": "America/Panama"
+      },
+      {
+        "1": "Changsha Railway Station, China (DDV)",
+        "2": "rail",
+        "3": "DDV",
+        "4": "CSX",
+        "5": "Changsha",
+        "6": 113.152222,
+        "7": 27.8377778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Changchun Railway Station, China (VWB)",
+        "2": "rail",
+        "3": "VWB",
+        "4": "CGQ",
+        "5": "Changchun",
+        "6": 125.321944,
+        "7": 43.9094444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Lima Jorge Chavez International, Peru (LIM)",
+        "2": "airport",
+        "3": "LIM",
+        "4": "LIM",
+        "5": "Lima",
+        "6": -77.114444,
+        "7": -12.021944,
+        "10": "America/Lima"
+      },
+      {
+        "1": "Al Hoceima Cherif El Idrissi, Morocco (AHU)",
+        "2": "airport",
+        "3": "AHU",
+        "4": "AHU",
+        "5": "Al Hoceima",
+        "6": -3.8394444,
+        "7": 35.1772222,
+        "10": "Africa/Casablanca"
+      },
+      {
+        "1": "Dibrugarh Mohanbari, India (DIB)",
+        "2": "airport",
+        "3": "DIB",
+        "4": "DIB",
+        "5": "Dibrugarh",
+        "6": 95.0166667,
+        "7": 27.4833333,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "San Martin los Andes Aviador Carlos Campos, Argentina (CPC)",
+        "2": "airport",
+        "3": "CPC",
+        "4": "CPC",
+        "5": "San Martin de los Andes",
+        "6": -71.137222,
+        "7": -40.075278,
+        "10": "America/Argentina/Mendoza"
+      },
+      {
+        "1": "Arica Chacalluta, Chile (ARI)",
+        "2": "airport",
+        "3": "ARI",
+        "4": "ARI",
+        "5": "Arica",
+        "6": -70.338611,
+        "7": -18.348611,
+        "10": "America/Santiago"
+      },
+      {
+        "1": "Bhadrapur Chandragadhi, Nepal (BDP)",
+        "2": "airport",
+        "3": "BDP",
+        "4": "BDP",
+        "5": "Bhadrapur",
+        "6": 88.0802778,
+        "7": 26.5705556,
+        "10": "Asia/Katmandu"
+      },
+      {
+        "1": "Lencois Horacio de Mattos, Brazil (LEC)",
+        "2": "airport",
+        "3": "LEC",
+        "4": "LEC",
+        "5": "Lencois",
+        "6": -41.281111,
+        "7": -12.48,
+        "10": "America/Belem"
+      }
+    ]
+  }
+}

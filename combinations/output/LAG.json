@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lagos Murtala Muhammed International, Nigeria (LOS)",
+        "2": "airport",
+        "3": "LOS",
+        "4": "LOS",
+        "5": "Lagos",
+        "6": 3.32111111,
+        "7": 6.5775,
+        "10": "Africa/Lagos"
+      },
+      {
+        "1": "New York LaGuardia, NY (LGA)",
+        "2": "airport",
+        "3": "LGA",
+        "4": "NYC",
+        "5": "New York",
+        "6": -73.8725,
+        "7": 40.7772222,
+        "10": "America/New_York"
+      },
+      {
+        "1": "La Grande Riviere, QC, Canada (YGL)",
+        "2": "airport",
+        "3": "YGL",
+        "4": "YGL",
+        "5": "La Grande",
+        "6": -77.704167,
+        "7": 53.6252778,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "La Graciosa Ferry Port, Spain (GGA)",
+        "2": "airport",
+        "3": "GGA",
+        "4": "GGA",
+        "5": "La Graciosa",
+        "6": -13.501389,
+        "7": 29.2291667,
+        "10": "Atlantic/Canary"
+      },
+      {
+        "1": "Lages Correia Pinto, Brazil (LAJ)",
+        "2": "airport",
+        "3": "LAJ",
+        "4": "LAJ",
+        "5": "Lages",
+        "6": -50.280556,
+        "7": -27.782778,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Laghouat L'Mekrareg, Algeria (LOO)",
+        "2": "airport",
+        "3": "LOO",
+        "4": "LOO",
+        "5": "Laghouat",
+        "6": 2.9275,
+        "7": 33.7647222,
+        "10": "Africa/Algiers"
+      },
+      {
+        "1": "Lago Agrio, Ecuador (LGQ)",
+        "2": "airport",
+        "3": "LGQ",
+        "4": "LGQ",
+        "5": "Lago Agrio",
+        "6": -76.869444,
+        "7": 0.0925,
+        "10": "America/Guayaquil"
+      },
+      {
+        "1": "Agen La Garenne, France (AGF)",
+        "2": "airport",
+        "3": "AGF",
+        "4": "AGF",
+        "5": "Agen",
+        "6": 0.59055556,
+        "7": 44.1747222,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

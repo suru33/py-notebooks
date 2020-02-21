@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tegucigalpa Toncontin International, Honduras (TGU)",
+        "2": "airport",
+        "3": "TGU",
+        "4": "TGU",
+        "5": "Tegucigalpa",
+        "6": -87.217222,
+        "7": 14.0608333,
+        "10": "America/Tegucigalpa"
+      },
+      {
+        "1": "Berlin Tegel, Germany (TXL)",
+        "2": "airport",
+        "3": "TXL",
+        "4": "BER",
+        "5": "Berlin",
+        "6": 13.2877778,
+        "7": 52.5597222,
+        "10": "Europe/Berlin"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Xi'an Xianyang International, China (XIY)",
+        "2": "airport",
+        "3": "XIY",
+        "4": "SIA",
+        "5": "Xi An",
+        "6": 108.753889,
+        "7": 34.4477778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Xiamen Gaoqi International, China (XMN)",
+        "2": "airport",
+        "3": "XMN",
+        "4": "XMN",
+        "5": "Xiamen",
+        "6": 118.127778,
+        "7": 24.5441667,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Xiangyang Liuji, China (XFN)",
+        "2": "airport",
+        "3": "XFN",
+        "4": "XFN",
+        "5": "Xiangfan",
+        "6": 112.290833,
+        "7": 32.1505556,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Gannan Xiahe, China (GXH)",
+        "2": "airport",
+        "3": "GXH",
+        "4": "GXH",
+        "5": "Xiahe",
+        "6": 102.620833,
+        "7": 34.8188889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Xianning Railway Station, China (IUO)",
+        "2": "rail",
+        "3": "IUO",
+        "4": "IUO",
+        "5": "Xianning",
+        "6": 114.294167,
+        "7": 29.8941667,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Xiaogan Railway St, China (GGX)",
+        "2": "rail",
+        "3": "GGX",
+        "4": "XJW",
+        "5": "Xiaogan",
+        "6": 113.923611,
+        "7": 30.9575,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

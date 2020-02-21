@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Huaraz German Arias Graziani, Peru (ATA)",
+        "2": "airport",
+        "3": "ATA",
+        "4": "ATA",
+        "5": "Anta",
+        "6": -77.5975,
+        "7": -9.3505556,
+        "10": "America/Lima"
+      },
+      {
+        "1": "Istanbul New, Turkey (IST)",
+        "2": "airport",
+        "3": "IST",
+        "4": "IST",
+        "5": "Istanbul",
+        "6": 28.7425,
+        "7": 41.2705556,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Atambua Haliwen, Indonesia (ABU)",
+        "2": "airport",
+        "3": "ABU",
+        "4": "ABU",
+        "5": "Atambua",
+        "6": 124.903889,
+        "7": -9.075,
+        "10": "Asia/Makassar"
+      }
+    ]
+  }
+}

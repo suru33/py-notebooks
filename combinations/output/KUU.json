@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kullu Bhuntar, India (KUU)",
+        "2": "airport",
+        "3": "KUU",
+        "4": "KUU",
+        "5": "Kulu",
+        "6": 77.1544444,
+        "7": 31.8766667,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Kuujjuaq, QC, Canada (YVP)",
+        "2": "airport",
+        "3": "YVP",
+        "4": "YVP",
+        "5": "Kuujjuaq",
+        "6": -68.427222,
+        "7": 58.0911111,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Kuujjuarapik, QC, Canada (YGW)",
+        "2": "airport",
+        "3": "YGW",
+        "4": "YGW",
+        "5": "Kuujjuarapik",
+        "6": -77.765,
+        "7": 55.2819444,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Kuusamo, Finland (KAO)",
+        "2": "airport",
+        "3": "KAO",
+        "4": "KAO",
+        "5": "Kuusamo",
+        "6": 29.2394444,
+        "7": 65.9875,
+        "10": "Europe/Helsinki"
+      },
+      {
+        "1": "Kuummiut Heliport, Greenland (KUZ)",
+        "2": "helipad",
+        "3": "KUZ",
+        "4": "KUZ",
+        "5": "Kuummiut",
+        "6": -36.995556,
+        "7": 65.8638889,
+        "10": "America/Godthab"
+      }
+    ]
+  }
+}

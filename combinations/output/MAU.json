@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Maupiti Island, French Polynesia (MAU)",
+        "2": "airport",
+        "3": "MAU",
+        "4": "MAU",
+        "5": "Maupiti Island",
+        "6": -152.24361,
+        "7": -16.426389,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Mauritius Sir S. Ramgoolam International, Mauritius (MRU)",
+        "2": "airport",
+        "3": "MRU",
+        "4": "MRU",
+        "5": "Mauritius",
+        "6": 57.6836111,
+        "7": -20.430278,
+        "10": "Indian/Mauritius"
+      },
+      {
+        "1": "Maumere Fransiskus X. Seda, Indonesia (MOF)",
+        "2": "airport",
+        "3": "MOF",
+        "4": "MOF",
+        "5": "Maumere",
+        "6": 122.236944,
+        "7": -8.6405556,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Maun, Botswana (MUB)",
+        "2": "airport",
+        "3": "MUB",
+        "4": "MUB",
+        "5": "Maun",
+        "6": 23.4311111,
+        "7": -19.9725,
+        "10": "Africa/Lusaka"
+      },
+      {
+        "1": "Kahului, HI (OGG)",
+        "2": "airport",
+        "3": "OGG",
+        "4": "OGG",
+        "5": "Kahului",
+        "6": -156.43056,
+        "7": 20.8986111,
+        "10": "Pacific/Honolulu"
+      },
+      {
+        "1": "Kapalua, HI (JHM)",
+        "2": "airport",
+        "3": "JHM",
+        "4": "JHM",
+        "5": "Kapalua",
+        "6": -156.67306,
+        "7": 20.9630556,
+        "10": "Pacific/Honolulu"
+      },
+      {
+        "1": "Hana, HI (HNM)",
+        "2": "airport",
+        "3": "HNM",
+        "4": "HNM",
+        "5": "Hana",
+        "6": -156.01444,
+        "7": 20.7955556,
+        "10": "Pacific/Honolulu"
+      }
+    ]
+  }
+}

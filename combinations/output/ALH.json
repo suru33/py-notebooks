@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Albany, Australia (ALH)",
+        "2": "airport",
+        "3": "ALH",
+        "4": "ALH",
+        "5": "Albany",
+        "6": 117.808889,
+        "7": -34.943333,
+        "10": "Australia/Perth"
+      },
+      {
+        "1": "Al Hoceima Cherif El Idrissi, Morocco (AHU)",
+        "2": "airport",
+        "3": "AHU",
+        "4": "AHU",
+        "5": "Al Hoceima",
+        "6": -3.8394444,
+        "7": 35.1772222,
+        "10": "Africa/Casablanca"
+      }
+    ]
+  }
+}

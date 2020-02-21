@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kolkata Subhas Chandra Bose, India (CCU)",
+        "2": "airport",
+        "3": "CCU",
+        "4": "CCU",
+        "5": "Calcutta",
+        "6": 88.4466667,
+        "7": 22.6547222,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Koliganek, AK (KGK)",
+        "2": "airport",
+        "3": "KGK",
+        "4": "KGK",
+        "5": "Koliganek",
+        "6": -157.26167,
+        "7": 59.7272222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Kolhapur, India (KLH)",
+        "2": "airport",
+        "3": "KLH",
+        "4": "KLH",
+        "5": "Kolhapur",
+        "6": 74.2894444,
+        "7": 16.6647222,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Kolaka Pomala, Indonesia (PUM)",
+        "2": "airport",
+        "3": "PUM",
+        "4": "PUM",
+        "5": "Pomala",
+        "6": 121.615278,
+        "7": -4.1811111,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Kolda, Senegal (KDA)",
+        "2": "airport",
+        "3": "KDA",
+        "4": "KDA",
+        "5": "Kolda",
+        "6": -14.968333,
+        "7": 12.8988889,
+        "10": "Africa/Dakar"
+      },
+      {
+        "1": "Yekaterinburg Koltsovo, Russia (SVX)",
+        "2": "airport",
+        "3": "SVX",
+        "4": "SVX",
+        "5": "Yekaterinburg",
+        "6": 60.8027778,
+        "7": 56.7430556,
+        "10": "Asia/Yekaterinburg"
+      }
+    ]
+  }
+}

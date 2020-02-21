@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Iquique Diego Aracena, Chile (IQQ)",
+        "2": "airport",
+        "3": "IQQ",
+        "4": "IQQ",
+        "5": "Iquique",
+        "6": -70.181389,
+        "7": -20.535278,
+        "10": "America/Santiago"
+      },
+      {
+        "1": "Iquitos F.Secada Vignetta, Peru (IQT)",
+        "2": "airport",
+        "3": "IQT",
+        "4": "IQT",
+        "5": "Iquitos",
+        "6": -73.308889,
+        "7": -3.7847222,
+        "10": "America/Lima"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kisumu, Kenya (KIS)",
+        "2": "airport",
+        "3": "KIS",
+        "4": "KIS",
+        "5": "Kisumu",
+        "6": 34.7297222,
+        "7": -0.0855556,
+        "10": "Africa/Nairobi"
+      },
+      {
+        "1": "Kish Island, Iran (KIH)",
+        "2": "airport",
+        "3": "KIH",
+        "4": "KIH",
+        "5": "Kish Island",
+        "6": 53.9791667,
+        "7": 26.5275,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Kisangani Bangoka International, Congo (Zaire) (FKI)",
+        "2": "airport",
+        "3": "FKI",
+        "4": "FKI",
+        "5": "Kisangani",
+        "6": 25.3380556,
+        "7": 0.48166667,
+        "10": "Africa/Lubumbashi"
+      },
+      {
+        "1": "Kisimayu, Somalia (KMU)",
+        "2": "airport",
+        "3": "KMU",
+        "4": "KMU",
+        "5": "Kismayu",
+        "6": 42.4594444,
+        "7": -0.3772222,
+        "10": "Africa/Mogadishu"
+      },
+      {
+        "1": "Kishangarh Ajmer, India (KQH)",
+        "2": "airport",
+        "3": "KQH",
+        "4": "KQH",
+        "5": "Kishangarh",
+        "6": 74.8144444,
+        "7": 26.5919444,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Zanzibar International, Tanzania (ZNZ)",
+        "2": "airport",
+        "3": "ZNZ",
+        "4": "ZNZ",
+        "5": "Zanzibar",
+        "6": 39.225,
+        "7": -6.2219444,
+        "10": "Africa/Dar_es_Salaam"
+      }
+    ]
+  }
+}

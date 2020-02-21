@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Murray Island, Australia (MYI)",
+        "2": "airport",
+        "3": "MYI",
+        "4": "MYI",
+        "5": "Murray Island",
+        "6": 144.054722,
+        "7": -9.9152778,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Myitkyina, Myanmar (MYT)",
+        "2": "airport",
+        "3": "MYT",
+        "4": "MYT",
+        "5": "Myitkyina",
+        "6": 97.3538889,
+        "7": 25.3841667,
+        "10": "Asia/Rangoon"
+      }
+    ]
+  }
+}

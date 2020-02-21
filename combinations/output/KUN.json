@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kaunas International, Lithuania (KUN)",
+        "2": "airport",
+        "3": "KUN",
+        "4": "KUN",
+        "5": "Kaunas",
+        "6": 24.0847222,
+        "7": 54.9638889,
+        "10": "Europe/Vilnius"
+      },
+      {
+        "1": "Kunming Changshui International, China (KMG)",
+        "2": "airport",
+        "3": "KMG",
+        "4": "KMG",
+        "5": "Kunming",
+        "6": 102.935,
+        "7": 25.1086111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Kununurra, Australia (KNX)",
+        "2": "airport",
+        "3": "KNX",
+        "4": "KNX",
+        "5": "Kununurra",
+        "6": 128.7075,
+        "7": -15.778056,
+        "10": "Australia/Perth"
+      },
+      {
+        "1": "Kunshannan Railway Station, China (KVN)",
+        "2": "rail",
+        "3": "KVN",
+        "4": "KVN",
+        "5": "Kunshan",
+        "6": 120.946944,
+        "7": 31.355,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Norrkoping Kungsangen, Sweden (NRK)",
+        "2": "airport",
+        "3": "NRK",
+        "4": "NRK",
+        "5": "Norrkoping",
+        "6": 16.2486111,
+        "7": 58.5861111,
+        "10": "Europe/Stockholm"
+      }
+    ]
+  }
+}

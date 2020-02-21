@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Billings Logan International, MT (BIL)",
+        "2": "airport",
+        "3": "BIL",
+        "4": "BIL",
+        "5": "Billings",
+        "6": -108.54278,
+        "7": 45.8077778,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Bilbao, Spain (BIO)",
+        "2": "airport",
+        "3": "BIO",
+        "4": "BIO",
+        "5": "Bilbao",
+        "6": -2.9105556,
+        "7": 43.3011111,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Billund, Denmark (BLL)",
+        "2": "airport",
+        "3": "BLL",
+        "4": "BLL",
+        "5": "Billund",
+        "6": 9.15166667,
+        "7": 55.7402778,
+        "10": "Europe/Copenhagen"
+      },
+      {
+        "1": "Biloela, Australia (ZBL)",
+        "2": "airport",
+        "3": "ZBL",
+        "4": "ZBL",
+        "5": "Biloela",
+        "6": 150.5,
+        "7": -24.4,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Bilbao Abando Railway Station, Spain (YJI)",
+        "2": "rail",
+        "3": "YJI",
+        "4": "BIO",
+        "5": "Bilbao",
+        "6": -2.9275,
+        "7": 43.2608333,
+        "10": "Europe/Madrid"
+      }
+    ]
+  }
+}

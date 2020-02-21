@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Joensuu, Finland (JOE)",
+        "2": "airport",
+        "3": "JOE",
+        "4": "JOE",
+        "5": "Joensuu",
+        "6": 29.6075,
+        "7": 62.6627778,
+        "10": "Europe/Helsinki"
+      },
+      {
+        "1": "Sioux Falls Joe Foss Field, SD (FSD)",
+        "2": "airport",
+        "3": "FSD",
+        "4": "FSD",
+        "5": "Sioux Falls",
+        "6": -96.741944,
+        "7": 43.5819444,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

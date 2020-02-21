@@ -1,0 +1,185 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Campo Grande International, Brazil (CGR)",
+        "2": "airport",
+        "3": "CGR",
+        "4": "CGR",
+        "5": "Campo Grande",
+        "6": -54.6725,
+        "7": -20.468611,
+        "10": "America/Cuiaba"
+      },
+      {
+        "1": "Camaguey Ignacio Agramonte International, Cuba (CMW)",
+        "2": "airport",
+        "3": "CMW",
+        "4": "CMW",
+        "5": "Camaguey",
+        "6": -77.8475,
+        "7": 21.4202778,
+        "10": "America/Havana"
+      },
+      {
+        "1": "Cambridge Bay, NU, Canada (YCB)",
+        "2": "airport",
+        "3": "YCB",
+        "4": "YCB",
+        "5": "Cambridge Bay",
+        "6": -105.13833,
+        "7": 69.1080556,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "Cambridge, United Kingdom (CBG)",
+        "2": "airport",
+        "3": "CBG",
+        "4": "CBG",
+        "5": "Cambridge",
+        "6": 0.175,
+        "7": 52.205,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Campina Grande Joao Suassuna, Brazil (CPV)",
+        "2": "airport",
+        "3": "CPV",
+        "4": "CPV",
+        "5": "Campina Grande",
+        "6": -35.896389,
+        "7": -7.27,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Campbell River, BC, Canada (YBL)",
+        "2": "airport",
+        "3": "YBL",
+        "4": "YBL",
+        "5": "Campbell River",
+        "6": -125.27056,
+        "7": 49.9508333,
+        "10": "America/Vancouver"
+      },
+      {
+        "1": "Ca Mau, Viet Nam (CAH)",
+        "2": "airport",
+        "3": "CAH",
+        "4": "CAH",
+        "5": "Ca Mau",
+        "6": 105.1775,
+        "7": 9.17777778,
+        "10": "Asia/Ho_Chi_Minh"
+      },
+      {
+        "1": "Cameron Pampa Guanaco, Chile (DPB)",
+        "2": "airport",
+        "3": "DPB",
+        "4": "DPB",
+        "5": "Cameron",
+        "6": -68.809444,
+        "7": -54.05
+      },
+      {
+        "1": "Camiguin Island Mambajao, Philippines (CGM)",
+        "2": "airport",
+        "3": "CGM",
+        "4": "CGM",
+        "5": "Camiguin",
+        "6": 124.706944,
+        "7": 9.25361111,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Campbeltown, United Kingdom (CAL)",
+        "2": "airport",
+        "3": "CAL",
+        "4": "CAL",
+        "5": "Campbeltown",
+        "6": -5.6863889,
+        "7": 55.4372222,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Campeche A.Acuna Ongay International, Mexico (CPE)",
+        "2": "airport",
+        "3": "CPE",
+        "4": "CPE",
+        "5": "Campeche",
+        "6": -90.500278,
+        "7": 19.8166667,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Campos dos Goytacazes Bartolomeu Lisandro, Brazil (CAW)",
+        "2": "airport",
+        "3": "CAW",
+        "4": "CAW",
+        "5": "Campos",
+        "6": -41.301667,
+        "7": -21.698333,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Ajaccio Napoleon Bonaparte, France (AJA)",
+        "2": "airport",
+        "3": "AJA",
+        "4": "AJA",
+        "5": "Ajaccio",
+        "6": 8.8025,
+        "7": 41.9238889,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Johnstown John Murtha-Cambria County, PA (JST)",
+        "2": "airport",
+        "3": "JST",
+        "4": "JST",
+        "5": "Johnstown",
+        "6": -78.833889,
+        "7": 40.3161111,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Corrientes, Argentina (CNQ)",
+        "2": "airport",
+        "3": "CNQ",
+        "4": "CNQ",
+        "5": "Corrientes",
+        "6": -58.761944,
+        "7": -27.445556,
+        "10": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "1": "Gillette Campbell County, WY (GCC)",
+        "2": "airport",
+        "3": "GCC",
+        "4": "GCC",
+        "5": "Gillette",
+        "6": -105.54167,
+        "7": 44.3475,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Las Piedras Josefa Camejo International, Venezuela (LSP)",
+        "2": "airport",
+        "3": "LSP",
+        "4": "LSP",
+        "5": "Las Piedras",
+        "6": -70.151389,
+        "7": 11.7808333,
+        "10": "America/Caracas"
+      },
+      {
+        "1": "Cruzeiro do Sul International, Brazil (CZS)",
+        "2": "airport",
+        "3": "CZS",
+        "4": "CZS",
+        "5": "Cruzeiro do Sul",
+        "6": -72.769444,
+        "7": -7.6,
+        "10": "America/Rio_Branco"
+      }
+    ]
+  }
+}

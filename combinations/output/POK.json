@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "St Poelten Railway Station, Austria (POK)",
+        "2": "rail",
+        "3": "POK",
+        "4": "POK",
+        "5": "St Polten",
+        "6": 15.6244444,
+        "7": 48.2083333,
+        "10": "Europe/Vienna"
+      },
+      {
+        "1": "Pokhara, Nepal (PKR)",
+        "2": "airport",
+        "3": "PKR",
+        "4": "PKR",
+        "5": "Pokhara",
+        "6": 83.9813889,
+        "7": 28.2005556,
+        "10": "Asia/Katmandu"
+      }
+    ]
+  }
+}

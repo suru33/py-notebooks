@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tikehau, French Polynesia (TIH)",
+        "2": "airport",
+        "3": "TIH",
+        "4": "TIH",
+        "5": "Tikehau Atoll",
+        "6": -148.23083,
+        "7": -15.119722,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Tiksi, Russia (IKS)",
+        "2": "airport",
+        "3": "IKS",
+        "4": "IKS",
+        "5": "Tiksi",
+        "6": 128.902222,
+        "7": 71.6972222,
+        "10": "Asia/Yakutsk"
+      }
+    ]
+  }
+}

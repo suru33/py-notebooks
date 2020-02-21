@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Rome, Italy - All airports",
+        "2": "city",
+        "3": "ROM",
+        "4": "ROM",
+        "5": "Rome",
+        "6": 12.399840714773713,
+        "7": 41.829821751731345,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Rome Fiumicino, Italy (FCO)",
+        "2": "airport",
+        "3": "FCO",
+        "4": "ROM",
+        "5": "Rome",
+        "6": 12.2388889,
+        "7": 41.8002778,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Rome Ciampino, Italy (CIA)",
+        "2": "airport",
+        "3": "CIA",
+        "4": "ROM",
+        "5": "Rome",
+        "6": 12.595,
+        "7": 41.7988889,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Roma, Australia (RMA)",
+        "2": "airport",
+        "3": "RMA",
+        "4": "RMA",
+        "5": "Roma",
+        "6": 148.774722,
+        "7": -26.545,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Rome Termini Railway Station, Italy (XRJ)",
+        "2": "rail",
+        "3": "XRJ",
+        "4": "ROM",
+        "5": "Rome",
+        "6": 12.5019444,
+        "7": 41.9011111,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Rome Tiburtina Railway Station, Italy (IRT)",
+        "2": "rail",
+        "3": "IRT",
+        "4": "ROM",
+        "5": "Rome",
+        "6": 12.5305556,
+        "7": 41.9105556,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Tacloban D.Z. Romualdez, Philippines (TAC)",
+        "2": "airport",
+        "3": "TAC",
+        "4": "TAC",
+        "5": "Tacloban",
+        "6": 125.027778,
+        "7": 11.2275,
+        "10": "Asia/Manila"
+      }
+    ]
+  }
+}

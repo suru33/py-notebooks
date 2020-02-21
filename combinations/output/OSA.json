@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Osaka, Japan - All airports",
+        "2": "city",
+        "3": "OSA",
+        "4": "OSA",
+        "5": "Osaka",
+        "6": 135.29049792477508,
+        "7": 34.558226330861395,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Osaka Kansai International, Japan (KIX)",
+        "2": "airport",
+        "3": "KIX",
+        "4": "OSA",
+        "5": "Osaka",
+        "6": 135.244167,
+        "7": 34.4272222,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Osaka International (Itami), Japan (ITM)",
+        "2": "airport",
+        "3": "ITM",
+        "4": "OSA",
+        "5": "Osaka",
+        "6": 135.438333,
+        "7": 34.7855556,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Osaka Kobe, Japan (UKB)",
+        "2": "airport",
+        "3": "UKB",
+        "4": "OSA",
+        "5": "Osaka",
+        "6": 135.223889,
+        "7": 34.6327778,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

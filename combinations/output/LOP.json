@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Praya Lombok International, Indonesia (LOP)",
+        "2": "airport",
+        "3": "LOP",
+        "4": "LOP",
+        "5": "Praya",
+        "6": 116.276667,
+        "7": -8.7572222,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Ribeirao Preto Leite Lopes, Brazil (RAO)",
+        "2": "airport",
+        "3": "RAO",
+        "4": "RAO",
+        "5": "Ribeirao Preto",
+        "6": -47.774167,
+        "7": -21.134167,
+        "10": "America/Sao_Paulo"
+      }
+    ]
+  }
+}

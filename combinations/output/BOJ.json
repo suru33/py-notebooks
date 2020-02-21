@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Burgas, Bulgaria (BOJ)",
+        "2": "airport",
+        "3": "BOJ",
+        "4": "BOJ",
+        "5": "Bourgas",
+        "6": 27.5152778,
+        "7": 42.5697222,
+        "10": "Europe/Sofia"
+      },
+      {
+        "1": "Bojnurd, Iran (BJB)",
+        "2": "airport",
+        "3": "BJB",
+        "4": "BJB",
+        "5": "Bojnord",
+        "6": 57.3091667,
+        "7": 37.4908333,
+        "10": "Asia/Tehran"
+      }
+    ]
+  }
+}

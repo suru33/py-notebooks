@@ -1,0 +1,96 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Florence Regional, SC (FLO)",
+        "2": "airport",
+        "3": "FLO",
+        "4": "FLO",
+        "5": "Florence",
+        "6": -79.724722,
+        "7": 34.1875,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Florence Peretola, Italy (FLR)",
+        "2": "airport",
+        "3": "FLR",
+        "4": "FLR",
+        "5": "Florence",
+        "6": 11.2027778,
+        "7": 43.8086111,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Florianopolis Hercilio Luz International, Brazil (FLN)",
+        "2": "airport",
+        "3": "FLN",
+        "4": "FLN",
+        "5": "Florianopolis",
+        "6": -48.547222,
+        "7": -27.670556,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Floro, Norway (FRO)",
+        "2": "airport",
+        "3": "FRO",
+        "4": "FRO",
+        "5": "Floro",
+        "6": 5.02472222,
+        "7": 61.5836111,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Flores Island, Portugal (FLW)",
+        "2": "airport",
+        "3": "FLW",
+        "4": "FLW",
+        "5": "Flores Island",
+        "6": -31.131389,
+        "7": 39.4552778,
+        "10": "Atlantic/Azores"
+      },
+      {
+        "1": "Florencia Gustavo A. Paredes, Colombia (FLA)",
+        "2": "airport",
+        "3": "FLA",
+        "4": "FLA",
+        "5": "Florencia",
+        "6": -75.564444,
+        "7": 1.58916667,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Flores Mundo Maya International, Guatemala (FRS)",
+        "2": "airport",
+        "3": "FRS",
+        "4": "FRS",
+        "5": "Flores",
+        "6": -89.869722,
+        "7": 16.9155556,
+        "10": "America/Guatemala"
+      },
+      {
+        "1": "Florence S.M. Novella Railway Station, Italy (ZMS)",
+        "2": "rail",
+        "3": "ZMS",
+        "4": "FLR",
+        "5": "Florence",
+        "6": 11.2480556,
+        "7": 43.7769444,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Florence Campo Marte Railway Station, Italy (FIR)",
+        "2": "rail",
+        "3": "FIR",
+        "4": "FLR",
+        "5": "Florence",
+        "6": 11.2766667,
+        "7": 43.7777778,
+        "10": "Europe/Rome"
+      }
+    ]
+  }
+}

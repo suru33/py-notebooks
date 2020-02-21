@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Naples Capodichino, Italy (NAP)",
+        "2": "airport",
+        "3": "NAP",
+        "4": "NAP",
+        "5": "Naples",
+        "6": 14.2908333,
+        "7": 40.8844444,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Napuka, French Polynesia (NAU)",
+        "2": "airport",
+        "3": "NAU",
+        "4": "NAU",
+        "5": "Napuka Island",
+        "6": -141.26722,
+        "7": -14.176944,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Napier/Hastings Hawke's Bay, New Zealand (NPE)",
+        "2": "airport",
+        "3": "NPE",
+        "4": "NPE",
+        "5": "Napier-Hastings",
+        "6": 176.867778,
+        "7": -39.464444,
+        "10": "Pacific/Auckland"
+      },
+      {
+        "1": "Napakiak, AK (WNA)",
+        "2": "airport",
+        "3": "WNA",
+        "4": "WNA",
+        "5": "Napakiak",
+        "6": -161.97917,
+        "7": 60.6933333,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Napaskiak, AK (PKA)",
+        "2": "airport",
+        "3": "PKA",
+        "4": "PKA",
+        "5": "Napaskiak",
+        "6": -161.77361,
+        "7": 60.7066667,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Naples Central Railway Station, Italy (INP)",
+        "2": "rail",
+        "3": "INP",
+        "4": "NAP",
+        "5": "Naples",
+        "6": 14.2730556,
+        "7": 40.8522222,
+        "10": "Europe/Rome"
+      }
+    ]
+  }
+}

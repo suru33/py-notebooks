@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Ipota, Vanuatu (IPA)",
+        "2": "airport",
+        "3": "IPA",
+        "4": "IPA",
+        "5": "Ipota",
+        "6": 169.282778,
+        "7": -18.855833,
+        "10": "Pacific/Efate"
+      },
+      {
+        "1": "Ipatinga Usiminas, Brazil (IPN)",
+        "2": "airport",
+        "3": "IPN",
+        "4": "IPN",
+        "5": "Ipatinga",
+        "6": -42.4875,
+        "7": -19.470833,
+        "10": "America/Sao_Paulo"
+      }
+    ]
+  }
+}

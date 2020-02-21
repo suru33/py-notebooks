@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Crooked Creek, AK (CKD)",
+        "2": "airport",
+        "3": "CKD",
+        "4": "CKD",
+        "5": "Crooked Creek",
+        "6": -158.13333,
+        "7": 61.8666667,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Crotone, Italy (CRV)",
+        "2": "airport",
+        "3": "CRV",
+        "4": "CRV",
+        "5": "Crotone",
+        "6": 17.0797222,
+        "7": 38.9991667,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Crooked Island Colonel Hill, Bahamas (CRI)",
+        "2": "airport",
+        "3": "CRI",
+        "4": "CRI",
+        "5": "Crooked Island",
+        "6": -74.182222,
+        "7": 22.7455556,
+        "10": "America/Nassau"
+      },
+      {
+        "1": "Cromarty Dalcross, United Kingdom (CRN)",
+        "2": "airport",
+        "3": "CRN",
+        "4": "CRN",
+        "5": "Cromarty",
+        "6": -4.05,
+        "7": 57.65,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Brainerd Lakes Regional, MN (BRD)",
+        "2": "airport",
+        "3": "BRD",
+        "4": "BRD",
+        "5": "Brainerd",
+        "6": -94.129722,
+        "7": 46.4033333,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

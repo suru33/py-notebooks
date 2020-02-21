@@ -1,0 +1,156 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kingston Norman Manley International, Jamaica (KIN)",
+        "2": "airport",
+        "3": "KIN",
+        "4": "KIN",
+        "5": "Kingston",
+        "6": -76.7875,
+        "7": 17.9355556,
+        "10": "America/Jamaica"
+      },
+      {
+        "1": "King Salmon, AK (AKN)",
+        "2": "airport",
+        "3": "AKN",
+        "4": "AKN",
+        "5": "King Salmon",
+        "6": -156.64917,
+        "7": 58.6766667,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Kinshasa N'djili International, Congo (Zaire) (FIH)",
+        "2": "airport",
+        "3": "FIH",
+        "4": "FIH",
+        "5": "Kinshasa",
+        "6": 15.4444444,
+        "7": -4.3858333,
+        "10": "Africa/Kinshasa"
+      },
+      {
+        "1": "Kinmen Shangyi, Taiwan (KNH)",
+        "2": "airport",
+        "3": "KNH",
+        "4": "KNH",
+        "5": "Kinmen",
+        "6": 118.361667,
+        "7": 24.4297222,
+        "10": "Asia/Taipei"
+      },
+      {
+        "1": "Kindu, Congo (Zaire) (KND)",
+        "2": "airport",
+        "3": "KND",
+        "4": "KND",
+        "5": "Kindu",
+        "6": 25.9152778,
+        "7": -2.9191667,
+        "10": "Africa/Lubumbashi"
+      },
+      {
+        "1": "King Island, Australia (KNS)",
+        "2": "airport",
+        "3": "KNS",
+        "4": "KNS",
+        "5": "King Island",
+        "6": 143.878333,
+        "7": -39.8775,
+        "10": "Australia/Hobart"
+      },
+      {
+        "1": "Jeddah King Abdulaziz International, Saudi Arabia (JED)",
+        "2": "airport",
+        "3": "JED",
+        "4": "JED",
+        "5": "Jeddah",
+        "6": 39.1566667,
+        "7": 21.6794444,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "King Cove, AK (KVC)",
+        "2": "airport",
+        "3": "KVC",
+        "4": "KVC",
+        "5": "King Cove",
+        "6": -162.265,
+        "7": 55.1166667,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Kingscote, Australia (KGC)",
+        "2": "airport",
+        "3": "KGC",
+        "4": "KGC",
+        "5": "Kingscote",
+        "6": 137.525833,
+        "7": -35.715833,
+        "10": "Australia/Adelaide"
+      },
+      {
+        "1": "Kingston Norman Rogers, ON, Canada (YGK)",
+        "2": "airport",
+        "3": "YGK",
+        "4": "YGK",
+        "5": "Kingston",
+        "6": -76.596944,
+        "7": 44.2252778,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Kingston Railway Station, ON, Canada (XEG)",
+        "2": "rail",
+        "3": "XEG",
+        "4": "YGK",
+        "5": "Kingston",
+        "6": -76.536944,
+        "7": 44.2572222,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Sydney Kingsford Smith, Australia (SYD)",
+        "2": "airport",
+        "3": "SYD",
+        "4": "SYD",
+        "5": "Sydney",
+        "6": 151.177222,
+        "7": -33.946111,
+        "10": "Australia/Sydney"
+      },
+      {
+        "1": "Dammam King Fahd International, Saudi Arabia (DMM)",
+        "2": "airport",
+        "3": "DMM",
+        "4": "DMM",
+        "5": "Dammam",
+        "6": 49.7977778,
+        "7": 26.4711111,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "Aqaba King Hussein International, Jordan (AQJ)",
+        "2": "airport",
+        "3": "AQJ",
+        "4": "AQJ",
+        "5": "Aqaba",
+        "6": 35.0180556,
+        "7": 29.6116667,
+        "10": "Asia/Amman"
+      },
+      {
+        "1": "London Kings Cross Railway Station, United Kingdom (QQK)",
+        "2": "rail",
+        "3": "QQK",
+        "4": "LON",
+        "5": "London",
+        "6": -0.1166667,
+        "7": 51.5333333,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

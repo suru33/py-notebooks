@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Rutland Southern Vermont Regional, VT (RUT)",
+        "2": "airport",
+        "3": "RUT",
+        "4": "RUT",
+        "5": "Rutland",
+        "6": -72.949722,
+        "7": 43.5294444,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Ruteng Frans Sales Lega, Indonesia (RTG)",
+        "2": "airport",
+        "3": "RTG",
+        "4": "RTG",
+        "5": "Ruteng",
+        "6": 120.478056,
+        "7": -8.5961111,
+        "10": "Asia/Makassar"
+      }
+    ]
+  }
+}

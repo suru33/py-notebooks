@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Veracruz Heriberto Jara International, Mexico (VER)",
+        "2": "airport",
+        "3": "VER",
+        "4": "VER",
+        "5": "Veracruz",
+        "6": -96.187222,
+        "7": 19.1458333,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Verona, Italy - All airports",
+        "2": "city",
+        "3": "VRN",
+        "4": "VRN",
+        "5": "Verona",
+        "6": 10.881442589565419,
+        "7": 45.41442835020068,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Verona Villafranca, Italy (VRN)",
+        "2": "airport",
+        "3": "VRN",
+        "4": "VRN",
+        "5": "Verona",
+        "6": 10.8880556,
+        "7": 45.3963889,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Vernal Regional, UT (VEL)",
+        "2": "airport",
+        "3": "VEL",
+        "4": "VEL",
+        "5": "Vernal",
+        "6": -109.51083,
+        "7": 40.4433333,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Vero Beach Municipal, FL (VRB)",
+        "2": "airport",
+        "3": "VRB",
+        "4": "VRB",
+        "5": "Vero Beach",
+        "6": -80.418056,
+        "7": 27.6555556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Verkhnevilyuysk, Russia (VHV)",
+        "2": "airport",
+        "3": "VHV",
+        "4": "VHV",
+        "5": "Verkhnevilyuysk",
+        "6": 120.268611,
+        "7": 63.4588889,
+        "10": "Asia/Yakutsk"
+      },
+      {
+        "1": "Verona Brescia/Montichiari, Italy (VBS)",
+        "2": "airport",
+        "3": "VBS",
+        "4": "VRN",
+        "5": "Verona",
+        "6": 10.3305556,
+        "7": 45.4288889,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Verona Porta Nuova Railway Station, Italy (XIX)",
+        "2": "rail",
+        "3": "XIX",
+        "4": "VRN",
+        "5": "Verona",
+        "6": 11.0,
+        "7": 45.45,
+        "10": "Europe/Rome"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Ningbo Lishe International, China (NGB)",
+        "2": "airport",
+        "3": "NGB",
+        "4": "NGB",
+        "5": "Ningbo",
+        "6": 121.461944,
+        "7": 29.8266667,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Ninglang Luguhu, China (NLH)",
+        "2": "airport",
+        "3": "NLH",
+        "4": "NLH",
+        "5": "Ninglang",
+        "6": 100.759167,
+        "7": 27.5402778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Manila Ninoy Aquino International, Philippines (MNL)",
+        "2": "airport",
+        "3": "MNL",
+        "4": "MNL",
+        "5": "Manila",
+        "6": 121.019444,
+        "7": 14.5086111,
+        "10": "Asia/Manila"
+      }
+    ]
+  }
+}

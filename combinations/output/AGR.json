@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Agra, India (AGR)",
+        "2": "airport",
+        "3": "AGR",
+        "4": "AGR",
+        "5": "Agra",
+        "6": 77.9608333,
+        "7": 27.1558333,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Agri, Turkey (AJI)",
+        "2": "airport",
+        "3": "AJI",
+        "4": "AJI",
+        "5": "Agri",
+        "6": 43.0263889,
+        "7": 39.6538889,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Camaguey Ignacio Agramonte International, Cuba (CMW)",
+        "2": "airport",
+        "3": "CMW",
+        "4": "CMW",
+        "5": "Camaguey",
+        "6": -77.8475,
+        "7": 21.4202778,
+        "10": "America/Havana"
+      }
+    ]
+  }
+}

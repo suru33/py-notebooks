@@ -1,0 +1,116 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Campbeltown, United Kingdom (CAL)",
+        "2": "airport",
+        "3": "CAL",
+        "4": "CAL",
+        "5": "Campbeltown",
+        "6": -5.6863889,
+        "7": 55.4372222,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Calgary International, AB, Canada (YYC)",
+        "2": "airport",
+        "3": "YYC",
+        "4": "YYC",
+        "5": "Calgary",
+        "6": -114.02028,
+        "7": 51.1138889,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "Cali Alfonso B. Aragon International, Colombia (CLO)",
+        "2": "airport",
+        "3": "CLO",
+        "4": "CLO",
+        "5": "Cali",
+        "6": -76.381667,
+        "7": 3.54333333,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Calvi Ste Catherine, France (CLY)",
+        "2": "airport",
+        "3": "CLY",
+        "4": "CLY",
+        "5": "Calvi",
+        "6": 8.79305556,
+        "7": 42.5202778,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Calama El Loa, Chile (CJC)",
+        "2": "airport",
+        "3": "CJC",
+        "4": "CJC",
+        "5": "Calama",
+        "6": -68.908056,
+        "7": -22.498056,
+        "10": "America/Santiago"
+      },
+      {
+        "1": "Caldas Novas Nelson R. Guimaraes, Brazil (CLV)",
+        "2": "airport",
+        "3": "CLV",
+        "4": "CLV",
+        "5": "Caldas Novas",
+        "6": -48.61,
+        "7": -17.724722,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Caldwell Essex County, NJ (CDW)",
+        "2": "airport",
+        "3": "CDW",
+        "4": "CDW",
+        "5": "Caldwell",
+        "6": -74.280833,
+        "7": 40.8752778,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Calbayog, Philippines (CYP)",
+        "2": "airport",
+        "3": "CYP",
+        "4": "CYP",
+        "5": "Calbayog",
+        "6": 124.545,
+        "7": 12.0727778,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Calabar Margaret Ekpo International, Nigeria (CBQ)",
+        "2": "airport",
+        "3": "CBQ",
+        "4": "CBQ",
+        "5": "Calabar",
+        "6": 8.34722222,
+        "7": 4.97611111,
+        "10": "Africa/Lagos"
+      },
+      {
+        "1": "Calais/Dunkerque Calais-Frethun Railway St, France (XFF)",
+        "2": "rail",
+        "3": "XFF",
+        "4": "CQF",
+        "5": "Calais",
+        "6": 1.81138889,
+        "7": 50.9016667,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Tanana Ralph M. Calhoun Mem., AK (TAL)",
+        "2": "airport",
+        "3": "TAL",
+        "4": "TAL",
+        "5": "Tanana",
+        "6": -152.10667,
+        "7": 65.1747222,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

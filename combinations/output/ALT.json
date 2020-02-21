@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Altay, China (AAT)",
+        "2": "airport",
+        "3": "AAT",
+        "4": "AAT",
+        "5": "Altay",
+        "6": 88.0858333,
+        "7": 47.7505556,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Alta, Norway (ALF)",
+        "2": "airport",
+        "3": "ALF",
+        "4": "ALF",
+        "5": "Alta",
+        "6": 23.3716667,
+        "7": 69.9761111,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Altoona Blair County, PA (AOO)",
+        "2": "airport",
+        "3": "AOO",
+        "4": "AOO",
+        "5": "Altoona",
+        "6": -78.32,
+        "7": 40.2963889,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Altai, Mongolia (LTI)",
+        "2": "airport",
+        "3": "LTI",
+        "4": "LTI",
+        "5": "Altai",
+        "6": 96.2219444,
+        "7": 46.3766667,
+        "10": "Asia/Ulaanbaatar"
+      },
+      {
+        "1": "Alta Floresta Oswaldo Marques Dias, Brazil (AFL)",
+        "2": "airport",
+        "3": "AFL",
+        "4": "AFL",
+        "5": "Alta Floresta",
+        "6": -56.106111,
+        "7": -9.8661111,
+        "10": "America/Cuiaba"
+      },
+      {
+        "1": "Altamira, Brazil (ATM)",
+        "2": "airport",
+        "3": "ATM",
+        "4": "ATM",
+        "5": "Altamira",
+        "6": -52.253889,
+        "7": -3.2538889,
+        "10": "America/Belem"
+      }
+    ]
+  }
+}

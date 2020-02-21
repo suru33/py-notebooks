@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Wainwright, AK (AIN)",
+        "2": "airport",
+        "3": "AIN",
+        "4": "AIN",
+        "5": "Wainwright",
+        "6": -159.86694,
+        "7": 70.6136111,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Waingapu Umbu Mehang Kunda, Indonesia (WGP)",
+        "2": "airport",
+        "3": "WGP",
+        "4": "WGP",
+        "5": "Waingapu",
+        "6": 120.301944,
+        "7": -9.6691667,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Waisai Marinda, Indonesia (RJM)",
+        "2": "airport",
+        "3": "RJM",
+        "4": "RJM",
+        "5": "Waisai",
+        "6": 130.642222,
+        "7": -0.26,
+        "10": "Asia/Jayapura"
+      },
+      {
+        "1": "Maumere Fransiskus X. Seda, Indonesia (MOF)",
+        "2": "airport",
+        "3": "MOF",
+        "4": "MOF",
+        "5": "Maumere",
+        "6": 122.236944,
+        "7": -8.6405556,
+        "10": "Asia/Makassar"
+      }
+    ]
+  }
+}

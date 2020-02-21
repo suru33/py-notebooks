@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Terney, Russia (NEI)",
+        "2": "airport",
+        "3": "NEI",
+        "4": "NEI",
+        "5": "Terney",
+        "6": 136.590556,
+        "7": 45.0830556,
+        "10": "Asia/Vladivostok"
+      },
+      {
+        "1": "Neiva Benito Salas, Colombia (NVA)",
+        "2": "airport",
+        "3": "NVA",
+        "4": "NVA",
+        "5": "Neiva",
+        "6": -75.293889,
+        "7": 2.95027778,
+        "10": "America/Bogota"
+      }
+    ]
+  }
+}

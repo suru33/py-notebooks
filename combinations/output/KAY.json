@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kayseri Erkilet, Turkey (ASR)",
+        "2": "airport",
+        "3": "ASR",
+        "4": "ASR",
+        "5": "Kayseri",
+        "6": 35.4955556,
+        "7": 38.7702778,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Kigali International, Rwanda (KGL)",
+        "2": "airport",
+        "3": "KGL",
+        "4": "KGL",
+        "5": "Kigali",
+        "6": 30.1394444,
+        "7": -1.9686111,
+        "10": "Africa/Kigali"
+      }
+    ]
+  }
+}

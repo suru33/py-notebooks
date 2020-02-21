@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Johannesburg, South Africa - All airports",
+        "2": "city",
+        "3": "JNB",
+        "4": "JNB",
+        "5": "Johannesburg",
+        "6": 28.19573765574505,
+        "7": -26.10759607348126,
+        "10": "Africa/Johannesburg"
+      },
+      {
+        "1": "Johannesburg O.R. Tambo International, South Africa (JNB)",
+        "2": "airport",
+        "3": "JNB",
+        "4": "JNB",
+        "5": "Johannesburg",
+        "6": 28.2461111,
+        "7": -26.139167,
+        "10": "Africa/Johannesburg"
+      }
+    ]
+  }
+}

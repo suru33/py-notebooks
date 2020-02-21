@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Xining Caojiabao, China (XNN)",
+        "2": "airport",
+        "3": "XNN",
+        "4": "XNN",
+        "5": "Xining",
+        "6": 102.040278,
+        "7": 36.5286111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Xinzhou Wutaishan, China (WUT)",
+        "2": "airport",
+        "3": "WUT",
+        "4": "WUT",
+        "5": "Xinzhou",
+        "6": 112.969444,
+        "7": 38.5977778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Xingyi, China (ACX)",
+        "2": "airport",
+        "3": "ACX",
+        "4": "ACX",
+        "5": "Xingyi",
+        "6": 104.959444,
+        "7": 25.0855556,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Xinyang Minggang, China (XAI)",
+        "2": "airport",
+        "3": "XAI",
+        "4": "XAI",
+        "5": "Xinyang",
+        "6": 114.078889,
+        "7": 32.5405556,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Xinyuan Nalati, China (NLT)",
+        "2": "airport",
+        "3": "NLT",
+        "4": "NLT",
+        "5": "Xinyuan City",
+        "6": 83.3822222,
+        "7": 43.4322222,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Xinyang East Railway Station, China (XYW)",
+        "2": "rail",
+        "3": "XYW",
+        "4": "XAI",
+        "5": "Xinyang",
+        "6": 114.175556,
+        "7": 32.1238889,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

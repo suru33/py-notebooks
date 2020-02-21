@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Faaite, French Polynesia (FAC)",
+        "2": "airport",
+        "3": "FAC",
+        "4": "FAC",
+        "5": "Faaite Island",
+        "6": -145.32972,
+        "7": -16.686667,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Tahiti Faaa, French Polynesia (PPT)",
+        "2": "airport",
+        "3": "PPT",
+        "4": "PPT",
+        "5": "Papeete",
+        "6": -149.60722,
+        "7": -17.553889,
+        "10": "Pacific/Tahiti"
+      }
+    ]
+  }
+}

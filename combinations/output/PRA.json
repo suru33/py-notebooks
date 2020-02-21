@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Parana General Urquiza, Argentina (PRA)",
+        "2": "airport",
+        "3": "PRA",
+        "4": "PRA",
+        "5": "Parana",
+        "6": -60.481111,
+        "7": -31.793611,
+        "10": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "1": "Prague Ruzyne, Czech Republic (PRG)",
+        "2": "airport",
+        "3": "PRG",
+        "4": "PRG",
+        "5": "Prague",
+        "6": 14.26,
+        "7": 50.1008333,
+        "10": "Europe/Prague"
+      },
+      {
+        "1": "Praia International, Cape Verde (RAI)",
+        "2": "airport",
+        "3": "RAI",
+        "4": "RAI",
+        "5": "Praia",
+        "6": -23.484722,
+        "7": 14.9413889,
+        "10": "Atlantic/Cape_Verde"
+      },
+      {
+        "1": "Praya Lombok International, Indonesia (LOP)",
+        "2": "airport",
+        "3": "LOP",
+        "4": "LOP",
+        "5": "Praya",
+        "6": 116.276667,
+        "7": -8.7572222,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Praslin Island, Seychelles (PRI)",
+        "2": "airport",
+        "3": "PRI",
+        "4": "PRI",
+        "5": "Praslin Island",
+        "6": 55.6913889,
+        "7": -4.3191667,
+        "10": "Indian/Mahe"
+      },
+      {
+        "1": "Prague Main Railway Station, Czech Republic (XYG)",
+        "2": "rail",
+        "3": "XYG",
+        "4": "PRG",
+        "5": "Prague",
+        "6": 14.4666667,
+        "7": 50.0833333,
+        "10": "Europe/Prague"
+      }
+    ]
+  }
+}

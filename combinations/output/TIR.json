@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tirupati, India (TIR)",
+        "2": "airport",
+        "3": "TIR",
+        "4": "TIR",
+        "5": "Tirupati",
+        "6": 79.5433333,
+        "7": 13.6325,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Tirana Nene Tereza International, Albania (TIA)",
+        "2": "airport",
+        "3": "TIA",
+        "4": "TIA",
+        "5": "Tirana",
+        "6": 19.7208333,
+        "7": 41.415,
+        "10": "Europe/Tirane"
+      },
+      {
+        "1": "Tiruchchirappalli, India (TRZ)",
+        "2": "airport",
+        "3": "TRZ",
+        "4": "TRZ",
+        "5": "Tiruchirapally",
+        "6": 78.7097222,
+        "7": 10.7652778,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Tiree, United Kingdom (TRE)",
+        "2": "airport",
+        "3": "TRE",
+        "4": "TRE",
+        "5": "Tiree",
+        "6": -6.8691667,
+        "7": 56.4991667,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Tirana Bus Station, Albania (TFA)",
+        "2": "bus",
+        "3": "TFA",
+        "4": "TIA",
+        "5": "Tirana",
+        "6": 19.8022222,
+        "7": 41.3338889,
+        "10": "Europe/Tirane"
+      },
+      {
+        "1": "Aarhus, Denmark (AAR)",
+        "2": "airport",
+        "3": "AAR",
+        "4": "AAR",
+        "5": "Aarhus",
+        "6": 10.6194444,
+        "7": 56.3038889,
+        "10": "Europe/Copenhagen"
+      }
+    ]
+  }
+}

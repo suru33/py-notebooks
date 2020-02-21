@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Ulaanbaatar Chinggis Khaan International, Mongolia (ULN)",
+        "2": "airport",
+        "3": "ULN",
+        "4": "ULN",
+        "5": "Ulaanbaatar",
+        "6": 106.766667,
+        "7": 47.8430556,
+        "10": "Asia/Ulaanbaatar"
+      },
+      {
+        "1": "Ulan-Ude Mukhino, Russia (UUD)",
+        "2": "airport",
+        "3": "UUD",
+        "4": "UUD",
+        "5": "Ulan-Ude",
+        "6": 107.437778,
+        "7": 51.8077778,
+        "10": "Asia/Irkutsk"
+      },
+      {
+        "1": "Ulanhot, China (HLH)",
+        "2": "airport",
+        "3": "HLH",
+        "4": "HLH",
+        "5": "Ulanhot",
+        "6": 122.008333,
+        "7": 46.1947222,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Ulanqab, China (UCB)",
+        "2": "airport",
+        "3": "UCB",
+        "4": "UCB",
+        "5": "Ulanqab",
+        "6": 113.109444,
+        "7": 41.13,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Ulaangom, Mongolia (ULO)",
+        "2": "airport",
+        "3": "ULO",
+        "4": "ULO",
+        "5": "Ulaangom",
+        "6": 92.0811111,
+        "7": 49.9705556,
+        "10": "Asia/Ulaanbaatar"
+      },
+      {
+        "1": "Arona Ulawa, Solomon Islands (RNA)",
+        "2": "airport",
+        "3": "RNA",
+        "4": "RNA",
+        "5": "Arona",
+        "6": 161.979722,
+        "7": -9.8608333,
+        "10": "Pacific/Guadalcanal"
+      }
+    ]
+  }
+}

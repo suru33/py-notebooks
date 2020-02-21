@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sorong Domine Eduard Osok, Indonesia (SOQ)",
+        "2": "airport",
+        "3": "SOQ",
+        "4": "SOQ",
+        "5": "Sorong",
+        "6": 131.121111,
+        "7": -0.9263889,
+        "10": "Asia/Jayapura"
+      },
+      {
+        "1": "Sorkjosen, Norway (SOJ)",
+        "2": "airport",
+        "3": "SOJ",
+        "4": "SOJ",
+        "5": "Sorkjosen",
+        "6": 20.9594444,
+        "7": 69.7869444,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Sorriso, Brazil (SMT)",
+        "2": "airport",
+        "3": "SMT",
+        "4": "SMT",
+        "5": "Sorriso",
+        "6": -55.672778,
+        "7": -12.479444,
+        "10": "America/Cuiaba"
+      },
+      {
+        "1": "Soria Bus Station, Spain (XJO)",
+        "2": "bus",
+        "3": "XJO",
+        "4": "XJO",
+        "5": "Soria",
+        "6": -2.4794444,
+        "7": 41.7669444,
+        "10": "Europe/Madrid"
+      }
+    ]
+  }
+}

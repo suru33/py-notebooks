@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Hailey/Sun Valley Friedman Memorial, ID (SUN)",
+        "2": "airport",
+        "3": "SUN",
+        "4": "SUN",
+        "5": "Sun Valley",
+        "6": -114.29722,
+        "7": 43.5055556,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Sundsvall/Harnosand Sundsvall-Timra, Sweden (SDL)",
+        "2": "airport",
+        "3": "SDL",
+        "4": "SDL",
+        "5": "Sundsvall",
+        "6": 17.4438889,
+        "7": 62.5280556,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Sunshine Coast Maroochydore, Australia (MCY)",
+        "2": "airport",
+        "3": "MCY",
+        "4": "MCY",
+        "5": "Sunshine Coast",
+        "6": 153.091111,
+        "7": -26.603333,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Suntar, Russia (SUY)",
+        "2": "airport",
+        "3": "SUY",
+        "4": "SUY",
+        "5": "Suntar",
+        "6": 117.635,
+        "7": 62.185,
+        "10": "Asia/Yakutsk"
+      },
+      {
+        "1": "Sundsvall/Harnosand Sundsvall C Railway Station, Sweden (XXZ)",
+        "2": "rail",
+        "3": "XXZ",
+        "4": "SDL",
+        "5": "Sundsvall",
+        "6": 17.3161111,
+        "7": 62.3866667,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Taipei Songshan, Taiwan (TSA)",
+        "2": "airport",
+        "3": "TSA",
+        "4": "TPE",
+        "5": "Taipei",
+        "6": 121.5525,
+        "7": 25.0697222,
+        "10": "Asia/Taipei"
+      },
+      {
+        "1": "Pyongyang Sunan International, North Korea (FNJ)",
+        "2": "airport",
+        "3": "FNJ",
+        "4": "FNJ",
+        "5": "Pyongyang",
+        "6": 125.67,
+        "7": 39.2236111,
+        "10": "Asia/Pyongyang"
+      }
+    ]
+  }
+}

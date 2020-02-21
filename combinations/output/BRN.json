@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bern Belp, Switzerland (BRN)",
+        "2": "airport",
+        "3": "BRN",
+        "4": "BRN",
+        "5": "Berne",
+        "6": 7.49722222,
+        "7": 46.9141667,
+        "10": "Europe/Zurich"
+      },
+      {
+        "1": "Brno Turany, Czech Republic (BRQ)",
+        "2": "airport",
+        "3": "BRQ",
+        "4": "BRQ",
+        "5": "Brno",
+        "6": 16.6944444,
+        "7": 49.1513889,
+        "10": "Europe/Prague"
+      },
+      {
+        "1": "Brno Railway Station, Czech Republic (ZDN)",
+        "2": "rail",
+        "3": "ZDN",
+        "4": "BRQ",
+        "5": "Brno",
+        "6": 16.6127778,
+        "7": 49.1905556,
+        "10": "Europe/Prague"
+      },
+      {
+        "1": "Ljubljana Joze Pucnik, Slovenia (LJU)",
+        "2": "airport",
+        "3": "LJU",
+        "4": "LJU",
+        "5": "Ljubljana",
+        "6": 14.4575,
+        "7": 46.2236111,
+        "10": "Europe/Ljubljana"
+      }
+    ]
+  }
+}

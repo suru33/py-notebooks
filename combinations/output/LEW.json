@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lewisburg Greenbrier Valley, WV (LWB)",
+        "2": "airport",
+        "3": "LWB",
+        "4": "LWB",
+        "5": "Lewisburg",
+        "6": -80.401944,
+        "7": 37.8561111,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Lewiston Nez Perce County, ID (LWS)",
+        "2": "airport",
+        "3": "LWS",
+        "4": "LWS",
+        "5": "Lewiston",
+        "6": -117.01361,
+        "7": 46.3755556,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Lewoleba Wunopito, Indonesia (LWE)",
+        "2": "airport",
+        "3": "LWE",
+        "4": "LWE",
+        "5": "Lewoleba",
+        "6": 123.438611,
+        "7": -8.3619444,
+        "10": "Asia/Makassar"
+      }
+    ]
+  }
+}

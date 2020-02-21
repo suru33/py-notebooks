@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tokyo, Japan - All airports",
+        "2": "city",
+        "3": "TYO",
+        "4": "TYO",
+        "5": "Tokyo",
+        "6": 140.1341290570828,
+        "7": 35.676361966346434,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Tokyo Narita International, Japan (NRT)",
+        "2": "airport",
+        "3": "NRT",
+        "4": "TYO",
+        "5": "Tokyo",
+        "6": 140.386389,
+        "7": 35.7647222,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Tokyo International (Haneda), Japan (HND)",
+        "2": "airport",
+        "3": "HND",
+        "4": "TYO",
+        "5": "Tokyo",
+        "6": 139.779722,
+        "7": 35.5522222,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Tok Junction, AK (TKJ)",
+        "2": "airport",
+        "3": "TKJ",
+        "4": "TKJ",
+        "5": "Tok",
+        "6": -142.95444,
+        "7": 63.3297222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Toksook Bay, AK (OOK)",
+        "2": "airport",
+        "3": "OOK",
+        "4": "OOK",
+        "5": "Toksook Bay",
+        "6": -165.0875,
+        "7": 60.5411111,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Tokushima, Japan (TKS)",
+        "2": "airport",
+        "3": "TKS",
+        "4": "TKS",
+        "5": "Tokushima",
+        "6": 134.606667,
+        "7": 34.1327778,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Tokunoshima, Japan (TKN)",
+        "2": "airport",
+        "3": "TKN",
+        "4": "TKN",
+        "5": "Tokunoshima",
+        "6": 128.881389,
+        "7": 27.8363889,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Rabaul Tokua, Papua New Guinea (RAB)",
+        "2": "airport",
+        "3": "RAB",
+        "4": "RAB",
+        "5": "Rabaul",
+        "6": 152.377222,
+        "7": -4.34,
+        "10": "Pacific/Port_Moresby"
+      }
+    ]
+  }
+}

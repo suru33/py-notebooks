@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lille Lesquin, France (LIL)",
+        "2": "airport",
+        "3": "LIL",
+        "4": "LIL",
+        "5": "Lille",
+        "6": 3.08694444,
+        "7": 50.5633333,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Lilongwe Kamuzu International, Malawi (LLW)",
+        "2": "airport",
+        "3": "LLW",
+        "4": "LLW",
+        "5": "Lilongwe",
+        "6": 33.7811111,
+        "7": -13.789444,
+        "10": "Africa/Blantyre"
+      },
+      {
+        "1": "Lilabari, India (IXI)",
+        "2": "airport",
+        "3": "IXI",
+        "4": "IXI",
+        "5": "Lilabari",
+        "6": 94.0963889,
+        "7": 27.2944444,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Lille Europe Railway Station, France (XDB)",
+        "2": "rail",
+        "3": "XDB",
+        "4": "LIL",
+        "5": "Lille",
+        "6": 3.07611111,
+        "7": 50.6388889,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kirksville Regional, MO (IRK)",
+        "2": "airport",
+        "3": "IRK",
+        "4": "IRK",
+        "5": "Kirksville",
+        "6": -92.544444,
+        "7": 40.0936111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Irkutsk, Russia (IKT)",
+        "2": "airport",
+        "3": "IKT",
+        "4": "IKT",
+        "5": "Irkutsk",
+        "6": 104.388889,
+        "7": 52.2680556,
+        "10": "Asia/Irkutsk"
+      }
+    ]
+  }
+}

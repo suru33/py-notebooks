@@ -1,0 +1,256 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Paris, France - All airports",
+        "2": "city",
+        "3": "PAR",
+        "4": "PAR",
+        "5": "Paris",
+        "6": 2.5108688868723874,
+        "7": 48.938465835757945,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Paris Charles de Gaulle, France (CDG)",
+        "2": "airport",
+        "3": "CDG",
+        "4": "PAR",
+        "5": "Paris",
+        "6": 2.54777778,
+        "7": 49.0097222,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Paris Orly, France (ORY)",
+        "2": "airport",
+        "3": "ORY",
+        "4": "PAR",
+        "5": "Paris",
+        "6": 2.37944444,
+        "7": 48.7233333,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Paris Beauvais-Tille, France (BVA)",
+        "2": "airport",
+        "3": "BVA",
+        "4": "PAR",
+        "5": "Paris",
+        "6": 2.11277778,
+        "7": 49.4544444,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Paro International, Bhutan (PBH)",
+        "2": "airport",
+        "3": "PBH",
+        "4": "PBH",
+        "5": "Paro",
+        "6": 89.4247222,
+        "7": 27.4030556,
+        "10": "Asia/Thimphu"
+      },
+      {
+        "1": "Paramaribo Johan A. Pengel International, Suriname (PBM)",
+        "2": "airport",
+        "3": "PBM",
+        "4": "PBM",
+        "5": "Paramaribo",
+        "6": -55.187778,
+        "7": 5.45277778,
+        "10": "America/Paramaribo"
+      },
+      {
+        "1": "Pardubice, Czech Republic (PED)",
+        "2": "airport",
+        "3": "PED",
+        "4": "PED",
+        "5": "Pardubice",
+        "6": 15.7386111,
+        "7": 50.0133333,
+        "10": "Europe/Prague"
+      },
+      {
+        "1": "Parkersburg Mid-Ohio Valley Regional, WV (PKB)",
+        "2": "airport",
+        "3": "PKB",
+        "4": "PKB",
+        "5": "Parkersburg/Marietta",
+        "6": -81.439167,
+        "7": 39.345,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Paris Chalons-Vatry, France (XCR)",
+        "2": "airport",
+        "3": "XCR",
+        "4": "PAR",
+        "5": "Paris",
+        "6": 4.20611111,
+        "7": 48.7733333,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Parauapebas Carajas, Brazil (CKS)",
+        "2": "airport",
+        "3": "CKS",
+        "4": "CKS",
+        "5": "Carajas",
+        "6": -50.003611,
+        "7": -6.1177778,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Paraparaumu Kapiti Coast, New Zealand (PPQ)",
+        "2": "airport",
+        "3": "PPQ",
+        "4": "PPQ",
+        "5": "Paraparaumu",
+        "6": 174.988056,
+        "7": -40.901111,
+        "10": "Pacific/Auckland"
+      },
+      {
+        "1": "Parasi, Solomon Islands (PRS)",
+        "2": "airport",
+        "3": "PRS",
+        "4": "PRS",
+        "5": "Parasi",
+        "6": 161.425833,
+        "7": -9.6419444,
+        "10": "Pacific/Guadalcanal"
+      },
+      {
+        "1": "Parkes, Australia (PKE)",
+        "2": "airport",
+        "3": "PKE",
+        "4": "PKE",
+        "5": "Parkes",
+        "6": 148.239167,
+        "7": -33.131389,
+        "10": "Australia/Sydney"
+      },
+      {
+        "1": "Parnaiba Joao Silva Filho International, Brazil (PHB)",
+        "2": "airport",
+        "3": "PHB",
+        "4": "PHB",
+        "5": "Parnaiba",
+        "6": -41.731111,
+        "7": -2.8933333,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Paros, Greece (PAS)",
+        "2": "airport",
+        "3": "PAS",
+        "4": "PAS",
+        "5": "Paros",
+        "6": 25.1286111,
+        "7": 37.0102778,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Paraburdoo, Australia (PBO)",
+        "2": "airport",
+        "3": "PBO",
+        "4": "PBO",
+        "5": "Paraburdoo",
+        "6": 117.746667,
+        "7": -23.171944,
+        "10": "Australia/Perth"
+      },
+      {
+        "1": "Parana General Urquiza, Argentina (PRA)",
+        "2": "airport",
+        "3": "PRA",
+        "4": "PRA",
+        "5": "Parana",
+        "6": -60.481111,
+        "7": -31.793611,
+        "10": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "1": "Parsabad Moghan, Iran (PFQ)",
+        "2": "airport",
+        "3": "PFQ",
+        "4": "PFQ",
+        "5": "Parsabad",
+        "6": 47.8763889,
+        "7": 39.6058333,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Paris Massy TGV Railway Station, France (XJY)",
+        "2": "rail",
+        "3": "XJY",
+        "4": "PAR",
+        "5": "Paris",
+        "6": 2.26055556,
+        "7": 48.725,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Paris Gare du Nord Railway Station, France (XPG)",
+        "2": "rail",
+        "3": "XPG",
+        "4": "PAR",
+        "5": "Paris",
+        "6": 2.35527778,
+        "7": 48.8808333,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Disneyland Paris Marne/Chessy Railway Station, France (XED)",
+        "2": "rail",
+        "3": "XED",
+        "4": "PAR",
+        "5": "Paris",
+        "6": 2.78277778,
+        "7": 48.8697222,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Par Railway Station, United Kingdom (PCW)",
+        "2": "rail",
+        "3": "PCW",
+        "4": "PCW",
+        "5": "Par",
+        "6": -4.7044444,
+        "7": 50.3561111,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Biarritz Pays Basque, France (BIQ)",
+        "2": "airport",
+        "3": "BIQ",
+        "4": "BIQ",
+        "5": "Biarritz",
+        "6": -1.5311111,
+        "7": 43.4683333,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Milan Parma, Italy (PMF)",
+        "2": "airport",
+        "3": "PMF",
+        "4": "MIL",
+        "5": "Milan",
+        "6": 10.2952778,
+        "7": 44.8222222,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Lyon Part-Dieu Railway Station, France (XYD)",
+        "2": "rail",
+        "3": "XYD",
+        "4": "LYS",
+        "5": "Lyon",
+        "6": 4.85944444,
+        "7": 45.7605556,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

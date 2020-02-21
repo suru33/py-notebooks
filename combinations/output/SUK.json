@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sakkyryr, Russia (SUK)",
+        "2": "airport",
+        "3": "SUK",
+        "4": "SUK",
+        "5": "Sakkyryr",
+        "6": 130.3925,
+        "7": 67.7922222,
+        "10": "Asia/Yakutsk"
+      },
+      {
+        "1": "Sukkur, Pakistan (SKZ)",
+        "2": "airport",
+        "3": "SKZ",
+        "4": "SKZ",
+        "5": "Sukkur",
+        "6": 68.7930556,
+        "7": 27.7213889,
+        "10": "Asia/Karachi"
+      },
+      {
+        "1": "Sukhothai, Thailand (THS)",
+        "2": "airport",
+        "3": "THS",
+        "4": "THS",
+        "5": "Sukhothai",
+        "6": 99.8183333,
+        "7": 17.2377778,
+        "10": "Asia/Bangkok"
+      }
+    ]
+  }
+}

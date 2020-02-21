@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "El Oued Guemar, Algeria (ELU)",
+        "2": "airport",
+        "3": "ELU",
+        "4": "ELU",
+        "5": "El Oued",
+        "6": 6.78277778,
+        "7": 33.5127778,
+        "10": "Africa/Algiers"
+      },
+      {
+        "1": "El Obeid, Sudan (EBD)",
+        "2": "airport",
+        "3": "EBD",
+        "4": "EBD",
+        "5": "El Obeid",
+        "6": 30.2327778,
+        "7": 13.1527778,
+        "10": "Africa/Khartoum"
+      }
+    ]
+  }
+}

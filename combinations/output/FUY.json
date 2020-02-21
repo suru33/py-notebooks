@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Fuyang Xiguan, China (FUG)",
+        "2": "airport",
+        "3": "FUG",
+        "4": "FUG",
+        "5": "Fuyang",
+        "6": 115.733611,
+        "7": 32.8808333,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Fuyuan, China (FYJ)",
+        "2": "airport",
+        "3": "FYJ",
+        "4": "FYJ",
+        "5": "Fuyuan",
+        "6": 134.364444,
+        "7": 48.1977778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Fuyun, China (FYN)",
+        "2": "airport",
+        "3": "FYN",
+        "4": "FYN",
+        "5": "Fuyun",
+        "6": 89.5575,
+        "7": 46.7980556,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

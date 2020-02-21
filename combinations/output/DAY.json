@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dayton James M. Cox International, OH (DAY)",
+        "2": "airport",
+        "3": "DAY",
+        "4": "DAY",
+        "5": "Dayton",
+        "6": -84.219444,
+        "7": 39.9025,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Daytona Beach International, FL (DAB)",
+        "2": "airport",
+        "3": "DAB",
+        "4": "DAB",
+        "5": "Daytona Beach",
+        "6": -81.058056,
+        "7": 29.18,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

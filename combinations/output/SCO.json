@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Aktau, Kazakhstan (SCO)",
+        "2": "airport",
+        "3": "SCO",
+        "4": "SCO",
+        "5": "Aktau",
+        "6": 51.0919444,
+        "7": 43.86,
+        "10": "Asia/Aqtau"
+      },
+      {
+        "1": "Scottsbluff Western Nebraska Regional, NE (BFF)",
+        "2": "airport",
+        "3": "BFF",
+        "4": "BFF",
+        "5": "Scottsbluff",
+        "6": -103.59556,
+        "7": 41.8741667,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

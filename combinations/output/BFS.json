@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Belfast, United Kingdom - All airports",
+        "2": "city",
+        "3": "BFS",
+        "4": "BFS",
+        "5": "Belfast",
+        "6": -6.0857081710538035,
+        "7": 54.642550364656714,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Belfast International, United Kingdom (BFS)",
+        "2": "airport",
+        "3": "BFS",
+        "4": "BFS",
+        "5": "Belfast",
+        "6": -6.2158333,
+        "7": 54.6575,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

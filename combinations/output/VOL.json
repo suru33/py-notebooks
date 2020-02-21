@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Volos Nea Anchialos, Greece (VOL)",
+        "2": "airport",
+        "3": "VOL",
+        "4": "VOL",
+        "5": "Volos",
+        "6": 22.7944444,
+        "7": 39.2197222,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Volgograd Gumrak, Russia (VOG)",
+        "2": "airport",
+        "3": "VOG",
+        "4": "VOG",
+        "5": "Volgograd",
+        "6": 44.3455556,
+        "7": 48.7825,
+        "10": "Europe/Samara"
+      }
+    ]
+  }
+}

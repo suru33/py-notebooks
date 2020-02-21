@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Arviat, NU, Canada (YEK)",
+        "2": "airport",
+        "3": "YEK",
+        "4": "YEK",
+        "5": "Arviat",
+        "6": -94.070833,
+        "7": 61.0941667,
+        "10": "America/Rainy_River"
+      },
+      {
+        "1": "Yekaterinburg Koltsovo, Russia (SVX)",
+        "2": "airport",
+        "3": "SVX",
+        "4": "SVX",
+        "5": "Yekaterinburg",
+        "6": 60.8027778,
+        "7": 56.7430556,
+        "10": "Asia/Yekaterinburg"
+      }
+    ]
+  }
+}

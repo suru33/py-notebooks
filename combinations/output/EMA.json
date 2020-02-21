@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Nottingham East Midlands, United Kingdom (EMA)",
+        "2": "airport",
+        "3": "EMA",
+        "4": "NQT",
+        "5": "Nottingham",
+        "6": -1.3280556,
+        "7": 52.8311111,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Emae Island Siwo, Vanuatu (EAE)",
+        "2": "airport",
+        "3": "EAE",
+        "4": "EAE",
+        "5": "Emae",
+        "6": 168.341667,
+        "7": -17.088056,
+        "10": "Pacific/Efate"
+      }
+    ]
+  }
+}

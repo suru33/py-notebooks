@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Leknes, Norway (LKN)",
+        "2": "airport",
+        "3": "LKN",
+        "4": "LKN",
+        "5": "Leknes",
+        "6": 13.6119444,
+        "7": 68.1544444,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Leksand Railway Station, Sweden (XXO)",
+        "2": "rail",
+        "3": "XXO",
+        "4": "XXO",
+        "5": "Leksand Rail Station",
+        "6": 15.0027778,
+        "7": 60.7338889,
+        "10": "Europe/Stockholm"
+      }
+    ]
+  }
+}

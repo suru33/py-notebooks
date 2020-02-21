@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Pasighat, India (IXT)",
+        "2": "airport",
+        "3": "IXT",
+        "4": "IXT",
+        "5": "Pasighat",
+        "6": 95.3363889,
+        "7": 28.0672222,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Ixtapa/Zihuatanejo International, Mexico (ZIH)",
+        "2": "airport",
+        "3": "ZIH",
+        "4": "ZIH",
+        "5": "Ixtapa/Zihuatanejo",
+        "6": -101.46056,
+        "7": 17.6016667,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Ixtepec, Mexico (IZT)",
+        "2": "airport",
+        "3": "IZT",
+        "4": "IZT",
+        "5": "Ixtepec",
+        "6": -95.093889,
+        "7": 16.4488889,
+        "10": "America/Cancun"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lafayette Regional, LA (LFT)",
+        "2": "airport",
+        "3": "LFT",
+        "4": "LFT",
+        "5": "Lafayette",
+        "6": -91.9875,
+        "7": 30.2052778,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "La Fria, Venezuela (LFR)",
+        "2": "airport",
+        "3": "LFR",
+        "4": "LFR",
+        "5": "La Fria",
+        "6": -72.271111,
+        "7": 8.23916667,
+        "10": "America/Caracas"
+      },
+      {
+        "1": "La Serena La Florida, Chile (LSC)",
+        "2": "airport",
+        "3": "LSC",
+        "4": "LSC",
+        "5": "La Serena",
+        "6": -71.199444,
+        "7": -29.916389,
+        "10": "America/Santiago"
+      },
+      {
+        "1": "Tumaco La Florida, Colombia (TCO)",
+        "2": "airport",
+        "3": "TCO",
+        "4": "TCO",
+        "5": "Tumaco",
+        "6": -78.749167,
+        "7": 1.81444444,
+        "10": "America/Bogota"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "St Martin, Saint Martin - All airports",
+        "2": "city",
+        "3": "SFG",
+        "4": "SFG",
+        "5": "St Martin",
+        "6": -63.06122997484177,
+        "7": 18.092725361530324,
+        "10": "America/Marigot"
+      },
+      {
+        "1": "St Martin Grand-Case L'Esperance, Saint Martin (SFG)",
+        "2": "airport",
+        "3": "SFG",
+        "4": "SFG",
+        "5": "St Martin",
+        "6": -63.049167,
+        "7": 18.1008333,
+        "10": "America/Marigot"
+      }
+    ]
+  }
+}

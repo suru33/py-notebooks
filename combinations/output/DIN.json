@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dien Bien Phu, Viet Nam (DIN)",
+        "2": "airport",
+        "3": "DIN",
+        "4": "DIN",
+        "5": "Dien Bien Phu",
+        "6": 103.004444,
+        "7": 21.4,
+        "10": "Asia/Ho_Chi_Minh"
+      },
+      {
+        "1": "Dinard/St-Malo Pleurtuit, France (DNR)",
+        "2": "airport",
+        "3": "DNR",
+        "4": "DNR",
+        "5": "Dinard",
+        "6": -2.08,
+        "7": 48.5877778,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

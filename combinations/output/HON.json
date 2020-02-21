@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Hong Kong, Hong Kong - All airports",
+        "2": "city",
+        "3": "HKG",
+        "4": "HKG",
+        "5": "Hong Kong",
+        "6": 113.93423049452794,
+        "7": 22.308737472536443,
+        "10": "Asia/Hong_Kong"
+      },
+      {
+        "1": "Hong Kong International, Hong Kong (HKG)",
+        "2": "airport",
+        "3": "HKG",
+        "4": "HKG",
+        "5": "Hong Kong",
+        "6": 113.914722,
+        "7": 22.3088889,
+        "10": "Asia/Hong_Kong"
+      },
+      {
+        "1": "Honolulu Daniel K. Inouye International, HI (HNL)",
+        "2": "airport",
+        "3": "HNL",
+        "4": "HNL",
+        "5": "Honolulu",
+        "6": -157.92222,
+        "7": 21.3277778,
+        "10": "Pacific/Honolulu"
+      },
+      {
+        "1": "Honiara International, Solomon Islands (HIR)",
+        "2": "airport",
+        "3": "HIR",
+        "4": "HIR",
+        "5": "Honiara",
+        "6": 160.051111,
+        "7": -9.4294444,
+        "10": "Pacific/Guadalcanal"
+      },
+      {
+        "1": "Honningsvag Valan, Norway (HVG)",
+        "2": "airport",
+        "3": "HVG",
+        "4": "HVG",
+        "5": "Honningsvag",
+        "6": 25.9802778,
+        "7": 71.0097222,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Hong Kong Harbour, Hong Kong (XJH)",
+        "2": "airport",
+        "3": "XJH",
+        "4": "HKG",
+        "5": "Hong Kong",
+        "6": 114.129444,
+        "7": 22.3072222,
+        "10": "Asia/Hong_Kong"
+      },
+      {
+        "1": "Shanghai Hongqiao International, China (SHA)",
+        "2": "airport",
+        "3": "SHA",
+        "4": "SHA",
+        "5": "Shanghai",
+        "6": 121.336389,
+        "7": 31.1977778,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

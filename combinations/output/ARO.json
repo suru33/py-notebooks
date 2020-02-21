@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Arona Ulawa, Solomon Islands (RNA)",
+        "2": "airport",
+        "3": "RNA",
+        "4": "RNA",
+        "5": "Arona",
+        "6": 161.979722,
+        "7": -9.8608333,
+        "10": "Pacific/Guadalcanal"
+      },
+      {
+        "1": "Molde Aro, Norway (MOL)",
+        "2": "airport",
+        "3": "MOL",
+        "4": "MOL",
+        "5": "Molde",
+        "6": 7.2625,
+        "7": 62.7447222,
+        "10": "Europe/Oslo"
+      }
+    ]
+  }
+}

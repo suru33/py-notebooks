@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kuantan Sultan Haji Ahmad Shah, Malaysia (KUA)",
+        "2": "airport",
+        "3": "KUA",
+        "4": "KUA",
+        "5": "Kuantan",
+        "6": 103.209444,
+        "7": 3.78083333,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Kuala Lumpur, Malaysia - All airports",
+        "2": "city",
+        "3": "KUL",
+        "4": "KUL",
+        "5": "Kuala Lumpur",
+        "6": 101.67707899011417,
+        "7": 2.833889294086395,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Kuala Lumpur International, Malaysia (KUL)",
+        "2": "airport",
+        "3": "KUL",
+        "4": "KUL",
+        "5": "Kuala Lumpur",
+        "6": 101.714722,
+        "7": 2.74555556,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Kuala Lumpur Sultan Abdul Aziz Shah, Malaysia (SZB)",
+        "2": "airport",
+        "3": "SZB",
+        "4": "KUL",
+        "5": "Kuala Lumpur",
+        "6": 101.554444,
+        "7": 3.12166667,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Kuala Terengganu Sultan Mahmud, Malaysia (TGG)",
+        "2": "airport",
+        "3": "TGG",
+        "4": "TGG",
+        "5": "Kuala Terengganu",
+        "6": 103.104722,
+        "7": 5.38138889,
+        "10": "Asia/Kuching"
+      }
+    ]
+  }
+}

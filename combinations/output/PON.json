@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Ponta Delgada Joao Paulo II, Portugal (PDL)",
+        "2": "airport",
+        "3": "PDL",
+        "4": "PDL",
+        "5": "Ponta Delgada",
+        "6": -25.697778,
+        "7": 37.7411111,
+        "10": "Atlantic/Azores"
+      },
+      {
+        "1": "Pontianak Supadio, Indonesia (PNK)",
+        "2": "airport",
+        "3": "PNK",
+        "4": "PNK",
+        "5": "Pontianak",
+        "6": 109.403889,
+        "7": -0.1508333,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Pond Inlet, NU, Canada (YIO)",
+        "2": "airport",
+        "3": "YIO",
+        "4": "YIO",
+        "5": "Pond Inlet",
+        "6": -77.968333,
+        "7": 72.6902778,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Ponce Mercedita, PR (PSE)",
+        "2": "airport",
+        "3": "PSE",
+        "4": "PSE",
+        "5": "Ponce",
+        "6": -66.563056,
+        "7": 18.0083333,
+        "10": "America/St_Thomas"
+      },
+      {
+        "1": "Pondicherry, India (PNY)",
+        "2": "airport",
+        "3": "PNY",
+        "4": "PNY",
+        "5": "Pondicherry",
+        "6": 79.8113889,
+        "7": 11.9683333,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Ponta Grossa A.Amilton Beraldo, Brazil (PGZ)",
+        "2": "airport",
+        "3": "PGZ",
+        "4": "PGZ",
+        "5": "Ponta Grossa",
+        "6": -50.188889,
+        "7": -25.0525,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Ponferrada Bus Station, Spain (PFE)",
+        "2": "bus",
+        "3": "PFE",
+        "4": "PFE",
+        "5": "Ponferrada",
+        "6": -6.6011111,
+        "7": 42.5527778,
+        "10": "Europe/Madrid"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dazhou Heshi, China (DAX)",
+        "2": "airport",
+        "3": "DAX",
+        "4": "DAX",
+        "5": "Daxian",
+        "6": 107.430556,
+        "7": 31.1319444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Cucuta Camilo Daza, Colombia (CUC)",
+        "2": "airport",
+        "3": "CUC",
+        "4": "CUC",
+        "5": "Cucuta",
+        "6": -72.511667,
+        "7": 7.9275,
+        "10": "America/Bogota"
+      }
+    ]
+  }
+}

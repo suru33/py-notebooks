@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Moscow Sheremetyevo, Russia (SVO)",
+        "2": "airport",
+        "3": "SVO",
+        "4": "MOW",
+        "5": "Moscow",
+        "6": 37.4147222,
+        "7": 55.9727778,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Svolvaer Helle, Norway (SVJ)",
+        "2": "airport",
+        "3": "SVJ",
+        "4": "SVJ",
+        "5": "Svolvaer",
+        "6": 14.6694444,
+        "7": 68.2438889,
+        "10": "Europe/Oslo"
+      }
+    ]
+  }
+}

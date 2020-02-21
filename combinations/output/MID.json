@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Merida M. Crescencio Rejon, Mexico (MID)",
+        "2": "airport",
+        "3": "MID",
+        "4": "MID",
+        "5": "Merida",
+        "6": -89.657778,
+        "7": 20.9369444,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Midland International, TX (MAF)",
+        "2": "airport",
+        "3": "MAF",
+        "4": "MAF",
+        "5": "Midland/Odessa",
+        "6": -102.20194,
+        "7": 31.9425,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Chicago Midway International, IL (MDW)",
+        "2": "airport",
+        "3": "MDW",
+        "4": "CHI",
+        "5": "Chicago",
+        "6": -87.7525,
+        "7": 41.7861111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Wichita Dwight D. Eisenhower, KS (ICT)",
+        "2": "airport",
+        "3": "ICT",
+        "4": "ICT",
+        "5": "Wichita",
+        "6": -97.433056,
+        "7": 37.6527778,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Parkersburg Mid-Ohio Valley Regional, WV (PKB)",
+        "2": "airport",
+        "3": "PKB",
+        "4": "PKB",
+        "5": "Parkersburg/Marietta",
+        "6": -81.439167,
+        "7": 39.345,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Brussels Midi Railway Station, Belgium (ZYR)",
+        "2": "rail",
+        "3": "ZYR",
+        "4": "BRU",
+        "5": "Brussels",
+        "6": 4.3358758,
+        "7": 50.8357023,
+        "10": "Europe/Brussels"
+      }
+    ]
+  }
+}

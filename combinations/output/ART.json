@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Watertown International, NY (ART)",
+        "2": "airport",
+        "3": "ART",
+        "4": "ART",
+        "5": "Watertown",
+        "6": -76.021667,
+        "7": 43.9919444,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Arthur's Town, Bahamas (ATC)",
+        "2": "airport",
+        "3": "ATC",
+        "4": "ATC",
+        "5": "Arthur's Town",
+        "6": -75.673889,
+        "7": 24.6294444,
+        "10": "America/Nassau"
+      },
+      {
+        "1": "Santiago Arturo Merino Benitez, Chile (SCL)",
+        "2": "airport",
+        "3": "SCL",
+        "4": "SCL",
+        "5": "Santiago",
+        "6": -70.785833,
+        "7": -33.393056,
+        "10": "America/Santiago"
+      }
+    ]
+  }
+}

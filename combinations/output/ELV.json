@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Elfin Cove Sea Plane Base, AK (ELV)",
+        "2": "airport",
+        "3": "ELV",
+        "4": "ELV",
+        "5": "Elfin Cove",
+        "6": -136.3475,
+        "7": 58.1952778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "El Vigia Juan P. Perez Alfonso, Venezuela (VIG)",
+        "2": "airport",
+        "3": "VIG",
+        "4": "VIG",
+        "5": "El Vigia",
+        "6": -71.672778,
+        "7": 8.62416667,
+        "10": "America/Caracas"
+      }
+    ]
+  }
+}

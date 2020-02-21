@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Venice, Italy - All airports",
+        "2": "city",
+        "3": "VCE",
+        "4": "VCE",
+        "5": "Venice",
+        "6": 12.294196073108008,
+        "7": 45.523624532902836,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Venice Marco Polo, Italy (VCE)",
+        "2": "airport",
+        "3": "VCE",
+        "4": "VCE",
+        "5": "Venice",
+        "6": 12.3519444,
+        "7": 45.5052778,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Venice Treviso/Sant'Angelo, Italy (TSF)",
+        "2": "airport",
+        "3": "TSF",
+        "4": "VCE",
+        "5": "Venice",
+        "6": 12.1977778,
+        "7": 45.6508333,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Venetie, AK (VEE)",
+        "2": "airport",
+        "3": "VEE",
+        "4": "VEE",
+        "5": "Venetie",
+        "6": -146.37833,
+        "7": 67.0063889,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Venice Santa Lucia Railway Station, Italy (XVQ)",
+        "2": "rail",
+        "3": "XVQ",
+        "4": "VCE",
+        "5": "Venice",
+        "6": 12.3211111,
+        "7": 45.4411111,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Venice Mestre Railway Station, Italy (XVY)",
+        "2": "rail",
+        "3": "XVY",
+        "4": "VCE",
+        "5": "Venice",
+        "6": 12.2322222,
+        "7": 45.4825,
+        "10": "Europe/Rome"
+      }
+    ]
+  }
+}

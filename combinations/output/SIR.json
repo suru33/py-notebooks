@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sion, Switzerland (SIR)",
+        "2": "airport",
+        "3": "SIR",
+        "4": "SIR",
+        "5": "Sion",
+        "6": 7.34,
+        "7": 46.2225,
+        "10": "Europe/Zurich"
+      },
+      {
+        "1": "Sirnak, Turkey (NKT)",
+        "2": "airport",
+        "3": "NKT",
+        "4": "NKT",
+        "5": "Sirnak",
+        "6": 42.0619444,
+        "7": 37.3636111,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Sirjan, Iran (SYJ)",
+        "2": "airport",
+        "3": "SYJ",
+        "4": "SYJ",
+        "5": "Sirjan",
+        "6": 55.6694444,
+        "7": 29.5533333,
+        "10": "Asia/Tehran"
+      }
+    ]
+  }
+}

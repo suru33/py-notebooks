@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Charlottesville Albemarle, VA (CHO)",
+        "2": "airport",
+        "3": "CHO",
+        "4": "CHO",
+        "5": "Charlottesville",
+        "6": -78.452778,
+        "7": 38.1386111,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Chongqing Jiangbei International, China (CKG)",
+        "2": "airport",
+        "3": "CKG",
+        "4": "CKG",
+        "5": "Chongqing",
+        "6": 106.641944,
+        "7": 29.7194444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Choiseul Bay, Solomon Islands (CHY)",
+        "2": "airport",
+        "3": "CHY",
+        "4": "CHY",
+        "5": "Choiseul Bay",
+        "6": 156.396111,
+        "7": -6.7119444,
+        "10": "Pacific/Guadalcanal"
+      },
+      {
+        "1": "Choibalsan, Mongolia (COQ)",
+        "2": "airport",
+        "3": "COQ",
+        "4": "COQ",
+        "5": "Choibalsan",
+        "6": 114.646389,
+        "7": 48.1355556,
+        "10": "Asia/Ulaanbaatar"
+      },
+      {
+        "1": "Chokurdakh, Russia (CKH)",
+        "2": "airport",
+        "3": "CKH",
+        "4": "CKH",
+        "5": "Chokurdakh",
+        "6": 147.896667,
+        "7": 70.6244444,
+        "10": "Asia/Magadan"
+      },
+      {
+        "1": "Catamarca, Argentina (CTC)",
+        "2": "airport",
+        "3": "CTC",
+        "4": "CTC",
+        "5": "Catamarca",
+        "6": -65.751111,
+        "7": -28.593056,
+        "10": "America/Argentina/Mendoza"
+      }
+    ]
+  }
+}

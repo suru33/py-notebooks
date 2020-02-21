@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kochi International, India (COK)",
+        "2": "airport",
+        "3": "COK",
+        "4": "COK",
+        "5": "Cochin",
+        "6": 76.4019444,
+        "7": 10.1519444,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Kochi, Japan (KCZ)",
+        "2": "airport",
+        "3": "KCZ",
+        "4": "KCZ",
+        "5": "Kochi",
+        "6": 133.669444,
+        "7": 33.5461111,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Kocaeli Cengiz Topel, Turkey (KCO)",
+        "2": "airport",
+        "3": "KCO",
+        "4": "KCO",
+        "5": "Kocaeli",
+        "6": 30.0833333,
+        "7": 40.7333333,
+        "10": "Europe/Istanbul"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Washington, DC - All airports",
+        "2": "city",
+        "3": "WAS",
+        "4": "WAS",
+        "5": "Washington",
+        "6": -77.25863724528303,
+        "7": 38.90094336226415,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Washington Dulles International, DC (IAD)",
+        "2": "airport",
+        "3": "IAD",
+        "4": "WAS",
+        "5": "Washington",
+        "6": -77.455833,
+        "7": 38.9444444,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Washington Ronald Reagan National, DC (DCA)",
+        "2": "airport",
+        "3": "DCA",
+        "4": "WAS",
+        "5": "Washington",
+        "6": -77.037778,
+        "7": 38.8522222,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Waskaganish, QC, Canada (YKQ)",
+        "2": "airport",
+        "3": "YKQ",
+        "4": "YKQ",
+        "5": "Waskaganish",
+        "6": -78.758611,
+        "7": 51.4730556,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Hagerstown Regional, MD (HGR)",
+        "2": "airport",
+        "3": "HGR",
+        "4": "HGR",
+        "5": "Hagerstown",
+        "6": -77.729444,
+        "7": 39.7080556,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

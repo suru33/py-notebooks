@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Madinah Mohammad Bin Abdulaziz, Saudi Arabia (MED)",
+        "2": "airport",
+        "3": "MED",
+        "4": "MED",
+        "5": "Madinah",
+        "6": 39.705,
+        "7": 24.5533333,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "Medellin, Colombia - All airports",
+        "2": "city",
+        "3": "MDE",
+        "4": "MDE",
+        "5": "Medellin",
+        "6": -75.5005415312466,
+        "7": 6.190144452419712,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Medford Rogue Valley International, OR (MFR)",
+        "2": "airport",
+        "3": "MFR",
+        "4": "MFR",
+        "5": "Medford",
+        "6": -122.87361,
+        "7": 42.3741667,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Medan Kuala Namu, Indonesia (KNO)",
+        "2": "airport",
+        "3": "KNO",
+        "4": "MES",
+        "5": "Medan",
+        "6": 98.8719444,
+        "7": 3.63777778,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Medellin Jose Maria Cordova International, Colombia (MDE)",
+        "2": "airport",
+        "3": "MDE",
+        "4": "MDE",
+        "5": "Medellin",
+        "6": -75.423056,
+        "7": 6.16444444,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Medellin Enrique Olaya Herrera, Colombia (EOH)",
+        "2": "airport",
+        "3": "EOH",
+        "4": "MDE",
+        "5": "Medellin",
+        "6": -75.590556,
+        "7": 6.22,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Medicine Hat, AB, Canada (YXH)",
+        "2": "airport",
+        "3": "YXH",
+        "4": "YXH",
+        "5": "Medicine Hat",
+        "6": -110.72306,
+        "7": 50.0172222,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "Montpellier Mediterranee, France (MPL)",
+        "2": "airport",
+        "3": "MPL",
+        "4": "MPL",
+        "5": "Montpellier",
+        "6": 3.96138889,
+        "7": 43.5833333,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

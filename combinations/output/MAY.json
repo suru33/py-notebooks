@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Mayo, YT, Canada (YMA)",
+        "2": "airport",
+        "3": "YMA",
+        "4": "YMA",
+        "5": "Mayo",
+        "6": -135.86667,
+        "7": 63.6166667,
+        "10": "America/Vancouver"
+      },
+      {
+        "1": "Mayaguez Eugenio M. de Hostos, PR (MAZ)",
+        "2": "airport",
+        "3": "MAZ",
+        "4": "MAZ",
+        "5": "Mayaguez",
+        "6": -67.148611,
+        "7": 18.2558333,
+        "10": "America/St_Thomas"
+      },
+      {
+        "1": "Mayaguana, Bahamas (MYG)",
+        "2": "airport",
+        "3": "MYG",
+        "4": "MYG",
+        "5": "Mayaguana",
+        "6": -73.013611,
+        "7": 22.3794444,
+        "10": "America/Nassau"
+      },
+      {
+        "1": "Brazzaville Maya-Maya, Congo (BZV)",
+        "2": "airport",
+        "3": "BZV",
+        "4": "BZV",
+        "5": "Brazzaville",
+        "6": 15.2530556,
+        "7": -4.2516667,
+        "10": "Africa/Brazzaville"
+      }
+    ]
+  }
+}

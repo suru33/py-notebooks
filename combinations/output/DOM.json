@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dominica Melville Hall, Dominica (DOM)",
+        "2": "airport",
+        "3": "DOM",
+        "4": "DOM",
+        "5": "Dominica",
+        "6": -61.3,
+        "7": 15.5469444,
+        "10": "America/Dominica"
+      },
+      {
+        "1": "Moscow Domodedovo, Russia (DME)",
+        "2": "airport",
+        "3": "DME",
+        "4": "MOW",
+        "5": "Moscow",
+        "6": 37.9063889,
+        "7": 55.4088889,
+        "10": "Europe/Moscow"
+      }
+    ]
+  }
+}

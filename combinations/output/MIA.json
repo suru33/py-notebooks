@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Miami International, FL (MIA)",
+        "2": "airport",
+        "3": "MIA",
+        "4": "MIA",
+        "5": "Miami",
+        "6": -80.290556,
+        "7": 25.7933333,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Mianyang Nanjiao, China (MIG)",
+        "2": "airport",
+        "3": "MIG",
+        "4": "MIG",
+        "5": "Mian Yang",
+        "6": 104.740833,
+        "7": 31.4288889,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

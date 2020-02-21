@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Vitoria, Spain (VIT)",
+        "2": "airport",
+        "3": "VIT",
+        "4": "VIT",
+        "5": "Vitoria",
+        "6": -2.7244444,
+        "7": 42.8827778,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Vitoria E. de Aguiar Salles, Brazil (VIX)",
+        "2": "airport",
+        "3": "VIX",
+        "4": "VIX",
+        "5": "Vitoria",
+        "6": -40.286389,
+        "7": -20.258056,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Vitoria da Conquista P. Otacilio Figueiredo, Brazil (VDC)",
+        "2": "airport",
+        "3": "VDC",
+        "4": "VDC",
+        "5": "Vitoria da Conquista",
+        "6": -40.863056,
+        "7": -14.862778,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Vitoria Bus Station, Spain (VTI)",
+        "2": "bus",
+        "3": "VTI",
+        "4": "VIT",
+        "5": "Vitoria",
+        "6": -2.6658333,
+        "7": 42.8497222,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Vitoria Railway Station, Spain (VIO)",
+        "2": "rail",
+        "3": "VIO",
+        "4": "VIT",
+        "5": "Vitoria",
+        "6": -2.6725,
+        "7": 42.8413889,
+        "10": "Europe/Madrid"
+      }
+    ]
+  }
+}

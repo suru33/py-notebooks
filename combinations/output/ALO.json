@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Waterloo Regional, IA (ALO)",
+        "2": "airport",
+        "3": "ALO",
+        "4": "ALO",
+        "5": "Waterloo",
+        "6": -92.400278,
+        "7": 42.5569444,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Alotau Gurney, Papua New Guinea (GUR)",
+        "2": "airport",
+        "3": "GUR",
+        "4": "GUR",
+        "5": "Alotau",
+        "6": 150.339167,
+        "7": -10.311389,
+        "10": "Pacific/Port_Moresby"
+      },
+      {
+        "1": "Alor Setar Sultan Abdul Halim, Malaysia (AOR)",
+        "2": "airport",
+        "3": "AOR",
+        "4": "AOR",
+        "5": "Alor Setar",
+        "6": 100.400833,
+        "7": 6.19444444,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Alor Mali, Indonesia (ARD)",
+        "2": "airport",
+        "3": "ARD",
+        "4": "ARD",
+        "5": "Alor Island",
+        "6": 124.596944,
+        "7": -8.1330556,
+        "10": "Asia/Makassar"
+      }
+    ]
+  }
+}

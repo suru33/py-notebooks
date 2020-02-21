@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Budapest Liszt Ferenc International, Hungary (BUD)",
+        "2": "airport",
+        "3": "BUD",
+        "4": "BUD",
+        "5": "Budapest",
+        "6": 19.2555556,
+        "7": 47.4369444,
+        "10": "Europe/Budapest"
+      },
+      {
+        "1": "Budapest Keleti Railway Station, Hungary (XXQ)",
+        "2": "rail",
+        "3": "XXQ",
+        "4": "BUD",
+        "5": "Budapest",
+        "6": 19.0838889,
+        "7": 47.5002778,
+        "10": "Europe/Budapest"
+      }
+    ]
+  }
+}

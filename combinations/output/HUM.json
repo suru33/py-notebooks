@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Humberside, United Kingdom (HUY)",
+        "2": "airport",
+        "3": "HUY",
+        "4": "HUY",
+        "5": "Humberside",
+        "6": -0.3508333,
+        "7": 53.5744444,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Humera, Ethiopia (HUE)",
+        "2": "airport",
+        "3": "HUE",
+        "4": "HUE",
+        "5": "Humera",
+        "6": 36.8794444,
+        "7": 13.8333333,
+        "10": "Africa/Addis_Ababa"
+      },
+      {
+        "1": "Humen Ferry Port, China (ZTI)",
+        "2": "airport",
+        "3": "ZTI",
+        "4": "ZTI",
+        "5": "Humen",
+        "6": 113.610556,
+        "7": 22.8169444,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

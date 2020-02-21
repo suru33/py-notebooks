@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Enshi Xujiaping, China (ENH)",
+        "2": "airport",
+        "3": "ENH",
+        "4": "ENH",
+        "5": "Enshi",
+        "6": 109.485278,
+        "7": 30.3211111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Enshi Railway Station, China (EWV)",
+        "2": "rail",
+        "3": "EWV",
+        "4": "ENH",
+        "5": "Enshi",
+        "6": 109.479722,
+        "7": 30.3519444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Saarbruecken Airport, Germany (SCN)",
+        "2": "airport",
+        "3": "SCN",
+        "4": "SCN",
+        "5": "Saarbrucken",
+        "6": 7.11055556,
+        "7": 49.2147222,
+        "10": "Europe/Berlin"
+      }
+    ]
+  }
+}

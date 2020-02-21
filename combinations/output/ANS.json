@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Andahuaylas, Peru (ANS)",
+        "2": "airport",
+        "3": "ANS",
+        "4": "ANS",
+        "5": "Andahuaylas",
+        "6": -73.350278,
+        "7": -13.706389,
+        "10": "America/Lima"
+      },
+      {
+        "1": "Anshun Huangguoshu, China (AVA)",
+        "2": "airport",
+        "3": "AVA",
+        "4": "AVA",
+        "5": "An Shun",
+        "6": 105.872778,
+        "7": 26.2572222,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Anshan Teng'ao, China (AOG)",
+        "2": "airport",
+        "3": "AOG",
+        "4": "AOG",
+        "5": "Anshan",
+        "6": 122.856111,
+        "7": 41.1055556,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Anshanxi Railway St, China (VBL)",
+        "2": "rail",
+        "3": "VBL",
+        "4": "AOG",
+        "5": "Anshan",
+        "6": 122.909444,
+        "7": 41.1163889,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

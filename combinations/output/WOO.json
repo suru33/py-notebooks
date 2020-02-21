@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Woodie Woodie, Australia (WWI)",
+        "2": "airport",
+        "3": "WWI",
+        "4": "WWI",
+        "5": "Woodie Woodie",
+        "6": 121.190833,
+        "7": -21.645278,
+        "10": "Australia/Perth"
+      },
+      {
+        "1": "Blenheim Woodbourne, New Zealand (BHE)",
+        "2": "airport",
+        "3": "BHE",
+        "4": "BHE",
+        "5": "Blenheim",
+        "6": 173.869167,
+        "7": -41.517778,
+        "10": "Pacific/Auckland"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Albany International, NY (ALB)",
+        "2": "airport",
+        "3": "ALB",
+        "4": "ALB",
+        "5": "Albany",
+        "6": -73.801667,
+        "7": 42.7483333,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Albuquerque International Sunport, NM (ABQ)",
+        "2": "airport",
+        "3": "ABQ",
+        "4": "ABQ",
+        "5": "Albuquerque",
+        "6": -106.60944,
+        "7": 35.0405556,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Al Baha Al-Aqiq, Saudi Arabia (ABT)",
+        "2": "airport",
+        "3": "ABT",
+        "4": "ABT",
+        "5": "Al-Baha",
+        "6": 41.6341667,
+        "7": 20.2961111,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "Albany Southwest Georgia Regional, GA (ABY)",
+        "2": "airport",
+        "3": "ABY",
+        "4": "ABY",
+        "5": "Albany",
+        "6": -84.194444,
+        "7": 31.5355556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Albury, Australia (ABX)",
+        "2": "airport",
+        "3": "ABX",
+        "4": "ABX",
+        "5": "Albury",
+        "6": 146.958056,
+        "7": -36.067778,
+        "10": "Australia/Sydney"
+      },
+      {
+        "1": "Albany, Australia (ALH)",
+        "2": "airport",
+        "3": "ALH",
+        "4": "ALH",
+        "5": "Albany",
+        "6": 117.808889,
+        "7": -34.943333,
+        "10": "Australia/Perth"
+      },
+      {
+        "1": "Albacete Railway Station, Spain (EEM)",
+        "2": "rail",
+        "3": "EEM",
+        "4": "ABC",
+        "5": "Albacete",
+        "6": -1.8483333,
+        "7": 38.9994444,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Albacete Bus Station, Spain (XJJ)",
+        "2": "bus",
+        "3": "XJJ",
+        "4": "ABC",
+        "5": "Albacete",
+        "6": -1.8463889,
+        "7": 38.9977778,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Charlottesville Albemarle, VA (CHO)",
+        "2": "airport",
+        "3": "CHO",
+        "4": "CHO",
+        "5": "Charlottesville",
+        "6": -78.452778,
+        "7": 38.1386111,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

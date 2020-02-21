@@ -1,0 +1,116 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Rio de Janeiro, Brazil - All airports",
+        "2": "city",
+        "3": "RIO",
+        "4": "RIO",
+        "5": "Rio de Janeiro",
+        "6": -43.21405886071097,
+        "7": -22.851910216144145,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Rio de Janeiro Galeao-A.C.Jobim International, Brazil (GIG)",
+        "2": "airport",
+        "3": "GIG",
+        "4": "RIO",
+        "5": "Rio de Janeiro",
+        "6": -43.248333,
+        "7": -22.8125,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Rio de Janeiro Santos Dumont, Brazil (SDU)",
+        "2": "airport",
+        "3": "SDU",
+        "4": "RIO",
+        "5": "Rio de Janeiro",
+        "6": -43.163056,
+        "7": -22.910556,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Rio Branco Placido de Castro International, Brazil (RBR)",
+        "2": "airport",
+        "3": "RBR",
+        "4": "RBR",
+        "5": "Rio Branco",
+        "6": -67.894167,
+        "7": -9.8691667,
+        "10": "America/Rio_Branco"
+      },
+      {
+        "1": "Rio Gallegos Piloto N. Fernandez, Argentina (RGL)",
+        "2": "airport",
+        "3": "RGL",
+        "4": "RGL",
+        "5": "Rio Gallegos",
+        "6": -69.312778,
+        "7": -51.608889,
+        "10": "America/Argentina/Mendoza"
+      },
+      {
+        "1": "Rio Hato Scarlett Martinez International, Panama (RIH)",
+        "2": "airport",
+        "3": "RIH",
+        "4": "RIH",
+        "5": "Rio Hato",
+        "6": -80.128333,
+        "7": 8.37527778,
+        "10": "America/Panama"
+      },
+      {
+        "1": "Rio Cuarto Las Higueras, Argentina (RCU)",
+        "2": "airport",
+        "3": "RCU",
+        "4": "RCU",
+        "5": "Rio Cuarto",
+        "6": -64.261389,
+        "7": -33.094444,
+        "10": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "1": "Rio Grande Hermes Quijada, Argentina (RGA)",
+        "2": "airport",
+        "3": "RGA",
+        "4": "RGA",
+        "5": "Rio Grande",
+        "6": -67.75,
+        "7": -53.7775,
+        "10": "America/Argentina/Mendoza"
+      },
+      {
+        "1": "Rio Verde Leite de Castro, Brazil (RVD)",
+        "2": "airport",
+        "3": "RVD",
+        "4": "RVD",
+        "5": "Rio Verde",
+        "6": -50.955556,
+        "7": -17.833333,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Riohacha Almirante Padilla, Colombia (RCH)",
+        "2": "airport",
+        "3": "RCH",
+        "4": "RCH",
+        "5": "Riohacha",
+        "6": -72.925833,
+        "7": 11.5261111,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Termas de Rio Hondo, Argentina (RHD)",
+        "2": "airport",
+        "3": "RHD",
+        "4": "RHD",
+        "5": "Rio Hondo",
+        "6": -64.906667,
+        "7": -27.473611,
+        "10": "America/Argentina/Buenos_Aires"
+      }
+    ]
+  }
+}

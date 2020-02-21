@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Toulouse Blagnac, France (TLS)",
+        "2": "airport",
+        "3": "TLS",
+        "4": "TLS",
+        "5": "Toulouse",
+        "6": 1.36777778,
+        "7": 43.635,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Toulon/Hyeres La Palyvestre, France (TLN)",
+        "2": "airport",
+        "3": "TLN",
+        "4": "TLN",
+        "5": "Toulon",
+        "6": 6.14611111,
+        "7": 43.0972222,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Tours Val de Loire, France (TUF)",
+        "2": "airport",
+        "3": "TUF",
+        "4": "TUF",
+        "5": "Tours",
+        "6": 0.72305556,
+        "7": 47.4319444,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Touggourt Sidi Mahdi, Algeria (TGR)",
+        "2": "airport",
+        "3": "TGR",
+        "4": "TGR",
+        "5": "Touggourt",
+        "6": 6.08861111,
+        "7": 33.0677778,
+        "10": "Africa/Algiers"
+      },
+      {
+        "1": "Tours St-Pierre-Corps RailSt, France (XSH)",
+        "2": "rail",
+        "3": "XSH",
+        "4": "TUF",
+        "5": "Tours",
+        "6": 0.69388889,
+        "7": 47.3894444,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Toulon/Hyeres Toulon Railway Station, France (XZV)",
+        "2": "rail",
+        "3": "XZV",
+        "4": "TLN",
+        "5": "Toulon",
+        "6": 5.92972222,
+        "7": 43.1283333,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

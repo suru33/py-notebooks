@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Brussels, Belgium - All airports",
+        "2": "city",
+        "3": "BRU",
+        "4": "BRU",
+        "5": "Brussels",
+        "6": 4.452237969280404,
+        "7": 50.72325455442319,
+        "10": "Europe/Brussels"
+      },
+      {
+        "1": "Brussels Airport, Belgium (BRU)",
+        "2": "airport",
+        "3": "BRU",
+        "4": "BRU",
+        "5": "Brussels",
+        "6": 4.48444444,
+        "7": 50.9013889,
+        "10": "Europe/Brussels"
+      },
+      {
+        "1": "Brussels S. Charleroi, Belgium (CRL)",
+        "2": "airport",
+        "3": "CRL",
+        "4": "BRU",
+        "5": "Brussels",
+        "6": 4.45388889,
+        "7": 50.4591667,
+        "10": "Europe/Brussels"
+      },
+      {
+        "1": "Brunswick Golden Isles, GA (BQK)",
+        "2": "airport",
+        "3": "BQK",
+        "4": "SSI",
+        "5": "Brunswick",
+        "6": -81.466389,
+        "7": 31.2588889,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Brussels Midi Railway Station, Belgium (ZYR)",
+        "2": "rail",
+        "3": "ZYR",
+        "4": "BRU",
+        "5": "Brussels",
+        "6": 4.3358758,
+        "7": 50.8357023,
+        "10": "Europe/Brussels"
+      },
+      {
+        "1": "Bandar Seri Begawan Brunei, Brunei Darussalam (BWN)",
+        "2": "airport",
+        "3": "BWN",
+        "4": "BWN",
+        "5": "Bandar Seri Begawan",
+        "6": 114.928333,
+        "7": 4.94416667,
+        "10": "Asia/Brunei"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sept-Iles, QC, Canada (YZV)",
+        "2": "airport",
+        "3": "YZV",
+        "4": "YZV",
+        "5": "Sept-Isles",
+        "6": -66.265556,
+        "7": 50.2233333,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Balikpapan Sepinggan, Indonesia (BPN)",
+        "2": "airport",
+        "3": "BPN",
+        "4": "BPN",
+        "5": "Balikpapan",
+        "6": 116.894444,
+        "7": -1.2683333,
+        "10": "Asia/Makassar"
+      }
+    ]
+  }
+}

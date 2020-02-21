@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Nepalganj, Nepal (KEP)",
+        "2": "airport",
+        "3": "KEP",
+        "4": "KEP",
+        "5": "Nepalganj",
+        "6": 81.6669444,
+        "7": 28.1036111,
+        "10": "Asia/Katmandu"
+      },
+      {
+        "1": "Keperveyem, Russia (KPW)",
+        "2": "airport",
+        "3": "KPW",
+        "4": "KPW",
+        "5": "Keperveyem",
+        "6": 166.139722,
+        "7": 67.845,
+        "10": "Asia/Anadyr"
+      }
+    ]
+  }
+}

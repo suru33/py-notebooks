@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Iles de la Madeleine, QC, Canada (YGR)",
+        "2": "airport",
+        "3": "YGR",
+        "4": "YGR",
+        "5": "Iles de la Madeleine",
+        "6": -61.780278,
+        "7": 47.4247222,
+        "10": "America/Halifax"
+      },
+      {
+        "1": "Ile des Pins Moue, New Caledonia (ILP)",
+        "2": "airport",
+        "3": "ILP",
+        "4": "ILP",
+        "5": "Ile Des Pins",
+        "6": 167.455833,
+        "7": -22.588889,
+        "10": "Pacific/Noumea"
+      }
+    ]
+  }
+}

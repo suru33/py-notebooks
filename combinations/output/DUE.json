@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dundo, Angola (DUE)",
+        "2": "airport",
+        "3": "DUE",
+        "4": "DUE",
+        "5": "Dundo",
+        "6": 20.8188889,
+        "7": -7.4005556,
+        "10": "Africa/Luanda"
+      },
+      {
+        "1": "Duesseldorf International, Germany (DUS)",
+        "2": "airport",
+        "3": "DUS",
+        "4": "DUS",
+        "5": "Dusseldorf",
+        "6": 6.76666667,
+        "7": 51.2894444,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Duesseldorf Weeze, Germany (NRN)",
+        "2": "airport",
+        "3": "NRN",
+        "4": "DUS",
+        "5": "Dusseldorf",
+        "6": 6.14222222,
+        "7": 51.6025,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Duesseldorf Hbf Railway Station, Germany (QDU)",
+        "2": "rail",
+        "3": "QDU",
+        "4": "DUS",
+        "5": "Dusseldorf",
+        "6": 6.79305556,
+        "7": 51.2202778,
+        "10": "Europe/Berlin"
+      }
+    ]
+  }
+}

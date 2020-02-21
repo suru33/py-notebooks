@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Yakutat, AK (YAK)",
+        "2": "airport",
+        "3": "YAK",
+        "4": "YAK",
+        "5": "Yakutat",
+        "6": -139.66,
+        "7": 59.5091667,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Yakutsk, Russia (YKS)",
+        "2": "airport",
+        "3": "YKS",
+        "4": "YKS",
+        "5": "Yakutsk",
+        "6": 129.770556,
+        "7": 62.0933333,
+        "10": "Asia/Yakutsk"
+      },
+      {
+        "1": "Yakushima, Japan (KUM)",
+        "2": "airport",
+        "3": "KUM",
+        "4": "KUM",
+        "5": "Yakushima",
+        "6": 130.659444,
+        "7": 30.3855556,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Yakima Air Terminal, WA (YKM)",
+        "2": "airport",
+        "3": "YKM",
+        "4": "YKM",
+        "5": "Yakima",
+        "6": -120.54083,
+        "7": 46.5680556,
+        "10": "America/Los_Angeles"
+      }
+    ]
+  }
+}

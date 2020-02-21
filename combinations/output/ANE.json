@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Angers Marce, France (ANE)",
+        "2": "airport",
+        "3": "ANE",
+        "4": "ANE",
+        "5": "Angers",
+        "6": -0.3122222,
+        "7": 47.5602778,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Anegada Auguste George, British Virgin Islands (NGD)",
+        "2": "airport",
+        "3": "NGD",
+        "4": "NGD",
+        "5": "Anegada",
+        "6": -64.316667,
+        "7": 18.7333333,
+        "10": "America/Tortola"
+      }
+    ]
+  }
+}

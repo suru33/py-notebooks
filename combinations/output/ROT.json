@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Rotorua International, New Zealand (ROT)",
+        "2": "airport",
+        "3": "ROT",
+        "4": "ROT",
+        "5": "Rotorua",
+        "6": 176.316389,
+        "7": -38.106944,
+        "10": "Pacific/Auckland"
+      },
+      {
+        "1": "Rotterdam, Netherlands (RTM)",
+        "2": "airport",
+        "3": "RTM",
+        "4": "RTM",
+        "5": "Rotterdam",
+        "6": 4.43083333,
+        "7": 51.9530556,
+        "10": "Europe/Amsterdam"
+      },
+      {
+        "1": "Rotuma Island, Fiji (RTA)",
+        "2": "airport",
+        "3": "RTA",
+        "4": "RTA",
+        "5": "Rotuma Island",
+        "6": 177.071667,
+        "7": -12.482778,
+        "10": "Pacific/Fiji"
+      },
+      {
+        "1": "Roti David C. Saudale, Indonesia (RTI)",
+        "2": "airport",
+        "3": "RTI",
+        "4": "RTI",
+        "5": "Roti",
+        "6": 123.075278,
+        "7": -10.766944,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Rotterdam Centraal Railway Station, Netherlands (QRH)",
+        "2": "rail",
+        "3": "QRH",
+        "4": "RTM",
+        "5": "Rotterdam",
+        "6": 4.47027778,
+        "7": 51.9241667,
+        "10": "Europe/Amsterdam"
+      }
+    ]
+  }
+}

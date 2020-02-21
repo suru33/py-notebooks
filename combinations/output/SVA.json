@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Savoonga, AK (SVA)",
+        "2": "airport",
+        "3": "SVA",
+        "4": "SVA",
+        "5": "Savoonga",
+        "6": -170.4925,
+        "7": 63.6863889,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Longyearbyen Svalbard, Norway (LYR)",
+        "2": "airport",
+        "3": "LYR",
+        "4": "LYR",
+        "5": "Longyearbyen",
+        "6": 15.4655556,
+        "7": 78.2461111,
+        "10": "Europe/Oslo"
+      }
+    ]
+  }
+}

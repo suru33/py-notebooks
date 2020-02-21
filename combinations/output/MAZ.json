@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Mayaguez Eugenio M. de Hostos, PR (MAZ)",
+        "2": "airport",
+        "3": "MAZ",
+        "4": "MAZ",
+        "5": "Mayaguez",
+        "6": -67.148611,
+        "7": 18.2558333,
+        "10": "America/St_Thomas"
+      },
+      {
+        "1": "Mazatlan Rafael Buelna International, Mexico (MZT)",
+        "2": "airport",
+        "3": "MZT",
+        "4": "MZT",
+        "5": "Mazatlan",
+        "6": -106.26611,
+        "7": 23.1613889,
+        "10": "America/Mazatlan"
+      },
+      {
+        "1": "Mazar-e Sharif, Afghanistan (MZR)",
+        "2": "airport",
+        "3": "MZR",
+        "4": "MZR",
+        "5": "Mazar-I-Sharif",
+        "6": 67.2094444,
+        "7": 36.7069444,
+        "10": "Asia/Kabul"
+      },
+      {
+        "1": "Castres Mazamet, France (DCM)",
+        "2": "airport",
+        "3": "DCM",
+        "4": "DCM",
+        "5": "Castres",
+        "6": 2.29055556,
+        "7": 43.555,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

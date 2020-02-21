@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Surabaya Juanda, Indonesia (SUB)",
+        "2": "airport",
+        "3": "SUB",
+        "4": "SUB",
+        "5": "Surabaya",
+        "6": 112.786944,
+        "7": -7.3797222,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Surgut, Russia (SGC)",
+        "2": "airport",
+        "3": "SGC",
+        "4": "SGC",
+        "5": "Surgut",
+        "6": 73.4019444,
+        "7": 61.3436111,
+        "10": "Asia/Yekaterinburg"
+      },
+      {
+        "1": "Surat, India (STV)",
+        "2": "airport",
+        "3": "STV",
+        "4": "STV",
+        "5": "Surat",
+        "6": 72.7416667,
+        "7": 21.1141667,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Surakarta (Solo) Adi Sumarmo, Indonesia (SOC)",
+        "2": "airport",
+        "3": "SOC",
+        "4": "SOC",
+        "5": "Solo City",
+        "6": 110.756944,
+        "7": -7.5161111,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Surat Thani, Thailand (URT)",
+        "2": "airport",
+        "3": "URT",
+        "4": "URT",
+        "5": "Surat Thani",
+        "6": 99.1391667,
+        "7": 9.13611111,
+        "10": "Asia/Bangkok"
+      },
+      {
+        "1": "Surigao, Philippines (SUG)",
+        "2": "airport",
+        "3": "SUG",
+        "4": "SUG",
+        "5": "Surigao",
+        "6": 125.481111,
+        "7": 9.76083333,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Surkhet, Nepal (SKH)",
+        "2": "airport",
+        "3": "SKH",
+        "4": "SKH",
+        "5": "Surkhet",
+        "6": 81.6358333,
+        "7": 28.5861111,
+        "10": "Asia/Katmandu"
+      },
+      {
+        "1": "Tenerife Sur Reina Sofia, Spain (TFS)",
+        "2": "airport",
+        "3": "TFS",
+        "4": "TCI",
+        "5": "Tenerife",
+        "6": -16.5725,
+        "7": 28.0444444,
+        "10": "Atlantic/Canary"
+      }
+    ]
+  }
+}

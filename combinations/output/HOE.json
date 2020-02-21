@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Houeisay, Laos (HOE)",
+        "2": "airport",
+        "3": "HOE",
+        "4": "HOE",
+        "5": "Houeisay",
+        "6": 100.437222,
+        "7": 20.2580556,
+        "10": "Asia/Vientiane"
+      },
+      {
+        "1": "Hoedspruit AFB, South Africa (HDS)",
+        "2": "airport",
+        "3": "HDS",
+        "4": "HDS",
+        "5": "Hoedspruit",
+        "6": 30.9469444,
+        "7": -24.348611,
+        "10": "Africa/Johannesburg"
+      },
+      {
+        "1": "Kirkenes Hoybuktmoen, Norway (KKN)",
+        "2": "airport",
+        "3": "KKN",
+        "4": "KKN",
+        "5": "Kirkenes",
+        "6": 29.8913889,
+        "7": 69.7258333,
+        "10": "Europe/Oslo"
+      }
+    ]
+  }
+}

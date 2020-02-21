@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kalaupapa, HI (LUP)",
+        "2": "airport",
+        "3": "LUP",
+        "4": "LUP",
+        "5": "Kalaupapa",
+        "6": -156.97556,
+        "7": 21.2102778,
+        "10": "Pacific/Honolulu"
+      },
+      {
+        "1": "Vava'u International, Tonga (VAV)",
+        "2": "airport",
+        "3": "VAV",
+        "4": "VAV",
+        "5": "Vava'u",
+        "6": -173.96389,
+        "7": -18.585556,
+        "10": "Pacific/Tongatapu"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Anchorage Ted Stevens International, AK (ANC)",
+        "2": "airport",
+        "3": "ANC",
+        "4": "ANC",
+        "5": "Anchorage",
+        "6": -149.99639,
+        "7": 61.1744444,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Ancona Falconara, Italy (AOI)",
+        "2": "airport",
+        "3": "AOI",
+        "4": "AOI",
+        "5": "Ancona",
+        "6": 13.3602778,
+        "7": 43.6166667,
+        "10": "Europe/Rome"
+      }
+    ]
+  }
+}

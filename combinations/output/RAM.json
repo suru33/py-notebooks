@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Rampart, AK (RMP)",
+        "2": "airport",
+        "3": "RMP",
+        "4": "RMP",
+        "5": "Rampart",
+        "6": -150.14194,
+        "7": 65.5080556,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Ramata Island, Solomon Islands (RBV)",
+        "2": "airport",
+        "3": "RBV",
+        "4": "RBV",
+        "5": "Ramata",
+        "6": 157.641944,
+        "7": -8.1677778,
+        "10": "Pacific/Guadalcanal"
+      },
+      {
+        "1": "Ramsar, Iran (RZR)",
+        "2": "airport",
+        "3": "RZR",
+        "4": "RZR",
+        "5": "Ramsar",
+        "6": 50.68,
+        "7": 36.9091667,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "San Pedro Sula Ramon V. Morales International, Honduras (SAP)",
+        "2": "airport",
+        "3": "SAP",
+        "4": "SAP",
+        "5": "San Pedro Sula",
+        "6": -87.923611,
+        "7": 15.4527778,
+        "10": "America/Tegucigalpa"
+      },
+      {
+        "1": "Tetouan Saniat R'mel, Morocco (TTU)",
+        "2": "airport",
+        "3": "TTU",
+        "4": "TTU",
+        "5": "Tetuan",
+        "6": -5.3280556,
+        "7": 35.59,
+        "10": "Africa/Casablanca"
+      }
+    ]
+  }
+}

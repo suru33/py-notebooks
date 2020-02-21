@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Hong Kong, Hong Kong - All airports",
+        "2": "city",
+        "3": "HKG",
+        "4": "HKG",
+        "5": "Hong Kong",
+        "6": 113.93423049452794,
+        "7": 22.308737472536443,
+        "10": "Asia/Hong_Kong"
+      },
+      {
+        "1": "Hong Kong International, Hong Kong (HKG)",
+        "2": "airport",
+        "3": "HKG",
+        "4": "HKG",
+        "5": "Hong Kong",
+        "6": 113.914722,
+        "7": 22.3088889,
+        "10": "Asia/Hong_Kong"
+      }
+    ]
+  }
+}

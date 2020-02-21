@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Johannesburg, South Africa - All airports",
+        "2": "city",
+        "3": "JNB",
+        "4": "JNB",
+        "5": "Johannesburg",
+        "6": 28.19573765574505,
+        "7": -26.10759607348126,
+        "10": "Africa/Johannesburg"
+      },
+      {
+        "1": "Johannesburg O.R. Tambo International, South Africa (JNB)",
+        "2": "airport",
+        "3": "JNB",
+        "4": "JNB",
+        "5": "Johannesburg",
+        "6": 28.2461111,
+        "7": -26.139167,
+        "10": "Africa/Johannesburg"
+      },
+      {
+        "1": "Johor Bahru Senai International, Malaysia (JHB)",
+        "2": "airport",
+        "3": "JHB",
+        "4": "JHB",
+        "5": "Johor Bahru",
+        "6": 103.670278,
+        "7": 1.63888889,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Johnstown John Murtha-Cambria County, PA (JST)",
+        "2": "airport",
+        "3": "JST",
+        "4": "JST",
+        "5": "Johnstown",
+        "6": -78.833889,
+        "7": 40.3161111,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Johannesburg Lanseria International, South Africa (HLA)",
+        "2": "airport",
+        "3": "HLA",
+        "4": "JNB",
+        "5": "Johannesburg",
+        "6": 27.9261111,
+        "7": -25.938611,
+        "10": "Africa/Johannesburg"
+      },
+      {
+        "1": "Santa Ana John Wayne, CA (SNA)",
+        "2": "airport",
+        "3": "SNA",
+        "4": "SNA",
+        "5": "Santa Ana",
+        "6": -117.86833,
+        "7": 33.6755556,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Liverpool John Lennon, United Kingdom (LPL)",
+        "2": "airport",
+        "3": "LPL",
+        "4": "LPL",
+        "5": "Liverpool",
+        "6": -2.8497222,
+        "7": 53.3336111,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Missoula International, MT (MSO)",
+        "2": "airport",
+        "3": "MSO",
+        "4": "MSO",
+        "5": "Missoula",
+        "6": -114.09056,
+        "7": 46.9163889,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

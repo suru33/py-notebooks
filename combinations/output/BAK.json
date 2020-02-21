@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Baku Heydar Aliyev International, Azerbaijan (GYD)",
+        "2": "airport",
+        "3": "GYD",
+        "4": "BAK",
+        "5": "Baku",
+        "6": 50.0466667,
+        "7": 40.4675,
+        "10": "Asia/Baku"
+      },
+      {
+        "1": "Bakersfield Meadows Field, CA (BFL)",
+        "2": "airport",
+        "3": "BFL",
+        "4": "BFL",
+        "5": "Bakersfield",
+        "6": -119.05667,
+        "7": 35.4336111,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Bakelalan, Malaysia (BKM)",
+        "2": "airport",
+        "3": "BKM",
+        "4": "BKM",
+        "5": "Bakalalan",
+        "6": 115.617222,
+        "7": 3.97388889,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Baker Lake, NU, Canada (YBK)",
+        "2": "airport",
+        "3": "YBK",
+        "4": "YBK",
+        "5": "Baker Lake",
+        "6": -96.077778,
+        "7": 64.2988889,
+        "10": "America/Rainy_River"
+      }
+    ]
+  }
+}

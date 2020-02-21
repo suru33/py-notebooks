@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Irarutu Babo, Indonesia (BXB)",
+        "2": "airport",
+        "3": "BXB",
+        "4": "BXB",
+        "5": "Babo",
+        "6": 133.438889,
+        "7": -2.535,
+        "10": "Asia/Jayapura"
+      },
+      {
+        "1": "Varanasi Lal Bahadur Shastri, India (VNS)",
+        "2": "airport",
+        "3": "VNS",
+        "4": "VNS",
+        "5": "Varanasi",
+        "6": 82.8594444,
+        "7": 25.4522222,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Ternate Sultan Babullah, Indonesia (TTE)",
+        "2": "airport",
+        "3": "TTE",
+        "4": "TTE",
+        "5": "Ternate",
+        "6": 127.381389,
+        "7": 0.83138889,
+        "10": "Asia/Jayapura"
+      },
+      {
+        "1": "Zielona Gora Babimost, Poland (IEG)",
+        "2": "airport",
+        "3": "IEG",
+        "4": "IEG",
+        "5": "Zielona Gora",
+        "6": 15.7986111,
+        "7": 52.1386111,
+        "10": "Europe/Warsaw"
+      }
+    ]
+  }
+}

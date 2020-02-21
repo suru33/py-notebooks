@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bacau, Romania (BCM)",
+        "2": "airport",
+        "3": "BCM",
+        "4": "BCM",
+        "5": "Bacau",
+        "6": 26.9102778,
+        "7": 46.5219444,
+        "10": "Europe/Bucharest"
+      },
+      {
+        "1": "Bacolod Silay International, Philippines (BCD)",
+        "2": "airport",
+        "3": "BCD",
+        "4": "BCD",
+        "5": "Bacolod",
+        "6": 123.019167,
+        "7": 10.7766667,
+        "10": "Asia/Manila"
+      },
+      {
+        "1": "Culiacan Fed. de Bachigualato, Mexico (CUL)",
+        "2": "airport",
+        "3": "CUL",
+        "4": "CUL",
+        "5": "Culiacan",
+        "6": -107.47472,
+        "7": 24.7644444,
+        "10": "America/Mazatlan"
+      }
+    ]
+  }
+}

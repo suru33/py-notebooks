@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Horn Island, Australia (HID)",
+        "2": "airport",
+        "3": "HID",
+        "4": "HID",
+        "5": "Horn Island",
+        "6": 142.29,
+        "7": -10.586389,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Guadalajara Miguel Hidalgo International, Mexico (GDL)",
+        "2": "airport",
+        "3": "GDL",
+        "4": "GDL",
+        "5": "Guadalajara",
+        "6": -103.31111,
+        "7": 20.5216667,
+        "10": "America/Cancun"
+      }
+    ]
+  }
+}

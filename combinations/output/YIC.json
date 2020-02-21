@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Yichun (Jiangxi) Mingyueshan, China (YIC)",
+        "2": "airport",
+        "3": "YIC",
+        "4": "YIC",
+        "5": "Yichun (Jiangxi)",
+        "6": 114.307778,
+        "7": 27.8033333,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Yichang Sanxia, China (YIH)",
+        "2": "airport",
+        "3": "YIH",
+        "4": "YIH",
+        "5": "Yichang",
+        "6": 111.479722,
+        "7": 30.5569444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Yichun (Heilongjiang) Lindu, China (LDS)",
+        "2": "airport",
+        "3": "LDS",
+        "4": "LDS",
+        "5": "Yichun Shi",
+        "6": 129.017778,
+        "7": 47.7513889,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

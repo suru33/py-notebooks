@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Nukutavake, French Polynesia (NUK)",
+        "2": "airport",
+        "3": "NUK",
+        "4": "NUK",
+        "5": "Nukutavake",
+        "6": -138.76972,
+        "7": -19.285,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Nuku Hiva, French Polynesia (NHV)",
+        "2": "airport",
+        "3": "NHV",
+        "4": "NHV",
+        "5": "Nuku Hiva",
+        "6": -140.22889,
+        "7": -8.7955556,
+        "10": "Pacific/Marquesas"
+      },
+      {
+        "1": "Nukus, Uzbekistan (NCU)",
+        "2": "airport",
+        "3": "NCU",
+        "4": "NCU",
+        "5": "Nukus",
+        "6": 59.6227778,
+        "7": 42.4866667,
+        "10": "Asia/Samarkand"
+      },
+      {
+        "1": "Nuku'alofa Fua'amotu International, Tonga (TBU)",
+        "2": "airport",
+        "3": "TBU",
+        "4": "TBU",
+        "5": "Tongatapu",
+        "6": -175.14361,
+        "7": -21.244444,
+        "10": "Pacific/Tongatapu"
+      }
+    ]
+  }
+}

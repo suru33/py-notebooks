@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Arauca Santiago Perez Quiroz, Colombia (AUC)",
+        "2": "airport",
+        "3": "AUC",
+        "4": "AUC",
+        "5": "Arauca",
+        "6": -70.736944,
+        "7": 7.06888889,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Auckland International, New Zealand (AKL)",
+        "2": "airport",
+        "3": "AKL",
+        "4": "AKL",
+        "5": "Auckland",
+        "6": 174.791667,
+        "7": -37.009722,
+        "10": "Pacific/Auckland"
+      }
+    ]
+  }
+}

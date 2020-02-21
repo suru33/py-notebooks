@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Inta, Russia (INA)",
+        "2": "airport",
+        "3": "INA",
+        "4": "INA",
+        "5": "Inta",
+        "6": 60.1102778,
+        "7": 66.0555556,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "In Amenas Zarzaitine, Algeria (IAM)",
+        "2": "airport",
+        "3": "IAM",
+        "4": "IAM",
+        "5": "In Amenas",
+        "6": 9.64277778,
+        "7": 28.0516667,
+        "10": "Africa/Algiers"
+      },
+      {
+        "1": "Inagua Matthew Town, Bahamas (IGA)",
+        "2": "airport",
+        "3": "IGA",
+        "4": "IGA",
+        "5": "Inagua",
+        "6": -73.666944,
+        "7": 20.975,
+        "10": "America/Nassau"
+      }
+    ]
+  }
+}

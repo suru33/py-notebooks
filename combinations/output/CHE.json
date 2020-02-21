@@ -1,0 +1,205 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Chengdu Shuangliu International, China (CTU)",
+        "2": "airport",
+        "3": "CTU",
+        "4": "CTU",
+        "5": "Chengdu",
+        "6": 103.947222,
+        "7": 30.5786111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Chennai International, India (MAA)",
+        "2": "airport",
+        "3": "MAA",
+        "4": "MAA",
+        "5": "Chennai",
+        "6": 80.1805556,
+        "7": 12.9944444,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Chelyabinsk Balandino, Russia (CEK)",
+        "2": "airport",
+        "3": "CEK",
+        "4": "CEK",
+        "5": "Chelyabinsk",
+        "6": 61.5033333,
+        "7": 55.3058333,
+        "10": "Asia/Yekaterinburg"
+      },
+      {
+        "1": "Cherepovets, Russia (CEE)",
+        "2": "airport",
+        "3": "CEE",
+        "4": "CEE",
+        "5": "Cherepovets",
+        "6": 38.0225,
+        "7": 59.2780556,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Cheongju International, South Korea (CJJ)",
+        "2": "airport",
+        "3": "CJJ",
+        "4": "CJJ",
+        "5": "Cheong Ju City",
+        "6": 127.499167,
+        "7": 36.7166667,
+        "10": "Asia/Seoul"
+      },
+      {
+        "1": "Chevery, QC, Canada (YHR)",
+        "2": "airport",
+        "3": "YHR",
+        "4": "YHR",
+        "5": "Chevery",
+        "6": -59.636667,
+        "7": 50.4688889,
+        "10": "America/Blanc-Sablon"
+      },
+      {
+        "1": "Chengde Puning, China (CDE)",
+        "2": "airport",
+        "3": "CDE",
+        "4": "CDE",
+        "5": "Chengde",
+        "6": 118.076111,
+        "7": 41.1213889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Chevak, AK (VAK)",
+        "2": "airport",
+        "3": "VAK",
+        "4": "VAK",
+        "5": "Chevak",
+        "6": -165.60194,
+        "7": 61.54,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Cheboksary, Russia (CSY)",
+        "2": "airport",
+        "3": "CSY",
+        "4": "CSY",
+        "5": "Cheboksary",
+        "6": 47.3472222,
+        "7": 56.0902778,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Chefornak, AK (CYF)",
+        "2": "airport",
+        "3": "CYF",
+        "4": "CYF",
+        "5": "Chefornak",
+        "6": -164.27472,
+        "7": 60.1597222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Chetumal International, Mexico (CTM)",
+        "2": "airport",
+        "3": "CTM",
+        "4": "CTM",
+        "5": "Chetumal",
+        "6": -88.326944,
+        "7": 18.5047222
+      },
+      {
+        "1": "Chesterfield Inlet, NU, Canada (YCS)",
+        "2": "airport",
+        "3": "YCS",
+        "4": "YCS",
+        "5": "Chesterfield Inlet",
+        "6": -90.728889,
+        "7": 63.3466667,
+        "10": "America/Rainy_River"
+      },
+      {
+        "1": "Cheyenne Regional, WY (CYS)",
+        "2": "airport",
+        "3": "CYS",
+        "4": "CYS",
+        "5": "Cheyenne",
+        "6": -104.81194,
+        "7": 41.1558333,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Chernivtsi International, Ukraine (CWC)",
+        "2": "airport",
+        "3": "CWC",
+        "4": "CWC",
+        "5": "Chernovtsy",
+        "6": 25.9802778,
+        "7": 48.2594444,
+        "10": "Europe/Kiev"
+      },
+      {
+        "1": "Chester Hawarden, United Kingdom (CEG)",
+        "2": "airport",
+        "3": "CEG",
+        "4": "CEG",
+        "5": "Chester",
+        "6": -2.9777778,
+        "7": 53.1780556,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Chersky, Russia (CYX)",
+        "2": "airport",
+        "3": "CYX",
+        "4": "CYX",
+        "5": "Cherskiy",
+        "6": 161.3375,
+        "7": 68.7416667,
+        "10": "Asia/Magadan"
+      },
+      {
+        "1": "Chenzhou Railway Station, China (LQP)",
+        "2": "rail",
+        "3": "LQP",
+        "4": "LQP",
+        "5": "Chenzhou",
+        "6": 113.033889,
+        "7": 25.8086111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Cheltenham Royal Well Bus Station, United Kingdom (CHW)",
+        "2": "bus",
+        "3": "CHW",
+        "4": "CHW",
+        "5": "Cheltenham",
+        "6": -2.0780556,
+        "7": 51.8994444,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Georgetown Cheddi Jagan International, Guyana (GEO)",
+        "2": "airport",
+        "3": "GEO",
+        "4": "GEO",
+        "5": "Georgetown",
+        "6": -58.254167,
+        "7": 6.49861111,
+        "10": "America/Guyana"
+      },
+      {
+        "1": "Franklin Venango Regional, PA (FKL)",
+        "2": "airport",
+        "3": "FKL",
+        "4": "FKL",
+        "5": "Franklin",
+        "6": -79.86,
+        "7": 41.3791667,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

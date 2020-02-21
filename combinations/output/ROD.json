@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Rodez Marcillac, France (RDZ)",
+        "2": "airport",
+        "3": "RDZ",
+        "4": "RDZ",
+        "5": "Rodez",
+        "6": 2.48333333,
+        "7": 44.4075,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Rodrigues Island Plaine Corail, Mauritius (RRG)",
+        "2": "airport",
+        "3": "RRG",
+        "4": "RRG",
+        "5": "Rodrigues Island",
+        "6": 63.3611111,
+        "7": -19.757778,
+        "10": "Indian/Mauritius"
+      },
+      {
+        "1": "Tijuana A.L. Rodriguez International, Mexico (TIJ)",
+        "2": "airport",
+        "3": "TIJ",
+        "4": "TIJ",
+        "5": "Tijuana",
+        "6": -116.97028,
+        "7": 32.5411111,
+        "10": "America/Tijuana"
+      }
+    ]
+  }
+}

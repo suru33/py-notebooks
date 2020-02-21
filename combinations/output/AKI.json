@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Akiak, AK (AKI)",
+        "2": "airport",
+        "3": "AKI",
+        "4": "AKI",
+        "5": "Akiak",
+        "6": -161.23222,
+        "7": 60.9016667,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Akiachak, AK (KKI)",
+        "2": "airport",
+        "3": "KKI",
+        "4": "KKI",
+        "5": "Akiachak",
+        "6": -161.42389,
+        "7": 60.9052778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Akita, Japan (AXT)",
+        "2": "airport",
+        "3": "AXT",
+        "4": "AXT",
+        "5": "Akita",
+        "6": 140.218611,
+        "7": 39.6155556,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

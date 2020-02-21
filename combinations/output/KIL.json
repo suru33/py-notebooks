@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kilimanjaro International, Tanzania (JRO)",
+        "2": "airport",
+        "3": "JRO",
+        "4": "JRO",
+        "5": "Kilimanjaro",
+        "6": 37.0744444,
+        "7": -3.4294444,
+        "10": "Africa/Dar_es_Salaam"
+      },
+      {
+        "1": "Killeen/Fort Hood Regional/R.Gray AAF, TX (GRK)",
+        "2": "airport",
+        "3": "GRK",
+        "4": "ILE",
+        "5": "Killeen",
+        "6": -97.828889,
+        "7": 31.0672222,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Kilwa Masoko, Tanzania (KIY)",
+        "2": "airport",
+        "3": "KIY",
+        "4": "KIY",
+        "5": "Kilwa",
+        "6": 39.5086111,
+        "7": -8.9102778,
+        "10": "Africa/Dar_es_Salaam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Guwahati Gopinath Bordoloi International, India (GAU)",
+        "2": "airport",
+        "3": "GAU",
+        "4": "GAU",
+        "5": "Gauahati",
+        "6": 91.5858333,
+        "7": 26.1061111,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Gaua Island, Vanuatu (ZGU)",
+        "2": "airport",
+        "3": "ZGU",
+        "4": "ZGU",
+        "5": "Gaua",
+        "6": 167.588333,
+        "7": -14.219722,
+        "10": "Pacific/Efate"
+      }
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Burbank Bob Hope, CA (BUR)",
+        "2": "airport",
+        "3": "BUR",
+        "4": "BUR",
+        "5": "Burbank",
+        "6": -118.35861,
+        "7": 34.2005556,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Burlington International, VT (BTV)",
+        "2": "airport",
+        "3": "BTV",
+        "4": "BTV",
+        "5": "Burlington",
+        "6": -73.153333,
+        "7": 44.4719444,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Burgas, Bulgaria (BOJ)",
+        "2": "airport",
+        "3": "BOJ",
+        "4": "BOJ",
+        "5": "Bourgas",
+        "6": 27.5152778,
+        "7": 42.5697222,
+        "10": "Europe/Sofia"
+      },
+      {
+        "1": "Bursa Yenisehir, Turkey (YEI)",
+        "2": "airport",
+        "3": "YEI",
+        "4": "YEI",
+        "5": "Bursa",
+        "6": 29.5625,
+        "7": 40.2552778,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Burketown, Australia (BUC)",
+        "2": "airport",
+        "3": "BUC",
+        "4": "BUC",
+        "5": "Burketown",
+        "6": 139.534444,
+        "7": -17.748611,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Burlington Southeast Iowa Regional, IA (BRL)",
+        "2": "airport",
+        "3": "BRL",
+        "4": "BRL",
+        "5": "Burlington",
+        "6": -91.1225,
+        "7": 40.7794444,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Burnie Wynyard, Australia (BWT)",
+        "2": "airport",
+        "3": "BWT",
+        "4": "BWT",
+        "5": "Burnie",
+        "6": 145.726667,
+        "7": -40.997222,
+        "10": "Australia/Hobart"
+      },
+      {
+        "1": "Burgos, Spain (RGS)",
+        "2": "airport",
+        "3": "RGS",
+        "4": "RGS",
+        "5": "Burgos",
+        "6": -3.6208333,
+        "7": 42.3575,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Buriram, Thailand (BFV)",
+        "2": "airport",
+        "3": "BFV",
+        "4": "BFV",
+        "5": "Buri Ram",
+        "6": 103.251111,
+        "7": 15.2266667,
+        "10": "Asia/Bangkok"
+      },
+      {
+        "1": "Burqin Kanas, China (KJI)",
+        "2": "airport",
+        "3": "KJI",
+        "4": "KJI",
+        "5": "Buerjin City",
+        "6": 86.9961111,
+        "7": 48.2216667,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Burgos Bus Station, Spain (XJU)",
+        "2": "bus",
+        "3": "XJU",
+        "4": "RGS",
+        "5": "Burgos",
+        "6": -3.7011111,
+        "7": 42.3377778,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Burgos Railway Station, Spain (UGR)",
+        "2": "rail",
+        "3": "UGR",
+        "4": "RGS",
+        "5": "Burgos",
+        "6": -3.6661111,
+        "7": 42.3708333,
+        "10": "Europe/Madrid"
+      }
+    ]
+  }
+}

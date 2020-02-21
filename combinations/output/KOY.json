@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Olga Bay Sea Plane Base, AK (KOY)",
+        "2": "airport",
+        "3": "KOY",
+        "4": "KOY",
+        "5": "Olga Bay",
+        "6": -154.22917,
+        "7": 57.1602778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Koyukuk, AK (KYU)",
+        "2": "airport",
+        "3": "KYU",
+        "4": "KYU",
+        "5": "Koyukuk",
+        "6": -157.72444,
+        "7": 64.8763889,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Koyuk Alfred Adams, AK (KKA)",
+        "2": "airport",
+        "3": "KKA",
+        "4": "KKA",
+        "5": "Koyuk",
+        "6": -161.15528,
+        "7": 64.9388889,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

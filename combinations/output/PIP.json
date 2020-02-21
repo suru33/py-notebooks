@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Pilot Point, AK - All airports",
+        "2": "city",
+        "3": "PIP",
+        "4": "PIP",
+        "5": "Pilot Point",
+        "6": -157.6620501435407,
+        "7": 57.49915071674641,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Pilot Point Airport, AK (PIP)",
+        "2": "airport",
+        "3": "PIP",
+        "4": "PIP",
+        "5": "Pilot Point",
+        "6": -157.57194,
+        "7": 57.5802778,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

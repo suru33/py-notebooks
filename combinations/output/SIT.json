@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sitka Rocky Gutierrez, AK (SIT)",
+        "2": "airport",
+        "3": "SIT",
+        "4": "SIT",
+        "5": "Sitka",
+        "6": -135.36167,
+        "7": 57.0472222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Sittwe, Myanmar (AKY)",
+        "2": "airport",
+        "3": "AKY",
+        "4": "AKY",
+        "5": "Sittwe",
+        "6": 92.8725,
+        "7": 20.1327778,
+        "10": "Asia/Rangoon"
+      },
+      {
+        "1": "Siteia, Greece (JSH)",
+        "2": "airport",
+        "3": "JSH",
+        "4": "JSH",
+        "5": "Sitia",
+        "6": 26.1013889,
+        "7": 35.2161111,
+        "10": "Europe/Athens"
+      }
+    ]
+  }
+}

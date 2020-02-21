@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Yorke Island, Australia (OKR)",
+        "2": "airport",
+        "3": "OKR",
+        "4": "OKR",
+        "5": "Yorke Island",
+        "6": 143.405556,
+        "7": -9.7527778,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Yoron, Japan (RNJ)",
+        "2": "airport",
+        "3": "RNJ",
+        "4": "RNJ",
+        "5": "Yoronjima",
+        "6": 128.401944,
+        "7": 27.0438889,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

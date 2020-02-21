@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Whale Pass North Whale SPB, AK (WWP)",
+        "2": "airport",
+        "3": "WWP",
+        "4": "WWP",
+        "5": "Whale Pass",
+        "6": -133.125,
+        "7": 56.1166667,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Whale Cove, NU, Canada (YXN)",
+        "2": "airport",
+        "3": "YXN",
+        "4": "YXN",
+        "5": "Whale Cove",
+        "6": -92.597222,
+        "7": 62.2397222,
+        "10": "America/Rainy_River"
+      },
+      {
+        "1": "Whakatane, New Zealand (WHK)",
+        "2": "airport",
+        "3": "WHK",
+        "4": "WHK",
+        "5": "Whakatane",
+        "6": 176.916389,
+        "7": -37.922222,
+        "10": "Pacific/Auckland"
+      },
+      {
+        "1": "Whanganui, New Zealand (WAG)",
+        "2": "airport",
+        "3": "WAG",
+        "4": "WAG",
+        "5": "Wanganui",
+        "6": 175.023056,
+        "7": -39.9625,
+        "10": "Pacific/Auckland"
+      },
+      {
+        "1": "Whangarei, New Zealand (WRE)",
+        "2": "airport",
+        "3": "WRE",
+        "4": "WRE",
+        "5": "Whangarei",
+        "6": 174.363889,
+        "7": -35.768889,
+        "10": "Pacific/Auckland"
+      },
+      {
+        "1": "Whati, NT, Canada (YLE)",
+        "2": "airport",
+        "3": "YLE",
+        "4": "YLE",
+        "5": "Wha Ti/Lac La Martre",
+        "6": -117.2475,
+        "7": 63.1322222,
+        "10": "America/Edmonton"
+      }
+    ]
+  }
+}

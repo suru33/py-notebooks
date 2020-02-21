@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Pemba, Mozambique (POL)",
+        "2": "airport",
+        "3": "POL",
+        "4": "POL",
+        "5": "Pemba",
+        "6": 40.5225,
+        "7": -12.986667,
+        "10": "Africa/Maputo"
+      },
+      {
+        "1": "Polyarny, Russia (PYJ)",
+        "2": "airport",
+        "3": "PYJ",
+        "4": "PYJ",
+        "5": "Polyarnyj",
+        "6": 112.030278,
+        "7": 66.4005556,
+        "10": "Asia/Yakutsk"
+      },
+      {
+        "1": "Polk Inlet, AK (POQ)",
+        "2": "airport",
+        "3": "POQ",
+        "4": "POQ",
+        "5": "Polk Inlet",
+        "6": -132.5,
+        "7": 55.35,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Polokwane International, South Africa (PTG)",
+        "2": "airport",
+        "3": "PTG",
+        "4": "PTG",
+        "5": "Pietersburg",
+        "6": 29.4586111,
+        "7": -23.845278,
+        "10": "Africa/Johannesburg"
+      }
+    ]
+  }
+}

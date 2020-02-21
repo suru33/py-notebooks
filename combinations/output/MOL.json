@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Molde Aro, Norway (MOL)",
+        "2": "airport",
+        "3": "MOL",
+        "4": "MOL",
+        "5": "Molde",
+        "6": 7.2625,
+        "7": 62.7447222,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Moline Quad City International, IL (MLI)",
+        "2": "airport",
+        "3": "MLI",
+        "4": "MLI",
+        "5": "Moline",
+        "6": -90.5075,
+        "7": 41.4486111,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

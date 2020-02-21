@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sault Sainte Marie, ON, Canada (YAM)",
+        "2": "airport",
+        "3": "YAM",
+        "4": "YAM",
+        "5": "Sault Sainte Marie",
+        "6": -84.509444,
+        "7": 46.485,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Yam Island, Australia (XMY)",
+        "2": "airport",
+        "3": "XMY",
+        "4": "XMY",
+        "5": "Yam Island",
+        "6": 142.774167,
+        "7": -9.8991667,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Yamagata, Japan (GAJ)",
+        "2": "airport",
+        "3": "GAJ",
+        "4": "GAJ",
+        "5": "Yamagata",
+        "6": 140.371389,
+        "7": 38.4119444,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Yamaguchi-Ube, Japan (UBJ)",
+        "2": "airport",
+        "3": "UBJ",
+        "4": "UBJ",
+        "5": "Ube",
+        "6": 131.278611,
+        "7": 33.93,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

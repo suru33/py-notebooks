@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lencois Horacio de Mattos, Brazil (LEC)",
+        "2": "airport",
+        "3": "LEC",
+        "4": "LEC",
+        "5": "Lencois",
+        "6": -41.281111,
+        "7": -12.48,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Lecce Railway Station, Italy (LCZ)",
+        "2": "rail",
+        "3": "LCZ",
+        "4": "LCC",
+        "5": "Lecce",
+        "6": 18.1655556,
+        "7": 40.3455556,
+        "10": "Europe/Rome"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Pau Pyrenees, France (PUF)",
+        "2": "airport",
+        "3": "PUF",
+        "4": "PUF",
+        "5": "Pau",
+        "6": -0.4186111,
+        "7": 43.38,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Paulatuk Nora A. Ruben, NT, Canada (YPC)",
+        "2": "airport",
+        "3": "YPC",
+        "4": "YPC",
+        "5": "Paulatuk",
+        "6": -124.0775,
+        "7": 69.3594444,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "Paulo Afonso, Brazil (PAV)",
+        "2": "airport",
+        "3": "PAV",
+        "4": "PAV",
+        "5": "Paulo Afonso",
+        "6": -38.250556,
+        "7": -9.4008333,
+        "10": "America/Belem"
+      }
+    ]
+  }
+}

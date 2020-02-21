@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Zhuhai Sanzao International, China (ZUH)",
+        "2": "airport",
+        "3": "ZUH",
+        "4": "ZUH",
+        "5": "Zhuhai",
+        "6": 113.376111,
+        "7": 22.0066667,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Zhukovsky, Russia (ZIA)",
+        "2": "airport",
+        "3": "ZIA",
+        "4": "ZIA",
+        "5": "Zhukovsky",
+        "6": 38.1516667,
+        "7": 55.5533333,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Zhuzhou Railway Station, China (DHU)",
+        "2": "rail",
+        "3": "DHU",
+        "4": "DHU",
+        "5": "Zhuzhou",
+        "6": 113.154167,
+        "7": 27.8441667,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Zhuhai CZ Bus Station, China (ZIU)",
+        "2": "bus",
+        "3": "ZIU",
+        "4": "ZUH",
+        "5": "Zhuhai",
+        "6": 113.566667,
+        "7": 22.2788889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Kiev Zhuliany International, Ukraine (IEV)",
+        "2": "airport",
+        "3": "IEV",
+        "4": "IEV",
+        "5": "Kiev",
+        "6": 30.4497222,
+        "7": 50.4016667,
+        "10": "Europe/Kiev"
+      }
+    ]
+  }
+}

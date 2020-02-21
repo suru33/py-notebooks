@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Luderitz, Namibia (LUD)",
+        "2": "airport",
+        "3": "LUD",
+        "4": "LUD",
+        "5": "Luderitz",
+        "6": 15.2427778,
+        "7": -26.6875,
+        "10": "Africa/Windhoek"
+      },
+      {
+        "1": "Ludhiana, India (LUH)",
+        "2": "airport",
+        "3": "LUH",
+        "4": "LUH",
+        "5": "Ludhiana",
+        "6": 75.9536111,
+        "7": 30.8541667,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

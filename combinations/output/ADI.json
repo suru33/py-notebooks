@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Adiyaman, Turkey (ADF)",
+        "2": "airport",
+        "3": "ADF",
+        "4": "ADF",
+        "5": "Adiyaman",
+        "6": 38.4688889,
+        "7": 37.7313889,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Yogyakarta Adisutjipto, Indonesia (JOG)",
+        "2": "airport",
+        "3": "JOG",
+        "4": "JOG",
+        "5": "Yogyakarta",
+        "6": 110.431667,
+        "7": -7.7880556,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Saranac Lake Adirondack Regional, NY (SLK)",
+        "2": "airport",
+        "3": "SLK",
+        "4": "SLK",
+        "5": "Saranac Lake",
+        "6": -74.206111,
+        "7": 44.3852778,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

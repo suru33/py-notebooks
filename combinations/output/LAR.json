@@ -1,0 +1,116 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Laramie Regional, WY (LAR)",
+        "2": "airport",
+        "3": "LAR",
+        "4": "LAR",
+        "5": "Laramie",
+        "6": -105.675,
+        "7": 41.3119444,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Larnaca, Cyprus (LCA)",
+        "2": "airport",
+        "3": "LCA",
+        "4": "LCA",
+        "5": "Larnaca",
+        "6": 33.6247222,
+        "7": 34.875,
+        "10": "Asia/Nicosia"
+      },
+      {
+        "1": "Laredo International, TX (LRD)",
+        "2": "airport",
+        "3": "LRD",
+        "4": "LRD",
+        "5": "Laredo",
+        "6": -99.461667,
+        "7": 27.5438889,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "La Rochelle Ile de Re, France (LRH)",
+        "2": "airport",
+        "3": "LRH",
+        "4": "LRH",
+        "5": "La Rochelle",
+        "6": -1.1952778,
+        "7": 46.1791667,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "La Romana Casa de Campo International, Dominican Republic (LRM)",
+        "2": "airport",
+        "3": "LRM",
+        "4": "LRM",
+        "5": "La Romana",
+        "6": -68.911944,
+        "7": 18.4508333,
+        "10": "America/Santo_Domingo"
+      },
+      {
+        "1": "La Romaine, QC, Canada (ZGS)",
+        "2": "airport",
+        "3": "ZGS",
+        "4": "ZGS",
+        "5": "Gethsemani",
+        "6": -60.674722,
+        "7": 50.2597222,
+        "10": "America/Blanc-Sablon"
+      },
+      {
+        "1": "Lar, Iran (LRR)",
+        "2": "airport",
+        "3": "LRR",
+        "4": "LRR",
+        "5": "Lar",
+        "6": 54.3872222,
+        "7": 27.6730556,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Larsen Bay, AK (KLN)",
+        "2": "airport",
+        "3": "KLN",
+        "4": "KLN",
+        "5": "Larsen Bay",
+        "6": -153.97778,
+        "7": 57.5344444,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "La Rioja Captain V.A. Almonacid, Argentina (IRJ)",
+        "2": "airport",
+        "3": "IRJ",
+        "4": "IRJ",
+        "5": "La Rioja",
+        "6": -66.795833,
+        "7": -29.380556,
+        "10": "America/Argentina/Mendoza"
+      },
+      {
+        "1": "Larantuka Gewayantana, Indonesia (LKA)",
+        "2": "airport",
+        "3": "LKA",
+        "4": "LKA",
+        "5": "Larantuka",
+        "6": 123.000556,
+        "7": -8.2741667,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Pointe-a-Pitre Le Raizet, Guadeloupe (PTP)",
+        "2": "airport",
+        "3": "PTP",
+        "4": "PTP",
+        "5": "Pointe-A-Pitre",
+        "6": -61.531944,
+        "7": 16.2652778,
+        "10": "America/Guadeloupe"
+      }
+    ]
+  }
+}

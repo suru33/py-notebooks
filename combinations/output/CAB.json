@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Cabinda, Angola (CAB)",
+        "2": "airport",
+        "3": "CAB",
+        "4": "CAB",
+        "5": "Cabinda",
+        "6": 12.1880556,
+        "7": -5.5972222,
+        "10": "Africa/Luanda"
+      },
+      {
+        "1": "Cabo Frio International, Brazil (CFB)",
+        "2": "airport",
+        "3": "CFB",
+        "4": "CFB",
+        "5": "Cabo Frio",
+        "6": -42.078611,
+        "7": -22.925,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Sal Island Amilcar Cabral International, Cape Verde (SID)",
+        "2": "airport",
+        "3": "SID",
+        "4": "SID",
+        "5": "Sal",
+        "6": -22.949444,
+        "7": 16.7413889,
+        "10": "Atlantic/Cape_Verde"
+      },
+      {
+        "1": "Nueva Gerona Rafael Cabrera, Cuba (GER)",
+        "2": "airport",
+        "3": "GER",
+        "4": "GER",
+        "5": "Nueva Gerona",
+        "6": -82.783889,
+        "7": 21.8347222,
+        "10": "America/Havana"
+      }
+    ]
+  }
+}

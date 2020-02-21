@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Humera, Ethiopia (HUE)",
+        "2": "airport",
+        "3": "HUE",
+        "4": "HUE",
+        "5": "Humera",
+        "6": 36.8794444,
+        "7": 13.8333333,
+        "10": "Africa/Addis_Ababa"
+      },
+      {
+        "1": "Hue Phu Bai International, Viet Nam (HUI)",
+        "2": "airport",
+        "3": "HUI",
+        "4": "HUI",
+        "5": "Hue",
+        "6": 107.703056,
+        "7": 16.4008333,
+        "10": "Asia/Ho_Chi_Minh"
+      },
+      {
+        "1": "Huelva Railway Station, Spain (HEV)",
+        "2": "rail",
+        "3": "HEV",
+        "4": "HEV",
+        "5": "Huelva",
+        "6": -6.9511111,
+        "7": 37.2530556,
+        "10": "Europe/Madrid"
+      }
+    ]
+  }
+}

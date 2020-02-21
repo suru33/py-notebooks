@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Seoul, South Korea - All airports",
+        "2": "city",
+        "3": "SEL",
+        "4": "SEL",
+        "5": "Seoul",
+        "6": 126.52941405885484,
+        "7": 37.48984759703143,
+        "10": "Asia/Seoul"
+      },
+      {
+        "1": "Seldovia, AK (SOV)",
+        "2": "airport",
+        "3": "SOV",
+        "4": "SOV",
+        "5": "Seldovia",
+        "6": -151.70528,
+        "7": 59.4438889,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Selawik, AK (WLK)",
+        "2": "airport",
+        "3": "WLK",
+        "4": "WLK",
+        "5": "Selawik",
+        "6": -159.98444,
+        "7": 66.6002778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Selayar Islands H. Aroeppala, Indonesia (KSR)",
+        "2": "airport",
+        "3": "KSR",
+        "4": "KSR",
+        "5": "Selayar Islands",
+        "6": 120.436389,
+        "7": -6.1755556,
+        "10": "Asia/Makassar"
+      }
+    ]
+  }
+}

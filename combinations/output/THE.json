@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Teresina Petronio Portella, Brazil (THE)",
+        "2": "airport",
+        "3": "THE",
+        "4": "THE",
+        "5": "Teresina",
+        "6": -42.823611,
+        "7": -5.06,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Thessaloniki Makedonia, Greece (SKG)",
+        "2": "airport",
+        "3": "SKG",
+        "4": "SKG",
+        "5": "Thessaloniki",
+        "6": 22.9708333,
+        "7": 40.5197222,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "The Pas, MB, Canada (YQD)",
+        "2": "airport",
+        "3": "YQD",
+        "4": "YQD",
+        "5": "The Pas",
+        "6": -101.09111,
+        "7": 53.9713889,
+        "10": "America/Rainy_River"
+      },
+      {
+        "1": "The Bight New Bight, Bahamas (TBI)",
+        "2": "airport",
+        "3": "TBI",
+        "4": "TBI",
+        "5": "The Bight",
+        "6": -75.453611,
+        "7": 24.3155556,
+        "10": "America/Nassau"
+      },
+      {
+        "1": "The Granites, Australia (GTS)",
+        "2": "airport",
+        "3": "GTS",
+        "4": "GTS",
+        "5": "Granites",
+        "6": 133.606944,
+        "7": -26.948056,
+        "10": "Australia/Darwin"
+      },
+      {
+        "1": "The Hague Centraal Railway Station, Netherlands (ZYH)",
+        "2": "rail",
+        "3": "ZYH",
+        "4": "HAG",
+        "5": "The Hague",
+        "6": 4.32916667,
+        "7": 52.0816667,
+        "10": "Europe/Amsterdam"
+      },
+      {
+        "1": "The Pas Railway Station, MB, Canada (XDZ)",
+        "2": "rail",
+        "3": "XDZ",
+        "4": "YQD",
+        "5": "The Pas",
+        "6": -101.24778,
+        "7": 53.825,
+        "10": "America/Rainy_River"
+      }
+    ]
+  }
+}

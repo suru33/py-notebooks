@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Anguilla Clayton J. Lloyd International, Anguilla (AXA)",
+        "2": "airport",
+        "3": "AXA",
+        "4": "AXA",
+        "5": "Anguilla",
+        "6": -63.055,
+        "7": 18.2047222,
+        "10": "America/Anguilla"
+      },
+      {
+        "1": "Jonkoping, Sweden (JKG)",
+        "2": "airport",
+        "3": "JKG",
+        "4": "JKG",
+        "5": "Jonkoping",
+        "6": 14.0686111,
+        "7": 57.7575,
+        "10": "Europe/Stockholm"
+      }
+    ]
+  }
+}

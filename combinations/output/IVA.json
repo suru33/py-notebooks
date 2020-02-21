@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Ivalo, Finland (IVL)",
+        "2": "airport",
+        "3": "IVL",
+        "4": "IVL",
+        "5": "Ivalo",
+        "6": 27.4052778,
+        "7": 68.6072222,
+        "10": "Europe/Helsinki"
+      },
+      {
+        "1": "Ivano-Frankivsk International, Ukraine (IFO)",
+        "2": "airport",
+        "3": "IFO",
+        "4": "IFO",
+        "5": "Ivano-Frankovsk",
+        "6": 24.6861111,
+        "7": 48.8841667,
+        "10": "Europe/Kiev"
+      },
+      {
+        "1": "Ivanovo Yuzhny, Russia (IWA)",
+        "2": "airport",
+        "3": "IWA",
+        "4": "IWA",
+        "5": "Ivanovo",
+        "6": 40.98,
+        "7": 57.0583333,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Antananarivo Ivato International, Madagascar (TNR)",
+        "2": "airport",
+        "3": "TNR",
+        "4": "TNR",
+        "5": "Antananarivo",
+        "6": 47.4788889,
+        "7": -18.796944,
+        "10": "Indian/Antananarivo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kuusamo, Finland (KAO)",
+        "2": "airport",
+        "3": "KAO",
+        "4": "KAO",
+        "5": "Kuusamo",
+        "6": 29.2394444,
+        "7": 65.9875,
+        "10": "Europe/Helsinki"
+      },
+      {
+        "1": "Kaohsiung International, Taiwan (KHH)",
+        "2": "airport",
+        "3": "KHH",
+        "4": "KHH",
+        "5": "Kaohsiung",
+        "6": 120.35,
+        "7": 22.5772222,
+        "10": "Asia/Taipei"
+      }
+    ]
+  }
+}

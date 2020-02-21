@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Madrid Adolfo Suarez-Barajas, Spain (MAD)",
+        "2": "airport",
+        "3": "MAD",
+        "4": "MAD",
+        "5": "Madrid",
+        "6": -3.5666667,
+        "7": 40.4936111,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Madinah Mohammad Bin Abdulaziz, Saudi Arabia (MED)",
+        "2": "airport",
+        "3": "MED",
+        "4": "MED",
+        "5": "Madinah",
+        "6": 39.705,
+        "7": 24.5533333,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "Madison Dane County Regional, WI (MSN)",
+        "2": "airport",
+        "3": "MSN",
+        "4": "MSN",
+        "5": "Madison",
+        "6": -89.3375,
+        "7": 43.1397222,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Madurai, India (IXM)",
+        "2": "airport",
+        "3": "IXM",
+        "4": "IXM",
+        "5": "Madurai",
+        "6": 78.0933333,
+        "7": 9.83444444,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Madang, Papua New Guinea (MAG)",
+        "2": "airport",
+        "3": "MAG",
+        "4": "MAG",
+        "5": "Madang",
+        "6": 145.788611,
+        "7": -5.2072222,
+        "10": "Pacific/Port_Moresby"
+      },
+      {
+        "1": "Madrid Atocha Railway Station, Spain (XOC)",
+        "2": "rail",
+        "3": "XOC",
+        "4": "MAD",
+        "5": "Madrid",
+        "6": -3.6908333,
+        "7": 40.4058333,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Madrid Chamartin Railway Station, Spain (XTI)",
+        "2": "rail",
+        "3": "XTI",
+        "4": "MAD",
+        "5": "Madrid",
+        "6": -3.6825,
+        "7": 40.4738889,
+        "10": "Europe/Madrid"
+      }
+    ]
+  }
+}

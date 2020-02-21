@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Minneapolis/St Paul International, MN (MSP)",
+        "2": "airport",
+        "3": "MSP",
+        "4": "MSP",
+        "5": "Minneapolis/St Paul",
+        "6": -93.221667,
+        "7": 44.8819444,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Minsk Int'l, Belarus (MSQ)",
+        "2": "airport",
+        "3": "MSQ",
+        "4": "MSQ",
+        "5": "Minsk",
+        "6": 28.0308333,
+        "7": 53.8825,
+        "10": "Europe/Minsk"
+      },
+      {
+        "1": "Minot International, ND (MOT)",
+        "2": "airport",
+        "3": "MOT",
+        "4": "MOT",
+        "5": "Minot",
+        "6": -101.28028,
+        "7": 48.2594444,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Mineralnye Vody, Russia (MRV)",
+        "2": "airport",
+        "3": "MRV",
+        "4": "MRV",
+        "5": "Mineralnye Vody",
+        "6": 43.0819444,
+        "7": 44.225,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Minto Al Wright, AK (MNT)",
+        "2": "airport",
+        "3": "MNT",
+        "4": "MNT",
+        "5": "Minto",
+        "6": -149.3675,
+        "7": 65.1472222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Minatitlan Coatzacoalcos, Mexico (MTT)",
+        "2": "airport",
+        "3": "MTT",
+        "4": "MTT",
+        "5": "Minatitlan",
+        "6": -94.580556,
+        "7": 18.1033333,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Buenos Aires Ministro Pistarini, Argentina (EZE)",
+        "2": "airport",
+        "3": "EZE",
+        "4": "BUE",
+        "5": "Buenos Aires",
+        "6": -58.535833,
+        "7": -34.822222,
+        "10": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "1": "Yangon International, Myanmar (RGN)",
+        "2": "airport",
+        "3": "RGN",
+        "4": "RGN",
+        "5": "Yangon",
+        "6": 96.1333333,
+        "7": 16.9072222,
+        "10": "Asia/Rangoon"
+      }
+    ]
+  }
+}

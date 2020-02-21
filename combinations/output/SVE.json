@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sveg, Sweden (EVG)",
+        "2": "airport",
+        "3": "EVG",
+        "4": "EVG",
+        "5": "Sveg",
+        "6": 14.4230556,
+        "7": 62.0477778,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Svetlaya, Russia (ETL)",
+        "2": "airport",
+        "3": "ETL",
+        "4": "ETL",
+        "5": "Svetlaya",
+        "6": 138.321667,
+        "7": 46.5419444,
+        "10": "Asia/Vladivostok"
+      }
+    ]
+  }
+}

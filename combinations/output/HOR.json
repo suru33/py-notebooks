@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Horta, Portugal (HOR)",
+        "2": "airport",
+        "3": "HOR",
+        "4": "HOR",
+        "5": "Horta",
+        "6": -28.716389,
+        "7": 38.52,
+        "10": "Atlantic/Azores"
+      },
+      {
+        "1": "Horn Island, Australia (HID)",
+        "2": "airport",
+        "3": "HID",
+        "4": "HID",
+        "5": "Horn Island",
+        "6": 142.29,
+        "7": -10.586389,
+        "10": "Australia/Brisbane"
+      }
+    ]
+  }
+}

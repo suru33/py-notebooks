@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sam Neua, Laos (NEU)",
+        "2": "airport",
+        "3": "NEU",
+        "4": "NEU",
+        "5": "Sam Neua",
+        "6": 104.0675,
+        "7": 20.4186111,
+        "10": "Asia/Vientiane"
+      },
+      {
+        "1": "Neuquen Presidente Peron, Argentina (NQN)",
+        "2": "airport",
+        "3": "NQN",
+        "4": "NQN",
+        "5": "Neuquen",
+        "6": -68.155833,
+        "7": -38.948889,
+        "10": "America/Argentina/Mendoza"
+      },
+      {
+        "1": "Mannheim City Airport, Germany (MHG)",
+        "2": "airport",
+        "3": "MHG",
+        "4": "MHG",
+        "5": "Mannheim",
+        "6": 8.51416667,
+        "7": 49.4727778,
+        "10": "Europe/Berlin"
+      }
+    ]
+  }
+}

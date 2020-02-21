@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Gwadar International, Pakistan (GWD)",
+        "2": "airport",
+        "3": "GWD",
+        "4": "GWD",
+        "5": "Gwadar",
+        "6": 62.3294444,
+        "7": 25.2333333,
+        "10": "Asia/Karachi"
+      },
+      {
+        "1": "Gwalior, India (GWL)",
+        "2": "airport",
+        "3": "GWL",
+        "4": "GWL",
+        "5": "Gwalior",
+        "6": 78.2277778,
+        "7": 26.2933333,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Gwangju, South Korea (KWJ)",
+        "2": "airport",
+        "3": "KWJ",
+        "4": "KWJ",
+        "5": "Kwangju",
+        "6": 126.808889,
+        "7": 35.1263889,
+        "10": "Asia/Seoul"
+      },
+      {
+        "1": "Auki Gwaunaru'u, Solomon Islands (AKS)",
+        "2": "airport",
+        "3": "AKS",
+        "4": "AKS",
+        "5": "Auki",
+        "6": 160.681944,
+        "7": -8.7025,
+        "10": "Pacific/Guadalcanal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Santo Angelo Sepe Tiaraju, Brazil (GEL)",
+        "2": "airport",
+        "3": "GEL",
+        "4": "GEL",
+        "5": "Santo Angelo",
+        "6": -54.170278,
+        "7": -28.282778,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Gelendzhik, Russia (GDZ)",
+        "2": "airport",
+        "3": "GDZ",
+        "4": "GDZ",
+        "5": "Gelendzik",
+        "6": 38.0119444,
+        "7": 44.5791667,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Gelephu, Bhutan (GLU)",
+        "2": "airport",
+        "3": "GLU",
+        "4": "GLU",
+        "5": "Gelephu",
+        "6": 90.4644444,
+        "7": 26.885,
+        "10": "Asia/Thimphu"
+      }
+    ]
+  }
+}

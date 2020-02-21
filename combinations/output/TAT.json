@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Poprad Tatry, Slovakia (TAT)",
+        "2": "airport",
+        "3": "TAT",
+        "4": "TAT",
+        "5": "Tatry/Poprad",
+        "6": 20.2411111,
+        "7": 49.0736111,
+        "10": "Europe/Bratislava"
+      },
+      {
+        "1": "Tatakoto, French Polynesia (TKV)",
+        "2": "airport",
+        "3": "TKV",
+        "4": "TKV",
+        "5": "Tatakoto",
+        "6": -138.44861,
+        "7": -17.355556,
+        "10": "Pacific/Tahiti"
+      }
+    ]
+  }
+}

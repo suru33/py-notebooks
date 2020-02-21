@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Awasa, Ethiopia (AWA)",
+        "2": "airport",
+        "3": "AWA",
+        "4": "AWA",
+        "5": "Awassa",
+        "6": 38.4905556,
+        "7": 7.0675,
+        "10": "Africa/Addis_Ababa"
+      },
+      {
+        "1": "Cotabato Awang, Philippines (CBO)",
+        "2": "airport",
+        "3": "CBO",
+        "4": "CBO",
+        "5": "Cotabato",
+        "6": 124.209722,
+        "7": 7.16527778,
+        "10": "Asia/Manila"
+      }
+    ]
+  }
+}

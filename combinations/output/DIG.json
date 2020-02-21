@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Deqen Shangri-La, China (DIG)",
+        "2": "airport",
+        "3": "DIG",
+        "4": "DIG",
+        "5": "Diqing",
+        "6": 99.6780556,
+        "7": 27.7916667,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Prince Rupert, BC, Canada (YPR)",
+        "2": "airport",
+        "3": "YPR",
+        "4": "YPR",
+        "5": "Prince Rupert",
+        "6": -130.44472,
+        "7": 54.2861111,
+        "10": "America/Vancouver"
+      }
+    ]
+  }
+}

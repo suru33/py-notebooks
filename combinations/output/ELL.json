@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Calama El Loa, Chile (CJC)",
+        "2": "airport",
+        "3": "CJC",
+        "4": "CJC",
+        "5": "Calama",
+        "6": -68.908056,
+        "7": -22.498056,
+        "10": "America/Santiago"
+      },
+      {
+        "1": "Jacksonville Albert J Ellis, NC (OAJ)",
+        "2": "airport",
+        "3": "OAJ",
+        "4": "OAJ",
+        "5": "Jacksonville",
+        "6": -77.439722,
+        "7": 34.7083333,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

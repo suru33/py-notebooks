@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Pilot Point, AK - All airports",
+        "2": "city",
+        "3": "PIP",
+        "4": "PIP",
+        "5": "Pilot Point",
+        "6": -157.6620501435407,
+        "7": 57.49915071674641,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Pilot Point Ugashik Bay, AK (UGB)",
+        "2": "airport",
+        "3": "UGB",
+        "4": "PIP",
+        "5": "Pilot Point",
+        "6": -157.74472,
+        "7": 57.4247222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Pilot Point Airport, AK (PIP)",
+        "2": "airport",
+        "3": "PIP",
+        "4": "PIP",
+        "5": "Pilot Point",
+        "6": -157.57194,
+        "7": 57.5802778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Pilot Station, AK (PQS)",
+        "2": "airport",
+        "3": "PQS",
+        "4": "PQS",
+        "5": "Pilot Station",
+        "6": -162.89917,
+        "7": 61.9347222,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

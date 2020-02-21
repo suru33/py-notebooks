@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Aktau, Kazakhstan (SCO)",
+        "2": "airport",
+        "3": "SCO",
+        "4": "SCO",
+        "5": "Aktau",
+        "6": 51.0919444,
+        "7": 43.86,
+        "10": "Asia/Aqtau"
+      },
+      {
+        "1": "Aktobe, Kazakhstan (AKX)",
+        "2": "airport",
+        "3": "AKX",
+        "4": "AKX",
+        "5": "Aktyubinsk",
+        "6": 57.2066667,
+        "7": 50.2458333,
+        "10": "Asia/Aqtau"
+      },
+      {
+        "1": "Preveza/Lefkada Aktion, Greece (PVK)",
+        "2": "airport",
+        "3": "PVK",
+        "4": "PVK",
+        "5": "Preveza/Lefkas",
+        "6": 20.7652778,
+        "7": 38.9255556,
+        "10": "Europe/Athens"
+      }
+    ]
+  }
+}

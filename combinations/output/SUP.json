@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sumenep Trunojoyo, Indonesia (SUP)",
+        "2": "airport",
+        "3": "SUP",
+        "4": "SUP",
+        "5": "Sumenep",
+        "6": 113.888611,
+        "7": -7.0230556,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Pontianak Supadio, Indonesia (PNK)",
+        "2": "airport",
+        "3": "PNK",
+        "4": "PNK",
+        "5": "Pontianak",
+        "6": 109.403889,
+        "7": -0.1508333,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Duluth International, MN (DLH)",
+        "2": "airport",
+        "3": "DLH",
+        "4": "DLH",
+        "5": "Duluth/Superior",
+        "6": -92.193611,
+        "7": 46.8422222,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

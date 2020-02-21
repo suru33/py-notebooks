@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Reggio di Calabria, Italy (REG)",
+        "2": "airport",
+        "3": "REG",
+        "4": "REG",
+        "5": "Reggio Calabria",
+        "6": 15.6536111,
+        "7": 38.0719444,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Regina International, SK, Canada (YQR)",
+        "2": "airport",
+        "3": "YQR",
+        "4": "YQR",
+        "5": "Regina",
+        "6": -104.65722,
+        "7": 50.4294444,
+        "10": "America/Regina"
+      },
+      {
+        "1": "Reggio di Calabria Central Railway Station, Italy (RCC)",
+        "2": "rail",
+        "3": "RCC",
+        "4": "REG",
+        "5": "Reggio Calabria",
+        "6": 15.6355556,
+        "7": 38.1038889,
+        "10": "Europe/Rome"
+      }
+    ]
+  }
+}

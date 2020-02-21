@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Thandwe, Myanmar (SNW)",
+        "2": "airport",
+        "3": "SNW",
+        "4": "SNW",
+        "5": "Thandwe",
+        "6": 94.3,
+        "7": 18.4608333,
+        "10": "Asia/Rangoon"
+      },
+      {
+        "1": "Thargomindah, Australia (XTG)",
+        "2": "airport",
+        "3": "XTG",
+        "4": "XTG",
+        "5": "Thargomindah",
+        "6": 143.812222,
+        "7": -27.986389,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Thanh Hoa Tho Xuan, Viet Nam (THD)",
+        "2": "airport",
+        "3": "THD",
+        "4": "THD",
+        "5": "Thanh Hoa",
+        "6": 105.469167,
+        "7": 19.9025,
+        "10": "Asia/Ho_Chi_Minh"
+      },
+      {
+        "1": "Graz, Austria (GRZ)",
+        "2": "airport",
+        "3": "GRZ",
+        "4": "GRZ",
+        "5": "Graz",
+        "6": 15.44,
+        "7": 46.9936111,
+        "10": "Europe/Vienna"
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Huai'an Lianshui, China (HIA)",
+        "2": "airport",
+        "3": "HIA",
+        "4": "HIA",
+        "5": "Huai'an",
+        "6": 119.127778,
+        "7": 33.7875,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Huangshan Tunxi International, China (TXN)",
+        "2": "airport",
+        "3": "TXN",
+        "4": "TXN",
+        "5": "Tunxi",
+        "6": 118.257222,
+        "7": 29.7327778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Bahias de Huatulco International, Mexico (HUX)",
+        "2": "airport",
+        "3": "HUX",
+        "4": "HUX",
+        "5": "Huatulco",
+        "6": -96.2625,
+        "7": 15.7752778,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Huaihua Zhijiang, China (HJJ)",
+        "2": "airport",
+        "3": "HJJ",
+        "4": "HJJ",
+        "5": "Huai Hua",
+        "6": 109.700278,
+        "7": 27.4413889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Huahine Fare, French Polynesia (HUH)",
+        "2": "airport",
+        "3": "HUH",
+        "4": "HUH",
+        "5": "Huahine Island",
+        "6": -151.02167,
+        "7": -16.687222,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Hualien, Taiwan (HUN)",
+        "2": "airport",
+        "3": "HUN",
+        "4": "HUN",
+        "5": "Hualien",
+        "6": 121.617778,
+        "7": 24.0230556,
+        "10": "Asia/Taipei"
+      },
+      {
+        "1": "Huatugou, China (HTT)",
+        "2": "airport",
+        "3": "HTT",
+        "4": "HTT",
+        "5": "Huatugou",
+        "6": 90.8461111,
+        "7": 38.2552778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Huang Ping Kai Li, China (KJH)",
+        "2": "airport",
+        "3": "KJH",
+        "4": "KJH",
+        "5": "Huang Ping",
+        "6": 107.9875,
+        "7": 26.9719444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Huambo Albano Machado, Angola (NOV)",
+        "2": "airport",
+        "3": "NOV",
+        "4": "NOV",
+        "5": "Huambo",
+        "6": 15.7608333,
+        "7": -12.809167,
+        "10": "Africa/Luanda"
+      },
+      {
+        "1": "Hua Hin, Thailand (HHQ)",
+        "2": "airport",
+        "3": "HHQ",
+        "4": "HHQ",
+        "5": "Hua Hin",
+        "6": 99.9533333,
+        "7": 12.6302778,
+        "10": "Asia/Bangkok"
+      },
+      {
+        "1": "Huanuco David F. Fernandini, Peru (HUU)",
+        "2": "airport",
+        "3": "HUU",
+        "4": "HUU",
+        "5": "Huanuco",
+        "6": -76.207222,
+        "7": -9.88,
+        "10": "America/Lima"
+      },
+      {
+        "1": "Huaraz German Arias Graziani, Peru (ATA)",
+        "2": "airport",
+        "3": "ATA",
+        "4": "ATA",
+        "5": "Anta",
+        "6": -77.5975,
+        "7": -9.3505556,
+        "10": "America/Lima"
+      },
+      {
+        "1": "Changsha Huanghua International, China (CSX)",
+        "2": "airport",
+        "3": "CSX",
+        "4": "CSX",
+        "5": "Changsha",
+        "6": 113.217778,
+        "7": 28.1936111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Huangshi Railway Station, China (HSD)",
+        "2": "rail",
+        "3": "HSD",
+        "4": "HSD",
+        "5": "Huangshi",
+        "6": 114.935278,
+        "7": 30.1563889,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

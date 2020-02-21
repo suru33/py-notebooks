@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Columbus, OH - All airports",
+        "2": "city",
+        "3": "CMH",
+        "4": "CMH",
+        "5": "Columbus",
+        "6": -82.90190582530906,
+        "7": 39.946857394576504,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Columbus John Glenn International, OH (CMH)",
+        "2": "airport",
+        "3": "CMH",
+        "4": "CMH",
+        "5": "Columbus",
+        "6": -82.891944,
+        "7": 39.9980556,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

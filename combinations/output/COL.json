@@ -1,0 +1,186 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Columbus, OH - All airports",
+        "2": "city",
+        "3": "CMH",
+        "4": "CMH",
+        "5": "Columbus",
+        "6": -82.90190582530906,
+        "7": 39.946857394576504,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Columbus John Glenn International, OH (CMH)",
+        "2": "airport",
+        "3": "CMH",
+        "4": "CMH",
+        "5": "Columbus",
+        "6": -82.891944,
+        "7": 39.9980556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Cologne/Bonn, Germany (CGN)",
+        "2": "airport",
+        "3": "CGN",
+        "4": "CGN",
+        "5": "Cologne",
+        "6": 7.14277778,
+        "7": 50.8658333,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Colombo Bandaranaike International, Sri Lanka (CMB)",
+        "2": "airport",
+        "3": "CMB",
+        "4": "CMB",
+        "5": "Colombo",
+        "6": 79.8852778,
+        "7": 7.18027778,
+        "10": "Asia/Colombo"
+      },
+      {
+        "1": "Colorado Springs Municipal, CO (COS)",
+        "2": "airport",
+        "3": "COS",
+        "4": "COS",
+        "5": "Colorado Springs",
+        "6": -104.70083,
+        "7": 38.8058333,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Columbia Metropolitan Apt, SC (CAE)",
+        "2": "airport",
+        "3": "CAE",
+        "4": "CAE",
+        "5": "Columbia",
+        "6": -81.119444,
+        "7": 33.9388889,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Columbia Regional, MO (COU)",
+        "2": "airport",
+        "3": "COU",
+        "4": "COU",
+        "5": "Columbia",
+        "6": -92.219722,
+        "7": 38.8180556,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Columbus Rickenbacker International, OH (LCK)",
+        "2": "airport",
+        "3": "LCK",
+        "4": "CMH",
+        "5": "Columbus",
+        "6": -82.927778,
+        "7": 39.8138889,
+        "10": "America/New_York"
+      },
+      {
+        "1": "College Station Easterwood Field, TX (CLL)",
+        "2": "airport",
+        "3": "CLL",
+        "4": "CLL",
+        "5": "College Station",
+        "6": -96.363889,
+        "7": 30.5886111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Cold Bay, AK (CDB)",
+        "2": "airport",
+        "3": "CDB",
+        "4": "CDB",
+        "5": "Cold Bay",
+        "6": -162.72556,
+        "7": 55.2061111,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Colville Lake Tommy Kochon, NT, Canada (YCK)",
+        "2": "airport",
+        "3": "YCK",
+        "4": "YCK",
+        "5": "Colville Lake",
+        "6": -126.08111,
+        "7": 67.0397222,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "Columbus Apt, GA (CSG)",
+        "2": "airport",
+        "3": "CSG",
+        "4": "CSG",
+        "5": "Columbus",
+        "6": -84.940278,
+        "7": 32.5144444,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Columbus Golden Triangle Regional, MS (GTR)",
+        "2": "airport",
+        "3": "GTR",
+        "4": "UBS",
+        "5": "Columbus",
+        "6": -88.380833,
+        "7": 33.4658333,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Colima Miguel de la Madrid, Mexico (CLQ)",
+        "2": "airport",
+        "3": "CLQ",
+        "4": "CLQ",
+        "5": "Colima",
+        "6": -103.5775,
+        "7": 19.2769444,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Cologne/Bonn Cologne Hbf Railway Station, Germany (QKL)",
+        "2": "rail",
+        "3": "QKL",
+        "4": "CGN",
+        "5": "Cologne",
+        "6": 6.95833333,
+        "7": 50.9433333,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Cologne/Bonn Messe/Deutz Railway Station, Germany (QKU)",
+        "2": "rail",
+        "3": "QKU",
+        "4": "CGN",
+        "5": "Cologne",
+        "6": 6.97444444,
+        "7": 50.9405556,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Colchester Bus Station, United Kingdom (CLB)",
+        "2": "bus",
+        "3": "CLB",
+        "4": "CLB",
+        "5": "Colchester",
+        "6": -0.9047222,
+        "7": 51.8883333,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Genoa Cristoforo Colombo, Italy (GOA)",
+        "2": "airport",
+        "3": "GOA",
+        "4": "GOA",
+        "5": "Genoa",
+        "6": 8.8375,
+        "7": 44.4133333,
+        "10": "Europe/Rome"
+      }
+    ]
+  }
+}

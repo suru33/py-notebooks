@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Boston, MA - All airports",
+        "2": "city",
+        "3": "BOS",
+        "4": "BOS",
+        "5": "Boston",
+        "6": -70.97235605155016,
+        "7": 42.493568427258936,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Boston Edward L. Logan International, MA (BOS)",
+        "2": "airport",
+        "3": "BOS",
+        "4": "BOS",
+        "5": "Boston",
+        "6": -71.005278,
+        "7": 42.3644444,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Boston Portsmouth Pease International, MA (PSM)",
+        "2": "airport",
+        "3": "PSM",
+        "4": "BOS",
+        "5": "Boston",
+        "6": -70.823333,
+        "7": 43.0780556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Bosaso International, Somalia (BSA)",
+        "2": "airport",
+        "3": "BSA",
+        "4": "BSA",
+        "5": "Bossaso",
+        "6": 49.1577778,
+        "7": 11.2755556,
+        "10": "Africa/Mogadishu"
+      },
+      {
+        "1": "Lashkar Gah Bost, Afghanistan (BST)",
+        "2": "airport",
+        "3": "BST",
+        "4": "BST",
+        "5": "Bost",
+        "6": 64.365,
+        "7": 31.5602778,
+        "10": "Asia/Kabul"
+      },
+      {
+        "1": "Manchester-Boston Regional, NH (MHT)",
+        "2": "airport",
+        "3": "MHT",
+        "4": "MHT",
+        "5": "Manchester",
+        "6": -71.435556,
+        "7": 42.9325,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

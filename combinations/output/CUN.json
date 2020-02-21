@@ -1,0 +1,35 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Cancun International, Mexico (CUN)",
+        "2": "airport",
+        "3": "CUN",
+        "4": "CUN",
+        "5": "Cancun",
+        "6": -86.877222,
+        "7": 21.0366667
+      },
+      {
+        "1": "Cunnamulla, Australia (CMA)",
+        "2": "airport",
+        "3": "CMA",
+        "4": "CMA",
+        "5": "Cunnamulla",
+        "6": 145.622222,
+        "7": -28.03,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Cuneo Levaldigi, Italy (CUF)",
+        "2": "airport",
+        "3": "CUF",
+        "4": "CUF",
+        "5": "Cuneo",
+        "6": 7.62305556,
+        "7": 44.5475,
+        "10": "Europe/Rome"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Greater Rochester International, NY (ROC)",
+        "2": "airport",
+        "3": "ROC",
+        "4": "ROC",
+        "5": "Rochester",
+        "6": -77.6725,
+        "7": 43.1188889,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Rochester International, MN (RST)",
+        "2": "airport",
+        "3": "RST",
+        "4": "RST",
+        "5": "Rochester",
+        "6": -92.496667,
+        "7": 43.9102778,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Rockhampton, Australia (ROK)",
+        "2": "airport",
+        "3": "ROK",
+        "4": "ROK",
+        "5": "Rockhampton",
+        "6": 150.475278,
+        "7": -23.381944,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Rock Springs Sweetwater County, WY (RKS)",
+        "2": "airport",
+        "3": "RKS",
+        "4": "RKS",
+        "5": "Rock Springs",
+        "6": -109.06556,
+        "7": 41.5947222,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Rockland Knox County Regional, ME (RKD)",
+        "2": "airport",
+        "3": "RKD",
+        "4": "RKD",
+        "5": "Rockland",
+        "6": -69.099722,
+        "7": 44.0594444,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Rock Sound International, Bahamas (RSD)",
+        "2": "airport",
+        "3": "RSD",
+        "4": "RSD",
+        "5": "Rock Sound",
+        "6": -76.177778,
+        "7": 24.8916667,
+        "10": "America/Nassau"
+      },
+      {
+        "1": "Chicago/Rockford International, IL (RFD)",
+        "2": "airport",
+        "3": "RFD",
+        "4": "CHI",
+        "5": "Chicago",
+        "6": -89.099167,
+        "7": 42.1980556,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Cayenne Felix Eboue, French Guiana (CAY)",
+        "2": "airport",
+        "3": "CAY",
+        "4": "CAY",
+        "5": "Cayenne",
+        "6": -52.360556,
+        "7": 4.81972222,
+        "10": "America/Cayenne"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kerman, Iran (KER)",
+        "2": "airport",
+        "3": "KER",
+        "4": "KER",
+        "5": "Kerman",
+        "6": 56.9511111,
+        "7": 30.2744444,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Kerkyra Ioannis Kapodistrias, Greece (CFU)",
+        "2": "airport",
+        "3": "CFU",
+        "4": "CFU",
+        "5": "Kerkyra",
+        "6": 19.9116667,
+        "7": 39.6019444,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Kerry, Ireland (KIR)",
+        "2": "airport",
+        "3": "KIR",
+        "4": "KIR",
+        "5": "Kerry County",
+        "6": -9.5238889,
+        "7": 52.1808333,
+        "10": "Europe/Dublin"
+      },
+      {
+        "1": "Kermanshah Shahid AshrafiEsfahani, Iran (KSH)",
+        "2": "airport",
+        "3": "KSH",
+        "4": "KSH",
+        "5": "Kermanshah",
+        "6": 47.1566667,
+        "7": 34.3480556,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Kerikeri Bay of Islands, New Zealand (KKE)",
+        "2": "airport",
+        "3": "KKE",
+        "4": "KKE",
+        "5": "Kerikeri",
+        "6": 173.911944,
+        "7": -35.257778,
+        "10": "Pacific/Auckland"
+      },
+      {
+        "1": "Kerteh, Malaysia (KTE)",
+        "2": "airport",
+        "3": "KTE",
+        "4": "KTE",
+        "5": "Kerteh",
+        "6": 103.425833,
+        "7": 4.54083333,
+        "10": "Asia/Kuching"
+      }
+    ]
+  }
+}

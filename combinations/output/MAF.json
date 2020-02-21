@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Midland International, TX (MAF)",
+        "2": "airport",
+        "3": "MAF",
+        "4": "MAF",
+        "5": "Midland/Odessa",
+        "6": -102.20194,
+        "7": 31.9425,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Mafia Island, Tanzania (MFA)",
+        "2": "airport",
+        "3": "MFA",
+        "4": "MFA",
+        "5": "Mafia",
+        "6": 39.6661111,
+        "7": -7.9127778,
+        "10": "Africa/Dar_es_Salaam"
+      }
+    ]
+  }
+}

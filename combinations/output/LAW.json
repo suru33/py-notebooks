@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lawton/Fort Sill Regional, OK (LAW)",
+        "2": "airport",
+        "3": "LAW",
+        "4": "LAW",
+        "5": "Lawton",
+        "6": -98.416389,
+        "7": 34.5666667,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Lawas, Malaysia (LWY)",
+        "2": "airport",
+        "3": "LWY",
+        "4": "LWY",
+        "5": "Lawas",
+        "6": 115.408056,
+        "7": 4.84972222,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Poznan Lawica, Poland (POZ)",
+        "2": "airport",
+        "3": "POZ",
+        "4": "POZ",
+        "5": "Poznan",
+        "6": 16.8263889,
+        "7": 52.4211111,
+        "10": "Europe/Warsaw"
+      }
+    ]
+  }
+}

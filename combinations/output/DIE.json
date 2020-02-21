@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Antsiranana Arrachart, Madagascar (DIE)",
+        "2": "airport",
+        "3": "DIE",
+        "4": "DIE",
+        "5": "Antsiranana",
+        "6": 49.2916667,
+        "7": -12.349444,
+        "10": "Indian/Antananarivo"
+      },
+      {
+        "1": "Dien Bien Phu, Viet Nam (DIN)",
+        "2": "airport",
+        "3": "DIN",
+        "4": "DIN",
+        "5": "Dien Bien Phu",
+        "6": 103.004444,
+        "7": 21.4,
+        "10": "Asia/Ho_Chi_Minh"
+      },
+      {
+        "1": "Saskatoon J.G. Diefenbaker International, SK, Canada (YXE)",
+        "2": "airport",
+        "3": "YXE",
+        "4": "YXE",
+        "5": "Saskatoon",
+        "6": -106.69972,
+        "7": 52.1708333,
+        "10": "America/Regina"
+      }
+    ]
+  }
+}

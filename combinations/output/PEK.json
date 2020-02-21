@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Beijing Capital International, China (PEK)",
+        "2": "airport",
+        "3": "PEK",
+        "4": "BJS",
+        "5": "Beijing",
+        "6": 116.584444,
+        "7": 40.08,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Pekanbaru Sultan Syarif Kasim II, Indonesia (PKU)",
+        "2": "airport",
+        "3": "PKU",
+        "4": "PKU",
+        "5": "Pekanbaru",
+        "6": 101.444444,
+        "7": 0.46083333,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Luganville Santo-Pekoa International, Vanuatu (SON)",
+        "2": "airport",
+        "3": "SON",
+        "4": "SON",
+        "5": "Espiritu Santo",
+        "6": 167.219722,
+        "7": -15.505,
+        "10": "Pacific/Efate"
+      }
+    ]
+  }
+}

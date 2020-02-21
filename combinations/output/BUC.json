@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Burketown, Australia (BUC)",
+        "2": "airport",
+        "3": "BUC",
+        "4": "BUC",
+        "5": "Burketown",
+        "6": 139.534444,
+        "7": -17.748611,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Bucharest Henri Coanda, Romania (OTP)",
+        "2": "airport",
+        "3": "OTP",
+        "4": "BUH",
+        "5": "Bucharest",
+        "6": 26.1022222,
+        "7": 44.5722222,
+        "10": "Europe/Bucharest"
+      },
+      {
+        "1": "Bucaramanga Palonegro International, Colombia (BGA)",
+        "2": "airport",
+        "3": "BGA",
+        "4": "BGA",
+        "5": "Bucaramanga",
+        "6": -73.184722,
+        "7": 7.12638889,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Buckland, AK (BKC)",
+        "2": "airport",
+        "3": "BKC",
+        "4": "BKC",
+        "5": "Buckland",
+        "6": -161.14917,
+        "7": 65.9816667,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

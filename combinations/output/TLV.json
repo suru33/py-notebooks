@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tel Aviv, Israel - All airports",
+        "2": "city",
+        "3": "TLV",
+        "4": "TLV",
+        "5": "Tel Aviv",
+        "6": 34.86370039059851,
+        "7": 32.02564864524302,
+        "10": "Asia/Jerusalem"
+      },
+      {
+        "1": "Tel Aviv-Yafo Ben Gurion International, Israel (TLV)",
+        "2": "airport",
+        "3": "TLV",
+        "4": "TLV",
+        "5": "Tel Aviv",
+        "6": 34.8805556,
+        "7": 32.0072222,
+        "10": "Asia/Jerusalem"
+      }
+    ]
+  }
+}

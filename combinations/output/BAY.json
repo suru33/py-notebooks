@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Baia Mare, Romania (BAY)",
+        "2": "airport",
+        "3": "BAY",
+        "4": "BAY",
+        "5": "Baia Mare",
+        "6": 23.4683333,
+        "7": 47.6583333,
+        "10": "Europe/Bucharest"
+      },
+      {
+        "1": "Bayannur Tianjitai, China (RLK)",
+        "2": "airport",
+        "3": "RLK",
+        "4": "RLK",
+        "5": "Bayannaoer",
+        "6": 107.738889,
+        "7": 40.9263889,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

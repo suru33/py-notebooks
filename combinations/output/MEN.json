@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Mende Brenoux, France (MEN)",
+        "2": "airport",
+        "3": "MEN",
+        "4": "MEN",
+        "5": "Mende",
+        "6": 3.5275,
+        "7": 44.5041667,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Menorca, Spain (MAH)",
+        "2": "airport",
+        "3": "MAH",
+        "4": "MAH",
+        "5": "Menorca",
+        "6": 4.21861111,
+        "7": 39.8625,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Mendoza El Plumerillo, Argentina (MDZ)",
+        "2": "airport",
+        "3": "MDZ",
+        "4": "MDZ",
+        "5": "Mendoza",
+        "6": -68.792778,
+        "7": -32.831667,
+        "10": "America/Argentina/Mendoza"
+      },
+      {
+        "1": "Mendi, Papua New Guinea (MDU)",
+        "2": "airport",
+        "3": "MDU",
+        "4": "MDU",
+        "5": "Mendi",
+        "6": 143.657222,
+        "7": -6.1477778,
+        "10": "Pacific/Port_Moresby"
+      },
+      {
+        "1": "Menongue, Angola (SPP)",
+        "2": "airport",
+        "3": "SPP",
+        "4": "SPP",
+        "5": "Menongue",
+        "6": 17.7213889,
+        "7": -14.658611,
+        "10": "Africa/Luanda"
+      },
+      {
+        "1": "Marrakech Menara, Morocco (RAK)",
+        "2": "airport",
+        "3": "RAK",
+        "4": "RAK",
+        "5": "Marrakech",
+        "6": -8.0363889,
+        "7": 31.6069444,
+        "10": "Africa/Casablanca"
+      },
+      {
+        "1": "Praia International, Cape Verde (RAI)",
+        "2": "airport",
+        "3": "RAI",
+        "4": "RAI",
+        "5": "Praia",
+        "6": -23.484722,
+        "7": 14.9413889,
+        "10": "Atlantic/Cape_Verde"
+      },
+      {
+        "1": "Reggio di Calabria, Italy (REG)",
+        "2": "airport",
+        "3": "REG",
+        "4": "REG",
+        "5": "Reggio Calabria",
+        "6": 15.6536111,
+        "7": 38.0719444,
+        "10": "Europe/Rome"
+      }
+    ]
+  }
+}

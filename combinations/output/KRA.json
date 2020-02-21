@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Krakow John Paul II - Balice, Poland (KRK)",
+        "2": "airport",
+        "3": "KRK",
+        "4": "KRK",
+        "5": "Krakow",
+        "6": 19.7847222,
+        "7": 50.0777778,
+        "10": "Europe/Warsaw"
+      },
+      {
+        "1": "Krasnodar Pashkovsky, Russia (KRR)",
+        "2": "airport",
+        "3": "KRR",
+        "4": "KRR",
+        "5": "Krasnodar",
+        "6": 39.1663889,
+        "7": 45.0325,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Krasnoyarsk, Russia (KJA)",
+        "2": "airport",
+        "3": "KJA",
+        "4": "KJA",
+        "5": "Krasnoyarsk",
+        "6": 92.4933333,
+        "7": 56.1730556,
+        "10": "Asia/Krasnoyarsk"
+      },
+      {
+        "1": "Krabi, Thailand (KBV)",
+        "2": "airport",
+        "3": "KBV",
+        "4": "KBV",
+        "5": "Krabi",
+        "6": 98.9888889,
+        "7": 8.09583333,
+        "10": "Asia/Bangkok"
+      },
+      {
+        "1": "Kramfors/Solleftea, Sweden (KRF)",
+        "2": "airport",
+        "3": "KRF",
+        "4": "KRF",
+        "5": "Kramfors",
+        "6": 17.7688889,
+        "7": 63.0486111,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Innsbruck Kranebitten, Austria (INN)",
+        "2": "airport",
+        "3": "INN",
+        "4": "INN",
+        "5": "Innsbruck",
+        "6": 11.3438889,
+        "7": 47.2602778,
+        "10": "Europe/Vienna"
+      }
+    ]
+  }
+}

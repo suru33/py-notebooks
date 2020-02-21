@@ -1,0 +1,116 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Turin Caselle, Italy (TRN)",
+        "2": "airport",
+        "3": "TRN",
+        "4": "TRN",
+        "5": "Turin",
+        "6": 7.64944444,
+        "7": 45.2025,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Turpan Jiaohe, China (TLQ)",
+        "2": "airport",
+        "3": "TLQ",
+        "4": "TLQ",
+        "5": "Turpan",
+        "6": 89.0972222,
+        "7": 43.0302778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Turku, Finland (TKU)",
+        "2": "airport",
+        "3": "TKU",
+        "4": "TKU",
+        "5": "Turku",
+        "6": 22.2627778,
+        "7": 60.5141667,
+        "10": "Europe/Helsinki"
+      },
+      {
+        "1": "Tureia, French Polynesia (ZTA)",
+        "2": "airport",
+        "3": "ZTA",
+        "4": "ZTA",
+        "5": "Tureia",
+        "6": -138.5675,
+        "7": -20.780556,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Turbat International, Pakistan (TUK)",
+        "2": "airport",
+        "3": "TUK",
+        "4": "TUK",
+        "5": "Turbat",
+        "6": 63.0302778,
+        "7": 25.9863889,
+        "10": "Asia/Karachi"
+      },
+      {
+        "1": "Turkmenbashi, Turkmenistan (KRW)",
+        "2": "airport",
+        "3": "KRW",
+        "4": "KRW",
+        "5": "Turkmanbashi",
+        "6": 53.0080556,
+        "7": 40.0608333,
+        "10": "Asia/Ashgabat"
+      },
+      {
+        "1": "Turaif, Saudi Arabia (TUI)",
+        "2": "airport",
+        "3": "TUI",
+        "4": "TUI",
+        "5": "Turaif",
+        "6": 38.7311111,
+        "7": 31.6927778,
+        "10": "Asia/Riyadh"
+      },
+      {
+        "1": "Turkmenabat, Turkmenistan (CRZ)",
+        "2": "airport",
+        "3": "CRZ",
+        "4": "CRZ",
+        "5": "Chardzhou",
+        "6": 63.6119444,
+        "7": 39.0833333,
+        "10": "Asia/Ashgabat"
+      },
+      {
+        "1": "Turukhansk, Russia (THX)",
+        "2": "airport",
+        "3": "THX",
+        "4": "THX",
+        "5": "Turukhansk",
+        "6": 87.9355556,
+        "7": 65.7977778,
+        "10": "Asia/Krasnoyarsk"
+      },
+      {
+        "1": "Turin Porta Nuova Railway St, Italy (TPY)",
+        "2": "rail",
+        "3": "TPY",
+        "4": "TRN",
+        "5": "Turin",
+        "6": 7.67888889,
+        "7": 45.0622222,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Brno Turany, Czech Republic (BRQ)",
+        "2": "airport",
+        "3": "BRQ",
+        "4": "BRQ",
+        "5": "Brno",
+        "6": 16.6944444,
+        "7": 49.1513889,
+        "10": "Europe/Prague"
+      }
+    ]
+  }
+}

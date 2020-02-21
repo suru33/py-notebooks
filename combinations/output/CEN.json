@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Ciudad Obregon International, Mexico (CEN)",
+        "2": "airport",
+        "3": "CEN",
+        "4": "CEN",
+        "5": "Ciudad Obregon",
+        "6": -109.83306,
+        "7": 27.3927778,
+        "10": "America/Chihuahua"
+      },
+      {
+        "1": "Central, AK (CEM)",
+        "2": "airport",
+        "3": "CEM",
+        "4": "CEM",
+        "5": "Central",
+        "6": -144.77917,
+        "7": 65.5736111,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Wausau Central Wisconsin, WI (CWA)",
+        "2": "airport",
+        "3": "CWA",
+        "4": "AUW",
+        "5": "Wausau",
+        "6": -89.666667,
+        "7": 44.7833333,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

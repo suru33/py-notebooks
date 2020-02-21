@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Hot Springs Memorial Field, AR (HOT)",
+        "2": "airport",
+        "3": "HOT",
+        "4": "HOT",
+        "5": "Hot Springs",
+        "6": -93.096111,
+        "7": 34.4780556,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Hotan, China (HTN)",
+        "2": "airport",
+        "3": "HTN",
+        "4": "HTN",
+        "5": "Hotan",
+        "6": 79.865,
+        "7": 37.0380556,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

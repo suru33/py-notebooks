@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Wanzhou Wuqiao, China (WXN)",
+        "2": "airport",
+        "3": "WXN",
+        "4": "WXN",
+        "5": "Wanxian",
+        "6": 108.427222,
+        "7": 30.8038889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Wangiwangi Island Matahora, Indonesia (WNI)",
+        "2": "airport",
+        "3": "WNI",
+        "4": "WNI",
+        "5": "Wangi Wangi",
+        "6": 123.635,
+        "7": -5.2905556,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Wanning Railway Station, China (WXJ)",
+        "2": "rail",
+        "3": "WXJ",
+        "4": "WXJ",
+        "5": "Wanning",
+        "6": 110.376944,
+        "7": 18.8094444,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

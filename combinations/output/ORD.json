@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Chicago O'Hare, IL (ORD)",
+        "2": "airport",
+        "3": "ORD",
+        "4": "CHI",
+        "5": "Chicago",
+        "6": -87.904722,
+        "7": 41.9786111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Ordos Ejin Horo, China (DSN)",
+        "2": "airport",
+        "3": "DSN",
+        "4": "DSN",
+        "5": "Dongsheng",
+        "6": 109.863056,
+        "7": 39.4922222,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Ordu/Giresun, Turkey (OGU)",
+        "2": "airport",
+        "3": "OGU",
+        "4": "OGU",
+        "5": "Ordu/Giresun",
+        "6": 38.0858333,
+        "7": 40.9669444,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Puerto Vallarta G.Diaz Ordaz International, Mexico (PVR)",
+        "2": "airport",
+        "3": "PVR",
+        "4": "PVR",
+        "5": "Puerto Vallarta",
+        "6": -105.25417,
+        "7": 20.68,
+        "10": "America/Cancun"
+      }
+    ]
+  }
+}

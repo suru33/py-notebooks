@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Hualien, Taiwan (HUN)",
+        "2": "airport",
+        "3": "HUN",
+        "4": "HUN",
+        "5": "Hualien",
+        "6": 121.617778,
+        "7": 24.0230556,
+        "10": "Asia/Taipei"
+      },
+      {
+        "1": "Huntsville Intl-Carl T.Jones Field, AL (HSV)",
+        "2": "airport",
+        "3": "HSV",
+        "4": "HSV",
+        "5": "Huntsville",
+        "6": -86.775,
+        "7": 34.6372222,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Huntington Tri-State, WV (HTS)",
+        "2": "airport",
+        "3": "HTS",
+        "4": "HTS",
+        "5": "Huntington",
+        "6": -82.559167,
+        "7": 38.3683333,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

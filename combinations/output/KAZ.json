@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kaubang, Indonesia (KAZ)",
+        "2": "airport",
+        "3": "KAZ",
+        "4": "KAZ",
+        "5": "Kau",
+        "6": 127.896111,
+        "7": 1.18472222,
+        "10": "Asia/Jayapura"
+      },
+      {
+        "1": "Kazan International, Russia (KZN)",
+        "2": "airport",
+        "3": "KZN",
+        "4": "KZN",
+        "5": "Kazan",
+        "6": 49.2786111,
+        "7": 55.6061111,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Irakleion Nikos Kazantzakis, Greece (HER)",
+        "2": "airport",
+        "3": "HER",
+        "4": "HER",
+        "5": "Heraklion",
+        "6": 25.1802778,
+        "7": 35.3397222,
+        "10": "Europe/Athens"
+      }
+    ]
+  }
+}

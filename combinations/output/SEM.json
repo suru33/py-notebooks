@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Semarang Ahmad Yani, Indonesia (SRG)",
+        "2": "airport",
+        "3": "SRG",
+        "4": "SRG",
+        "5": "Semarang",
+        "6": 110.374167,
+        "7": -6.9713889,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Semey, Kazakhstan (PLX)",
+        "2": "airport",
+        "3": "PLX",
+        "4": "PLX",
+        "5": "Semipalatinsk",
+        "6": 80.2344444,
+        "7": 50.3513889,
+        "10": "Asia/Almaty"
+      },
+      {
+        "1": "Semera, Ethiopia (SZE)",
+        "2": "airport",
+        "3": "SZE",
+        "4": "SZE",
+        "5": "Semera",
+        "6": 40.9930556,
+        "7": 11.7863889,
+        "10": "Africa/Addis_Ababa"
+      }
+    ]
+  }
+}

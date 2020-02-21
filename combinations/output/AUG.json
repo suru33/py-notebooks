@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Augusta State, ME (AUG)",
+        "2": "airport",
+        "3": "AUG",
+        "4": "AUG",
+        "5": "Augusta",
+        "6": -69.796944,
+        "7": 44.3180556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Augusta Regional (Bush Field), GA (AGS)",
+        "2": "airport",
+        "3": "AGS",
+        "4": "AGS",
+        "5": "Augusta",
+        "6": -81.964444,
+        "7": 33.37,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

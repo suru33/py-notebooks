@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Ivanovo Yuzhny, Russia (IWA)",
+        "2": "airport",
+        "3": "IWA",
+        "4": "IWA",
+        "5": "Ivanovo",
+        "6": 40.98,
+        "7": 57.0583333,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Iwakuni, Japan (IWK)",
+        "2": "airport",
+        "3": "IWK",
+        "4": "IWK",
+        "5": "Iwakuni",
+        "6": 132.235556,
+        "7": 34.1352778,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Masuda Iwami, Japan (IWJ)",
+        "2": "airport",
+        "3": "IWJ",
+        "4": "IWJ",
+        "5": "Iwami",
+        "6": 131.790278,
+        "7": 34.6763889,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

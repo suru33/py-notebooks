@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Yueyang Sanhe, China (YYA)",
+        "2": "airport",
+        "3": "YYA",
+        "4": "YYA",
+        "5": "Yueyang",
+        "6": 113.281667,
+        "7": 29.3127778,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Yueyang Railway Station, China (YUG)",
+        "2": "rail",
+        "3": "YUG",
+        "4": "YYA",
+        "5": "Yueyang",
+        "6": 113.114167,
+        "7": 29.3794444,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

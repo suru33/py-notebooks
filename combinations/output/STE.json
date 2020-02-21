@@ -1,0 +1,95 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Steamboat Springs Hayden Yampa Valley, CO (HDN)",
+        "2": "airport",
+        "3": "HDN",
+        "4": "HDN",
+        "5": "Hayden",
+        "6": -107.22361,
+        "7": 40.4833333,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Stebbins, AK (WBB)",
+        "2": "airport",
+        "3": "WBB",
+        "4": "WBB",
+        "5": "Stebbins",
+        "6": -162.28417,
+        "7": 63.5147222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "St Eustatius F.D. Roosevelt, Bonaire, Saint Eustatius and Saba (EUX)",
+        "2": "airport",
+        "3": "EUX",
+        "4": "EUX",
+        "5": "St Eustatius",
+        "6": -62.979444,
+        "7": 17.4963889
+      },
+      {
+        "1": "Stephenville International, NL, Canada (YJT)",
+        "2": "airport",
+        "3": "YJT",
+        "4": "YJT",
+        "5": "Stephenville",
+        "6": -58.55,
+        "7": 48.5441667,
+        "10": "America/St_Johns"
+      },
+      {
+        "1": "Stevens Village, AK (SVS)",
+        "2": "airport",
+        "3": "SVS",
+        "4": "SVS",
+        "5": "Stevens Village",
+        "6": -149.06111,
+        "7": 66.0161111,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Stella Maris, Bahamas (SML)",
+        "2": "airport",
+        "3": "SML",
+        "4": "SML",
+        "5": "Stella Maris",
+        "6": -75.268611,
+        "7": 23.5830556,
+        "10": "America/Nassau"
+      },
+      {
+        "1": "Lyon St-Exupery, France (LYS)",
+        "2": "airport",
+        "3": "LYS",
+        "4": "LYS",
+        "5": "Lyon",
+        "6": 5.08111111,
+        "7": 45.7255556,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Bratislava M.R. Stefanik, Slovakia (BTS)",
+        "2": "airport",
+        "3": "BTS",
+        "4": "BTS",
+        "5": "Bratislava",
+        "6": 17.2127778,
+        "7": 48.1702778,
+        "10": "Europe/Bratislava"
+      },
+      {
+        "1": "Newburgh Stewart, NY (SWF)",
+        "2": "airport",
+        "3": "SWF",
+        "4": "SWF",
+        "5": "Newburgh",
+        "6": -74.104722,
+        "7": 41.5041667,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Yellowknife, NT, Canada (YZF)",
+        "2": "airport",
+        "3": "YZF",
+        "4": "YZF",
+        "5": "Yellowknife",
+        "6": -114.44306,
+        "7": 62.4686111,
+        "10": "America/Edmonton"
+      },
+      {
+        "1": "Cody Yellowstone Regional, WY (COD)",
+        "2": "airport",
+        "3": "COD",
+        "4": "COD",
+        "5": "Cody",
+        "6": -109.02611,
+        "7": 44.5177778,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

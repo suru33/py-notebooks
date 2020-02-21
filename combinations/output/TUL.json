@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tulsa International, OK (TUL)",
+        "2": "airport",
+        "3": "TUL",
+        "4": "TUL",
+        "5": "Tulsa",
+        "6": -95.888056,
+        "7": 36.1983333,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Tuluksak, AK (TLT)",
+        "2": "airport",
+        "3": "TLT",
+        "4": "TLT",
+        "5": "Tuluksak",
+        "6": -160.96806,
+        "7": 61.0977778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Tulita, NT, Canada (ZFN)",
+        "2": "airport",
+        "3": "ZFN",
+        "4": "ZFN",
+        "5": "Tulita Fort Norman",
+        "6": -125.5725,
+        "7": 64.9097222,
+        "10": "America/Edmonton"
+      }
+    ]
+  }
+}

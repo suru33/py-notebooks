@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Glendive Dawson Community, MT (GDV)",
+        "2": "airport",
+        "3": "GDV",
+        "4": "GDV",
+        "5": "Glendive",
+        "6": -104.80944,
+        "7": 47.1405556,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Islay Glenegedale, United Kingdom (ILY)",
+        "2": "airport",
+        "3": "ILY",
+        "4": "ILY",
+        "5": "Islay",
+        "6": -6.2566667,
+        "7": 55.6819444,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

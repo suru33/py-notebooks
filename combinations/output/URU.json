@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Urumqi Diwopu International, China (URC)",
+        "2": "airport",
+        "3": "URC",
+        "4": "URC",
+        "5": "Urumqi",
+        "6": 87.4741667,
+        "7": 43.9072222,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Urumiyeh, Iran (OMH)",
+        "2": "airport",
+        "3": "OMH",
+        "4": "OMH",
+        "5": "Urmieh",
+        "6": 45.0636111,
+        "7": 37.6622222,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Uruapan Ignacio Lopez Rayon, Mexico (UPN)",
+        "2": "airport",
+        "3": "UPN",
+        "4": "UPN",
+        "5": "Uruapan",
+        "6": -102.03917,
+        "7": 19.3966667,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Uruguaiana Rubem Berta International, Brazil (URG)",
+        "2": "airport",
+        "3": "URG",
+        "4": "URG",
+        "5": "Uruguaiana",
+        "6": -57.0375,
+        "7": -29.782222,
+        "10": "America/Sao_Paulo"
+      }
+    ]
+  }
+}

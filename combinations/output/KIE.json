@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Kieta Aropa, Papua New Guinea (KIE)",
+        "2": "airport",
+        "3": "KIE",
+        "4": "KIE",
+        "5": "Kieta",
+        "6": 155.728611,
+        "7": -6.3061111,
+        "10": "Pacific/Port_Moresby"
+      },
+      {
+        "1": "Kiev, Ukraine - All airports",
+        "2": "city",
+        "3": "IEV",
+        "4": "IEV",
+        "5": "Kiev",
+        "6": 30.721807238909516,
+        "7": 50.36701914657445,
+        "10": "Europe/Kiev"
+      },
+      {
+        "1": "Kiev Boryspil International, Ukraine (KBP)",
+        "2": "airport",
+        "3": "KBP",
+        "4": "IEV",
+        "5": "Kiev",
+        "6": 30.8947222,
+        "7": 50.345,
+        "10": "Europe/Kiev"
+      },
+      {
+        "1": "Kiev Zhuliany International, Ukraine (IEV)",
+        "2": "airport",
+        "3": "IEV",
+        "4": "IEV",
+        "5": "Kiev",
+        "6": 30.4497222,
+        "7": 50.4016667,
+        "10": "Europe/Kiev"
+      },
+      {
+        "1": "Kiel Holtenau, Germany (KEL)",
+        "2": "airport",
+        "3": "KEL",
+        "4": "KEL",
+        "5": "Kiel",
+        "6": 10.145,
+        "7": 54.3797222,
+        "10": "Europe/Berlin"
+      }
+    ]
+  }
+}

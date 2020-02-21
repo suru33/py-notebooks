@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Phoenix, AZ - All airports",
+        "2": "city",
+        "3": "PHX",
+        "4": "PHX",
+        "5": "Phoenix",
+        "6": -111.90118566506048,
+        "7": 33.39549369441509,
+        "10": "America/Phoenix"
+      },
+      {
+        "1": "Phoenix Sky Harbor International, AZ (PHX)",
+        "2": "airport",
+        "3": "PHX",
+        "4": "PHX",
+        "5": "Phoenix",
+        "6": -112.01167,
+        "7": 33.4341667,
+        "10": "America/Phoenix"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lages Correia Pinto, Brazil (LAJ)",
+        "2": "airport",
+        "3": "LAJ",
+        "4": "LAJ",
+        "5": "Lages",
+        "6": -50.280556,
+        "7": -27.782778,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Terceira Island Lajes, Portugal (TER)",
+        "2": "airport",
+        "3": "TER",
+        "4": "TER",
+        "5": "Terceira",
+        "6": -27.090833,
+        "7": 38.7619444,
+        "10": "Atlantic/Azores"
+      }
+    ]
+  }
+}

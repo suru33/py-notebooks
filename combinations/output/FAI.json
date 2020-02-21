@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Fairbanks International, AK (FAI)",
+        "2": "airport",
+        "3": "FAI",
+        "4": "FAI",
+        "5": "Fairbanks",
+        "6": -147.85639,
+        "7": 64.815,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Faisalabad International, Pakistan (LYP)",
+        "2": "airport",
+        "3": "LYP",
+        "4": "LYP",
+        "5": "Faisalabad",
+        "6": 72.9947222,
+        "7": 31.365,
+        "10": "Asia/Karachi"
+      },
+      {
+        "1": "Fair Isle, United Kingdom (FIE)",
+        "2": "airport",
+        "3": "FIE",
+        "4": "FIE",
+        "5": "Fair Isle",
+        "6": -1.6286111,
+        "7": 59.5347222,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Swansea, United Kingdom (SWS)",
+        "2": "airport",
+        "3": "SWS",
+        "4": "SWS",
+        "5": "Swansea",
+        "6": -4.0677778,
+        "7": 51.6052778,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Ganzhou Huangjin, China (KOW)",
+        "2": "airport",
+        "3": "KOW",
+        "4": "KOW",
+        "5": "Ganzhou",
+        "6": 114.775278,
+        "7": 25.8513889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Kowanyama, Australia (KWM)",
+        "2": "airport",
+        "3": "KWM",
+        "4": "KWM",
+        "5": "Kowanyama",
+        "6": 141.752222,
+        "7": -15.485278,
+        "10": "Australia/Brisbane"
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Dublin International, Ireland (DUB)",
+        "2": "airport",
+        "3": "DUB",
+        "4": "DUB",
+        "5": "Dublin",
+        "6": -6.27,
+        "7": 53.4213889,
+        "10": "Europe/Dublin"
+      },
+      {
+        "1": "Dubai, United Arab Emirates - All airports",
+        "2": "city",
+        "3": "DXB",
+        "4": "DXB",
+        "5": "Dubai",
+        "6": 55.29998508759596,
+        "7": 25.14133589592772,
+        "10": "Asia/Dubai"
+      },
+      {
+        "1": "Dubai International, United Arab Emirates (DXB)",
+        "2": "airport",
+        "3": "DXB",
+        "4": "DXB",
+        "5": "Dubai",
+        "6": 55.3644444,
+        "7": 25.2527778,
+        "10": "Asia/Dubai"
+      },
+      {
+        "1": "Dubrovnik, Croatia (DBV)",
+        "2": "airport",
+        "3": "DBV",
+        "4": "DBV",
+        "5": "Dubrovnik",
+        "6": 18.2683333,
+        "7": 42.5613889,
+        "10": "Europe/Zagreb"
+      },
+      {
+        "1": "Dubai Al Maktoum International, United Arab Emirates (DWC)",
+        "2": "airport",
+        "3": "DWC",
+        "4": "DXB",
+        "5": "Dubai",
+        "6": 55.16,
+        "7": 24.8961111,
+        "10": "Asia/Dubai"
+      },
+      {
+        "1": "Dubbo City Airport, Australia (DBO)",
+        "2": "airport",
+        "3": "DBO",
+        "4": "DBO",
+        "5": "Dubbo",
+        "6": 148.575556,
+        "7": -32.218889,
+        "10": "Australia/Sydney"
+      },
+      {
+        "1": "DuBois Regional, PA (DUJ)",
+        "2": "airport",
+        "3": "DUJ",
+        "4": "DUJ",
+        "5": "Dubois",
+        "6": -78.898611,
+        "7": 41.1783333,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Dubai Creek SPB, United Arab Emirates (DCG)",
+        "2": "airport",
+        "3": "DCG",
+        "4": "DXB",
+        "5": "Dubai",
+        "6": 55.3316667,
+        "7": 25.2422222,
+        "10": "Asia/Dubai"
+      },
+      {
+        "1": "Dubuque Regional, IA (DBQ)",
+        "2": "airport",
+        "3": "DBQ",
+        "4": "DBQ",
+        "5": "Dubuque",
+        "6": -90.709444,
+        "7": 42.4019444,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Dubai Jebel Ali SPB, United Arab Emirates (DJH)",
+        "2": "airport",
+        "3": "DJH",
+        "4": "DXB",
+        "5": "Dubai",
+        "6": 55.0241667,
+        "7": 25.0019444,
+        "10": "Asia/Dubai"
+      },
+      {
+        "1": "Dubai Etihad Bus Station, United Arab Emirates (XNB)",
+        "2": "bus",
+        "3": "XNB",
+        "4": "DXB",
+        "5": "Dubai",
+        "6": 55.5880556,
+        "7": 25.2930556,
+        "10": "Asia/Dubai"
+      }
+    ]
+  }
+}

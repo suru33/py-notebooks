@@ -1,0 +1,86 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Potosi Capitan Nicolas Rojas, Bolivia (POI)",
+        "2": "airport",
+        "3": "POI",
+        "4": "POI",
+        "5": "Potosi",
+        "6": -65.723889,
+        "7": -19.543333,
+        "10": "America/La_Paz"
+      },
+      {
+        "1": "Pointe-a-Pitre Le Raizet, Guadeloupe (PTP)",
+        "2": "airport",
+        "3": "PTP",
+        "4": "PTP",
+        "5": "Pointe-A-Pitre",
+        "6": -61.531944,
+        "7": 16.2652778,
+        "10": "America/Guadeloupe"
+      },
+      {
+        "1": "Point Hope, AK (PHO)",
+        "2": "airport",
+        "3": "PHO",
+        "4": "PHO",
+        "5": "Point Hope",
+        "6": -166.79944,
+        "7": 68.3488889,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Pointe-Noire, Congo (PNR)",
+        "2": "airport",
+        "3": "PNR",
+        "4": "PNR",
+        "5": "Pointe Noire",
+        "6": 11.8866667,
+        "7": -4.8161111,
+        "10": "Africa/Brazzaville"
+      },
+      {
+        "1": "Point Lay, AK (PIZ)",
+        "2": "airport",
+        "3": "PIZ",
+        "4": "PIZ",
+        "5": "Point Lay",
+        "6": -163.00528,
+        "7": 69.7327778,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Poitiers Biard, France (PIS)",
+        "2": "airport",
+        "3": "PIS",
+        "4": "PIS",
+        "5": "Poitiers",
+        "6": 0.30666667,
+        "7": 46.5875,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Point Baker Sea Plane Base, AK (KPB)",
+        "2": "airport",
+        "3": "KPB",
+        "4": "KPB",
+        "5": "Point Baker",
+        "6": -133.62222,
+        "7": 56.3519444,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Poitiers Railway Station, France (XOP)",
+        "2": "rail",
+        "3": "XOP",
+        "4": "PIS",
+        "5": "Poitiers",
+        "6": 0.33305556,
+        "7": 46.5822222,
+        "10": "Europe/Paris"
+      }
+    ]
+  }
+}

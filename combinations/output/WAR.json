@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Warsaw Frederic Chopin, Poland (WAW)",
+        "2": "airport",
+        "3": "WAW",
+        "4": "WAW",
+        "5": "Warsaw",
+        "6": 20.9672222,
+        "7": 52.1658333,
+        "10": "Europe/Warsaw"
+      },
+      {
+        "1": "Warsaw-Modlin Mazovia, Poland (WMI)",
+        "2": "airport",
+        "3": "WMI",
+        "4": "WMI",
+        "5": "Nowy Dwor Mazowiecki",
+        "6": 20.6516667,
+        "7": 52.4511111,
+        "10": "Europe/Warsaw"
+      },
+      {
+        "1": "Warraber Island, Australia (SYU)",
+        "2": "airport",
+        "3": "SYU",
+        "4": "SYU",
+        "5": "Warraber Island",
+        "6": 142.823611,
+        "7": -10.207222,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Warrnambool, Australia (WMB)",
+        "2": "airport",
+        "3": "WMB",
+        "4": "WMB",
+        "5": "Warrnambool",
+        "6": 142.446944,
+        "7": -38.294444,
+        "10": "Australia/Sydney"
+      },
+      {
+        "1": "Warri Osubi, Nigeria (QRW)",
+        "2": "airport",
+        "3": "QRW",
+        "4": "QRW",
+        "5": "Warri Off-Line Pt",
+        "6": 5.82027778,
+        "7": 5.59888889,
+        "10": "Africa/Lagos"
+      }
+    ]
+  }
+}

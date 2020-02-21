@@ -1,0 +1,96 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Las Vegas, NV - All airports",
+        "2": "city",
+        "3": "LAS",
+        "4": "LAS",
+        "5": "Las Vegas",
+        "6": -115.13423779022831,
+        "7": 36.07174668397505,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Las Vegas McCarran International, NV (LAS)",
+        "2": "airport",
+        "3": "LAS",
+        "4": "LAS",
+        "5": "Las Vegas",
+        "6": -115.15222,
+        "7": 36.08,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "La Serena La Florida, Chile (LSC)",
+        "2": "airport",
+        "3": "LSC",
+        "4": "LSC",
+        "5": "La Serena",
+        "6": -71.199444,
+        "7": -29.916389,
+        "10": "America/Santiago"
+      },
+      {
+        "1": "Lashio, Myanmar (LSH)",
+        "2": "airport",
+        "3": "LSH",
+        "4": "LSH",
+        "5": "Lashio",
+        "6": 97.7522222,
+        "7": 22.9777778,
+        "10": "Asia/Rangoon"
+      },
+      {
+        "1": "Las Vegas Boulder City Municipal, NV (BLD)",
+        "2": "airport",
+        "3": "BLD",
+        "4": "LAS",
+        "5": "Las Vegas",
+        "6": -114.86111,
+        "7": 35.9463889,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Las Piedras Josefa Camejo International, Venezuela (LSP)",
+        "2": "airport",
+        "3": "LSP",
+        "4": "LSP",
+        "5": "Las Piedras",
+        "6": -70.151389,
+        "7": 11.7808333,
+        "10": "America/Caracas"
+      },
+      {
+        "1": "Lashkar Gah Bost, Afghanistan (BST)",
+        "2": "airport",
+        "3": "BST",
+        "4": "BST",
+        "5": "Bost",
+        "6": 64.365,
+        "7": 31.5602778,
+        "10": "Asia/Kabul"
+      },
+      {
+        "1": "Santo Domingo Las Americas International, Dominican Republic (SDQ)",
+        "2": "airport",
+        "3": "SDQ",
+        "4": "SDQ",
+        "5": "Santo Domingo",
+        "6": -69.668889,
+        "7": 18.4297222,
+        "10": "America/Santo_Domingo"
+      },
+      {
+        "1": "Veracruz Heriberto Jara International, Mexico (VER)",
+        "2": "airport",
+        "3": "VER",
+        "4": "VER",
+        "5": "Veracruz",
+        "6": -96.187222,
+        "7": 19.1458333,
+        "10": "America/Cancun"
+      }
+    ]
+  }
+}

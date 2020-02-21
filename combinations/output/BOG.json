@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bogota El Dorado International, Colombia (BOG)",
+        "2": "airport",
+        "3": "BOG",
+        "4": "BOG",
+        "5": "Bogota",
+        "6": -74.146944,
+        "7": 4.70166667,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Bogorodskoye, Russia (BQG)",
+        "2": "airport",
+        "3": "BQG",
+        "4": "BQG",
+        "5": "Bogorodskoye",
+        "6": 140.448333,
+        "7": 52.3783333,
+        "10": "Asia/Vladivostok"
+      }
+    ]
+  }
+}

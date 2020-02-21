@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Cleveland, OH - All airports",
+        "2": "city",
+        "3": "CLE",
+        "4": "CLE",
+        "5": "Cleveland",
+        "6": -81.83702868956017,
+        "7": 41.41974040037547,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Cleveland Hopkins International, OH (CLE)",
+        "2": "airport",
+        "3": "CLE",
+        "4": "CLE",
+        "5": "Cleveland",
+        "6": -81.849722,
+        "7": 41.4116667,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Clermont-Ferrand Auvergne, France (CFE)",
+        "2": "airport",
+        "3": "CFE",
+        "4": "CFE",
+        "5": "Clermont-Ferrand",
+        "6": 3.1625,
+        "7": 45.7858333,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Cleveland Burke Lakefront, OH (BKL)",
+        "2": "airport",
+        "3": "BKL",
+        "4": "CLE",
+        "5": "Cleveland",
+        "6": -81.683333,
+        "7": 41.5175,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Tampa St.Pete-Clearwater International, FL (PIE)",
+        "2": "airport",
+        "3": "PIE",
+        "4": "TPA",
+        "5": "Tampa",
+        "6": -82.6875,
+        "7": 27.9102778,
+        "10": "America/New_York"
+      }
+    ]
+  }
+}

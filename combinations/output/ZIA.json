@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Zhukovsky, Russia (ZIA)",
+        "2": "airport",
+        "3": "ZIA",
+        "4": "ZIA",
+        "5": "Zhukovsky",
+        "6": 38.1516667,
+        "7": 55.5533333,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Dhaka Hazrat Shahjalal International, Bangladesh (DAC)",
+        "2": "airport",
+        "3": "DAC",
+        "4": "DAC",
+        "5": "Dhaka",
+        "6": 90.3977778,
+        "7": 23.8433333,
+        "10": "Asia/Dhaka"
+      }
+    ]
+  }
+}

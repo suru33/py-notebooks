@@ -1,0 +1,66 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Ust-Kut, Russia (UKX)",
+        "2": "airport",
+        "3": "UKX",
+        "4": "UKX",
+        "5": "Ust-Kut",
+        "6": 105.731667,
+        "7": 56.8572222,
+        "10": "Asia/Irkutsk"
+      },
+      {
+        "1": "Ust-Kamenogorsk, Kazakhstan (UKK)",
+        "2": "airport",
+        "3": "UKK",
+        "4": "UKK",
+        "5": "Ust-Kamenogorsk",
+        "6": 82.4936111,
+        "7": 50.0366667,
+        "10": "Asia/Almaty"
+      },
+      {
+        "1": "Ustupo Island Ustupo Ogobsucum, Panama (OGM)",
+        "2": "airport",
+        "3": "OGM",
+        "4": "OGM",
+        "5": "Ustupu Island",
+        "6": -77.933333,
+        "7": 9.1375,
+        "10": "America/Panama"
+      },
+      {
+        "1": "Ust-Kuyga, Russia (UKG)",
+        "2": "airport",
+        "3": "UKG",
+        "4": "UKG",
+        "5": "Ust-Kuyga",
+        "6": 135.6425,
+        "7": 70.0105556,
+        "10": "Asia/Vladivostok"
+      },
+      {
+        "1": "Ust-Nera, Russia (USR)",
+        "2": "airport",
+        "3": "USR",
+        "4": "USR",
+        "5": "Ust-Nera",
+        "6": 143.110833,
+        "7": 64.5494444,
+        "10": "Asia/Vladivostok"
+      },
+      {
+        "1": "Ust-Tsilma, Russia (UTS)",
+        "2": "airport",
+        "3": "UTS",
+        "4": "UTS",
+        "5": "Ust-Tsilma",
+        "6": 52.2016667,
+        "7": 65.4333333,
+        "10": "Europe/Moscow"
+      }
+    ]
+  }
+}

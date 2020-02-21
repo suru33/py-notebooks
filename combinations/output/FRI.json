@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Friedrichshafen, Germany (FDH)",
+        "2": "airport",
+        "3": "FDH",
+        "4": "FDH",
+        "5": "Friedrichshafen",
+        "6": 9.51138889,
+        "7": 47.6713889,
+        "10": "Europe/Berlin"
+      },
+      {
+        "1": "Friday Harbor, WA (FRD)",
+        "2": "airport",
+        "3": "FRD",
+        "4": "FRD",
+        "5": "Friday Harbor",
+        "6": -123.02611,
+        "7": 48.5255556,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Hailey/Sun Valley Friedman Memorial, ID (SUN)",
+        "2": "airport",
+        "3": "SUN",
+        "4": "SUN",
+        "5": "Sun Valley",
+        "6": -114.29722,
+        "7": 43.5055556,
+        "10": "America/Denver"
+      }
+    ]
+  }
+}

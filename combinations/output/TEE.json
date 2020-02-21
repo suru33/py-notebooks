@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tebessa Cheikh Larbi Tebessi, Algeria (TEE)",
+        "2": "airport",
+        "3": "TEE",
+        "4": "TEE",
+        "5": "Tbessa",
+        "6": 8.12083333,
+        "7": 35.4316667,
+        "10": "Africa/Algiers"
+      },
+      {
+        "1": "Durham Tees Valley, United Kingdom (MME)",
+        "2": "airport",
+        "3": "MME",
+        "4": "MME",
+        "5": "Teesside",
+        "6": -1.4294444,
+        "7": 54.5091667,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

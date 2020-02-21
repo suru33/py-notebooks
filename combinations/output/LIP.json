@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Lipetsk, Russia (LPK)",
+        "2": "airport",
+        "3": "LPK",
+        "4": "LPK",
+        "5": "Lipetsk",
+        "6": 39.4519444,
+        "7": 52.6375,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Liping, China (HZH)",
+        "2": "airport",
+        "3": "HZH",
+        "4": "HZH",
+        "5": "Liping City",
+        "6": 109.151667,
+        "7": 26.3230556,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

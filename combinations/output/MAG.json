@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Madang, Papua New Guinea (MAG)",
+        "2": "airport",
+        "3": "MAG",
+        "4": "MAG",
+        "5": "Madang",
+        "6": 145.788611,
+        "7": -5.2072222,
+        "10": "Pacific/Port_Moresby"
+      },
+      {
+        "1": "Magadan Sokol, Russia (GDX)",
+        "2": "airport",
+        "3": "GDX",
+        "4": "GDX",
+        "5": "Magadan",
+        "6": 150.720556,
+        "7": 59.9111111,
+        "10": "Asia/Magadan"
+      },
+      {
+        "1": "Magnitogorsk, Russia (MQF)",
+        "2": "airport",
+        "3": "MQF",
+        "4": "MQF",
+        "5": "Magnitogorsk",
+        "6": 58.7555556,
+        "7": 53.3930556,
+        "10": "Asia/Yekaterinburg"
+      },
+      {
+        "1": "Magan, Russia (GYG)",
+        "2": "airport",
+        "3": "GYG",
+        "4": "GYG",
+        "5": "Magan",
+        "6": 129.543056,
+        "7": 62.1038889,
+        "10": "Asia/Yakutsk"
+      },
+      {
+        "1": "Noumea Magenta, New Caledonia (GEA)",
+        "2": "airport",
+        "3": "GEA",
+        "4": "NOU",
+        "5": "Noumea",
+        "6": 166.472778,
+        "7": -22.258333,
+        "10": "Pacific/Noumea"
+      }
+    ]
+  }
+}

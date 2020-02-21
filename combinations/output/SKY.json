@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Phoenix Sky Harbor International, AZ (PHX)",
+        "2": "airport",
+        "3": "PHX",
+        "4": "PHX",
+        "5": "Phoenix",
+        "6": -112.01167,
+        "7": 33.4341667,
+        "10": "America/Phoenix"
+      },
+      {
+        "1": "Skyros, Greece (SKU)",
+        "2": "airport",
+        "3": "SKU",
+        "4": "SKU",
+        "5": "Skiros",
+        "6": 24.4880556,
+        "7": 38.9683333,
+        "10": "Europe/Athens"
+      }
+    ]
+  }
+}

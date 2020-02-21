@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "McAllen/Mission Miller International, TX (MFE)",
+        "2": "airport",
+        "3": "MFE",
+        "4": "MFE",
+        "5": "McAllen",
+        "6": -98.238611,
+        "7": 26.1758333,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "McArthur River Mine, Australia (MCV)",
+        "2": "airport",
+        "3": "MCV",
+        "4": "MCV",
+        "5": "McArthur River",
+        "6": 136.083056,
+        "7": -16.442222,
+        "10": "Australia/Darwin"
+      }
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sarasota/Bradenton International, FL (SRQ)",
+        "2": "airport",
+        "3": "SRQ",
+        "4": "SRQ",
+        "5": "Sarasota/Bradenton",
+        "6": -82.554444,
+        "7": 27.3955556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Sarajevo International, Bosnia-Herzegovina (SJJ)",
+        "2": "airport",
+        "3": "SJJ",
+        "4": "SJJ",
+        "5": "Sarajevo",
+        "6": 18.3313889,
+        "7": 43.8247222,
+        "10": "Europe/Sarajevo"
+      },
+      {
+        "1": "Sari Dasht-e-Naz, Iran (SRY)",
+        "2": "airport",
+        "3": "SRY",
+        "4": "SRY",
+        "5": "Sary",
+        "6": 53.1936111,
+        "7": 36.6358333,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Saratov Tsentralny, Russia (RTW)",
+        "2": "airport",
+        "3": "RTW",
+        "4": "RTW",
+        "5": "Saratov",
+        "6": 46.0466667,
+        "7": 51.565,
+        "10": "Europe/Samara"
+      },
+      {
+        "1": "Sara, Vanuatu (SSR)",
+        "2": "airport",
+        "3": "SSR",
+        "4": "SSR",
+        "5": "Sara",
+        "6": 168.1525,
+        "7": -15.470833,
+        "10": "Pacific/Efate"
+      },
+      {
+        "1": "Saranac Lake Adirondack Regional, NY (SLK)",
+        "2": "airport",
+        "3": "SLK",
+        "4": "SLK",
+        "5": "Saranac Lake",
+        "6": -74.206111,
+        "7": 44.3852778,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Saransk, Russia (SKX)",
+        "2": "airport",
+        "3": "SKX",
+        "4": "SKX",
+        "5": "Saransk",
+        "6": 45.2133333,
+        "7": 54.1258333,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Sarh, Chad (SRH)",
+        "2": "airport",
+        "3": "SRH",
+        "4": "SRH",
+        "5": "Sarh",
+        "6": 18.3758333,
+        "7": 9.14611111,
+        "10": "Africa/Ndjamena"
+      },
+      {
+        "1": "Saravena Los Colonizadores, Colombia (RVE)",
+        "2": "airport",
+        "3": "RVE",
+        "4": "RVE",
+        "5": "Saravena",
+        "6": -71.857222,
+        "7": 6.95194444,
+        "10": "America/Bogota"
+      },
+      {
+        "1": "Sarnia Chris Hadfield, ON, Canada (YZR)",
+        "2": "airport",
+        "3": "YZR",
+        "4": "YZR",
+        "5": "Sarnia",
+        "6": -82.308889,
+        "7": 42.9994444,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Sarnia Railway Station, ON, Canada (XDX)",
+        "2": "rail",
+        "3": "XDX",
+        "4": "YZR",
+        "5": "Sarnia",
+        "6": -82.389167,
+        "7": 42.9575,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Sarande Bus Station, Albania (XSA)",
+        "2": "bus",
+        "3": "XSA",
+        "4": "XSA",
+        "5": "Saranda",
+        "6": 20.0063889,
+        "7": 39.8755556,
+        "10": "Europe/Tirane"
+      }
+    ]
+  }
+}

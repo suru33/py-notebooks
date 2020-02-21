@@ -1,0 +1,96 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Southampton Eastleigh Int'l, United Kingdom (SOU)",
+        "2": "airport",
+        "3": "SOU",
+        "4": "SOU",
+        "5": "Southampton",
+        "6": -1.3566667,
+        "7": 50.9502778,
+        "10": "Europe/London"
+      },
+      {
+        "1": "South Bend International, IN (SBN)",
+        "2": "airport",
+        "3": "SBN",
+        "4": "SBN",
+        "5": "South Bend",
+        "6": -86.313056,
+        "7": 41.7047222,
+        "10": "America/Indiana/Indianapolis"
+      },
+      {
+        "1": "South Naknek, AK (WSN)",
+        "2": "airport",
+        "3": "WSN",
+        "4": "WSN",
+        "5": "South Naknek",
+        "6": -157.00667,
+        "7": 58.7033333,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "South West Bay, Vanuatu (SWJ)",
+        "2": "airport",
+        "3": "SWJ",
+        "4": "SWJ",
+        "5": "South West Bay",
+        "6": 167.447222,
+        "7": -16.486389,
+        "10": "Pacific/Efate"
+      },
+      {
+        "1": "South Caicos International, Turks and Caicos Islands (XSC)",
+        "2": "airport",
+        "3": "XSC",
+        "4": "XSC",
+        "5": "South Caicos",
+        "6": -71.528611,
+        "7": 21.5158333,
+        "10": "America/Grand_Turk"
+      },
+      {
+        "1": "South Bimini, Bahamas (BIM)",
+        "2": "airport",
+        "3": "BIM",
+        "4": "BIM",
+        "5": "Bimini",
+        "6": -79.264722,
+        "7": 25.7,
+        "10": "America/Nassau"
+      },
+      {
+        "1": "Brussels S. Charleroi, Belgium (CRL)",
+        "2": "airport",
+        "3": "CRL",
+        "4": "BRU",
+        "5": "Brussels",
+        "6": 4.45388889,
+        "7": 50.4591667,
+        "10": "Europe/Brussels"
+      },
+      {
+        "1": "Brownsville South Padre Is. International, TX (BRO)",
+        "2": "airport",
+        "3": "BRO",
+        "4": "BRO",
+        "5": "Brownsville",
+        "6": -97.425833,
+        "7": 25.9069444,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Chania Ioannis Daskalogiannis, Greece (CHQ)",
+        "2": "airport",
+        "3": "CHQ",
+        "4": "CHQ",
+        "5": "Chania",
+        "6": 24.1497222,
+        "7": 35.5316667,
+        "10": "Europe/Athens"
+      }
+    ]
+  }
+}

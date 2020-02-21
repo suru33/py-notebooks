@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Funafuti International, Tuvalu (FUN)",
+        "2": "airport",
+        "3": "FUN",
+        "4": "FUN",
+        "5": "Funafuti Atol",
+        "6": 179.195833,
+        "7": -8.5252778,
+        "10": "Pacific/Funafuti"
+      },
+      {
+        "1": "Funchal Madeira, Portugal (FNC)",
+        "2": "airport",
+        "3": "FNC",
+        "4": "FNC",
+        "5": "Funchal",
+        "6": -16.778056,
+        "7": 32.6941667,
+        "10": "Europe/Lisbon"
+      }
+    ]
+  }
+}

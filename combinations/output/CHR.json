@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Christchurch International, New Zealand (CHC)",
+        "2": "airport",
+        "3": "CHC",
+        "4": "CHC",
+        "5": "Christchurch",
+        "6": 172.532222,
+        "7": -43.489444,
+        "10": "Pacific/Auckland"
+      },
+      {
+        "1": "Christmas Island, Christmas Island (XCH)",
+        "2": "airport",
+        "3": "XCH",
+        "4": "XCH",
+        "5": "Christmas Island",
+        "6": 105.690278,
+        "7": -10.450556,
+        "10": "Indian/Christmas"
+      }
+    ]
+  }
+}

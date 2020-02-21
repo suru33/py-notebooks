@@ -1,0 +1,116 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Stockholm, Sweden - All airports",
+        "2": "city",
+        "3": "STO",
+        "4": "STO",
+        "5": "Stockholm",
+        "6": 17.60032681531245,
+        "7": 59.410433437008905,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Stockholm Arlanda, Sweden (ARN)",
+        "2": "airport",
+        "3": "ARN",
+        "4": "STO",
+        "5": "Stockholm",
+        "6": 17.9186111,
+        "7": 59.6519444,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Stockholm Skavsta, Sweden (NYO)",
+        "2": "airport",
+        "3": "NYO",
+        "4": "STO",
+        "5": "Stockholm",
+        "6": 16.9122222,
+        "7": 58.7886111,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Stony River, AK (SRV)",
+        "2": "airport",
+        "3": "SRV",
+        "4": "SRV",
+        "5": "Stony River",
+        "6": -156.58917,
+        "7": 61.7891667,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Stockholm Bromma, Sweden (BMA)",
+        "2": "airport",
+        "3": "BMA",
+        "4": "STO",
+        "5": "Stockholm",
+        "6": 17.9416667,
+        "7": 59.3544444,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Stornoway, United Kingdom (SYY)",
+        "2": "airport",
+        "3": "SYY",
+        "4": "SYY",
+        "5": "Stornoway",
+        "6": -6.3311111,
+        "7": 58.2155556,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Stokmarknes Skagen, Norway (SKN)",
+        "2": "airport",
+        "3": "SKN",
+        "4": "SKN",
+        "5": "Stokmarknes",
+        "6": 15.0211111,
+        "7": 68.5811111,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Stockholm Vasteras, Sweden (VST)",
+        "2": "airport",
+        "3": "VST",
+        "4": "STO",
+        "5": "Stockholm",
+        "6": 16.6336111,
+        "7": 59.5894444,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Stord Sorstokken, Norway (SRP)",
+        "2": "airport",
+        "3": "SRP",
+        "4": "SRP",
+        "5": "Stord",
+        "6": 5.34083333,
+        "7": 59.7919444,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Sandnessjoen Stokka, Norway (SSJ)",
+        "2": "airport",
+        "3": "SSJ",
+        "4": "SSJ",
+        "5": "Sandnessjoen",
+        "6": 12.4688889,
+        "7": 65.9569444,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Rost, Norway (RET)",
+        "2": "airport",
+        "3": "RET",
+        "4": "RET",
+        "5": "Rost",
+        "6": 12.1030556,
+        "7": 67.5275,
+        "10": "Europe/Oslo"
+      }
+    ]
+  }
+}

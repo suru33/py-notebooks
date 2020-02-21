@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bahrain International, Bahrain (BAH)",
+        "2": "airport",
+        "3": "BAH",
+        "4": "BAH",
+        "5": "Bahrain",
+        "6": 50.6336111,
+        "7": 26.2708333,
+        "10": "Asia/Bahrain"
+      },
+      {
+        "1": "Bahias de Huatulco International, Mexico (HUX)",
+        "2": "airport",
+        "3": "HUX",
+        "4": "HUX",
+        "5": "Huatulco",
+        "6": -96.2625,
+        "7": 15.7752778,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Bahia Blanca Comandante Espora, Argentina (BHI)",
+        "2": "airport",
+        "3": "BHI",
+        "4": "BHI",
+        "5": "Bahia Blanca",
+        "6": -62.153333,
+        "7": -38.727222,
+        "10": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "1": "Bahar Dar, Ethiopia (BJR)",
+        "2": "airport",
+        "3": "BJR",
+        "4": "BJR",
+        "5": "Bahar Dar",
+        "6": 37.3216667,
+        "7": 11.6080556,
+        "10": "Africa/Addis_Ababa"
+      },
+      {
+        "1": "Bahawalpur, Pakistan (BHV)",
+        "2": "airport",
+        "3": "BHV",
+        "4": "BHV",
+        "5": "Bahawalpur",
+        "6": 71.7180556,
+        "7": 29.3480556,
+        "10": "Asia/Karachi"
+      },
+      {
+        "1": "Bahia Pina, Panama (BFQ)",
+        "2": "airport",
+        "3": "BFQ",
+        "4": "BFQ",
+        "5": "Bahia Pinas",
+        "6": -78.181111,
+        "7": 7.58472222,
+        "10": "America/Panama"
+      },
+      {
+        "1": "Bahia Solano Jose Celestino Mutis, Colombia (BSC)",
+        "2": "airport",
+        "3": "BSC",
+        "4": "BSC",
+        "5": "Bahia Solano",
+        "6": -77.395278,
+        "7": 6.20305556,
+        "10": "America/Bogota"
+      }
+    ]
+  }
+}

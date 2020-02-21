@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Surakarta (Solo) Adi Sumarmo, Indonesia (SOC)",
+        "2": "airport",
+        "3": "SOC",
+        "4": "SOC",
+        "5": "Solo City",
+        "6": 110.756944,
+        "7": -7.5161111,
+        "10": "Asia/Jakarta"
+      },
+      {
+        "1": "Sochi International, Russia (AER)",
+        "2": "airport",
+        "3": "AER",
+        "4": "AER",
+        "5": "Adler/Sochi",
+        "6": 39.9566667,
+        "7": 43.45,
+        "10": "Europe/Moscow"
+      }
+    ]
+  }
+}

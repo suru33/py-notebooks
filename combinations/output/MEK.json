@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Mekele Alula Aba Nega, Ethiopia (MQX)",
+        "2": "airport",
+        "3": "MQX",
+        "4": "MQX",
+        "5": "Makale",
+        "6": 39.5333333,
+        "7": 13.4675,
+        "10": "Africa/Addis_Ababa"
+      },
+      {
+        "1": "Mekoryuk, AK (MYU)",
+        "2": "airport",
+        "3": "MYU",
+        "4": "MYU",
+        "5": "Mekoryuk",
+        "6": -166.27167,
+        "7": 60.3725,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

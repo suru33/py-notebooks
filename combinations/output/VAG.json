@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Varginha Maj. Brig. Trompowsky, Brazil (VAG)",
+        "2": "airport",
+        "3": "VAG",
+        "4": "VAG",
+        "5": "Varginha",
+        "6": -45.473889,
+        "7": -21.59,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Faroe Islands Vagar, Faeroe Islands (FAE)",
+        "2": "airport",
+        "3": "FAE",
+        "4": "FAE",
+        "5": "Faroe Islands",
+        "6": -7.2930556,
+        "7": 62.0663889,
+        "10": "Atlantic/Faroe"
+      }
+    ]
+  }
+}

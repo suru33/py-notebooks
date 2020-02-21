@@ -1,0 +1,96 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Pelotas International, Brazil (PET)",
+        "2": "airport",
+        "3": "PET",
+        "4": "PET",
+        "5": "Pelotas",
+        "6": -52.329722,
+        "7": -31.718333,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Petersburg James A. Johnson, AK (PSG)",
+        "2": "airport",
+        "3": "PSG",
+        "4": "PSG",
+        "5": "Petersburg",
+        "6": -132.94361,
+        "7": 56.8022222,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Petrolina Senador Nilo Coelho, Brazil (PNZ)",
+        "2": "airport",
+        "3": "PNZ",
+        "4": "PNZ",
+        "5": "Petrolina",
+        "6": -40.569167,
+        "7": -9.3625,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Petropavlovsk-Kamchatsky, Russia (PKC)",
+        "2": "airport",
+        "3": "PKC",
+        "4": "PKC",
+        "5": "Petropavlovsk-Kamchats",
+        "6": 158.450833,
+        "7": 53.1694444,
+        "10": "Asia/Anadyr"
+      },
+      {
+        "1": "Petropavlovsk, Kazakhstan (PPK)",
+        "2": "airport",
+        "3": "PPK",
+        "4": "PPK",
+        "5": "Petropavlovsk",
+        "6": 69.1838889,
+        "7": 54.7744444,
+        "10": "Asia/Almaty"
+      },
+      {
+        "1": "Petrozavodsk Besovets, Russia (PES)",
+        "2": "airport",
+        "3": "PES",
+        "4": "PES",
+        "5": "Petrozavodsk",
+        "6": 34.1547222,
+        "7": 61.8852778,
+        "10": "Europe/Moscow"
+      },
+      {
+        "1": "Colorado Springs Municipal, CO (COS)",
+        "2": "airport",
+        "3": "COS",
+        "4": "COS",
+        "5": "Colorado Springs",
+        "6": -104.70083,
+        "7": 38.8058333,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Asuncion Silvio Pettirossi International, Paraguay (ASU)",
+        "2": "airport",
+        "3": "ASU",
+        "4": "ASU",
+        "5": "Asuncion",
+        "6": -57.519167,
+        "7": -25.239722,
+        "10": "America/Asuncion"
+      },
+      {
+        "1": "Kota Bharu Sultan Ismail Petra, Malaysia (KBR)",
+        "2": "airport",
+        "3": "KBR",
+        "4": "KBR",
+        "5": "Kota Bharu",
+        "6": 102.291111,
+        "7": 6.1675,
+        "10": "Asia/Kuching"
+      }
+    ]
+  }
+}

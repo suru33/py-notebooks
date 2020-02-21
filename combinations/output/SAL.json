@@ -1,0 +1,246 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "San Salvador El Salvador International, El Salvador (SAL)",
+        "2": "airport",
+        "3": "SAL",
+        "4": "SAL",
+        "5": "San Salvador",
+        "6": -89.055833,
+        "7": 13.4408333,
+        "10": "America/El_Salvador"
+      },
+      {
+        "1": "Salt Lake City International, UT (SLC)",
+        "2": "airport",
+        "3": "SLC",
+        "4": "SLC",
+        "5": "Salt Lake City",
+        "6": -111.97778,
+        "7": 40.7883333,
+        "10": "America/Denver"
+      },
+      {
+        "1": "Salzburg W.A. Mozart, Austria (SZG)",
+        "2": "airport",
+        "3": "SZG",
+        "4": "SZG",
+        "5": "Salzburg",
+        "6": 13.0044444,
+        "7": 47.7933333,
+        "10": "Europe/Vienna"
+      },
+      {
+        "1": "Salvador Luis E. Magalhaes International, Brazil (SSA)",
+        "2": "airport",
+        "3": "SSA",
+        "4": "SSA",
+        "5": "Salvador",
+        "6": -38.331111,
+        "7": -12.911111,
+        "10": "America/Belem"
+      },
+      {
+        "1": "Sal Island Amilcar Cabral International, Cape Verde (SID)",
+        "2": "airport",
+        "3": "SID",
+        "4": "SID",
+        "5": "Sal",
+        "6": -22.949444,
+        "7": 16.7413889,
+        "10": "Atlantic/Cape_Verde"
+      },
+      {
+        "1": "Salluit, QC, Canada (YZG)",
+        "2": "airport",
+        "3": "YZG",
+        "4": "YSW",
+        "5": "Salluit",
+        "6": -75.666944,
+        "7": 62.1791667,
+        "10": "America/Montreal"
+      },
+      {
+        "1": "Salekhard, Russia (SLY)",
+        "2": "airport",
+        "3": "SLY",
+        "4": "SLY",
+        "5": "Salehard",
+        "6": 66.6111111,
+        "7": 66.5908333,
+        "10": "Asia/Yekaterinburg"
+      },
+      {
+        "1": "Salta Martin M. de Guemes, Argentina (SLA)",
+        "2": "airport",
+        "3": "SLA",
+        "4": "SLA",
+        "5": "Salta",
+        "6": -65.486944,
+        "7": -24.859722,
+        "10": "America/Argentina/Mendoza"
+      },
+      {
+        "1": "Salalah, Oman (SLL)",
+        "2": "airport",
+        "3": "SLL",
+        "4": "SLL",
+        "5": "Salalah",
+        "6": 54.0913889,
+        "7": 17.0386111,
+        "10": "Asia/Muscat"
+      },
+      {
+        "1": "Salina Regional, KS (SLN)",
+        "2": "airport",
+        "3": "SLN",
+        "4": "SLN",
+        "5": "Salina",
+        "6": -97.652222,
+        "7": 38.7908333,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Salisbury/Ocean City Wicomico Regional, MD (SBY)",
+        "2": "airport",
+        "3": "SBY",
+        "4": "SBY",
+        "5": "Salisbury",
+        "6": -75.510278,
+        "7": 38.3405556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Salamanca, Spain (SLM)",
+        "2": "airport",
+        "3": "SLM",
+        "4": "SLM",
+        "5": "Salamanca",
+        "6": -5.5019444,
+        "7": 40.9522222,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Salem, India (SXV)",
+        "2": "airport",
+        "3": "SXV",
+        "4": "SXV",
+        "5": "Salem",
+        "6": 78.0636111,
+        "7": 11.7811111,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Salt Cay, Turks and Caicos Islands (SLX)",
+        "2": "airport",
+        "3": "SLX",
+        "4": "SLX",
+        "5": "Salt Cay",
+        "6": -71.200556,
+        "7": 21.3358333,
+        "10": "America/Grand_Turk"
+      },
+      {
+        "1": "Saltillo Plan de Guadalupe International, Mexico (SLW)",
+        "2": "airport",
+        "3": "SLW",
+        "4": "SLW",
+        "5": "Saltillo",
+        "6": -100.92833,
+        "7": 25.5438889,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "Salzburg Hbf Railway Station, Austria (ZSB)",
+        "2": "rail",
+        "3": "ZSB",
+        "4": "SZG",
+        "5": "Salzburg",
+        "6": 13.0458333,
+        "7": 47.8130556,
+        "10": "Europe/Vienna"
+      },
+      {
+        "1": "Salerno Railway Station, Italy (ISR)",
+        "2": "rail",
+        "3": "ISR",
+        "4": "QSR",
+        "5": "Salerno Off-Line Pt",
+        "6": 14.7722222,
+        "7": 40.6752778,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Sala Railway Station, Sweden (XYX)",
+        "2": "rail",
+        "3": "XYX",
+        "4": "XYX",
+        "5": "Sala Rail Station",
+        "6": 16.6066667,
+        "7": 59.925,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Salamanca Bus Station, Spain (SAJ)",
+        "2": "bus",
+        "3": "SAJ",
+        "4": "SLM",
+        "5": "Salamanca",
+        "6": -5.6752778,
+        "7": 40.9702778,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Porto Alegre Salgado Filho International, Brazil (POA)",
+        "2": "airport",
+        "3": "POA",
+        "4": "POA",
+        "5": "Porto Alegre",
+        "6": -51.171389,
+        "7": -29.994444,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Rabat Sale, Morocco (RBA)",
+        "2": "airport",
+        "3": "RBA",
+        "4": "RBA",
+        "5": "Rabat",
+        "6": -6.7513889,
+        "7": 34.0513889,
+        "10": "Africa/Casablanca"
+      },
+      {
+        "1": "Suceava Stefan cel Mare, Romania (SCV)",
+        "2": "airport",
+        "3": "SCV",
+        "4": "SCV",
+        "5": "Suceava",
+        "6": 26.3541667,
+        "7": 47.6875,
+        "10": "Europe/Bucharest"
+      },
+      {
+        "1": "Tezpur, India (TEZ)",
+        "2": "airport",
+        "3": "TEZ",
+        "4": "TEZ",
+        "5": "Tezpur",
+        "6": 92.7783333,
+        "7": 26.7066667,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Maroua Salak, Cameroon (MVR)",
+        "2": "airport",
+        "3": "MVR",
+        "4": "MVR",
+        "5": "Maroua",
+        "6": 14.2575,
+        "7": 10.4513889,
+        "10": "Africa/Douala"
+      }
+    ]
+  }
+}

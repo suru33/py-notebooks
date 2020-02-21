@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Bora Bora Motu Mute, French Polynesia (BOB)",
+        "2": "airport",
+        "3": "BOB",
+        "4": "BOB",
+        "5": "Bora Bora",
+        "6": -151.75139,
+        "7": -16.444444,
+        "10": "Pacific/Tahiti"
+      },
+      {
+        "1": "Bobo Dioulasso, Burkina Faso (BOY)",
+        "2": "airport",
+        "3": "BOY",
+        "4": "BOY",
+        "5": "Bobo Dioulasso",
+        "6": -4.3308333,
+        "7": 11.16,
+        "10": "Africa/Ouagadougou"
+      },
+      {
+        "1": "Burbank Bob Hope, CA (BUR)",
+        "2": "airport",
+        "3": "BUR",
+        "4": "BUR",
+        "5": "Burbank",
+        "6": -118.35861,
+        "7": 34.2005556,
+        "10": "America/Los_Angeles"
+      },
+      {
+        "1": "Kiana Bob Baker Memorial, AK (IAN)",
+        "2": "airport",
+        "3": "IAN",
+        "4": "IAN",
+        "5": "Kiana",
+        "6": -160.43667,
+        "7": 66.9758333,
+        "10": "America/Anchorage"
+      }
+    ]
+  }
+}

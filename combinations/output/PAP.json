@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Port-au-Prince Toussaint Louverture, Haiti (PAP)",
+        "2": "airport",
+        "3": "PAP",
+        "4": "PAP",
+        "5": "Port Au Prince",
+        "6": -72.2925,
+        "7": 18.58,
+        "10": "America/Port-au-Prince"
+      },
+      {
+        "1": "Paphos International, Cyprus (PFO)",
+        "2": "airport",
+        "3": "PFO",
+        "4": "PFO",
+        "5": "Paphos",
+        "6": 32.4858333,
+        "7": 34.7180556,
+        "10": "Asia/Nicosia"
+      },
+      {
+        "1": "Papa Westray, United Kingdom (PPW)",
+        "2": "airport",
+        "3": "PPW",
+        "4": "PPW",
+        "5": "Papa Westray",
+        "6": -2.9,
+        "7": 59.3513889,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Thorne Bay Sea Plane Base, AK (KTB)",
+        "2": "airport",
+        "3": "KTB",
+        "4": "KTB",
+        "5": "Thorne Bay",
+        "6": -132.53333,
+        "7": 55.6833333,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Thompson, MB, Canada (YTH)",
+        "2": "airport",
+        "3": "YTH",
+        "4": "YTH",
+        "5": "Thompson",
+        "6": -97.864167,
+        "7": 55.8011111,
+        "10": "America/Rainy_River"
+      }
+    ]
+  }
+}

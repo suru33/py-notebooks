@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Da Nang International, Viet Nam (DAD)",
+        "2": "airport",
+        "3": "DAD",
+        "4": "DAD",
+        "5": "Da Nang",
+        "6": 108.199444,
+        "7": 16.0438889,
+        "10": "Asia/Ho_Chi_Minh"
+      },
+      {
+        "1": "Dandong Langtou, China (DDG)",
+        "2": "airport",
+        "3": "DDG",
+        "4": "DDG",
+        "5": "Dandong",
+        "6": 124.286944,
+        "7": 40.0255556,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Dangriga, Belize (DGA)",
+        "2": "airport",
+        "3": "DGA",
+        "4": "DGA",
+        "5": "Dangriga",
+        "6": -88.231111,
+        "7": 16.9825,
+        "10": "America/Belize"
+      },
+      {
+        "1": "Danyang Railway Station, China (DYN)",
+        "2": "rail",
+        "3": "DYN",
+        "4": "DYN",
+        "5": "Danyang",
+        "6": 119.586944,
+        "7": 32.0036111,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Montgomery Regional-Dannelly Field, AL (MGM)",
+        "2": "airport",
+        "3": "MGM",
+        "4": "MGM",
+        "5": "Montgomery",
+        "6": -86.393889,
+        "7": 32.3005556,
+        "10": "America/Chicago"
+      }
+    ]
+  }
+}

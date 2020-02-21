@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Rasht Sandra-e-Jangal, Iran (RAS)",
+        "2": "airport",
+        "3": "RAS",
+        "4": "RAS",
+        "5": "Rasht",
+        "6": 49.6177778,
+        "7": 37.3233333,
+        "10": "Asia/Tehran"
+      },
+      {
+        "1": "Ras al Khaimah, United Arab Emirates - All airports",
+        "2": "city",
+        "3": "RKT",
+        "4": "RKT",
+        "5": "Ras al Khaimah",
+        "6": 55.90748361613843,
+        "7": 25.628609842259767,
+        "10": "Asia/Dubai"
+      },
+      {
+        "1": "Ras al Khaimah International, United Arab Emirates (RKT)",
+        "2": "airport",
+        "3": "RKT",
+        "4": "RKT",
+        "5": "Ras al Khaimah",
+        "6": 55.9388889,
+        "7": 25.6136111,
+        "10": "Asia/Dubai"
+      },
+      {
+        "1": "Ras al Khaimah Al Hamra SPB, United Arab Emirates (RHR)",
+        "2": "airport",
+        "3": "RHR",
+        "4": "RKT",
+        "5": "Ras al Khaimah",
+        "6": 55.7777778,
+        "7": 25.6905556,
+        "10": "Asia/Dubai"
+      }
+    ]
+  }
+}

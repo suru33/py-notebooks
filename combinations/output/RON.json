@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Rondonopolis Maestro Marinho Franco, Brazil (ROO)",
+        "2": "airport",
+        "3": "ROO",
+        "4": "ROO",
+        "5": "Rondonopolis",
+        "6": -54.725,
+        "7": -16.586944,
+        "10": "America/Cuiaba"
+      },
+      {
+        "1": "Ronneby/Karlskrona Kallinge, Sweden (RNB)",
+        "2": "airport",
+        "3": "RNB",
+        "4": "RNB",
+        "5": "Ronneby",
+        "6": 15.265,
+        "7": 56.2666667,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Cuiaba Marechal Rondon International, Brazil (CGB)",
+        "2": "airport",
+        "3": "CGB",
+        "4": "CGB",
+        "5": "Cuiaba",
+        "6": -56.116667,
+        "7": -15.653056,
+        "10": "America/Cuiaba"
+      },
+      {
+        "1": "Isle of Man Ronaldsway, United Kingdom (IOM)",
+        "2": "airport",
+        "3": "IOM",
+        "4": "IOM",
+        "5": "Isle of Man",
+        "6": -4.6241667,
+        "7": 54.0833333,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Barcelona J.A. Anzoategui International, Venezuela (BLA)",
+        "2": "airport",
+        "3": "BLA",
+        "4": "BLA",
+        "5": "Barcelona",
+        "6": -64.689167,
+        "7": 10.1072222,
+        "10": "America/Caracas"
+      },
+      {
+        "1": "Blagoveshchensk Ignatyevo, Russia (BQS)",
+        "2": "airport",
+        "3": "BQS",
+        "4": "BQS",
+        "5": "Blagoveschensk",
+        "6": 127.4125,
+        "7": 50.4252778,
+        "10": "Asia/Yakutsk"
+      },
+      {
+        "1": "Blanc-Sablon Lourdes-de-BlancSablon, QC, Canada (YBX)",
+        "2": "airport",
+        "3": "YBX",
+        "4": "YBX",
+        "5": "Blanc Sablon",
+        "6": -57.185278,
+        "7": 51.4436111,
+        "10": "America/Blanc-Sablon"
+      },
+      {
+        "1": "Blantyre Chileka International, Malawi (BLZ)",
+        "2": "airport",
+        "3": "BLZ",
+        "4": "BLZ",
+        "5": "Blantyre",
+        "6": 34.9738889,
+        "7": -15.679167,
+        "10": "Africa/Blantyre"
+      },
+      {
+        "1": "Blackall, Australia (BKQ)",
+        "2": "airport",
+        "3": "BKQ",
+        "4": "BKQ",
+        "5": "Blackall",
+        "6": 145.428056,
+        "7": -24.4325,
+        "10": "Australia/Brisbane"
+      },
+      {
+        "1": "Toulouse Blagnac, France (TLS)",
+        "2": "airport",
+        "3": "TLS",
+        "4": "TLS",
+        "5": "Toulouse",
+        "6": 1.36777778,
+        "7": 43.635,
+        "10": "Europe/Paris"
+      },
+      {
+        "1": "Cordoba A.L.V. Taravella, Argentina (COR)",
+        "2": "airport",
+        "3": "COR",
+        "4": "COR",
+        "5": "Cordoba",
+        "6": -64.208333,
+        "7": -31.31,
+        "10": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "1": "Reynosa Lucio Blanco International, Mexico (REX)",
+        "2": "airport",
+        "3": "REX",
+        "4": "REX",
+        "5": "Reynosa",
+        "6": -98.228611,
+        "7": 26.0088889,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Manistee Co. Blacker, MI (MBL)",
+        "2": "airport",
+        "3": "MBL",
+        "4": "MBL",
+        "5": "Manistee",
+        "6": -86.252222,
+        "7": 44.2730556,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Alderney, United Kingdom (ACI)",
+        "2": "airport",
+        "3": "ACI",
+        "4": "ACI",
+        "5": "Alderney",
+        "6": -2.2155556,
+        "7": 49.7069444,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

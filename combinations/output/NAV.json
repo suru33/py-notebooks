@@ -1,0 +1,36 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Nevsehir Kapadokya, Turkey (NAV)",
+        "2": "airport",
+        "3": "NAV",
+        "4": "NAV",
+        "5": "Nevsehir",
+        "6": 34.5344444,
+        "7": 38.7719444,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Navegantes Victor Konder International, Brazil (NVT)",
+        "2": "airport",
+        "3": "NVT",
+        "4": "NVT",
+        "5": "Navegantes",
+        "6": -48.651389,
+        "7": -26.88,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Navoi International, Uzbekistan (NVI)",
+        "2": "airport",
+        "3": "NVI",
+        "4": "NVI",
+        "5": "Navoi",
+        "6": 65.1658333,
+        "7": 40.1163889,
+        "10": "Asia/Samarkand"
+      }
+    ]
+  }
+}

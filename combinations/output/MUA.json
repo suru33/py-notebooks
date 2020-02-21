@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Munda, Solomon Islands (MUA)",
+        "2": "airport",
+        "3": "MUA",
+        "4": "MUA",
+        "5": "Munda",
+        "6": 157.261667,
+        "7": -8.3272222,
+        "10": "Pacific/Guadalcanal"
+      },
+      {
+        "1": "Muan International, South Korea (MWX)",
+        "2": "airport",
+        "3": "MWX",
+        "4": "MWX",
+        "5": "Muan",
+        "6": 126.382778,
+        "7": 34.9913889,
+        "10": "Asia/Seoul"
+      },
+      {
+        "1": "Muang Xay Oudomxai, Laos (ODY)",
+        "2": "airport",
+        "3": "ODY",
+        "4": "ODY",
+        "5": "Oudomxay",
+        "6": 101.993889,
+        "7": 20.6827778,
+        "10": "Asia/Vientiane"
+      },
+      {
+        "1": "Ubon Ratchathani, Thailand (UBP)",
+        "2": "airport",
+        "3": "UBP",
+        "4": "UBP",
+        "5": "Ubon Ratchathani",
+        "6": 104.870278,
+        "7": 15.2513889,
+        "10": "Asia/Bangkok"
+      }
+    ]
+  }
+}

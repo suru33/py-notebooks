@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Foz do Iguacu Cataratas International, Brazil (IGU)",
+        "2": "airport",
+        "3": "IGU",
+        "4": "IGU",
+        "5": "Iguassu Falls",
+        "6": -54.487222,
+        "7": -25.596111,
+        "10": "America/Sao_Paulo"
+      },
+      {
+        "1": "Cataratas del Iguazu, Argentina (IGR)",
+        "2": "airport",
+        "3": "IGR",
+        "4": "IGR",
+        "5": "Iguazu",
+        "6": -54.473333,
+        "7": -25.737222,
+        "10": "America/Argentina/Buenos_Aires"
+      }
+    ]
+  }
+}

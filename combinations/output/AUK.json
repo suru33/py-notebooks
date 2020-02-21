@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Alakanuk, AK (AUK)",
+        "2": "airport",
+        "3": "AUK",
+        "4": "AUK",
+        "5": "Alakanuk",
+        "6": -164.65083,
+        "7": 62.6788889,
+        "10": "America/Anchorage"
+      },
+      {
+        "1": "Auki Gwaunaru'u, Solomon Islands (AKS)",
+        "2": "airport",
+        "3": "AKS",
+        "4": "AKS",
+        "5": "Auki",
+        "6": 160.681944,
+        "7": -8.7025,
+        "10": "Pacific/Guadalcanal"
+      }
+    ]
+  }
+}

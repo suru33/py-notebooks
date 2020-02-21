@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Fergana International, Uzbekistan (FEG)",
+        "2": "airport",
+        "3": "FEG",
+        "4": "FEG",
+        "5": "Fergana",
+        "6": 71.7447222,
+        "7": 40.3613889,
+        "10": "Asia/Samarkand"
+      },
+      {
+        "1": "Fera Island, Solomon Islands (FRE)",
+        "2": "airport",
+        "3": "FRE",
+        "4": "FRE",
+        "5": "Fera Island",
+        "6": 159.577222,
+        "7": -8.1075,
+        "10": "Pacific/Guadalcanal"
+      },
+      {
+        "1": "Fernando de Noronha, Brazil (FEN)",
+        "2": "airport",
+        "3": "FEN",
+        "4": "FEN",
+        "5": "Fernando de Noronha",
+        "6": -32.423333,
+        "7": -3.855,
+        "10": "America/Noronha"
+      },
+      {
+        "1": "Budapest Liszt Ferenc International, Hungary (BUD)",
+        "2": "airport",
+        "3": "BUD",
+        "4": "BUD",
+        "5": "Budapest",
+        "6": 19.2555556,
+        "7": 47.4369444,
+        "10": "Europe/Budapest"
+      },
+      {
+        "1": "Alghero Fertilia, Italy (AHO)",
+        "2": "airport",
+        "3": "AHO",
+        "4": "AHO",
+        "5": "Alghero",
+        "6": 8.28972222,
+        "7": 40.6302778,
+        "10": "Europe/Rome"
+      },
+      {
+        "1": "Queretaro Intercontinental, Mexico (QRO)",
+        "2": "airport",
+        "3": "QRO",
+        "4": "QRO",
+        "5": "Queretaro",
+        "6": -100.18556,
+        "7": 20.6172222,
+        "10": "America/Cancun"
+      },
+      {
+        "1": "San Juan Fernando Luis Ribas Dominicci, PR (SIG)",
+        "2": "airport",
+        "3": "SIG",
+        "4": "SJU",
+        "5": "San Juan",
+        "6": -66.098056,
+        "7": 18.4569444,
+        "10": "America/St_Thomas"
+      }
+    ]
+  }
+}

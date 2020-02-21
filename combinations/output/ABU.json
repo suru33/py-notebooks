@@ -1,0 +1,76 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Atambua Haliwen, Indonesia (ABU)",
+        "2": "airport",
+        "3": "ABU",
+        "4": "ABU",
+        "5": "Atambua",
+        "6": 124.903889,
+        "7": -9.075,
+        "10": "Asia/Makassar"
+      },
+      {
+        "1": "Abu Dhabi, United Arab Emirates - All airports",
+        "2": "city",
+        "3": "AUH",
+        "4": "AUH",
+        "5": "Abu Dhabi",
+        "6": 54.61857818214031,
+        "7": 24.439338411017697,
+        "10": "Asia/Dubai"
+      },
+      {
+        "1": "Abu Dhabi International, United Arab Emirates (AUH)",
+        "2": "airport",
+        "3": "AUH",
+        "4": "AUH",
+        "5": "Abu Dhabi",
+        "6": 54.6511111,
+        "7": 24.4330556,
+        "10": "Asia/Dubai"
+      },
+      {
+        "1": "Abuja Nnamdi Azikiwe International, Nigeria (ABV)",
+        "2": "airport",
+        "3": "ABV",
+        "4": "ABV",
+        "5": "Abuja",
+        "6": 7.26305556,
+        "7": 9.00666667,
+        "10": "Africa/Lagos"
+      },
+      {
+        "1": "Abu Simbel, Egypt (ABS)",
+        "2": "airport",
+        "3": "ABS",
+        "4": "ABS",
+        "5": "Abu Simbel",
+        "6": 31.6116667,
+        "7": 22.3758333,
+        "10": "Africa/Cairo"
+      },
+      {
+        "1": "Abu Dhabi Yas Island SPB, United Arab Emirates (AYM)",
+        "2": "airport",
+        "3": "AYM",
+        "4": "AUH",
+        "5": "Abu Dhabi",
+        "6": 54.6097222,
+        "7": 24.4708333,
+        "10": "Asia/Dubai"
+      },
+      {
+        "1": "Abu Dhabi EK Bus Station, United Arab Emirates (ZVJ)",
+        "2": "bus",
+        "3": "ZVJ",
+        "4": "AUH",
+        "5": "Abu Dhabi",
+        "6": 54.33,
+        "7": 24.47,
+        "10": "Asia/Dubai"
+      }
+    ]
+  }
+}

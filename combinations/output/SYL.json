@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sylhet Osmani International, Bangladesh (ZYL)",
+        "2": "airport",
+        "3": "ZYL",
+        "4": "ZYL",
+        "5": "Sylhet",
+        "6": 91.8666667,
+        "7": 24.9633333,
+        "10": "Asia/Dhaka"
+      },
+      {
+        "1": "Westerland Sylt, Germany (GWT)",
+        "2": "airport",
+        "3": "GWT",
+        "4": "GWT",
+        "5": "Westerland",
+        "6": 8.34055556,
+        "7": 54.9133333,
+        "10": "Europe/Berlin"
+      }
+    ]
+  }
+}

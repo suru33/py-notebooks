@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Astana Nursultan Nazarbayev, Kazakhstan (TSE)",
+        "2": "airport",
+        "3": "TSE",
+        "4": "TSE",
+        "5": "Akmola",
+        "6": 71.4669444,
+        "7": 51.0230556,
+        "10": "Asia/Almaty"
+      },
+      {
+        "1": "Asturias, Spain (OVD)",
+        "2": "airport",
+        "3": "OVD",
+        "4": "OVD",
+        "5": "Asturias",
+        "6": -6.0347222,
+        "7": 43.5636111,
+        "10": "Europe/Madrid"
+      },
+      {
+        "1": "Astrakhan, Russia (ASF)",
+        "2": "airport",
+        "3": "ASF",
+        "4": "ASF",
+        "5": "Astrakhan",
+        "6": 48.0063889,
+        "7": 46.2833333,
+        "10": "Europe/Samara"
+      },
+      {
+        "1": "Astypalaia Island, Greece (JTY)",
+        "2": "airport",
+        "3": "JTY",
+        "4": "JTY",
+        "5": "Astypalaia Island",
+        "6": 26.3755556,
+        "7": 36.58,
+        "10": "Europe/Athens"
+      },
+      {
+        "1": "Cusco A.Velasco Astete International, Peru (CUZ)",
+        "2": "airport",
+        "3": "CUZ",
+        "4": "CUZ",
+        "5": "Cuzco",
+        "6": -71.938889,
+        "7": -13.535833,
+        "10": "America/Lima"
+      }
+    ]
+  }
+}

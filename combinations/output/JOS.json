@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Jos Yakubu Gowon, Nigeria (JOS)",
+        "2": "airport",
+        "3": "JOS",
+        "4": "JOS",
+        "5": "Jos",
+        "6": 8.87,
+        "7": 9.63972222,
+        "10": "Africa/Lagos"
+      },
+      {
+        "1": "Havana Jose Marti International, Cuba (HAV)",
+        "2": "airport",
+        "3": "HAV",
+        "4": "HAV",
+        "5": "Havana",
+        "6": -82.407778,
+        "7": 22.9902778,
+        "10": "America/Havana"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Alxa Left Banner, China (AXF)",
+        "2": "airport",
+        "3": "AXF",
+        "4": "AXF",
+        "5": "Alxa Left Banner",
+        "6": 105.626111,
+        "7": 38.8238889,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Alxa Right Banner, China (RHT)",
+        "2": "airport",
+        "3": "RHT",
+        "4": "RHT",
+        "5": "Alxa Right Banner",
+        "6": 101.644444,
+        "7": 39.2130556,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

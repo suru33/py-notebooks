@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Auki Gwaunaru'u, Solomon Islands (AKS)",
+        "2": "airport",
+        "3": "AKS",
+        "4": "AKS",
+        "5": "Auki",
+        "6": 160.681944,
+        "7": -8.7025,
+        "10": "Pacific/Guadalcanal"
+      },
+      {
+        "1": "Aksu, China (AKU)",
+        "2": "airport",
+        "3": "AKU",
+        "4": "AKU",
+        "5": "Aksu",
+        "6": 80.2919444,
+        "7": 41.2627778,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

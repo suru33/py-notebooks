@@ -1,0 +1,25 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Simferopol International, Ukraine (SIP)",
+        "2": "airport",
+        "3": "SIP",
+        "4": "SIP",
+        "5": "Simferopol",
+        "6": 33.9738889,
+        "7": 45.0522222
+      },
+      {
+        "1": "Siping Railway Station, China (OSQ)",
+        "2": "rail",
+        "3": "OSQ",
+        "4": "OSQ",
+        "5": "Siping",
+        "6": 124.368889,
+        "7": 43.1669444,
+        "10": "Asia/Shanghai"
+      }
+    ]
+  }
+}

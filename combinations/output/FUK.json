@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Fukuoka, Japan (FUK)",
+        "2": "airport",
+        "3": "FUK",
+        "4": "FUK",
+        "5": "Fukuoka",
+        "6": 130.450556,
+        "7": 33.5858333,
+        "10": "Asia/Tokyo"
+      },
+      {
+        "1": "Fukushima, Japan (FKS)",
+        "2": "airport",
+        "3": "FKS",
+        "4": "FKS",
+        "5": "Fukushima",
+        "6": 140.430556,
+        "7": 37.2275,
+        "10": "Asia/Tokyo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "The Bight New Bight, Bahamas (TBI)",
+        "2": "airport",
+        "3": "TBI",
+        "4": "TBI",
+        "5": "The Bight",
+        "6": -75.453611,
+        "7": 24.3155556,
+        "10": "America/Nassau"
+      },
+      {
+        "1": "Tbilisi International, Georgia (TBS)",
+        "2": "airport",
+        "3": "TBS",
+        "4": "TBS",
+        "5": "Tbilisi",
+        "6": 44.9547222,
+        "7": 41.6691667,
+        "10": "Asia/Tbilisi"
+      }
+    ]
+  }
+}

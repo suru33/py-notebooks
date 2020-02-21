@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Tawau, Malaysia (TWU)",
+        "2": "airport",
+        "3": "TWU",
+        "4": "TWU",
+        "5": "Tawau",
+        "6": 118.121944,
+        "7": 4.31333333,
+        "10": "Asia/Kuching"
+      },
+      {
+        "1": "Tawi Tawi Island Sanga-Sanga, Philippines (TWT)",
+        "2": "airport",
+        "3": "TWT",
+        "4": "TWT",
+        "5": "Tawitawi",
+        "6": 119.7425,
+        "7": 5.045,
+        "10": "Asia/Manila"
+      }
+    ]
+  }
+}

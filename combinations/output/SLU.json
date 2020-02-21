@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "St Lucia, Saint Lucia - All airports",
+        "2": "city",
+        "3": "SLU",
+        "4": "SLU",
+        "5": "St Lucia",
+        "6": -60.97079906141557,
+        "7": 13.862804032526928,
+        "10": "America/St_Lucia"
+      },
+      {
+        "1": "St Lucia George F.L. Charles, Saint Lucia (SLU)",
+        "2": "airport",
+        "3": "SLU",
+        "4": "SLU",
+        "5": "St Lucia",
+        "6": -60.993056,
+        "7": 14.0202778,
+        "10": "America/St_Lucia"
+      }
+    ]
+  }
+}

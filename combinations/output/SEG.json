@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Seghe, Solomon Islands (EGM)",
+        "2": "airport",
+        "3": "EGM",
+        "4": "EGM",
+        "5": "Sege",
+        "6": 157.875556,
+        "7": -8.5786111,
+        "10": "Pacific/Guadalcanal"
+      },
+      {
+        "1": "Segovia Guiomar Railway Station, Spain (XOU)",
+        "2": "rail",
+        "3": "XOU",
+        "4": "XOU",
+        "5": "Segovia",
+        "6": -4.0947222,
+        "7": 40.91,
+        "10": "Europe/Madrid"
+      }
+    ]
+  }
+}

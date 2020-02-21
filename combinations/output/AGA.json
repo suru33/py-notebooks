@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Agadir Al Massira, Morocco (AGA)",
+        "2": "airport",
+        "3": "AGA",
+        "4": "AGA",
+        "5": "Agadir",
+        "6": -9.4130556,
+        "7": 30.325,
+        "10": "Africa/Casablanca"
+      },
+      {
+        "1": "Agartala, India (IXA)",
+        "2": "airport",
+        "3": "IXA",
+        "4": "IXA",
+        "5": "Agartala",
+        "6": 91.2405556,
+        "7": 23.8869444,
+        "10": "Asia/Kolkata"
+      },
+      {
+        "1": "Agadez Manu Dayak International, Niger (AJY)",
+        "2": "airport",
+        "3": "AJY",
+        "4": "AJY",
+        "5": "Agades",
+        "6": 7.99027778,
+        "7": 16.9625,
+        "10": "Africa/Niamey"
+      },
+      {
+        "1": "Agatti Island, India (AGX)",
+        "2": "airport",
+        "3": "AGX",
+        "4": "AGX",
+        "5": "Agatti Island",
+        "6": 72.1761111,
+        "7": 10.8236111,
+        "10": "Asia/Kolkata"
+      }
+    ]
+  }
+}

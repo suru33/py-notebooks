@@ -1,0 +1,46 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Istanbul, Turkey - All airports",
+        "2": "city",
+        "3": "IST",
+        "4": "IST",
+        "5": "Istanbul",
+        "6": 28.961502420508456,
+        "7": 41.091640158847014,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Istanbul New, Turkey (IST)",
+        "2": "airport",
+        "3": "IST",
+        "4": "IST",
+        "5": "Istanbul",
+        "6": 28.7425,
+        "7": 41.2705556,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Istanbul Sabiha Gokcen, Turkey (SAW)",
+        "2": "airport",
+        "3": "SAW",
+        "4": "IST",
+        "5": "Istanbul",
+        "6": 29.3091667,
+        "7": 40.8986111,
+        "10": "Europe/Istanbul"
+      },
+      {
+        "1": "Istanbul Ataturk, Turkey (ISL)",
+        "2": "airport",
+        "3": "ISL",
+        "4": "IST",
+        "5": "Istanbul",
+        "6": 28.8147222,
+        "7": 40.9769444,
+        "10": "Europe/Istanbul"
+      }
+    ]
+  }
+}

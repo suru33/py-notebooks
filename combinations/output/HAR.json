@@ -1,0 +1,126 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Hartford/Springfield Bradley Int'l, CT (BDL)",
+        "2": "airport",
+        "3": "BDL",
+        "4": "HFD",
+        "5": "Hartford",
+        "6": -72.683333,
+        "7": 41.9388889,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Harbin Taiping International, China (HRB)",
+        "2": "airport",
+        "3": "HRB",
+        "4": "HRB",
+        "5": "Harbin",
+        "6": 126.250278,
+        "7": 45.6233333,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Harlingen Valley International, TX (HRL)",
+        "2": "airport",
+        "3": "HRL",
+        "4": "HRL",
+        "5": "Harlingen",
+        "6": -97.654444,
+        "7": 26.2286111,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Harrisburg International, PA (MDT)",
+        "2": "airport",
+        "3": "MDT",
+        "4": "HAR",
+        "5": "Harrisburg",
+        "6": -76.763333,
+        "7": 40.1936111,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Atlanta Hartsfield-Jackson International, GA (ATL)",
+        "2": "airport",
+        "3": "ATL",
+        "4": "ATL",
+        "5": "Atlanta",
+        "6": -84.428056,
+        "7": 33.6366667,
+        "10": "America/New_York"
+      },
+      {
+        "1": "Harare R.G. Mugabe International, Zimbabwe (HRE)",
+        "2": "airport",
+        "3": "HRE",
+        "4": "HRE",
+        "5": "Harare",
+        "6": 31.0927778,
+        "7": -17.931944,
+        "10": "Africa/Harare"
+      },
+      {
+        "1": "Hargeisa Egal International, Somalia (HGA)",
+        "2": "airport",
+        "3": "HGA",
+        "4": "HGA",
+        "5": "Hargeisa",
+        "6": 44.0838889,
+        "7": 9.51388889,
+        "10": "Africa/Mogadishu"
+      },
+      {
+        "1": "Harstad/Narvik Evenes, Norway (EVE)",
+        "2": "airport",
+        "3": "EVE",
+        "4": "EVE",
+        "5": "Harstad-Narvik",
+        "6": 16.6780556,
+        "7": 68.4913889,
+        "10": "Europe/Oslo"
+      },
+      {
+        "1": "Harrison Boone County, AR (HRO)",
+        "2": "airport",
+        "3": "HRO",
+        "4": "HRO",
+        "5": "Harrison",
+        "6": -93.154722,
+        "7": 36.2613889,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Harbinxi Railway Station, China (HBV)",
+        "2": "rail",
+        "3": "HBV",
+        "4": "HRB",
+        "5": "Harbin",
+        "6": 126.626944,
+        "7": 45.7594444,
+        "10": "Asia/Shanghai"
+      },
+      {
+        "1": "Sundsvall/Harnosand Sundsvall-Timra, Sweden (SDL)",
+        "2": "airport",
+        "3": "SDL",
+        "4": "SDL",
+        "5": "Sundsvall",
+        "6": 17.4438889,
+        "7": 62.5280556,
+        "10": "Europe/Stockholm"
+      },
+      {
+        "1": "Chester Hawarden, United Kingdom (CEG)",
+        "2": "airport",
+        "3": "CEG",
+        "4": "CEG",
+        "5": "Chester",
+        "6": -2.9777778,
+        "7": 53.1780556,
+        "10": "Europe/London"
+      }
+    ]
+  }
+}

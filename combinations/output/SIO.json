@@ -1,0 +1,56 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Sioux Falls Joe Foss Field, SD (FSD)",
+        "2": "airport",
+        "3": "FSD",
+        "4": "FSD",
+        "5": "Sioux Falls",
+        "6": -96.741944,
+        "7": 43.5819444,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Sioux Lookout, ON, Canada (YXL)",
+        "2": "airport",
+        "3": "YXL",
+        "4": "YXL",
+        "5": "Sioux Lookout",
+        "6": -91.905278,
+        "7": 50.1138889,
+        "10": "America/Rainy_River"
+      },
+      {
+        "1": "Sioux City Sioux Gateway, IA (SUX)",
+        "2": "airport",
+        "3": "SUX",
+        "4": "SUX",
+        "5": "Sioux City",
+        "6": -96.384444,
+        "7": 42.4025,
+        "10": "America/Chicago"
+      },
+      {
+        "1": "Sion, Switzerland (SIR)",
+        "2": "airport",
+        "3": "SIR",
+        "4": "SIR",
+        "5": "Sion",
+        "6": 7.34,
+        "7": 46.2225,
+        "10": "Europe/Zurich"
+      },
+      {
+        "1": "Siorapaluk Heliport, Greenland (SRK)",
+        "2": "helipad",
+        "3": "SRK",
+        "4": "SRK",
+        "5": "Siorapaluk",
+        "6": -70.638333,
+        "7": 77.7863889,
+        "10": "America/Godthab"
+      }
+    ]
+  }
+}

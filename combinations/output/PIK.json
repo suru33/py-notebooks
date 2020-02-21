@@ -1,0 +1,26 @@
+{
+  "result": {
+    "1": [
+      {
+        "1": "Glasgow Prestwick, United Kingdom (PIK)",
+        "2": "airport",
+        "3": "PIK",
+        "4": "GLA",
+        "5": "Glasgow",
+        "6": -4.5866667,
+        "7": 55.5094444,
+        "10": "Europe/London"
+      },
+      {
+        "1": "Pikangikum, ON, Canada (YPM)",
+        "2": "airport",
+        "3": "YPM",
+        "4": "YPM",
+        "5": "Pikangikum",
+        "6": -93.973056,
+        "7": 51.8197222,
+        "10": "America/Rainy_River"
+      }
+    ]
+  }
+}
